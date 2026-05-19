@@ -1,0 +1,310 @@
+﻿Mã,Tên bệnh
+X93,Tấn công bằng đạn súng tay
+X94,"Tấn công bằng súng trường, súng ngắn và súng lớn hơn"
+X95,Tấn công bằng súng khác và không rõ đặc điểm
+X96,Tấn công bằng chất nổ
+X97,"Tấn công bằng khói, cháy và lửa "
+X98,"Tấn công bằng hơi nước, hơi nước nóng và vật nóng"
+X99,"Tấn công bằng vật nhọn, sắc"
+X00,Phơi nhiễm cháy không kiểm soát được ở tòa nhà hay cấu trúc
+X01,Phơi nhiễm cháy không kiểm soát được không phải từ nhà hay cấu trúc
+X02,Phơi nhiễm cháy nhà hay cấu trúc kiểm soát được
+X03,Phơi nhiễm cháy kiểm soát được nhưng không phải ở nhà hay cấu trúc
+X04,Phơi nhiễm của vật rất dễ cháy
+X05,Phơi nhiễm quần áo ngủ cháy hay nóng chảy
+X06,Phơi nhiễm áo quần hay dụng cụ bốc cháy hay nóng chảy
+X08,"Phơi nhiễm khói, cháy và lửa rõ đặc điểm khác"
+X09,"Phơi nhiễm khói, cháy và lửa không rõ đặc điểm"
+X10,"Tiếp xúc với đồ uống, thức ăn, mỡ và dầu ăn nóng"
+X11,Tiếp xúc với nước máy nóng
+X12,Tiếp xúc với chất lỏng nóng khác
+X13,Tiếp xúc với hơi nước sôi và hơi nước nóng
+X14,"Tiếp xúc với không khí nóng, chất hơi nóng"
+X15,Tiếp xúc với vật dụng trong nhà nóng
+X16,"Tiếp xúc với dụng cụ làm nóng, lò sưởi, ống dẫn"
+X17,"Tiếp xúc với máy, dụng cụ nóng"
+X18,Tiếp xúc với kim loại nóng khác
+X19,Tiếp xúc với các vật làm nóng và chất nóng khác không rõ đặc điểm
+X20,Tiếp xúc với rắn độc và thằn lằn độc
+X21,Tiếp xúc với nhện độc
+X22,Tiếp xúc với bọ cạp
+X23,Tiếp xúc với các loại ong
+X24,Tiếp xúc với các loại rết
+X25,"Tiếp xúc với loại tiết túc có nọc độc, biết rõ đặc điểm"
+X26,Tiếp xúc với xúc vật và cây độc dưới nước
+X27,"Tiếp xúc với xúc vật có nọc độc khác, biết rõ đặc điểm"
+X28,Tiếp xúc với các cây độc khác biết rõ đặc điểm
+X29,Tiếp xúc với xúc vật hay cây độc không rõ đặc điểm
+X30,Phơi nhiễm nhiệt thiên nhiên quá mức
+X31,Phơi nhiễm lạnh thiên nhiên quá mức
+X32,Phơi nhiễm nắng
+X33,Nạn nhân của chớp
+X34,Nạn nhân động đất
+X34.0,Nạn nhân chuyển động lớn của đất do động đất gây ra
+X34.1,Nạn nhân sóng thần
+X34.8,Nạn nhân các ảnh hưởng của động đất xác định khác
+X34.9,Nạn nhân ảnh hưởng của động đất không xác định
+X35,Nạn nhân núi lửa phun
+X36,"Nạn nhân tuyết lở, đất trượt, hoặc các chuyển động khác của đất"
+X37,Nạn nhân của bão lớn
+X38,Nạn nhân của lụt
+X39,Phơi nhiễm các lực thiên nhiên khác không rõ đặc điểm
+X40,"Tai nạn ngộ độc do phơi nhiễm với thuốc giảm đau không có thuốc phiện, hạ nhiệt và chống thấp khớp"
+X41,"Tai nạn ngộ độc do phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson, tâm thần không được xếp loại ở nơi khác"
+X42,Tai nạn ngộ độc do phơi nhiễm thuốc ngủ và thuốc hưng thần (sinh hoang tưởng) không được xếp loại nơi khác
+X43,Tai nạn ngộ độc do phơi nhiễm thuốc khác tác động lên hệ thống thần kinh tự động
+X44,Tai nạn ngộ độc do phơi nhiễm các thuốc và sinh chất không rõ đặc điểm
+X45,Tai nạn ngộ độc và phơi nhiễm rượu
+X46,Tai nạn ngộ do và phơi nhiễm dung môi hữu cơ và hydrat carbon halogen và các hơi của chúng
+X47,Tai nạn ngộ độc bởi và phơi nhiễm các khí và hơi khác
+X48,Vô tình ngộ độc do và tiếp xúc với thuốc trừ sâu
+X49,Tai nạn ngộ độc bởi và phơi nhiễm các chất hóa học và chất có hại khác không rõ đặc điểm
+X50,"Cố gắng quá mức, và những động tác nặng nhọc hoặc lặp đi lặp lại"
+X51,Du lịch và vận động
+X52,Ở lâu trong môi trường không trọng lượng
+X53,Thiếu thức ăn
+X54,Thiếu nước
+X57,Thiếu thốn không rõ đặc điểm
+X58,Phơi nhiễm các yếu tố khác có biết đặc điểm
+X59,Phơi nhiễm các yếu tố không rõ đặc điểm
+X59.0,Phơi nhiễm với yếu tố không rõ đặc điểm gây gãy xương
+X59.9,Phơi nhiễm với yếu tố không rõ đặc điểm và tổn thương không xác định
+X60,Cố ý tự đầu độc bằng và phơi nhiễm chất giảm đau hạ sốt và chống thấp khớp không có thuốc phiện
+X61,"Cố tình tự đầu độc bằng và phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson và thuốc tâm thần, không được xếp loại ở nơi khác"
+X62,Cố tình tự đầu độc bằng và phơi nhiễm thuốc mê và hưng phấn tâm thần (gây hoang tưởng) không xếp loại ở chỗ khác
+X63,Cố tình tự đầu độc bằng và phơi nhiễm các thuốc khác tác dụng lên hệ thống thần kinh tự động
+X64,Cố tình tự đầu độc bằng và phơi nhiễm các thuốc và sinh chất không rõ đặc điểm khác
+X65,"Cố tình tự đầu độc bằng và phơi nhiễm dung môi hữu cơ,hydrocacbon halogen và hơi của chúng"
+X66,"Cố tình tự đầu độc bằng và phơi nhiễm dung môi hữu cơ,hydrocacbon halogen và hơi của chúng"
+X67,Cố tình tự đầu độc bằng và phơi nhiễm các khí và hơi khác
+X68,Cố tình tự đầu độc bằng và phơi nhiễm chất diệt súc vật
+X69,Cố tình tự đầu độc bằng và phơi nhiễm các hóa chất và chất có hại khác không rõ đặc điểm
+X70,"Cố tình tự hại bằng treo, làm nghẹt và ngạt thở "
+X71,"Cố tình tự hại bằng nhảy xuống nước, trầm mình dưới nước"
+X72,Cố tình tự hại bằng đạn súng ngắn
+X73,"Cố tình tự hại bằng súng trường, súng dài hơn"
+X74,Cố tình tự hại bằng súng khác không rõ đặc điểm
+X75,Cố tình tự hại bằng chất nổ
+X76,"Cố tình tự hại bằng khói, cháy và lửa"
+X77,"Cố tình tự hại bằng hơi nước, hơi nóng và vật nóng"
+X78,Cố tình tự hại bằng vật nhọn
+X79,Cố tình tự hại bằng vật tầy 
+X80,Cố tình tự hại bằng nhảy từ 1 chỗcao
+X81,Cố tình tự hại bằng nhẩy hay nằm ra trước vật đang chuyển động
+X82,Cố tình tự hại bằng đâm xe động cơ
+X83,Cố tình tự hại bằng các phương tiện khác có biết đặc điểm
+X84,Cố tình tự hại bằng các phương tiện không rõ đặc điểm
+X85,"Tấn công bằng thuốc, dược chất và chất sinh học"
+X86,Tấn công bằng chất ăn da
+X87,Tấn công bằng chất diệt súc vật
+X88,Tấn công bằng khí và hơi nước
+X89,Tấn công bằng hóa chất hay chất có hại khác biết rõ đặc điểm
+X90,Tấn công bằng hóa chất hay chất có hại không rõ đặc điểm
+X91,"Tấn công bằng treo, làm nghẹt, ngạt thở"
+X92,"Tấn công bằng bỏ xuống nước, làm ngập nước"
+X00,Phơi nhiễm cháy không kiểm soát được ở tòa nhà hay cấu trúc
+X01,Phơi nhiễm cháy không kiểm soát được không phải từ nhà hay cấu trúc
+X03,Phơi nhiễm cháy kiểm soát được nhưng không phải ở nhà hay cấu trúc
+X04,Phơi nhiễm của vật rất dễ cháy
+X05,Phơi nhiễm quần áo ngủ cháy hay nóng chảy
+X06,Phơi nhiễm áo quần hay dụng cụ bốc cháy hay nóng chảy
+X08,"Phơi nhiễm khói, cháy và lửa rõ đặc điểm khác"
+X10,"Tiếp xúc với đồ uống, thức ăn, mỡ và dầu ăn nóng"
+X11,Tiếp xúc với nước máy nóng
+X12,Tiếp xúc với chất lỏng nóng khác
+X13,Tiếp xúc với hơi nước sôi và hơi nước nóng
+X14,"Tiếp xúc với không khí nóng, chất hơi nóng"
+X16,"Tiếp xúc với dụng cụ làm nóng, lò sưởi, ống dẫn"
+X17,"Tiếp xúc với máy, dụng cụ nóng"
+X18,Tiếp xúc với kim loại nóng khác
+X19,Tiếp xúc với các vật làm nóng và chất nóng khác không rõ đặc điểm
+X21,Tiếp xúc với nhện độc
+X22,Tiếp xúc với bọ cạp
+X23,Tiếp xúc với các loại ong
+X24,Tiếp xúc với các loại rết
+X26,Tiếp xúc với xúc vật và cây độc dưới nước
+X27,"Tiếp xúc với xúc vật có nọc độc khác, biết rõ đặc điểm"
+X28,Tiếp xúc với các cây độc khác biết rõ đặc điểm
+X29,Tiếp xúc với xúc vật hay cây độc không rõ đặc điểm
+X81,Cố tình tự hại bằng nhẩy hay nằm ra trước vật đang chuyển động
+X82,Cố tình tự hại bằng đâm xe động cơ
+X84,Cố tình tự hại bằng các phương tiện không rõ đặc điểm
+X85,"Tấn công bằng thuốc, dược chất và chất sinh học"
+X86,Tấn công bằng chất ăn da
+X87,Tấn công bằng chất diệt súc vật
+X88,Tấn công bằng khí và hơi nước
+X90,Tấn công bằng hóa chất hay chất có hại không rõ đặc điểm
+X91,"Tấn công bằng treo, làm nghẹt, ngạt thở"
+X92,"Tấn công bằng bỏ xuống nước, làm ngập nước"
+X93,Tấn công bằng đạn súng tay
+X94,"Tấn công bằng súng trường, súng ngắn và súng lớn hơn"
+X95,Tấn công bằng súng khác và không rõ đặc điểm
+X96,Tấn công bằng chất nổ
+X98,"Tấn công bằng hơi nước, hơi nước nóng và vật nóng"
+X99,"Tấn công bằng vật nhọn, sắc"
+X30,Phơi nhiễm nhiệt thiên nhiên quá mức
+X31,Phơi nhiễm lạnh thiên nhiên quá mức
+X33,Nạn nhân của chớp
+X34,Nạn nhân động đất
+X36,"Nạn nhân tuyết lở, đất trượt, hoặc các chuyển động khác của đất"
+X37,Nạn nhân của bão lớn
+X38,Nạn nhân của lụt
+X40,"Tai nạn ngộ độc do phơi nhiễm với thuốc giảm đau không có thuốc phiện, hạ nhiệt và chống thấp khớp"
+X41,"Tai nạn ngộ độc do phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson, tâm thần không được xếp loại ở nơi khác"
+X42,Tai nạn ngộ độc do phơi nhiễm thuốc ngủ và thuốc hưng thần (sinh hoang tưởng) không được xếp loại nơi khác
+X43,Tai nạn ngộ độc do phơi nhiễm thuốc khác tác động lên hệ thống thần kinh tự động
+X44,Tai nạn ngộ độc do phơi nhiễm các thuốc và sinh chất không rõ đặc điểm
+X45,Tai nạn ngộ độc và phơi nhiễm rượu
+X47,Tai nạn ngộ độc bởi và phơi nhiễm các khí và hơi khác
+X48,Tai nạn ngộ độc bởi và phơi nhiễm chất diệt xúc vật có hại
+X49,Tai nạn ngộ độc bởi và phơi nhiễm các chất hóa học và chất có hại khác không rõ đặc điểm
+X50,"Cố gắng quá mức, và những động tác nặng nhọc hoặc lặp đi lặp lại"
+X51,Du lịch và vận động
+X52,Ở lâu trong môi trường không trọng lượng
+X53,Thiếu thức ăn
+X54,Thiếu nước
+X57,Thiếu thốn không rõ đặc điểm
+X59,Phơi nhiễm các yếu tố không rõ đặc điểm
+X60,Cố ý tự đầu độc (tự tử) bằng và phơi nhiễm chất giảm đau hạ sốt và chống thấp khớp không có thuốc phiện
+X61,"Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson và thuốc tâm thần, không được xếp loại ở nơi khác"
+X62,Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm thuốc mê và hưng phấn tâm thần (gây hoang tưởng) không xếp loại ở chỗ khác
+X64,Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm các thuốc và sinh chất không rõ đặc điểm khác
+X65,"Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm dung môi hữu cơ,hydrocacbon halogen và hơi của chúng"
+X66,"Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm dung môi hữu cơ,hydrocacbon halogen và hơi của chúng"
+X67,Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm các khí và hơi khác
+X68,Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm chất diệt súc vật
+X69,Cố tình tự đầu độc (tự tử) bằng và phơi nhiễm các hóa chất và chất có hại khác không rõ đặc điểm
+X70,"Cố tình tự hại (tự tử) bằng treo, làm nghẹt và ngạt thở"
+X71,"Cố tình tự hại (tự tử) bằng nhảy xuống nước, trầm mình dưới nước"
+X72,Cố tình tự hại (tự tử) bằng đạn súng ngắn
+X73,"Cố tình tự hại bằng súng trường, súng dài hơn"
+X74,Cố tình tự hại bằng súng khác không rõ đặc điểm
+X76,"Cố tình tự hại bằng khói, cháy và lửa"
+X78,Cố tình tự hại bằng vật nhọn
+X79,Cố tình tự hại bằng vật tầy
+X80,Cố tình tự hại bằng nhảy từ 1 chỗcao
+X77,"Cố tình tự hại bằng hơi nước, hơi nóng và vật nóng"
+X34.0,Nạn nhân chuyển động lớn của đất do động đất gây ra
+X34.1,Nạn nhân sóng thần
+X34.8,Nạn nhân các ảnh hưởng của động đất xác định khác
+X34.9,Nạn nhân ảnh hưởng của động đất không xác định
+X59.0,Phơi nhiễm với yếu tố không rõ đặc điểm gây gẫy xương
+X59.9,Phơi nhiễm với yếu tố không rõ đặc điểm và tổn thương không xác định
+X02,Phơi nhiễm cháy nhà hay cấu trúc kiểm soát được
+X09,"Phơi nhiễm khói, cháy và lửa không rõ đặc điểm"
+X15,Tiếp xúc với vật dụng trong nhà nóng
+X20,Tiếp xúc với rắn độc và thằn lằn độc
+X25,"Tiếp xúc với loại tiết túc có nọc độc, biết rõ đặc điểm"
+X83,Cố tình tự hại bằng các phương tiện khác có biết đặc điểm
+X89,Tấn công bằng hóa chất hay chất có hại khác biết rõ đặc điểm
+X97,"Tấn công bằng khói, cháy và lửa"
+X32,Phơi nhiễm nắng
+X35,Nạn nhân núi lửa phun
+X39,Phơi nhiễm các lực thiên nhiên khác không rõ đặc điểm
+X46,Tai nạn ngộ do và phơi nhiễm dung môi hữu cơ và hydrat carbon halogen và các hơi của chúng
+X58,Phơi nhiễm các yếu tố khác có biết đặc điểm
+X63,Cố tình tự đầu độc(tự tử) bằng và phơi nhiễm các thuốc khác tác dụng lên hệ thống thần kinh tự động
+X75,Cố tình tự (tự tử) hại bằng chất nổ
+X10,"Tiếp xúc với đồ uống, thức ăn, mỡ và dầu ăn nóng"
+X11,Tiếp xúc với nước máy nóng
+X12,Tiếp xúc với chất lỏng nóng khác
+X13,Tiếp xúc với hơi nước sôi và hơi nước nóng
+X14,"Tiếp xúc với không khí nóng, chất hơi nóng"
+X15,Tiếp xúc với vật dụng trong nhà nóng
+X16,"Tiếp xúc với dụng cụ làm nóng, lò sưởi, ống dẫn"
+X17,"Tiếp xúc với máy, dụng cụ nóng"
+X18,Tiếp xúc với kim loại nóng khác
+X19,Tiếp xúc với các vật làm nóng và chất nóng khác không rõ đặc điểm
+X20,Tiếp xúc với rắn độc và thằn lằn độc
+X21,Tiếp xúc với nhện độc
+X22,Tiếp xúc với bọ cạp
+X23,Tiếp xúc với các loại ong
+X24,Tiếp xúc với các loại rết
+X25,"Tiếp xúc với loại tiết túc có nọc độc, biết rõ đặc điểm"
+X26,Tiếp xúc với xúc vật và cây độc dưới nước
+X27,"Tiếp xúc với xúc vật có nọc độc khác, biết rõ đặc điểm"
+X28,Tiếp xúc với các cây độc khác biết rõ đặc điểm
+X29,Tiếp xúc với xúc vật hay cây độc không rõ đặc điểm
+X30,Phơi nhiễm nhiệt thiên nhiên quá mức
+X31,Phơi nhiễm lạnh thiên nhiên quá mức
+X32,Phơi nhiễm nắng
+X33,Nạn nhân của chớp
+X34,Nạn nhân động đất
+X34.0,Nạn nhân chuyển động lớn của đất do động đất gây ra
+X34.1,Nạn nhân sóng thần
+X34.8,Nạn nhân các ảnh hưởng của động đất xác định khác
+X34.9,Nạn nhân ảnh hưởng của động đất không xác định
+X35,Nạn nhân núi lửa phun
+X36,"Nạn nhân tuyết lở, đất trượt, hoặc các chuyển động khác của đất"
+X37,Nạn nhân của bão lớn
+X38,Nạn nhân của lụt
+X39,Phơi nhiễm các lực thiên nhiên khác không rõ đặc điểm
+X40,"Tai nạn ngộ độc do phơi nhiễm với thuốc giảm đau không có thuốc phiện, hạ nhiệt và chống thấp khớp"
+X41,"Tai nạn ngộ độc do phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson, tâm thần không được xếp loại ở nơi khác"
+X42,Tai nạn ngộ độc do phơi nhiễm thuốc ngủ và thuốc hưng thần (sinh hoang tưởng) không được xếp loại nơi khác
+X43,Tai nạn ngộ độc do phơi nhiễm thuốc khác tác động lên hệ thống thần kinh tự động
+X44,Tai nạn ngộ độc do phơi nhiễm các thuốc và sinh chất không rõ đặc điểm
+X45,Tai nạn ngộ độc và phơi nhiễm rượu
+X46,Tai nạn ngộ do và phơi nhiễm dung môi hữu cơ và hydrat carbon halogen và các hơi của chúng
+X47,Tai nạn ngộ độc bởi và phơi nhiễm các khí và hơi khác
+X48,Tai nạn ngộ độc bởi và phơi nhiễm chất diệt xúc vật có hại
+X49,Tai nạn ngộ độc bởi và phơi nhiễm các chất hóa học và chất có hại khác không rõ đặc điểm
+X50,"Cố gắng quá mức, và những động tác nặng nhọc hoặc lặp đi lặp lại"
+X51,Du lịch và vận động
+X52,Ở lâu trong môi trường không trọng lượng
+X53,Thiếu thức ăn
+X54,Thiếu nước
+X57,Thiếu thốn không rõ đặc điểm
+X58,Phơi nhiễm các yếu tố khác có biết đặc điểm
+X59,Phơi nhiễm các yếu tố không rõ đặc điểm
+X59.0,Phơi nhiễm với yếu tố không rõ đặc điểm gây gẫy xương
+X59.9,Phơi nhiễm với yếu tố không rõ đặc điểm và tổn thương không xác định
+X60,Cố ý tự đầu độc bằng và phơi nhiễm chất giảm đau hạ sốt và chống thấp khớp không có thuốc phiện
+X61,"Cố tình tự đầu độc bằng và phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson và thuốc tâm thần, không được xếp loại ở nơi khác"
+X62,Cố tình tự đầu độc bằng và phơi nhiễm thuốc mê và hưng phấn tâm thần (gây hoang tưởng) không xếp loại ở chỗ khác
+X63,Cố tình tự đầu độc bằng và phơi nhiễm các thuốc khác tác dụng lên hệ thống thần kinh tự động
+X64,Cố tình tự đầu độc bằng và phơi nhiễm các thuốc và sinh chất không rõ đặc điểm khác
+X65,"Cố tình tự đầu độc bằng và phơi nhiễm dung môi hữu cơ,hydrocacbon halogen và hơi của chúng"
+X66,"Cố tình tự đầu độc bằng và phơi nhiễm dung môi hữu cơ,hydrocacbon halogen và hơi của chúng"
+X67,Cố tình tự đầu độc bằng và phơi nhiễm các khí và hơi khác
+X68,Cố tình tự đầu độc bằng và phơi nhiễm chất diệt súc vật
+X69,Cố tình tự đầu độc bằng và phơi nhiễm các hóa chất và chất có hại khác không rõ đặc điểm
+X70,"Cố tình tự hại bằng treo, làm nghẹt và ngạt thở "
+X71,"Cố tình tự hại bằng nhảy xuống nước, trầm mình dưới nước"
+X72,Cố tình tự hại bằng đạn súng ngắn
+X73,"Cố tình tự hại bằng súng trường, súng dài hơn"
+X74,Cố tình tự hại bằng súng khác không rõ đặc điểm
+X75,Cố tình tự hại bằng chất nổ
+X76,"Cố tình tự hại bằng khói, cháy và lửa"
+X77,"Cố tình tự hại bằng hơi nước, hơi nóng và vật nóng"
+X78,Cố tình tự hại bằng vật nhọn
+X79,Cố tình tự hại bằng vật tầy 
+X80,Cố tình tự hại bằng nhảy từ 1 chỗcao
+X81,Cố tình tự hại bằng nhẩy hay nằm ra trước vật đang chuyển động
+X82,Cố tình tự hại bằng đâm xe động cơ
+X83,Cố tình tự hại bằng các phương tiện khác có biết đặc điểm
+X84,Cố tình tự hại bằng các phương tiện không rõ đặc điểm
+X85,"Tấn công bằng thuốc, dược chất và chất sinh học"
+X86,Tấn công bằng chất ăn da
+X87,Tấn công bằng chất diệt súc vật
+X88,Tấn công bằng khí và hơi nước
+X89,Tấn công bằng hóa chất hay chất có hại khác biết rõ đặc điểm
+X90,Tấn công bằng hóa chất hay chất có hại không rõ đặc điểm
+X91,"Tấn công bằng treo, làm nghẹt, ngạt thở"
+X92,"Tấn công bằng bỏ xuống nước, làm ngập nước"
+X93,Tấn công bằng đạn súng tay
+X94,"Tấn công bằng súng trường, súng ngắn và súng lớn hơn"
+X95,Tấn công bằng súng khác và không rõ đặc điểm
+X96,Tấn công bằng chất nổ
+X97,"Tấn công bằng khói, cháy và lửa "
+X98,"Tấn công bằng hơi nước, hơi nước nóng và vật nóng"
+X99,"Tấn công bằng vật nhọn, sắc"
+X00,Phơi nhiễm cháy không kiểm soát được ở tòa nhà hay cấu trúc
+X01,Phơi nhiễm cháy không kiểm soát được không phải từ nhà hay cấu trúc
+X02,Phơi nhiễm cháy nhà hay cấu trúc kiểm soát được
+X03,Phơi nhiễm cháy kiểm soát được nhưng không phải ở nhà hay cấu trúc
+X04,Phơi nhiễm của vật rất dễ cháy
+X05,Phơi nhiễm quần áo ngủ cháy hay nóng chảy
+X06,Phơi nhiễm áo quần hay dụng cụ bốc cháy hay nóng chảy
+X08,"Phơi nhiễm khói, cháy và lửa rõ đặc điểm khác"
+X09,"Phơi nhiễm khói, cháy và lửa không rõ đặc điểm"

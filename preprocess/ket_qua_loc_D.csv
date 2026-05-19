@@ -1,0 +1,1598 @@
+﻿Mã,Tên bệnh
+D69.2,Ban xuất huyết không giảm tiểu cầu khác
+D69.3,Ban xuất huyết giảm tiểu cầu vô căn
+D69.4,Giảm tiểu cầu tiên phát khác
+D69.5,Giảm tiểu cầu thứ phát
+D69.8,Các tình trạng xuất huyết đặc hiệu khác
+D69.9,Tình trạng xuất huyết không đặc hiệu
+D70,Tình trạng không có bạch cầu hạt
+D72,Các rối loạn khác của bạch cầu
+D72.0,Bất thường di truyền của bạch cầu
+D72.1,Tình trạng tăng bạch cầu ưa acid
+D17.4,U mỡ lành tính của cơ quan trong lồng ngực
+D72.8,Các rối loạn đặc hiệu khác của bạch cầu
+D73,Bệnh lý lách
+D73.0,Thiểu năng lách
+D73.1,Cường lách
+D73.2,Lách to sung huyết mãn tính
+D73.4,Nang lách
+D73.5,Nhồi máu lách
+D73.9,Bệnh lách không đặc hiệu
+D17.5,U mỡ lành tính của cơ quan trong ổ bụng
+D17.6,U mỡ lành tính của thừng tinh
+D17.9,U mỡ lành tính không xác định
+D18,"U mạch máu và u hạch bạch huyết, vị trí bất kỳ"
+D18.0,"U mạch máu, vị trí bất kỳ"
+D18.1,"U mạch bạch huyết, vị trí bất kỳ"
+D19.0,U lành trung mô của màng phổi
+D19.1,U lành trung mô của phúc mạc
+D19.7,U lành trung mô của các vị trí khác
+D20,U lành mô mềm sau phúc mạc và phúc mạc
+D20.0,U lành mô mềm sau phúc mạc
+D20.1,U lành mô mềm phúc mạc
+D21,U lành khác của mô liên kết và mô mềm khác
+D21.1,U lành mô liên kết và mô mềm khác của chi trên bao gồm vai
+D21.2,"U lành mô liên kết và mô mềm khác của chi dưới, bào gồm háng"
+D21.3,U lành mô liên kết và mô mềm khác của lồng ngực
+D21.4,U lành mô liên kết và mô mềm khác của bụng
+D21.5,U lành mô liên kết và mô mềm khác của chậu
+D21.6,"U lành mô liên kết và mô mềm khác của thân mình, không xác định"
+D22,Nốt ruồi
+D22.0,Nốt ruồi của môi
+D22.1,Nốt ruồi của khoé mắt bao gồm mí mắt
+D22.2,Nốt ruồi của tai và ống tai ngoài
+D22.3,Nốt ruồi của phần khác và phần không xác định của mặt
+D22.5,Nốt ruồi của thân mình
+D22.6,Nốt ruồi của chi trên bao gồm vai
+D22.7,Nốt ruồi của chi dưới bao gồm háng
+D23,U lành khác của da
+D23.0,U lành da của môi
+D23.1,U lành da của mi mắt kể cả góc mắt
+D23.2,U lành da tai và ống tai ngoài
+D23.4,U lành da đầu và cổ
+D23.5,U lành da thân mình
+D23.6,"U lành da chi trên, bao gồm vai"
+D23.7,U lành da chi dưới bao gồm háng
+D23.9,"U lành của da, không xác định"
+D24,U lành vú
+D86.1,Bệnh sarcoid hạch bạch huyết
+D74,methemoglobin máu
+D74.0,methemoglobin máu bẩm sinh
+D74.8,methaemoglobin máu khác
+D74.9,Methaemoglobin máu không đặc hiệu
+D75,Các bệnh máu và cơ quan tạo máu khác
+D75.0,Tăng hồng cầu gia đình
+D75.2,Tăng tiểu cầu tiền phát
+D75.8,Các bệnh đặc hiệu khác của máu và cơ quan tạo máu
+D75.9,Bệnh của máu và cơ quan tạo máu không xác định
+D76.0,"Bệnh tổ chức bào tế bào langerhans, chưa được phân loại ở phần khác"
+D76.1,Bệnh tổ chức bào thực bào đơn nhân
+D76.3,Các hội chứng mô bào khác
+D77*,Rối loạn của máu và cơ quan tạo máu trong các bệnh khác
+D80,Thiếu hụt miễn dịch chủ yếu do bất thường kháng thể
+D80.0,Giảm gammaglobulin máu di truyền
+D80.1,Giảm gammaglobulin máu không có yếu tố gia đình
+D80.2,Thiếu hụt immunoglobulin A IgA chọn lọc
+D80.3,Thiếu hụt immunoglobulin A IgA chọn lọc
+D80.4,Thiếu hụt immunoglobulin M [IgM] chọn lọc
+D25.1,U cơ trơn trong vách tử cung
+D25.2,U cơ trơn dưới thanh mạc tử cung
+D25.9,"U cơ trơn tử cung, không xác định"
+D26.0,U lành cổ tử cung
+D26.1,U lành thân tử cung
+D26.7,U lành phần khác của tử cung
+D27,U lành buồng trứng
+D28,U lành của cơ quan sinh dục khác và không xác định
+D28.0,U lành âm hộ
+D28.2,U lành vòi tử cung và dây chằng
+D28.7,U lành cơ quan sinh dục nữ xác định khác
+D29,U lành của cơ quan sinh dục nam
+D29.0,Dương vật
+D29.1,Tuyến tiền liệt
+D29.2,Tinh hoàn
+D29.3,Mào tinh hoàn
+D29.7,Cơ quan sinh dục nam khác
+D29.9,"Cơ quan sinh dục nam, không xác định"
+D30.0,Thận
+D30.1,Bồn thận
+D30.2,Niệu quản
+D30.4,Niệu đạo
+D30.7,Cơ quan tiết niệu khác
+D40.0,U tân sinh không chắc chắn hoặc không biết tính chất của Tiền liệt tuyến
+D40.1,U tân sinh không chắc chắn hoặc không biết tính chất của Tinh hoàn
+D40.7,U tân sinh không chắc chắn hoặc không biết tính chất của Các cơ quan sinh dục nam khác
+D40.9,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan sinh dục nam không xác định
+D41,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan tiết niệu
+D41.0,U tân sinh không chắc chắn hoặc không biết tính chất của Thận
+D41.1,U tân sinh không chắc chắn hoặc không biết tính chất của Bể thận
+D41.2,U tân sinh không chắc chắn hoặc không biết tính chất của Niệu quản
+D41.3,U tân sinh không chắc chắn hoặc không biết tính chất của Niệu đạo
+D41.4,U tân sinh không chắc chắn hoặc không biết tính chất của Bàng quang
+D41.7,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu khác
+D25,U cơ trơn tử cung
+D25.0,U cơ trơn dưới miêm mạc tử cung
+D41.9,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu không xác định
+D42,U tân sinh không chắc chắn hoặc không biết tính chất của màng não
+D42.9,"U tân sinh không chắc chắn hoặc không biết tính chất của Màng não, không xác định"
+D43,U tân sinh không chắc chắn hoặc không biết tính chất của màng não
+D43.1,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, dưới lều não"
+D43.2,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, không xác định"
+D43.3,U tân sinh không chắc chắn hoặc không biết tính chất của Thần kinh sọ
+D43.4,U tân sinh không chắc chắn hoặc không biết tính chất của tủy sống
+D43.7,U tân sinh không chắc chắn hoặc không biết tính chất của Phần khác của hệ thần kinh trung ương
+D44.0,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến giáp
+D44.1,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến thượng thận
+D44.2,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến cận giáp
+D44.4,U tân sinh không chắc chắn hoặc không biết tính chất của Ống sọ-hầu
+D44.6,U tân sinh không chắc chắn hoặc không biết tính chất của Thể cảnh
+D44.7,U tân sinh không chắc chắn hoặc không biết tính chất của Thể động mạch chủ và thể cận hạch khác
+D44.9,U lành của tuyến nội tiết không xác định
+D45,Bệnh tăng hồng cầu vô căn
+D46,Hội chứng loạn sản tủy xương
+D46.0,"Thiếu máu kháng điều trị không có nguyên hồng cầu sắc hình vòng, được xác lập như vậy"
+D46.1,Thiếu máu kháng điều trị có nguyên hồng cầu hình vòng
+D46.2,Thiếu máu đề kháng với quá nhiều nguyên bào
+D46.3,Thiếu máu đề kháng với quá nhiều nguyên bào chuyển dạng
+D46.4,"Thiếu máu đề kháng, không xác định"
+D46.7,Hội chứng loạn sản tủy xương khác
+D46.9,Hội chứng loạn tủy xương không đặc hiệu
+D47.0,Bệnh dưỡng bào hệ thống không triệu chứng
+D47.2,Bệnh lý gamma globulin đơn dòng chưa xác định ý nghĩa
+D47.3,Bệnh tăng tiểu cầu (xuất huyết) vô căn
+D47.5,Bệnh bạch cầu dòng tế bào ưa acid mãn tính [hội chứng tăng bạch cầu ưa acid]
+D86.2,Bệnh sarcoid phổi và hạch bạch huyết
+D86.3,Bệnh sarcoid da
+D86.8,Bệnh sarcoid hỗn hợp và tại các khu vực khác
+D89,"Rối loạn liên quan đến cơ chế miễn dịch, chưa phân loại nơi khác"
+D89.0,Tăng gammaglobulin máu đa dòng
+D89.1,Bệnh kháng thể (tăng globulin) ngưng kết lạnh
+D89.3,Hội chứng tái tạo miễn dịch
+D89.9,"Rối loạn liên quan đến cơ chế miễn dịch, không đặc hiệu"
+D00.1,Ung thư biểu mô tại chỗ của của thực quản
+D00.2,U ác của Dạ dày
+D01.1,Ung thư biểu mô tại chỗ nơi nối trực tràng - đại tràng sigma
+D01.2,Ung thư biểu mô tại chỗ của trực tràng
+D01.3,Ung thư biểu mô tại chỗ của hậu môn và ống hậu môn
+D01.4,Ung thư biểu mô tại chỗ của phần khác và không xác định của ruột non
+D01.9,Ung thư biểu mô tại chỗ của cơ quan tiêu hoá không xác định
+D02,Ung thư biểu mô tại chỗ của tai giữa và hệ hô hấp
+D02.0,Ung thư biểu mô tại chỗ của thanh quản
+D02.1,Ung thư biểu mô tại chỗ của khí quản
+D02.2,Ung thư biểu mô tại chỗ của phế quản và phổi
+D02.3,Ung thư biểu mô tại chỗ của phần khác và hệ hô hấp
+D03.0,U hắc tố tại chỗ của môi
+D03.1,"U hắc tố tại chỗ của mi mắt, bao gồm góc mắt"
+D03.2,U hắc tố tại chỗ của tai và ống ngoài tai
+D03.3,U hắc tố tại chỗ của phần khác và phần không xác định của mặt
+D03.4,U hắc tố tại chỗ của da đầu và cổ
+D03.6,"U hắc tố tại chỗ của chi trên, bao gồm vai"
+D03.7,"U hắc tố tại chỗ của chi dưới, bao gồm vùng háng"
+D03.8,U hắc tố tại chỗ của vị trí khác
+D03.9,"U hắc tố tại chỗ, không xác định"
+D04.2,Ung thư biểu mô tại chỗ của da vùng tai và ống tai ngoài
+D04.4,Ung thư biểu mô tại chỗ của da đầu và cổ
+D04.5,Ung thư biểu mô tại chỗ của da thân mình
+D04.6,"Ung thư biểu mô tại chỗ của da chi trên, bao gồm vai"
+D04.7,"Ung thư biểu mô tại chỗ của da chi dưới, bao gồm háng"
+D04.8,Ung thư biểu mô tại chỗ của da ở vị trí khác
+D05,Ung thư biểu mô tại chỗ của vú
+D05.1,Ung thư biểu mô ống tuyến vú tại chỗ
+D05.7,Ung thư biểu mô ống tuyến khác tại chỗ của vú
+D05.9,"Ung thư biểu mô tại chỗ của vú, không xác định"
+D06,Ung thư biểu mô tại chỗ của cổ tử cung
+D06.1,Ung thư biểu mô tại chỗ của ngoại mạc
+D06.9,"Ung thư biểu mô tại chỗ của cổ tử cung, không xác định"
+D07,Ung thư biểu mô tại chỗ của cơ quan sinh dục khác và không xác định
+D07.0,Ung thư biểu mô tại chỗ của nội mạc tử cung
+D07.2,Ung thư biểu mô tại chỗ của âm đạo
+D07.4,Ung thư biểu mô tại chỗ của dương vật
+D07.5,Ung thư biểu mô tại chỗ của tuyến tiền liệt
+D07.6,Ung thư biểu mô tại chỗ của cơ quan sinh dục nam khác và không xác định
+D09.0,Ung thư biểu mô tại chỗ của bàng quang
+D09.1,Ung thư biểu mô tại chỗ của cơ quan tiết niệu khác và không xác định
+D09.2,Ung thư biểu mô tại chỗ của mắt
+D09.7,Ung thư biểu mô tại chỗ ở vị trí xác định khác
+D09.9,"Ung thư biểu mô tại chỗ, không xác định"
+D10,U lành của miệng và hầu
+D10.0,U lành của môi
+D10.1,U lành của lưỡi
+D10.2,U lành của sàn miệng
+D10.3,U lành của phần khác và không xác định của miệng
+D10.4,U lành của amiđan
+D10.6,U lành của hầu - mũi
+D10.7,U lành của hạ hầu
+D10.9,"U lành của hầu, không xác định"
+D11,U lành của các tuyến nước bọt chính
+D11.7,U lành của tuyến nước bọt chính khác
+D11.9,U lành của tuyến nước bọt chính không xác định
+D12,"U lành của đại tràng, trực tràng, hậu môn và ống hậu môn"
+D12.1,U lành của ruột thừa
+D12.2,U lành của đại tràng lên
+D12.3,U lành của đại tràng ngang
+D12.5,U lành của đại tràng sigma
+D12.6,Đại tràng không xác định
+D12.7,U lành của nơi nối trực tràng sigma - trực tràng
+D12.8,U lành của trực tràng
+D13.0,U lành của thực quản
+D13.1,U lành của dạ dày
+D13.2,U lành của tá tràng
+D13.3,U lành của phần khác và không xác định của ruột non
+D13.39,Bướu lành phần khác của ruột non
+D13.4,U lành của gan
+D13.5,U lành của đường mật ngoài gan
+D13.6,U lành của tụy
+D13.7,U lành của tụy nội tiết
+D14,U lành tai giữa và hệ hô hấp
+D14.1,U lành của thanh quản
+D14.2,U lành của khí quản
+D14.3,U lành của phế quản và phổi
+D14.4,"U lành của hệ hô hấp, không xác định"
+D15,U lành của cơ quan khác và không xác định trong lồng ngực
+D15.0,U lành của tuyến ức
+D15.1,U lành của tim
+D15.2,U lành của trung thất
+D15.7,U lành của cơ quan trong lồng ngực xác định khác
+D15.9,U lành của cơ quan trong lồng ngực không xác định
+D16,U lành của xương và sụn khớp
+D16.0,U lành của xương bả vai và xương dài của chi trên
+D16.2,U lành của xương dài của chi dưới
+D16.3,U lành của xương ngắn của chi dưới
+D16.4,U lành của xương sọ và mặt
+D16.5,U lành của xương hàm dưới
+D16.7,"U lành của xương sườn, xương ức và xương đòn"
+D16.8,"U lành của xương chậu, xương thiêng và xương cụt"
+D17,U mỡ
+D17.0,"U mỡ lành tính của da và mô dưới da ở đầu, mặt và cổ"
+D17.1,U mỡ lành tính của da và mô dưới da ở thân hình
+D17.2,U mỡ lành tính của da và mô dưới da ở các chi
+D30.9,Cơ quan tiết niệu không xác định
+D31,U lành của mắt và phần phụ
+D31.1,U lành giác mạc
+D31.2,U lành võng mạc
+D31.3,U lành màng mạch mắt
+D31.5,U lành tuyến và ống lệ
+D31.6,U lành hốc mắt không xác định
+D32,U lành của màng não
+D32.0,U lành màng não
+D32.1,U lành màng não tủy sống
+D32.9,"U lành màng não, không xác định"
+D33.0,U lành của não trên lều
+D33.1,"U lành của não, lều dưới"
+D33.2,"U lành của não, không xác định"
+D33.3,U lành thần kinh sọ não
+D33.4,U lành của tủy sống
+D33.7,U lành của phần xác định khác của hệ thần kinh trung ương
+D33.9,"U lành của hệ thần kinh trung ương, không xác định"
+D35,U lành của tuyến nội tiết khác và tuyến nội tiết không xác định
+D35.0,U lành tuyến thượng thận
+D35.1,U lành tuyến cận giáp
+D35.3,U lành ống sọ hầu
+D35.4,U lành tuyến tùng
+D35.5,U lành thể cảnh
+D35.7,U lành tuyến nội tiết xác định khác
+D35.8,U lành liên quan nhiều tuyến nội tiết
+D35.9,"U lành của tuyến nội tiết, không xác định"
+D36,U lành có vị trí khác và không xác định
+D36.1,U lành thần kinh ngoại biên và hệ thần kinh tự động
+D36.7,U lành vị trí xác định khác
+D36.9,U lành của vị trí không xác định
+D37,U tân sinh không rõ hoặc không biết tính chất của khoang miệng và cơ quan tiêu hóa
+D37.1,U tân sinh chưa rõ tính chất của dạ dầy
+D37.2,U tân sinh chưa rõ tính chất của ruột non
+D37.3,U tân sinh chưa rõ tính chất của ruột thừa
+D37.4,U tân sinh chưa rõ tính chất của đại tràng
+D37.5,U tân sinh chưa rõ tính chất của trực tràng
+D37.6,"U tân sinh chưa rõ tính chất của gan, túi mật và ống dẫn mật"
+D37.7,U tân sinh chưa rõ tính chất của cơ quan tiêu hóa khác
+D38,"U tân sinh không rõ hoặc không biết tính chất của tai giữa, cơ quan hô hấp và cơ quan trong lồng ngực"
+D38.0,U tân sinh chưa rõ tính chất của thanh quản
+D38.1,"U tân sinh chưa rõ tính chất của khí quản, phế quản và phổi"
+D38.2,U tân sinh chưa rõ tính chất màng phổi
+D38.3,U tân sinh chưa rõ tính chất của trung thất
+D38.4,U tân sinh chưa rõ tính chất của tuyến ức
+D38.6,U tân sinh chưa rõ tính chất của cơ quan hô hấp không xác định
+D39,U không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ
+D39.0,U tân sinh không chắc chắn hoặc không biết tính chất của tử cung
+D39.1,U tân sinh không chắc chắn hoặc không biết tính chất của buồng trứng
+D39.2,U tân sinh không chắc chắn hoặc không biết tính chất của nhau (rau) thai
+D39.9,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ không xác định
+D47.7,"U tân sinh xác định khác, không rõ hoặc không biết tính chất của mô lympho, mô tạo huyết và mô liên quan"
+D47.9,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của mô lympho, mô tạo huyết và mô liên quan"
+D48,U tân sinh không chắc chắn hoặc không biết tính chất có vị trí khác và không xác định
+D48.0,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của xương và sụn khớp"
+D48.2,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của thần kinh ngoại biên và hệ thần kinh tự động"
+D48.3,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vùng sau phúc mạc"
+D48.5,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của da"
+D48.7,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vị trí xác định khác"
+D48.9,"U tân sinh không chắc chắn hoặc không biết tính chất, không xác định"
+D50,Thiếu máu do thiếu sắt
+D50.0,Thiếu máu thiếu sắt thứ phát do mất máu (mãn tính)
+D50.1,Chứng khó nuốt do thiếu sắt
+D50.8,Các thiếu máu thiếu sắt khác
+D50.9,Thiếu máu thiếu sắt không đặc hiệu
+D51,Thiếu máu do thiếu vitamin B12
+D51.1,Thiếu vitamin B12 do giảm hấp thu chọn lọc vitamin B12 kèm theo đái protein
+D51.2,Thiếu Transcobalamin II
+D51.3,Thiếu máu thiếu vitamin B12 khác do dinh dưỡng
+D51.8,Các thiếu máu thiếu vitamin B12 khác
+D51.9,Thiếu máu thiếu vitamin B12 không đặc hiệu
+D52.0,Thiếu máu thiếu folate do chế độ dinh dưỡng
+D52.1,Thiếu máu thiếu folate do thuốc
+D52.8,Các thiếu máu thiếu folate khác
+D52.9,Thiếu máu thiếu folate không đặc hiệu
+D53,Các thiếu máu dinh dưỡng khác
+D53.1,"Các thiếu máu nguyên hồng cầu khổng lồ khác, chưa được phân loại ở phần khác"
+D53.2,Thiếu máu thiếu vitamin C
+D53.9,Thiếu máu dinh dưỡng không đặc hiệu
+D55.0,Thiếu máu do thiếu men glucose-6-phosphate dehydrogenase
+D55.1,Thiếu máu do các rối loạn chuyển hóa glutathione khác
+D55.2,Thiếu máu do rối loạn các men phân giải glucose
+D55.3,Thiếu máu do rối loạn chuyển hóa nucleotide
+D55.8,Các thiếu máu khác do rối loạn men
+D56,Bệnh Thalassaemia
+D56.0,Alpha thalassaemia
+D56.1,Beta thalassaemia
+D56.2,Delta-beta thalassaemia
+D56.4,Tồn tại di truyền huyết sắc tố bào thai [HPFH]
+D56.8,Các thalassaemias khác
+D56.9,Thalassaemia không đặc hiệu
+D57.0,Thiếu máu hồng cầu liềm có cơn tan máu
+D57.1,Thiếu máu hồng cầu liềm không có cơn tan máu
+D57.2,Di hợp tử kép hồng cầu hình liềm với các Hb bất thường khác
+D58,Các thiếu máu tan máu di truyền khác
+D58.0,Hồng cầu hình cầu di truyền
+D58.1,Hồng cầu hình elip di truyền
+D58.8,Các thiếu máu tan máu di truyền không đặc hiệu khác
+D58.9,Thiếu máu tan máu di truyền không đặc hiệu
+D59.0,Thiếu máu tan máu tự miễn dịch do thuốc
+D59.2,Thiếu máu tan máu do thuốc không phải tự miễn dịch
+D59.3,Hội chứng tan máu urê máu cao
+D59.4,Các thiếu máu tan máu không phải tự miễn dịch khác
+D59.6,Đái huyết sắc tố do tan máu từ những nguyên nhân bên ngoài khác
+D59.8,Các thiếu máu tan máu mắc phải khác
+D59.9,Thiếu máu tan máu mắc phải không đặc hiệu
+D60,Suy tủy xương một dòng hồng cầu mắc phải [giảm nguyên hồng cầu]
+D60.0,Suy tủy xương một dòng hồng cầu mắc phải mãn tính
+D60.1,Suy tủy xương một dòng hồng cầu mắc phải thóang qua
+D60.8,Suy tủy xương một dòng hồng cầu mắc phải khác
+D60.9,Suy tủy xương một dòng hồng cầu mắc phải không đặc hiệu
+D61,Các thể suy tủy xương khác
+D61.1,Suy tủy xương do thuốc
+D61.2,Suy tủy xương do các nguyên nhân bên ngoài khác
+D61.3,Suy tủy xương vô căn
+D61.9,Suy tủy xương không đặc hiệu khác
+D62,Thiếu máu sau chảy máu cấp tính
+D63*,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D63.0,Thiếu máu trong bệnh ác tính (C00-D48†)
+D63.8,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D64.0,Thiếu máu nhược sắc có nguyên hồng cầu
+D64.1,Thiếu máu nguyên hồng cầu sắt thứ phát do bệnh lý
+D64.4,Thiếu máu rối loạn sinh sản dòng hồng cầu bẩm sinh
+D64.8,Các thiếu máu không đặc hiệu khác
+D64.9,Thiếu máu không đặc hiệu
+D65,Đông máu nội mạch rải rác (hội chứng tiêu fibrin)
+D67,Thiếu yếu tố IX di truyền
+D68.1,Thiếu yếu tố XI di truyền
+D68.2,Thiếu các yếu tố đông máu khác do di truyền
+D68.3,Xuất huyết trong khi sử dụng dài ngày các chất chống đông máu
+D68.5,Bệnh tăng đông máu nguyên phát
+D68.6,Bệnh tăng đông máu khác
+D68.8,Các rối loạn đông máu đặc biệt khác
+D68.9,Rối loạn đông máu không đặc hiệu
+D69,Ban xuất huyết và các tình trạng xuất huyết khác
+D69.0,Ban xuất huyết dị ứng
+D69.1,Bất thường chất lượng tiểu cầu
+D76.2,Hội chứng thực bào tế bào máu liên quan đến nhiễm trùng
+D80.5,Suy giảm miễn dịch có tăng immunoglobulin M [IgM]
+D80.7,Thiếu hụt gammaglobulin máu thóang qua ở trẻ nhỏ
+D80.8,Suy giảm miễn dịch khác do thiếu kháng thể là chủ yếu
+D80.9,"Thiếu hụt miễn dịch do thiếu kháng thể là chủ yếu, không xác"
+D81,Suy giảm miễn dịch kết hợp
+D81.0,Suy giảm miễn dịch hỗn hợp nặng [SCID] với loạn sinh liên võng
+D81.1,Suy giảm miễn dịch hỗn hợp nặng [SCID] với giảm số lượng lympho T và B
+D81.2,Thiếu hụt miễn dịch kết hợp nguy kịch [SCID] với số lượng lympho B thấp hoặc bình thường
+D81.3,Thiếu hụt enzim adenosine deaminase [ADA]
+D81.4,Hội chứng Nezelof
+D81.6,Thiếu hụt phức hợp hoà hợp tổ chức lớp I (MHC I)
+D81.7,Thiếu hụt phức hợp hoà hợp tổ chức lớp II (MHC II)
+D81.8,Các suy giảm miễn dịch kết hợp khác
+D81.9,Suy giảm miễn dịch hỗn hợp không đặc hiệu
+D82,Suy giảm miễn dịch liên quan đến các bất thường nặng khác
+D82.0,Hội chứng Wiskott-Aldrich
+D82.1,Hội chứng Di George s
+D82.2,Suy giảm miễn dịch kèm chứng ngắn chi
+D82.3,Suy giảm miễn dịch sau đáp ứng với virus Epstein-Barr bị khuyết thiếu mang tính di truyền
+D82.4,Hội chứng tăng immunoglobulin E [IgE]
+D82.9,"Suy giảm miễn dịch khiếm khuyết chủ yếu, không đặc hiệu"
+D83,Một số các biến thể khác của suy giảm miễn dịch
+D83.0,Suy giảm miễn dịch một số biến thể do bất thường về số lượng và chức năng lympho B
+D83.1,Suy giảm miễn dịch biến thể chủ yếu do rối loạn điều hoà miễn dịch của lympho T
+D83.2,Suy giảm miễn dịch biến thể phổ biến với tự kháng thể chống lympho B hoặc T
+D83.8,Các suy giảm miễn dịch biến thiên phổ biến khác
+D83.9,Suy giảm miễn dịch biến thiên phổ biến không đặc hiệu
+D84.0,Bất thường kháng nguyên chức năng 1 của lymphocyte [LFA-1]
+D84.1,Các bất thường của hệ thống bổ thể
+D84.8,Các suy giảm miễn dịch đặc hiệu khác
+D84.9,Suy giảm miễn dịch không đặc hiệu
+D86.0,Bệnh sarcoid phổi
+D00.0,Ung thư biểu mô tại chỗ của của môi khoang miệng và hầu
+D01,Ung thư biểu mô tại chỗ của cơ quan tiêu hoá khác và không xác định
+D03,U hắc tố tại chỗ
+D13,U lành của phần khác và không rõ ràng của hệ tiêu hóa
+D64.2,Thiếu máu nguyên hồng cầu sắt thứ phát do thuốc và độc chất
+D66,Thiếu yếu tố VIII di truyền
+D42.1,U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc tủy sống
+D89.8,"Các rối loạn xác định khác liên quan đến cơ chế miễn dịch, chưa được phân loại ở phần khác"
+D59,Thiếu máu tan máu mắc phải
+D75.1,Bệnh tăng hồng cầu KXĐK
+D76,Các bệnh của tổ chức lympho- liên võng và - (tổ chức bào) mô bào- liên võng xác định khác
+D80.6,Thiếu hụt kháng thể với hàm lượng các immunoglobulin giảm ít hoặc tăng ịmmuglobulin máu
+D82.8,Suy giảm miễn dịch liên quan với các bất thường lớn hoặc không xác định
+D84,Các suy giảm miễn dịch khác
+D86,Bệnh sarcoid
+D13.9,U lành của vị trí không rõ ràng trong hệ tiêu hóa
+D57.8,Các rối loạn hồng cầu liềm khác
+D81.5,Thiếu hụt emzim purine nucleoside phosphorylase [PNP]
+D21.2,"U lành mô liên kết và mô mềm khác của chi dưới, bào gồm háng"
+D21.3,U lành mô liên kết và mô mềm khác của lồng ngực
+D21.4,U lành mô liên kết và mô mềm khác của bụng
+D21.5,U lành mô liên kết và mô mềm khác của chậu
+D21.6,"U lành mô liên kết và mô mềm khác của thân mình, không đặc hiệu"
+D21.9,"U lành mô liên kết và mô mềm khác, không đặc hiệu"
+D22,Nốt ruồi
+D22.0,Nốt ruồi của môi
+D22.1,Nốt ruồi của khóe mắt bao gồm mí mắt
+D22.2,Nốt ruồi của tai và ống tai ngoài
+D22.3,Nốt ruồi của phần khác và phần không xác định của mặt
+D22.4,Nốt ruồi của da đầu và cổ
+D22.5,Nốt ruồi của thân mình
+D22.6,Nốt ruồi của chi trên bao gồm vai
+D22.7,Nốt ruồi của chi dưới bao gồm háng
+D22.9,Nốt ruồi không có gì đặc hiệu
+D23,U lành khác của da
+D23.0,U lành da của môi
+D23.1,U lành da của mi mắt kể cả góc mắt
+D23.2,U lành da tai và ống tai ngoài
+D23.3,U lành da các phần khác và những phần không đặc trưng
+D23.4,U lành da đầu và cổ
+D23.5,U lành da thân mình
+D23.6,"U lành da chi trên, bao gồm vai"
+D23.7,U lành da chi dưới bao gồm háng
+D23.9,"U lành của da, không đặc hiệu"
+D24,U lành vú
+D25,U cơ trơn tử cung
+D25.0,U cơ trơn dưới niêm mạc tử cung
+D25.1,U cơ trơn trong vách tử cung
+D25.2,U cơ trơn dưới thanh mạc tử cung
+D25.9,"U cơ trơn tử cung, không đặc hiệu"
+D26,U lành khác của tử cung
+D26.0,U lành cổ tử cung
+D26.1,U lành thân tử cung
+D26.7,U lành phần khác của tử cung
+D26.9,"U lành tử cung, không đặc hiệu"
+D27,U lành buồng trứng 
+D28,U lành của cơ quan sinh dục khác và không xác định
+D28.0,U lành âm hộ
+D28.1,U lành âm đạo
+D28.2,U lành vòi tử cung và dây chằng
+D28.7,U lành cơ quan sinh dục nữ xác định khác
+D28.9,"U lành cơ quan sinh dục nữ, không đặc hiệu"
+D29,U lành của cơ quan sinh dục nam
+D29.0,U lành của Dương vật
+D29.1,U lành của Tuyến tiền liệt
+D29.2,U lành của Tinh hoàn
+D29.3,U lành của Mào tinh hoàn
+D29.4,Bìu
+D29.7,Cơ quan sinh dục nam khác
+D29.9,"Cơ quan sinh dục nam, không đặc hiệu"
+D30,U lành của cơ quan tiết niệu
+D30.0,U lành của Thận
+D30.1,U lành của Bồn thận
+D30.2,U lành của Niệu quản
+D30.3,U lành của Bàng quang
+D11.7,U lành của tuyến nước bọt chính khác
+D11.9,U lành của tuyến nước bọt chính không đặc hiệu
+D12,"U lành của đại tràng, trực tràng, hậu môn và ống hậu môn"
+D12.0,U lành của manh tràng
+D12.1,U lành của ruột thừa
+D12.2,U lành của đại tràng lên
+D12.3,U lành của đại tràng ngang
+D12.4,U lành của đại tràng xuống
+D12.5,U lành của đại tràng sigma
+D12.6,U lành của Đại tràng không đặc hiệu
+D12.7,U lành của nơi nối trực tràng sigma - trực tràng
+D12.8,U lành của trực tràng
+D12.9,U lành của hậu môn và ống hậu môn
+D13,U lành của phần khác và không rõ ràng của hệ tiêu hóa
+D13.0,U lành của thực quản
+D13.1,U lành của dạ dày
+D13.2,U lành của tá tràng
+D13.3,U lành của phần khác và không xác định của ruột non
+D13.4,U lành của gan
+D13.5,U lành của đường mật ngoài gan
+D13.6,U lành của tụy
+D13.7,U lành của tụy nội tiết
+D13.9,U lành của vị trí không rõ ràng trong hệ tiêu hóa
+D14,U lành tai giữa và hệ hô hấp
+D14.0,"U lành của tai giữa, hốc mũi và các xoang phụ"
+D14.1,U lành của thanh quản
+D14.2,U lành của khí quản
+D14.3,U lành của phế quản và phổi
+D14.4,"U lành của hệ hô hấp, không đặc hiệu"
+D15,U lành của cơ quan khác và không xác định trong lồng ngực
+D15.0,U lành của tuyến ức
+D15.1,U lành của tim
+D15.2,U lành của trung thất
+D15.7,U lành của cơ quan trong lồng ngực xác định khác
+D15.9,U lành của cơ quan trong lồng ngực không đặc hiệu
+D16,U lành của xương và sụn khớp
+D16.0,U lành của xương bả vai và xương dài của chi trên
+D16.1,U lành của xương ngắn của chi trên
+D16.2,U lành của xương dài của chi dưới
+D16.3,U lành của xương ngắn của chi dưới
+D16.4,U lành của xương sọ và mặt
+D16.5,U lành của xương hàm dưới
+D16.6,Cột sống
+D16.7,"U lành của xương sườn, xương ức và xương đòn"
+D16.8,"U lành của xương chậu, xương thiêng và xương cụt"
+D16.9,U lành của xương và sụn khớp không đặc hiệu
+D17,U mỡ
+D17.0,"U mỡ lành tính của da và mô dưới da ở đầu, mặt và cổ"
+D17.1,U mỡ lành tính của da và mô dưới da ở thân hình
+D17.2,U mỡ lành tính của da và mô dưới da ở các chi
+D17.3,U mỡ lành tính của da và mô dưới da ở vị trí khác và không đặc hiệu
+D17.4,U mỡ lành tính của cơ quan trong lồng ngực
+D17.5,U mỡ lành tính của cơ quan trong ổ bụng
+D17.6,U mỡ lành tính của thừng tinh
+D17.7,U mỡ lành tính của vị trí khác
+D17.9,U mỡ lành tính không đặc hiệu
+D18,"U mạch máu và u hạch bạch huyết, vị trí bất kỳ"
+D18.0,"U mạch máu, vị trí bất kỳ"
+D18.1,"U mạch bạch huyết, vị trí bất kỳ"
+D19,U lành của trung mô
+D19.0,U lành trung mô của màng phổi
+D19.1,U lành trung mô của phúc mạc
+D01.0,Ung thư biểu mô tại chỗ của đại tràng
+D01.7,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa xác định khác
+D04.0,Ung thư biểu mô tại chỗ của da môi
+D04.3,Ung thư biểu mô tại chỗ của da của phần khác và không xác định của mặt
+D05.0,Ung thư biểu mô tiểu thuỳ tại chỗ
+D06.7,Ung thư biểu mô tại chỗ của phần khác của cổ tử cung
+D07.3,Ung thư biểu mô tại chỗ của cơ quan sinh dục nữ khác và không xác định
+D09.3,Ung thư biểu mô tại chỗ của tuyến giáp và tuyến nội tiết khác
+D42.0,U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc não
+D43.9,"U tân sinh không chắc chắn hoặc không biết tính chất của Hệ thần kinh trung ương, không xác định"
+D44.3,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến yên
+D44.5,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến tùng
+D44.8,U tân sinh không chắc chắn hoặc không biết tính chất liên quan nhiều tuyến nội tiết
+D47,"U tân sinh khác không chắc chắn hoặc không biết sinh chất của mô ulympho, mô tạo huyết và mô liên quan"
+D48.1,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của mô liên kết và mô mềm khác"
+D48.6,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vú"
+D01.5,"Ung thư biểu mô tại chỗ của gan, túi mật và đường dẫn mật"
+D02.4,Ung thư biểu mô tại chỗ của hệ hô hấp không xác định
+D03.5,U hắc tố tại chỗ của thân mình
+D04.1,Ung thư biểu mô tại chỗ của da mí mắt bao gồm góc mắt
+D04.9,"Ung thư biểu mô tại chỗ của da, không xác định"
+D06.0,Ung thư biểu mô tại chỗ của nội mạc
+D07.1,Ung thư biểu mô tại chỗ của âm hộ
+D09,Ung thư biểu mô tại chỗ ở vị trí khác và không xác định
+D10.5,U lành của phần khác của hầu - khẩu
+D11.0,U lành của tuyến mang tai
+D12.0,U lành của manh tràng
+D12.4,U lành của đại tràng xuống
+D12.9,U lành của hậu môn và ống hậu môn
+D13.30,Bướu lành phần không xác định của ruột non
+D14.0,"U lành của tai giữa, hốc mũi và các xoang phụ"
+D16.1,U lành của xương ngắn của chi trên
+D16.6,Cột sống
+D16.9,U lành của xương và sụn khớp không xác định
+D17.3,U mỡ lành tính của da và mô dưới da ở vị trí khác và không xác định
+D15.098,test
+D19.7,U lành trung mô của các vị trí khác
+D19.9,U lành trung mô không xác định
+D20,U lành mô mềm sau phúc mạc và phúc mạc
+D20.0,U lành mô mềm sau phúc mạc
+D20.1,U lành mô mềm phúc mạc
+D21,U lành khác của mô liên kết và mô mềm khác
+D21.0,"U lành mô liên kết và mô mềm khác của đầu, mặt và cổ"
+D21.1,U lành mô liên kết và mô mềm khác của chi trên bao gồm vai
+D31.0,U lành kết mạc
+D31.4,U lành thể mi
+D31.9,"U lành của mắt, không xác định"
+D33,U lành của não và các phần khác của hệ thần kinh trung ương
+D34,U lành của tuyến giáp
+D35.2,U lành tuyến yên
+D35.6,U lành thể động mạch chủ và thể cận hạch khác
+D36.0,U lành hạch lympho
+D37.0,"U tân sinh chưa rõ tính chất của môi, xoang miệng và hầu"
+D37.9,U tân sinh chưa rõ tính chất của cơ quan tiêu hoá không xác định
+D38.5,U tân sinh chưa rõ tính chất của cơ quan hô hấp khác
+D39.7,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ khác
+D53.8,Các thiếu máu dinh dưỡng đặc hiệu khác
+D44,U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết
+D48.4,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của phúc mạc"
+D51.0,Thiếu máu thiếu vitamin B12 do thiếu yếu tố nội
+D52,Thiếu máu do chế độ dinh dưỡng
+D53.0,Thiếu máu do thiếu protein
+D55,Thiếu máu do rối loạn men
+D55.9,"Thiếu máu do rối loạn men, không đặc hiệu"
+D56.3,Thalassaemia vết
+D57,Bệnh hồng cầu liềm
+D57.3,Hồng cầu liềm thể nhẹ
+D58.2,Các bệnh huyết sắc tố khác
+D59.1,Các thiếu máu tan máu tự miễn dịch khác
+D61.0,Suy tủy xương bẩm sinh
+D61.8,Suy tủy xương đặc hiệu khác
+D64,Các thiếu máu khác
+D64.3,Các thiếu máu nguyên hồng cầu sắt khác
+D68,Các bất thường đông máu khác
+D68.4,Thiếu hụt yếu tố đông máu mắc phải
+D69.6,Giảm tiểu cầu không đặc hiệu
+D71,Rối loạn chức năng bạch cầu hạt trung tính
+D72.9,Rối loạn bạch cầu không xác định
+D73.3,Áp xe lách
+D73.8,Các bệnh khác của lách
+D17.7,U mỡ lành tính của vị trí khác
+D19,U lành của trung mô
+D19.9,U lành trung mô không xác định
+D21.0,"U lành mô liên kết và mô mềm khác của đầu, mặt và cổ"
+D21.9,"U lành mô liên kết và mô mềm khác, không xác định"
+D22.4,Nốt ruồi của da đầu và cổ
+D22.9,Nốt ruồi không có gì đặc hiệu
+D23.3,U lành da các phần khác và những phần không đặc trưng
+D26,U lành khác của tử cung
+D26.9,"U lành tử cung, không xác định"
+D28.1,U lành âm đạo
+D28.9,"U lành cơ quan sinh dục nữ, không xác định"
+D29.4,Bìu
+D30,U lành của cơ quan tiết niệu
+D30.3,Bàng quang
+D40,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nam
+D43.0,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, trên lều não"
+D47.4,Bệnh xơ hóa tủy xương
+D86.9,Bệnh sarcoid không đặc hiệu
+D46.5,Thiếu máu kháng điều trị có loạn sản đa dòng
+D46.6,Hội chứng loạn sản tủy có bất thường nhiễm sắc thể del (5q) đơn độc
+D68.0,Bệnh Von Willebrand
+D39,U không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ
+D39.0,U tân sinh không chắc chắn hoặc không biết tính chất của tử cung
+D39.1,U tân sinh không chắc chắn hoặc không biết tính chất của buồng trứng
+D39.2,U tân sinh không chắc chắn hoặc không biết tính chất của nhau (rau) thai
+D39.7,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ khác
+D39.9,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ không đặc hiệu
+D40,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nam
+D40.0,U tân sinh không chắc chắn hoặc không biết tính chất của Tiền liệt tuyến
+D40.1,U tân sinh không chắc chắn hoặc không biết tính chất của Tinh hoàn
+D40.7,U tân sinh không chắc chắn hoặc không biết tính chất của Các cơ quan sinh dục nam khác
+D40.9,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan sinh dục nam không đặc hiệu
+D41,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan tiết niệu
+D41.0,U tân sinh không chắc chắn hoặc không biết tính chất của Thận
+D41.1,U tân sinh không chắc chắn hoặc không biết tính chất của Bể thận
+D73.9,Bệnh lách không đặc hiệu
+D74,methemoglobin máu
+D74.0,methemoglobin máu bẩm sinh
+D74.8,methaemoglobin máu khác
+D74.9,Methaemoglobin máu không đặc hiệu
+D75,Các bệnh máu và cơ quan tạo máu khác
+D75.0,Tăng hồng cầu gia đình
+D75.1,Bệnh tăng hồng cầu thứ phát
+D75.2,Tăng tiểu cầu tiền phát
+D75.8,Các bệnh đặc hiệu khác của máu và cơ quan tạo máu
+D75.9,Bệnh của máu và cơ quan tạo máu không đặc hiệu
+D76,Các bệnh của tổ chức lympho- liên võng và - (tổ chức bào) mô bào- liên võng xác định khác
+D76.0,"Bệnh tổ chức bào tế bào langerhans, chưa được phân loại ở phần khác"
+D76.1,Bệnh tổ chức bào thực bào đơn nhân
+D76.2,Hội chứng thực bào tế bào máu liên quan đến nhiễm trùng
+D76.3,Các hội chứng mô bào khác
+D77,Rối loạn của máu và cơ quan tạo máu trong các bệnh khác 
+D77*,Rối loạn của máu và cơ quan tạo máu trong các bệnh khác 
+D80,Thiếu hụt miễn dịch chủ yếu do bất thường kháng thể
+D80.0,Giảm gammaglobulin máu di truyền
+D80.1,Giảm gammaglobulin máu không có yếu tố gia đình
+D80.2,Thiếu hụt immunoglobulin A IgA chọn lọc
+D80.3,Thiếu hụt immunoglobulin A IgA chọn lọc
+D80.4,Thiếu hụt immunoglobulin M [IgM] chọn lọc
+D80.5,Suy giảm miễn dịch có tăng immunoglobulin M [IgM]
+D80.6,Thiếu hụt kháng thể với hàm lượng các immunoglobulin giảm ít hoặc tăng ịmmuglobulin máu
+D80.7,Thiếu hụt gammaglobulin máu thoáng qua ở trẻ nhỏ
+D80.8,Suy giảm miễn dịch khác do thiếu kháng thể là chủ yếu
+D80.9,"Thiếu hụt miễn dịch do thiếu kháng thể là chủ yếu, không đặc hiệu"
+D03.3,U hắc tố tại chỗ của phần khác và phần không xác định của mặt
+D03.4,U hắc tố tại chỗ của da đầu và cổ
+D03.5,U hắc tố tại chỗ của thân mình
+D03.6,"U hắc tố tại chỗ của chi trên, bao gồm vai"
+D03.7,"U hắc tố tại chỗ của chi dưới, bao gồm vùng háng"
+D03.8,U hắc tố tại chỗ của vị trí khác
+D03.9,"U hắc tố tại chỗ, không đặc hiệu"
+D04,Ung thư biểu mô tại chỗ của da
+D04.0,Ung thư biểu mô tại chỗ của da môi
+D04.1,Ung thư biểu mô tại chỗ của da mí mắt bao gồm góc mắt
+D04.2,Ung thư biểu mô tại chỗ của da vùng tai và ống tai ngoài
+D04.3,Ung thư biểu mô tại chỗ của da của phần khác và không xác định của mặt
+D04.4,Ung thư biểu mô tại chỗ của da đầu và cổ
+D04.5,Ung thư biểu mô tại chỗ của da thân mình
+D04.6,"Ung thư biểu mô tại chỗ của da chi trên, bao gồm vai"
+D04.7,"Ung thư biểu mô tại chỗ của da chi dưới, bao gồm háng"
+D04.8,Ung thư biểu mô tại chỗ của da ở vị trí khác
+D04.9,"Ung thư biểu mô tại chỗ của da, không đặc hiệu"
+D05,Ung thư biểu mô tại chỗ của vú
+D05.0,Ung thư biểu mô tiểu thuỳ tại chỗ
+D05.1,Ung thư biểu mô ống tuyến vú tại chỗ
+D05.7,Ung thư biểu mô ống tuyến khác tại chỗ của vú
+D05.9,"Ung thư biểu mô tại chỗ của vú, không đặc hiệu"
+D06,Ung thư biểu mô tại chỗ của cổ tử cung
+D06.0,Ung thư biểu mô tại chỗ của nội mạc
+D06.1,Ung thư biểu mô tại chỗ của ngoại mạc
+D06.7,Ung thư biểu mô tại chỗ của phần khác của cổ tử cung
+D06.9,"Ung thư biểu mô tại chỗ của cổ tử cung, không đặc hiệu"
+D07,Ung thư biểu mô tại chỗ của cơ quan sinh dục khác và không xác định
+D07.0,Ung thư biểu mô tại chỗ của nội mạc tử cung
+D07.1,Ung thư biểu mô tại chỗ của âm hộ
+D07.2,Ung thư biểu mô tại chỗ của âm đạo
+D07.3,Ung thư biểu mô tại chỗ của cơ quan sinh dục nữ khác và không đặc hiệu
+D07.4,Ung thư biểu mô tại chỗ của dương vật
+D07.5,Ung thư biểu mô tại chỗ của tuyến tiền liệt
+D07.6,Ung thư biểu mô tại chỗ của cơ quan sinh dục nam khác và không đặc hiệu
+D09,Ung thư biểu mô tại chỗ ở vị trí khác và không xác định
+D09.0,Ung thư biểu mô tại chỗ của bàng quang
+D09.1,Ung thư biểu mô tại chỗ của cơ quan tiết niệu khác và không xác định
+D09.2,Ung thư biểu mô tại chỗ của mắt
+D09.3,Ung thư biểu mô tại chỗ của tuyến giáp và tuyến nội tiết khác
+D09.7,Ung thư biểu mô tại chỗ ở vị trí xác định khác
+D81,Suy giảm miễn dịch kết hợp
+D81.0,Suy giảm miễn dịch hỗn hợp nặng [SCID] với loạn sinh liên võng
+D81.1,Suy giảm miễn dịch hỗn hợp nặng [SCID] với giảm số lượng lympho T và B
+D81.2,Thiếu hụt miễn dịch kết hợp nguy kịch [SCID] với số lượng lympho B thấp hoặc bình thường
+D81.3,Thiếu hụt enzim adenosine deaminase [ADA]
+D81.4,Hội chứng Nezelof
+D81.5,Thiếu hụt emzim purine nucleoside phosphorylase [PNP]
+D81.6,Thiếu hụt phức hợp hoà hợp tổ chức lớp I (MHC I)
+D81.7,Thiếu hụt phức hợp hoà hợp tổ chức lớp II (MHC II)
+D81.8,Các suy giảm miễn dịch kết hợp khác
+D81.9,Suy giảm miễn dịch hỗn hợp không đặc hiệu
+D82,Suy giảm miễn dịch liên quan đến các bất thường nặng khác
+D82.0,Hội chứng Wiskott-Aldrich
+D82.1,Hội chứng Di George s
+D82.2,Suy giảm miễn dịch kèm chứng ngắn chi
+D82.3,Suy giảm miễn dịch sau đáp ứng với virus Epstein-Barr bị khuyết thiếu mang tính di truyền
+D82.4,Hội chứng tăng immunoglobulin E [IgE]
+D82.8,Suy giảm miễn dịch liên quan với các bất thường lớn đặc hiệu khác
+D82.9,"Suy giảm miễn dịch khiếm khuyết chủ yếu, không đặc hiệu"
+D83,Một số các biến thể khác của suy giảm miễn dịch
+D83.0,Suy giảm miễn dịch một số biến thể do bất thường về số lượng và chức năng lympho B
+D51,Thiếu máu do thiếu vitamin B12
+D09.9,"Ung thư biểu mô tại chỗ, không xác định"
+D10,U lành của miệng và hầu
+D10.0,U lành của môi
+D10.1,U lành của lưỡi
+D10.2,U lành của sàn miệng
+D10.3,U lành của phần khác và không xác định của miệng
+D10.4,U lành của amiđan
+D10.5,U lành của phần khác của hầu - khẩu
+D10.6,U lành của hầu - mũi
+D10.7,U lành của hạ hầu
+D10.9,"U lành của hầu, không đặc hiệu"
+D11,U lành của các tuyến nước bọt chính
+D11.0,U lành của tuyến mang tai
+D48.9,"U tân sinh không chắc chắn hoặc không biết tính chất, không đặc hiệu"
+D50,Thiếu máu do thiếu sắt
+D50.0,Thiếu máu thiếu sắt thứ phát do mất máu (mãn tính)
+D50.1,Chứng khó nuốt do thiếu sắt
+D50.8,Các thiếu máu thiếu sắt khác
+D50.9,Thiếu máu thiếu sắt không đặc hiệu
+D41.2,U tân sinh không chắc chắn hoặc không biết tính chất của Niệu quản
+D41.3,U tân sinh không chắc chắn hoặc không biết tính chất của Niệu đạo
+D41.4,U tân sinh không chắc chắn hoặc không biết tính chất của Bàng quang
+D41.7,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu khác
+D41.9,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu không đặc hiệu
+D42,U tân sinh không chắc chắn hoặc không biết tính chất của màng não
+D83.1,Suy giảm miễn dịch biến thể chủ yếu do rối loạn điều hoà miễn dịch của lympho T
+D83.2,Suy giảm miễn dịch biến thể phổ biến với tự kháng thể chống lympho B hoặc T
+D83.8,Các suy giảm miễn dịch biến thiên phổ biến khác
+D83.9,Suy giảm miễn dịch biến thiên phổ biến không đặc hiệu
+D84,Các suy giảm miễn dịch khác
+D84.0,Bất thường kháng nguyên chức năng 1 của lymphocyte [LFA-1]
+D84.1,Các bất thường của hệ thống bổ thể
+D84.8,Các suy giảm miễn dịch đặc hiệu khác
+D84.9,Suy giảm miễn dịch không đặc hiệu
+D86,Bệnh sarcoid
+D86.0,Bệnh sarcoid phổi
+D86.1,Bệnh sarcoid hạch bạch huyết
+D86.2,Bệnh sarcoid phổi và hạch bạch huyết
+D86.3,Bệnh sarcoid da
+D86.8,Bệnh sarcoid hỗn hợp và tại các khu vực khác
+D86.9,Bệnh sarcoid không đặc hiệu
+D89,"Rối loạn liên quan đến cơ chế miễn dịch, chưa phân loại nơi khác"
+D89.0,Tăng gammaglobulin máu đa dòng
+D89.1,Bệnh kháng thể (tăng globulin) ngưng kết lạnh
+D89.2,Tăng gammaglobulin máu không đặc hiệu
+D89.3,Hội chứng tái tạo miễn dịch
+D89.8,"Các rối loạn xác định khác liên quan đến cơ chế miễn dịch, chưa được phân loại ở phần khác"
+D89.9,"Rối loạn liên quan đến cơ chế miễn dịch, không đặc hiệu"
+D00,"Ung thư biểu mô tại chỗ của khoang miệng, thực quản và dạ dày"
+D00.0,Ung thư biểu mô tại chỗ của của môi khoang miệng và hầu
+D00.1,Ung thư biểu mô tại chỗ của của thực quản
+D00.2,U ác của Dạ dày
+D01,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa khác và không xác định
+D01.0,Ung thư biểu mô tại chỗ của đại tràng
+D01.1,Ung thư biểu mô tại chỗ nơi nối trực tràng - đại tràng sigma
+D01.2,Ung thư biểu mô tại chỗ của trực tràng
+D01.3,Ung thư biểu mô tại chỗ của hậu môn và ống hậu môn
+D01.4,Ung thư biểu mô tại chỗ của phần khác và không đặc hiệu của ruột non
+D01.5,"Ung thư biểu mô tại chỗ của gan, túi mật và đường dẫn mật"
+D01.7,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa xác định khác
+D01.9,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa không đặc hiệu
+D02,Ung thư biểu mô tại chỗ của tai giữa và hệ hô hấp
+D02.0,Ung thư biểu mô tại chỗ của thanh quản
+D02.1,Ung thư biểu mô tại chỗ của khí quản
+D02.2,Ung thư biểu mô tại chỗ của phế quản và phổi
+D02.3,Ung thư biểu mô tại chỗ của phần khác và hệ hô hấp
+D51.0,Thiếu máu thiếu vitamin B12 do thiếu yếu tố nội
+D51.1,Thiếu vitamin B12 do giảm hấp thu chọn lọc vitamin B12 kèm theo đái protein
+D51.2,Thiếu Transcobalamin II
+D51.3,Thiếu máu thiếu vitamin B12 khác do dinh dưỡng
+D51.8,Các thiếu máu thiếu vitamin B12 khác
+D51.9,Thiếu máu thiếu vitamin B12 không đặc hiệu
+D52,Thiếu máu do chế độ dinh dưỡng
+D52.0,Thiếu máu thiếu folate do chế độ dinh dưỡng
+D52.1,Thiếu máu thiếu folate do thuốc
+D52.8,Các thiếu máu thiếu folate khác
+D52.9,Thiếu máu thiếu folate không đặc hiệu
+D53,Các thiếu máu dinh dưỡng khác
+D53.0,Thiếu máu do thiếu protein
+D53.1,"Các thiếu máu nguyên hồng cầu khổng lồ khác, chưa được phân loại ở phần khác"
+D53.2,Thiếu máu thiếu vitamin C
+D53.8,Các thiếu máu dinh dưỡng đặc hiệu khác
+D53.9,Thiếu máu dinh dưỡng không đặc hiệu
+D55,Thiếu máu do rối loạn men
+D55.0,Thiếu máu do thiếu men glucose-6-phosphate dehydrogenase
+D55.1,Thiếu máu do các rối loạn chuyển hóa glutathione khác
+D55.2,Thiếu máu do rối loạn các men phân giải glucose
+D55.3,Thiếu máu do rối loạn chuyển hóa nucleotide
+D55.8,Các thiếu máu khác do rối loạn men
+D55.9,"Thiếu máu do rối loạn men, không đặc hiệu"
+D56,Bệnh Thalassaemia
+D56.0,Alpha thalassaemia
+D56.1,Beta thalassaemia
+D56.2,Delta-beta thalassaemia
+D56.3,Thalassaemia vết
+D56.4,Tồn tại di truyền huyết sắc tố bào thai [HPFH]
+D56.8,Các thalassaemias khác
+D56.9,Thalassaemia không đặc hiệu
+D57,Bệnh hồng cầu liềm
+D57.0,Thiếu máu hồng cầu liềm có cơn tan máu
+D57.1,Thiếu máu hồng cầu liềm không có cơn tan máu
+D57.2,Di hợp tử kép hồng cầu hình liềm với các Hb bất thường khác
+D57.3,Hồng cầu liềm thể nhẹ
+D57.8,Các rối loạn hồng cầu liềm khác
+D58,Các thiếu máu tan máu di truyền khác
+D58.0,Hồng cầu hình cầu di truyền
+D42.0,U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc não
+D42.1,U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc tủy sống
+D42.9,"U tân sinh không chắc chắn hoặc không biết tính chất của màng não, không đặc hiệu"
+D43,U tân sinh không chắc chắn hoặc không biết tính chất của màng não
+D43.0,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, trên lều não"
+D43.1,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, dưới lều não"
+D43.2,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, không đặc hiệu"
+D43.3,U tân sinh không chắc chắn hoặc không biết tính chất của Thần kinh sọ
+D43.4,U tân sinh không chắc chắn hoặc không biết tính chất của tủy sống
+D43.7,U tân sinh không chắc chắn hoặc không biết tính chất của Phần khác của hệ thần kinh trung ương
+D43.9,"U tân sinh không chắc chắn hoặc không biết tính chất của Hệ thần kinh trung ương, không đặc hiệu"
+D44,U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết
+D44.0,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến giáp
+D44.1,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến thượng thận
+D44.2,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến cận giáp
+D02.4,Ung thư biểu mô tại chỗ của hệ hô hấp không đặc hiệu
+D03,U hắc tố tại chỗ
+D03.0,U hắc tố tại chỗ của môi
+D03.1,"U hắc tố tại chỗ của mi mắt, bao gồm góc mắt"
+D03.2,U hắc tố tại chỗ của tai và ống ngoài tai
+D58.1,Hồng cầu hình elip di truyền
+D58.2,Các bệnh huyết sắc tố khác
+D58.8,Các thiếu máu tan máu di truyền không đặc hiệu khác
+D58.9,Thiếu máu tan máu di truyền không đặc hiệu
+D59,Thiếu máu tan máu mắc phải
+D59.0,Thiếu máu tan máu tự miễn dịch do thuốc
+D59.1,Các thiếu máu tan máu tự miễn dịch khác
+D59.2,Thiếu máu tan máu do thuốc không phải tự miễn dịch
+D59.3,Hội chứng tan máu urê máu cao
+D59.4,Các thiếu máu tan máu không phải tự miễn dịch khác
+D59.5,Đái huyết sắc tố kịch phát ban đêm [Hội chứng Marchifava-Micheli]
+D59.6,Đái huyết sắc tố do tan máu từ những nguyên nhân bên ngoài khác
+D59.8,Các thiếu máu tan máu mắc phải khác
+D59.9,Thiếu máu tan máu mắc phải không đặc hiệu
+D60,Suy tủy xương một dòng hồng cầu mắc phải (giảm nguyên hồng cầu)
+D60.0,Suy tủy xương một dòng hồng cầu mắc phải mãn tính
+D60.1,Suy tủy xương một dòng hồng cầu mắc phải thoáng qua
+D44.3,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến yên
+D44.4,U tân sinh không chắc chắn hoặc không biết tính chất của Ống sọ-hầu
+D44.5,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến tùng
+D44.6,U tân sinh không chắc chắn hoặc không biết tính chất của Thể cảnh
+D44.7,U tân sinh không chắc chắn hoặc không biết tính chất của Thể động mạch chủ và thể cận hạch khác
+D44.8,U tân sinh không chắc chắn hoặc không biết tính chất liên quan nhiều tuyến nội tiết
+D44.9,U lành của tuyến nội tiết không đặc hiệu
+D45,U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết
+D46,Hội chứng loạn sản tủy xương
+D46.0,"Thiếu máu kháng điều trị không có nguyên hồng cầu sắc hình vòng, được xác lập như vậy"
+D46.1,Thiếu máu kháng điều trị có nguyên hồng cầu hình vòng
+D46.2,Thiếu máu đề kháng với quá nhiều nguyên bào
+D46.3,Thiếu máu đề kháng với quá nhiều nguyên bào chuyển dạng
+D46.4,"Thiếu máu đề kháng, không đặc hiệu"
+D46.5,Thiếu máu kháng điều trị có loạn sản đa dòng
+D46.6,Hội chứng loạn sản tủy có bất thường nhiễm sắc thể del (5q) đơn độc
+D46.7,Hội chứng loạn sản tủy xương khác
+D46.9,Hội chứng loạn tủy xương không đặc hiệu
+D47,"U tân sinh khác không chắc chắn hoặc không biết sinh chất của mô ulympho, mô tạo huyết và mô liên quan"
+D47.0,Bệnh dưỡng bào hệ thống không triệu chứng
+D47.1,Bệnh bạch cầu dòng trung tính mãn tính
+D47.2,Bệnh lý gamma globulin đơn dòng chưa xác định ý nghĩa
+D47.3,Bệnh tăng tiểu cầu (xuất huyết) vô căn
+D47.4,Bệnh xơ hóa tủy xương
+D47.5,Bệnh bạch cầu dòng tế bào ưa acid mãn tính [hội chứng tăng bạch cầu ưa acid]
+D30.4,U lành của Niệu đạo
+D30.7,Cơ quan tiết niệu khác
+D30.9,Cơ quan tiết niệu không đặc hiệu
+D31,U lành của mắt và phần phụ
+D31.0,U lành kết mạc
+D31.1,U lành giác mạc
+D31.2,U lành võng mạc
+D31.3,U lành màng mạch mắt
+D31.4,U lành thể mi
+D31.5,U lành tuyến và ống lệ
+D31.6,U lành hốc mắt không đặc hiệu
+D31.9,"U lành của mắt, không đặc hiệu"
+D32,U lành của màng não
+D32.0,U lành màng não
+D32.1,U lành màng não tủy sống
+D32.9,"U lành màng não, không đặc hiệu"
+D33,U lành của não và các phần khác của hệ thần kinh trung ương
+D33.0,U lành của não trên lều
+D33.1,"U lành của não, lều dưới"
+D33.2,"U lành của não, không đặc hiệu"
+D33.3,U lành thần kinh sọ não
+D33.4,U lành của tủy sống
+D33.7,U lành của phần xác định khác của hệ thần kinh trung ương
+D33.9,"U lành của hệ thần kinh trung ương, không đặc hiệu"
+D34,U lành của tuyến giáp
+D35,U lành của tuyến nội tiết và không xác định
+D35.0,U lành tuyến thượng thận
+D35.1,U lành tuyến cận giáp
+D35.2,U lành tuyến yên
+D35.3,U lành ống sọ hầu
+D35.4,U lành tuyến tùng
+D35.5,U lành thể cảnh
+D35.6,U lành thể động mạch chủ và thể cận hạch khác
+D35.7,U lành tuyến nội tiết xác định khác
+D35.8,U lành liên quan nhiều tuyến nội tiết
+D35.9,"U lành của tuyến nội tiết, không đặc hiệu"
+D36,U lành có vị trí khác và không xác định
+D36.0,U lành hạch lympho
+D36.1,U lành thần kinh ngoại biên và hệ thần kinh tự động
+D36.7,U lành vị trí xác định khác
+D36.9,U lành của vị trí không xác định
+D37,U tân sinh không rõ hoặc không biết tính chất của khoang miệng và cơ quan tiêu hóa
+D37.0,"U tân sinh chưa rõ tính chất của môi, xoang miệng và hầu"
+D37.1,U tân sinh chưa rõ tính chất của dạ dày
+D37.2,U tân sinh chưa rõ tính chất của ruột non
+D37.3,U tân sinh chưa rõ tính chất của ruột thừa
+D37.4,U tân sinh chưa rõ tính chất của đại tràng
+D37.5,U tân sinh chưa rõ tính chất của trực tràng
+D37.6,"U tân sinh chưa rõ tính chất của gan, túi mật và ống dẫn mật"
+D37.7,U tân sinh chưa rõ tính chất của cơ quan tiêu hóa khác
+D37.9,U tân sinh chưa rõ tính chất của cơ quan tiêu hóa không đặc hiệu
+D38,"U tân sinh không rõ hoặc không biết tính chất của tai giữa, cơ quan hô hấp và cơ quan trong lồng ngực"
+D38.0,U tân sinh chưa rõ tính chất của thanh quản
+D38.1,"U tân sinh chưa rõ tính chất của khí quản, phế quản và phổi"
+D38.2,U tân sinh chưa rõ tính chất màng phổi
+D38.3,U tân sinh chưa rõ tính chất của trung thất
+D38.4,U tân sinh chưa rõ tính chất của tuyến ức
+D38.5,U tân sinh chưa rõ tính chất của cơ quan hô hấp khác
+D38.6,U tân sinh chưa rõ tính chất của cơ quan hô hấp không đặc hiệu
+D60.8,Suy tủy xương một dòng hồng cầu mắc phải khác
+D60.9,Suy tủy xương một dòng hồng cầu mắc phải không đặc hiệu
+D61,Các thể suy tủy xương khác
+D61.0,Suy tủy xương bẩm sinh
+D61.1,Suy tủy xương do thuốc
+D61.2,Suy tủy xương do các nguyên nhân bên ngoài khác
+D61.3,Suy tủy xương vô căn
+D61.8,Suy tủy xương đặc hiệu khác
+D61.9,Suy tủy xương không đặc hiệu khác
+D62,Thiếu máu sau chảy máu cấp tính
+D63,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D63*,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D63.0*,Thiếu máu trong bệnh ác tính (C00-D48†)
+D63.8*,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D64,Các thiếu máu khác
+D64.0,Thiếu máu nhược sắc có nguyên hồng cầu
+D64.1,Thiếu máu nguyên hồng cầu sắt thứ phát do bệnh lý
+D64.2,Thiếu máu nguyên hồng cầu sắt thứ phát do thuốc và độc chất
+D64.3,Các thiếu máu nguyên hồng cầu sắt khác
+D64.4,Thiếu máu rối loạn sinh sản dòng hồng cầu bẩm sinh
+D64.8,Các thiếu máu không đặc hiệu khác
+D64.9,Thiếu máu không đặc hiệu
+D65,Đông máu nội mạch rải rác (hội chứng tiêu fibrin)
+D66,Thiếu yếu tố VIII di truyền
+D67,Thiếu yếu tố IX di truyền
+D68,Các bất thường đông máu khác
+D68.0,Bệnh Von Willebrand
+D68.1,Thiếu yếu tố XI di truyền
+D68.2,Thiếu các yếu tố đông máu khác do di truyền
+D68.3,Xuất huyết trong khi sử dụng dài ngày các chất chống đông máu
+D68.4,Thiếu hụt yếu tố đông máu mắc phải
+D68.5,Bệnh tăng đông máu nguyên phát
+D68.6,Bệnh tăng đông máu khác
+D47.7,"U tân sinh xác định khác, không rõ hoặc không biết tính chất của mô lympho, mô tạo huyết và mô liên quan"
+D47.9,"U tân sinh không đặc hiệu, không chắc chắn hoặc không biết rõ tính chất của mô lympho, mô tạo huyết và mô liên quan"
+D48,U tân sinh không chắc chắn hoặc không biết tính chất có vị trí khác và không xác định
+D48.0,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của xương và sụn khớp"
+D48.1,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của mô liên kết và mô mềm khác"
+D48.2,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của thần kinh ngoại biên và hệ thần kinh tự động"
+D48.3,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vùng sau phúc mạc"
+D48.4,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của phúc mạc"
+D48.5,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của da"
+D48.6,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vú"
+D68.8,Các rối loạn đông máu đặc biệt khác
+D68.9,Rối loạn đông máu không đặc hiệu
+D69,Ban xuất huyết và các tình trạng xuất huyết khác
+D69.0,Ban xuất huyết dị ứng
+D69.1,Bất thường chất lượng tiểu cầu
+D69.2,Ban xuất huyết không giảm tiểu cầu khác
+D69.3,Ban xuất huyết giảm tiểu cầu vô căn
+D69.4,Giảm tiểu cầu tiên phát khác
+D69.5,Giảm tiểu cầu thứ phát
+D69.6,Giảm tiểu cầu không đặc hiệu
+D69.8,Các tình trạng xuất huyết đặc hiệu khác
+D69.9,Tình trạng xuất huyết không đặc hiệu
+D70,Tình trạng không có bạch cầu hạt
+D71,Rối loạn chức năng bạch cầu hạt trung tính
+D72,Các rối loạn khác của bạch cầu
+D72.0,Bất thường di truyền của bạch cầu
+D72.1,Tình trạng tăng bạch cầu ưa acid
+D72.8,Các rối loạn đặc hiệu khác của bạch cầu
+D72.9,Rối loạn bạch cầu không đặc hiệu
+D73,Bệnh lý lách
+D73.0,Thiểu năng lách
+D73.1,Cường lách
+D73.2,Lách to sung huyết mãn tính
+D73.3,Áp xe lách
+D73.4,Nang lách
+D73.5,Nhồi máu lách
+D73.8,Các bệnh khác của lách
+D48.7,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vị trí xác định khác"
+D00,"Ung thư biểu mô tại chỗ của khoang miệng, thực quản và dạ dày"
+D04,Ung thư biểu mô tại chỗ của da
+D47.1,Bệnh bạch cầu dòng trung tính mãn tính
+D59.5,Đái huyết sắc tố kịch phát ban đêm [Hội chứng Marchifava-Micheli]
+D89.2,Tăng gammaglobulin máu không đặc hiệu
+D00.1,Ung thư biểu mô tại chỗ của của thực quản
+D00.2,U ác của Dạ dày
+D01,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa khác và không xác định
+D01.0,Ung thư biểu mô tại chỗ của đại tràng
+D11.7,U lành của tuyến nước bọt chính khác
+D11.9,U lành của tuyến nước bọt chính không đặc hiệu
+D12,"U lành của đại tràng, trực tràng, hậu môn và ống hậu môn"
+D12.0,U lành của manh tràng
+D12.1,U lành của ruột thừa
+D12.2,U lành của đại tràng lên
+D12.3,U lành của đại tràng ngang
+D12.4,U lành của đại tràng xuống
+D12.5,U lành của đại tràng sigma
+D12.6,U lành của Đại tràng không đặc hiệu
+D12.7,U lành của nơi nối trực tràng sigma - trực tràng
+D12.8,U lành của trực tràng
+D12.9,U lành của hậu môn và ống hậu môn
+D68.2,Thiếu các yếu tố đông máu khác do di truyền
+D68.3,Xuất huyết trong khi sử dụng dài ngày các chất chống đông máu
+D68.4,Thiếu hụt yếu tố đông máu mắc phải
+D68.5,Bệnh tăng đông máu nguyên phát
+D68.6,Bệnh tăng đông máu khác
+D68.8,Các rối loạn đông máu đặc biệt khác
+D68.9,Rối loạn đông máu không đặc hiệu
+D69,Ban xuất huyết và các tình trạng xuất huyết khác
+D69.0,Ban xuất huyết dị ứng
+D69.1,Bất thường chất lượng tiểu cầu
+D69.2,Ban xuất huyết không giảm tiểu cầu khác
+D69.3,Ban xuất huyết giảm tiểu cầu vô căn
+D69.4,Giảm tiểu cầu tiên phát khác
+D26.9,"U lành tử cung, không đặc hiệu"
+D27,U lành buồng trứng 
+D28,U lành của cơ quan sinh dục khác và không xác định
+D28.0,U lành âm hộ
+D28.1,U lành âm đạo
+D28.2,U lành vòi tử cung và dây chằng
+D28.7,U lành cơ quan sinh dục nữ xác định khác
+D28.9,"U lành cơ quan sinh dục nữ, không đặc hiệu"
+D29,U lành của cơ quan sinh dục nam
+D29.0,U lành của Dương vật
+D29.1,U lành của Tuyến tiền liệt
+D29.2,U lành của Tinh hoàn
+D29.3,U lành của Mào tinh hoàn
+D29.4,Bìu
+D29.7,Cơ quan sinh dục nam khác
+D29.9,"Cơ quan sinh dục nam, không đặc hiệu"
+D30,U lành của cơ quan tiết niệu
+D30.0,U lành của Thận
+D30.1,U lành của Bồn thận
+D30.2,U lành của Niệu quản
+D30.3,U lành của Bàng quang
+D30.4,U lành của Niệu đạo
+D30.7,Cơ quan tiết niệu khác
+D13,U lành của phần khác và không rõ ràng của hệ tiêu hóa
+D13.0,U lành của thực quản
+D13.1,U lành của dạ dày
+D13.2,U lành của tá tràng
+D13.3,U lành của phần khác và không xác định của ruột non
+D13.4,U lành của gan
+D13.5,U lành của đường mật ngoài gan
+D13.6,U lành của tụy
+D13.7,U lành của tụy nội tiết
+D13.9,U lành của vị trí không rõ ràng trong hệ tiêu hóa
+D14,U lành tai giữa và hệ hô hấp
+D14.0,"U lành của tai giữa, hốc mũi và các xoang phụ"
+D14.1,U lành của thanh quản
+D14.2,U lành của khí quản
+D14.3,U lành của phế quản và phổi
+D14.4,"U lành của hệ hô hấp, không đặc hiệu"
+D15,U lành của cơ quan khác và không xác định trong lồng ngực
+D15.0,U lành của tuyến ức
+D15.1,U lành của tim
+D15.2,U lành của trung thất
+D15.7,U lành của cơ quan trong lồng ngực xác định khác
+D15.9,U lành của cơ quan trong lồng ngực không đặc hiệu
+D16,U lành của xương và sụn khớp
+D16.0,U lành của xương bả vai và xương dài của chi trên
+D16.1,U lành của xương ngắn của chi trên
+D16.2,U lành của xương dài của chi dưới
+D16.3,U lành của xương ngắn của chi dưới
+D16.4,U lành của xương sọ và mặt
+D16.5,U lành của xương hàm dưới
+D16.6,Cột sống
+D69.5,Giảm tiểu cầu thứ phát
+D69.6,Giảm tiểu cầu không đặc hiệu
+D69.8,Các tình trạng xuất huyết đặc hiệu khác
+D69.9,Tình trạng xuất huyết không đặc hiệu
+D70,Tình trạng không có bạch cầu hạt
+D71,Rối loạn chức năng bạch cầu hạt trung tính
+D72,Các rối loạn khác của bạch cầu
+D72.0,Bất thường di truyền của bạch cầu
+D72.1,Tình trạng tăng bạch cầu ưa acid
+D72.8,Các rối loạn đặc hiệu khác của bạch cầu
+D72.9,Rối loạn bạch cầu không đặc hiệu
+D73,Bệnh lý lách
+D73.0,Thiểu năng lách
+D73.1,Cường lách
+D73.2,Lách to sung huyết mãn tính
+D73.3,Áp xe lách
+D73.4,Nang lách
+D73.5,Nhồi máu lách
+D73.8,Các bệnh khác của lách
+D73.9,Bệnh lách không đặc hiệu
+D74,methemoglobin máu
+D74.0,methemoglobin máu bẩm sinh
+D74.8,methaemoglobin máu khác
+D74.9,Methaemoglobin máu không đặc hiệu
+D75,Các bệnh máu và cơ quan tạo máu khác
+D75.0,Tăng hồng cầu gia đình
+D75.1,Bệnh tăng hồng cầu thứ phát
+D75.2,Tăng tiểu cầu tiền phát
+D75.8,Các bệnh đặc hiệu khác của máu và cơ quan tạo máu
+D75.9,Bệnh của máu và cơ quan tạo máu không đặc hiệu
+D46.2,Thiếu máu đề kháng với quá nhiều nguyên bào
+D46.3,Thiếu máu đề kháng với quá nhiều nguyên bào chuyển dạng
+D46.4,"Thiếu máu đề kháng, không đặc hiệu"
+D46.5,Thiếu máu kháng điều trị có loạn sản đa dòng
+D46.6,Hội chứng loạn sản tủy có bất thường nhiễm sắc thể del (5q) đơn độc
+D46.7,Hội chứng loạn sản tủy xương khác
+D46.9,Hội chứng loạn tủy xương không đặc hiệu
+D47,"U tân sinh khác không chắc chắn hoặc không biết sinh chất của mô ulympho, mô tạo huyết và mô liên quan"
+D47.0,Bệnh dưỡng bào hệ thống không triệu chứng
+D47.1,Bệnh bạch cầu dòng trung tính mãn tính
+D47.2,Bệnh lý gamma globulin đơn dòng chưa xác định ý nghĩa
+D47.3,Bệnh tăng tiểu cầu (xuất huyết) vô căn
+D47.4,Bệnh xơ hóa tủy xương
+D47.5,Bệnh bạch cầu dòng tế bào ưa acid mãn tính [hội chứng tăng bạch cầu ưa acid]
+D47.7,"U tân sinh xác định khác, không rõ hoặc không biết tính chất của mô lympho, mô tạo huyết và mô liên quan"
+D47.9,"U tân sinh không đặc hiệu, không chắc chắn hoặc không biết rõ tính chất của mô lympho, mô tạo huyết và mô liên quan"
+D48,U tân sinh không chắc chắn hoặc không biết tính chất có vị trí khác và không xác định
+D48.0,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của xương và sụn khớp"
+D48.1,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của mô liên kết và mô mềm khác"
+D48.2,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của thần kinh ngoại biên và hệ thần kinh tự động"
+D48.3,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vùng sau phúc mạc"
+D48.4,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của phúc mạc"
+D48.5,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của da"
+D48.6,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vú"
+D48.7,"U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của vị trí xác định khác"
+D48.9,"U tân sinh không chắc chắn hoặc không biết tính chất, không đặc hiệu"
+D50,Thiếu máu do thiếu sắt
+D50.0,Thiếu máu thiếu sắt thứ phát do mất máu (mãn tính)
+D50.1,Chứng khó nuốt do thiếu sắt
+D50.8,Các thiếu máu thiếu sắt khác
+D50.9,Thiếu máu thiếu sắt không đặc hiệu
+D35.3,U lành ống sọ hầu
+D35.4,U lành tuyến tùng
+D35.5,U lành thể cảnh
+D35.6,U lành thể động mạch chủ và thể cận hạch khác
+D35.7,U lành tuyến nội tiết xác định khác
+D35.8,U lành liên quan nhiều tuyến nội tiết
+D35.9,"U lành của tuyến nội tiết, không đặc hiệu"
+D36,U lành có vị trí khác và không xác định
+D36.0,U lành hạch lympho
+D36.1,U lành thần kinh ngoại biên và hệ thần kinh tự động
+D36.7,U lành vị trí xác định khác
+D36.9,U lành của vị trí không xác định
+D37,U tân sinh không rõ hoặc không biết tính chất của khoang miệng và cơ quan tiêu hóa
+D37.0,"U tân sinh chưa rõ tính chất của môi, xoang miệng và hầu"
+D37.1,U tân sinh chưa rõ tính chất của dạ dày
+D37.2,U tân sinh chưa rõ tính chất của ruột non
+D16.7,"U lành của xương sườn, xương ức và xương đòn"
+D16.8,"U lành của xương chậu, xương thiêng và xương cụt"
+D16.9,U lành của xương và sụn khớp không đặc hiệu
+D17,U mỡ
+D17.0,"U mỡ lành tính của da và mô dưới da ở đầu, mặt và cổ"
+D17.1,U mỡ lành tính của da và mô dưới da ở thân hình
+D17.2,U mỡ lành tính của da và mô dưới da ở các chi
+D17.3,U mỡ lành tính của da và mô dưới da ở vị trí khác và không xác định
+D17.4,U mỡ lành tính của cơ quan trong lồng ngực
+D17.5,U mỡ lành tính của cơ quan trong ổ bụng
+D17.6,U mỡ lành tính của thừng tinh
+D17.7,U mỡ lành tính của vị trí khác
+D17.9,U mỡ lành tính không đặc hiệu
+D18,"U mạch máu và u hạch bạch huyết, vị trí bất kỳ"
+D76,Các bệnh của tổ chức lympho- liên võng và - (tổ chức bào) mô bào- liên võng xác định khác
+D76.0,"Bệnh tổ chức bào tế bào langerhans, chưa được phân loại ở phần khác"
+D76.1,Bệnh tổ chức bào thực bào đơn nhân
+D76.2,Hội chứng thực bào tế bào máu liên quan đến nhiễm trùng
+D76.3,Các hội chứng mô bào khác
+D77,Rối loạn của máu và cơ quan tạo máu trong các bệnh khác 
+D77*,Rối loạn của máu và cơ quan tạo máu trong các bệnh khác 
+D80,Thiếu hụt miễn dịch chủ yếu do bất thường kháng thể
+D80.0,Giảm gammaglobulin máu di truyền
+D80.1,Giảm gammaglobulin máu không có yếu tố gia đình
+D80.2,Thiếu hụt immunoglobulin A IgA chọn lọc
+D80.3,Thiếu hụt immunoglobulin A IgA chọn lọc
+D80.4,Thiếu hụt immunoglobulin M [IgM] chọn lọc
+D80.5,Suy giảm miễn dịch có tăng immunoglobulin M [IgM]
+D18.0,"U mạch máu, vị trí bất kỳ"
+D18.1,"U mạch bạch huyết, vị trí bất kỳ"
+D19,U lành của trung mô
+D19.0,U lành trung mô của màng phổi
+D19.1,U lành trung mô của phúc mạc
+D19.7,U lành trung mô của các vị trí khác
+D19.9,U lành trung mô không xác định
+D20,U lành mô mềm sau phúc mạc và phúc mạc
+D20.0,U lành mô mềm sau phúc mạc
+D20.1,U lành mô mềm phúc mạc
+D21,U lành khác của mô liên kết và mô mềm khác
+D21.0,"U lành mô liên kết và mô mềm khác của đầu, mặt và cổ"
+D21.1,U lành mô liên kết và mô mềm khác của chi trên bao gồm vai
+D21.2,"U lành mô liên kết và mô mềm khác của chi dưới, bào gồm háng"
+D21.3,U lành mô liên kết và mô mềm khác của lồng ngực
+D21.4,U lành mô liên kết và mô mềm khác của bụng
+D21.5,U lành mô liên kết và mô mềm khác của chậu
+D21.6,"U lành mô liên kết và mô mềm khác của thân mình, không đặc hiệu"
+D21.9,"U lành mô liên kết và mô mềm khác, không đặc hiệu"
+D22,Nốt ruồi
+D22.0,Nốt ruồi của môi
+D22.1,Nốt ruồi của khóe mắt bao gồm mí mắt
+D22.2,Nốt ruồi của tai và ống tai ngoài
+D22.3,Nốt ruồi của phần khác và phần không xác định của mặt
+D22.4,Nốt ruồi của da đầu và cổ
+D22.5,Nốt ruồi của thân mình
+D80.6,Thiếu hụt kháng thể với hàm lượng các immunoglobulin giảm ít hoặc tăng ịmmuglobulin máu
+D80.7,Thiếu hụt gammaglobulin máu thoáng qua ở trẻ nhỏ
+D80.8,Suy giảm miễn dịch khác do thiếu kháng thể là chủ yếu
+D80.9,"Thiếu hụt miễn dịch do thiếu kháng thể là chủ yếu, không đặc hiệu"
+D81,Suy giảm miễn dịch kết hợp
+D81.0,Suy giảm miễn dịch hỗn hợp nặng [SCID] với loạn sinh liên võng
+D81.1,Suy giảm miễn dịch hỗn hợp nặng [SCID] với giảm số lượng lympho T và B
+D81.2,Thiếu hụt miễn dịch kết hợp nguy kịch [SCID] với số lượng lympho B thấp hoặc bình thường
+D81.3,Thiếu hụt enzim adenosine deaminase [ADA]
+D81.4,Hội chứng Nezelof
+D81.5,Thiếu hụt emzim purine nucleoside phosphorylase [PNP]
+D81.6,Thiếu hụt phức hợp hoà hợp tổ chức lớp I (MHC I)
+D81.7,Thiếu hụt phức hợp hoà hợp tổ chức lớp II (MHC II)
+D81.8,Các suy giảm miễn dịch kết hợp khác
+D81.9,Suy giảm miễn dịch hỗn hợp không đặc hiệu
+D82,Suy giảm miễn dịch liên quan đến các bất thường nặng khác
+D82.0,Hội chứng Wiskott-Aldrich
+D82.1,Hội chứng Di George s
+D82.2,Suy giảm miễn dịch kèm chứng ngắn chi
+D82.3,Suy giảm miễn dịch sau đáp ứng với virus Epstein-Barr bị khuyết thiếu mang tính di truyền
+D82.4,Hội chứng tăng immunoglobulin E [IgE]
+D51,Thiếu máu do thiếu vitamin B12
+D51.0,Thiếu máu thiếu vitamin B12 do thiếu yếu tố nội
+D51.1,Thiếu vitamin B12 do giảm hấp thu chọn lọc vitamin B12 kèm theo đái protein
+D51.2,Thiếu Transcobalamin II
+D51.3,Thiếu máu thiếu vitamin B12 khác do dinh dưỡng
+D51.8,Các thiếu máu thiếu vitamin B12 khác
+D51.9,Thiếu máu thiếu vitamin B12 không đặc hiệu
+D52,Thiếu máu do chế độ dinh dưỡng
+D52.0,Thiếu máu thiếu folate do chế độ dinh dưỡng
+D52.1,Thiếu máu thiếu folate do thuốc
+D52.8,Các thiếu máu thiếu folate khác
+D52.9,Thiếu máu thiếu folate không đặc hiệu
+D53,Các thiếu máu dinh dưỡng khác
+D53.0,Thiếu máu do thiếu protein
+D53.1,"Các thiếu máu nguyên hồng cầu khổng lồ khác, chưa được phân loại ở phần khác"
+D53.2,Thiếu máu thiếu vitamin C
+D53.8,Các thiếu máu dinh dưỡng đặc hiệu khác
+D53.9,Thiếu máu dinh dưỡng không đặc hiệu
+D55,Thiếu máu do rối loạn men
+D55.0,Thiếu máu do thiếu men glucose-6-phosphate dehydrogenase
+D30.9,Cơ quan tiết niệu không đặc hiệu
+D31,U lành của mắt và phần phụ
+D31.0,U lành kết mạc
+D31.1,U lành giác mạc
+D31.2,U lành võng mạc
+D31.3,U lành màng mạch mắt
+D31.4,U lành thể mi
+D31.5,U lành tuyến và ống lệ
+D31.6,U lành hốc mắt không đặc hiệu
+D31.9,"U lành của mắt, không đặc hiệu"
+D32,U lành của màng não
+D32.0,U lành màng não
+D32.1,U lành màng não tủy sống
+D32.9,"U lành màng não, không đặc hiệu"
+D33,U lành của não và các phần khác của hệ thần kinh trung ương
+D33.0,U lành của não trên lều
+D33.1,"U lành của não, lều dưới"
+D33.2,"U lành của não, không đặc hiệu"
+D33.3,U lành thần kinh sọ não
+D33.4,U lành của tủy sống
+D33.7,U lành của phần xác định khác của hệ thần kinh trung ương
+D33.9,"U lành của hệ thần kinh trung ương, không đặc hiệu"
+D34,U lành của tuyến giáp
+D35,U lành của tuyến nội tiết và không xác định
+D35.0,U lành tuyến thượng thận
+D35.1,U lành tuyến cận giáp
+D35.2,U lành tuyến yên
+D22.6,Nốt ruồi của chi trên bao gồm vai
+D22.7,Nốt ruồi của chi dưới bao gồm háng
+D22.9,Nốt ruồi không có gì đặc hiệu
+D23,U lành khác của da
+D23.0,U lành da của môi
+D23.1,U lành da của mi mắt kể cả góc mắt
+D23.2,U lành da tai và ống tai ngoài
+D23.3,U lành ở da các phần không xác định khác của mặt
+D23.4,U lành da đầu và cổ
+D23.5,U lành da thân mình
+D23.6,"U lành da chi trên, bao gồm vai"
+D23.7,U lành da chi dưới bao gồm háng
+D23.9,"U lành của da, không đặc hiệu"
+D24,U lành vú
+D25,U cơ trơn tử cung
+D25.0,U cơ trơn dưới niêm mạc tử cung
+D25.1,U cơ trơn trong vách tử cung
+D25.2,U cơ trơn dưới thanh mạc tử cung
+D25.9,"U cơ trơn tử cung, không đặc hiệu"
+D26,U lành khác của tử cung
+D26.0,U lành cổ tử cung
+D26.1,U lành thân tử cung
+D26.7,U lành phần khác của tử cung
+D82.8,Suy giảm miễn dịch liên quan với các bất thường lớn đặc hiệu khác
+D82.9,"Suy giảm miễn dịch khiếm khuyết chủ yếu, không đặc hiệu"
+D83,Một số các biến thể khác của suy giảm miễn dịch
+D83.0,Suy giảm miễn dịch một số biến thể do bất thường về số lượng và chức năng lympho B
+D83.1,Suy giảm miễn dịch biến thể chủ yếu do rối loạn điều hoà miễn dịch của lympho T
+D83.2,Suy giảm miễn dịch biến thể phổ biến với tự kháng thể chống lympho B hoặc T
+D83.8,Các suy giảm miễn dịch biến thiên phổ biến khác
+D83.9,Suy giảm miễn dịch biến thiên phổ biến không đặc hiệu
+D84,Các suy giảm miễn dịch khác
+D84.0,Bất thường kháng nguyên chức năng 1 của lymphocyte [LFA-1]
+D84.1,Các bất thường của hệ thống bổ thể
+D84.8,Các suy giảm miễn dịch đặc hiệu khác
+D84.9,Suy giảm miễn dịch không đặc hiệu
+D86,Bệnh sarcoid
+D86.0,Bệnh sarcoid phổi
+D86.1,Bệnh sarcoid hạch bạch huyết
+D86.2,Bệnh sarcoid phổi và hạch bạch huyết
+D55.1,Thiếu máu do các rối loạn chuyển hóa glutathione khác
+D55.2,Thiếu máu do rối loạn các men phân giải glucose
+D55.3,Thiếu máu do rối loạn chuyển hóa nucleotide
+D55.8,Các thiếu máu khác do rối loạn men
+D55.9,"Thiếu máu do rối loạn men, không đặc hiệu"
+D56,Bệnh Thalassaemia
+D56.0,Alpha thalassaemia
+D56.1,Beta thalassaemia
+D56.2,Delta-beta thalassaemia
+D56.3,Thalassaemia vết
+D56.4,Tồn tại di truyền huyết sắc tố bào thai [HPFH]
+D56.8,Các thalassaemias khác
+D56.9,Thalassaemia không đặc hiệu
+D57,Bệnh hồng cầu liềm
+D57.0,Thiếu máu hồng cầu liềm có cơn tan máu
+D57.1,Thiếu máu hồng cầu liềm không có cơn tan máu
+D57.2,Di hợp tử kép hồng cầu hình liềm với các Hb bất thường khác
+D57.3,Hồng cầu liềm thể nhẹ
+D57.8,Các rối loạn hồng cầu liềm khác
+D58,Các thiếu máu tan máu di truyền khác
+D58.0,Hồng cầu hình cầu di truyền
+D58.1,Hồng cầu hình elip di truyền
+D58.2,Các bệnh huyết sắc tố khác
+D58.8,Các thiếu máu tan máu di truyền đặc hiệu khác
+D58.9,Thiếu máu tan máu di truyền không đặc hiệu
+D59,Thiếu máu tan máu mắc phải
+D59.0,Thiếu máu tan máu tự miễn dịch do thuốc
+D37.3,U tân sinh chưa rõ tính chất của ruột thừa
+D37.4,U tân sinh chưa rõ tính chất của đại tràng
+D37.5,U tân sinh chưa rõ tính chất của trực tràng
+D37.6,"U tân sinh chưa rõ tính chất của gan, túi mật và ống dẫn mật"
+D37.7,U tân sinh chưa rõ tính chất của cơ quan tiêu hóa khác
+D37.9,U tân sinh chưa rõ tính chất của cơ quan tiêu hóa không đặc hiệu
+D38,"U tân sinh không rõ hoặc không biết tính chất của tai giữa, cơ quan hô hấp và cơ quan trong lồng ngực"
+D86.3,Bệnh sarcoid da
+D86.8,Bệnh sarcoid hỗn hợp và tại các khu vực khác
+D86.9,Bệnh sarcoid không đặc hiệu
+D89,"Rối loạn liên quan đến cơ chế miễn dịch, chưa phân loại nơi khác"
+D89.0,Tăng gammaglobulin máu đa dòng
+D89.1,Bệnh kháng thể (tăng globulin) ngưng kết lạnh
+D89.2,Tăng gammaglobulin máu không đặc hiệu
+D89.3,Hội chứng tái tạo miễn dịch
+D89.8,"Các rối loạn xác định khác liên quan đến cơ chế miễn dịch, chưa được phân loại ở phần khác"
+D89.9,"Rối loạn liên quan đến cơ chế miễn dịch, không đặc hiệu"
+D01.1,Ung thư biểu mô tại chỗ nơi nối trực tràng - đại tràng sigma
+D01.2,Ung thư biểu mô tại chỗ của trực tràng
+D01.3,Ung thư biểu mô tại chỗ của hậu môn và ống hậu môn
+D01.4,Ung thư biểu mô tại chỗ của phần khác và không xác định của ruột non
+D01.5,"Ung thư biểu mô tại chỗ của gan, túi mật và đường dẫn mật"
+D01.7,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa xác định khác
+D01.9,Ung thư biểu mô tại chỗ của cơ quan tiêu hóa không đặc hiệu
+D02,Ung thư biểu mô tại chỗ của tai giữa và hệ hô hấp
+D02.0,Ung thư biểu mô tại chỗ của thanh quản
+D02.1,Ung thư biểu mô tại chỗ của khí quản
+D02.2,Ung thư biểu mô tại chỗ của phế quản và phổi
+D02.3,Ung thư biểu mô tại chỗ của phần khác và hệ hô hấp
+D02.4,Ung thư biểu mô tại chỗ của hệ hô hấp không đặc hiệu
+D03,U hắc tố tại chỗ
+D03.0,U hắc tố tại chỗ của môi
+D03.1,"U hắc tố tại chỗ của mi mắt, bao gồm góc mắt"
+D03.2,U hắc tố tại chỗ của tai và ống ngoài tai
+D03.3,U hắc tố tại chỗ của phần khác và phần không xác định của mặt
+D03.4,U hắc tố tại chỗ của da đầu và cổ
+D03.5,U hắc tố tại chỗ của thân mình
+D03.6,"U hắc tố tại chỗ của chi trên, bao gồm vai"
+D03.7,"U hắc tố tại chỗ của chi dưới, bao gồm vùng háng"
+D03.8,U hắc tố tại chỗ của vị trí khác
+D03.9,"U hắc tố tại chỗ, không đặc hiệu"
+D04,Ung thư biểu mô tại chỗ của da
+D04.0,Ung thư biểu mô tại chỗ của da môi
+D04.1,Ung thư biểu mô tại chỗ của da mí mắt bao gồm góc mắt
+D04.2,Ung thư biểu mô tại chỗ của da vùng tai và ống tai ngoài
+D04.3,Ung thư biểu mô tại chỗ của da của phần khác và không xác định của mặt
+D04.4,Ung thư biểu mô tại chỗ của da đầu và cổ
+D04.5,Ung thư biểu mô tại chỗ của da thân mình
+D04.6,"Ung thư biểu mô tại chỗ của da chi trên, bao gồm vai"
+D04.7,"Ung thư biểu mô tại chỗ của da chi dưới, bao gồm háng"
+D38.0,U tân sinh chưa rõ tính chất của thanh quản
+D38.1,"U tân sinh chưa rõ tính chất của khí quản, phế quản và phổi"
+D38.2,U tân sinh chưa rõ tính chất màng phổi
+D38.3,U tân sinh chưa rõ tính chất của trung thất
+D38.4,U tân sinh chưa rõ tính chất của tuyến ức
+D38.5,U tân sinh chưa rõ tính chất của cơ quan hô hấp khác
+D38.6,U tân sinh chưa rõ tính chất của cơ quan hô hấp không đặc hiệu
+D39,U không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ
+D39.0,U tân sinh không chắc chắn hoặc không biết tính chất của tử cung
+D39.1,U tân sinh không chắc chắn hoặc không biết tính chất của buồng trứng
+D39.2,U tân sinh không chắc chắn hoặc không biết tính chất của nhau (rau) thai
+D39.7,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ khác
+D39.9,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nữ không đặc hiệu
+D40,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan sinh dục nam
+D40.0,U tân sinh không chắc chắn hoặc không biết tính chất của Tiền liệt tuyến
+D40.1,U tân sinh không chắc chắn hoặc không biết tính chất của Tinh hoàn
+D40.7,U tân sinh không chắc chắn hoặc không biết tính chất của Các cơ quan sinh dục nam khác
+D40.9,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan sinh dục nam không đặc hiệu
+D41,U tân sinh không chắc chắn hoặc không biết tính chất của cơ quan tiết niệu
+D41.0,U tân sinh không chắc chắn hoặc không biết tính chất của Thận
+D41.1,U tân sinh không chắc chắn hoặc không biết tính chất của Bể thận
+D41.2,U tân sinh không chắc chắn hoặc không biết tính chất của Niệu quản
+D41.3,U tân sinh không chắc chắn hoặc không biết tính chất của Niệu đạo
+D41.4,U tân sinh không chắc chắn hoặc không biết tính chất của Bàng quang
+D59.1,Các thiếu máu tan máu tự miễn dịch khác
+D59.2,Thiếu máu tan máu do thuốc không phải tự miễn dịch
+D59.3,Hội chứng tan máu urê máu cao
+D59.4,Các thiếu máu tan máu không phải tự miễn dịch khác
+D59.5,Đái huyết sắc tố kịch phát ban đêm [Hội chứng Marchifava-Micheli]
+D59.6,Đái huyết sắc tố do tan máu từ những nguyên nhân bên ngoài khác
+D59.8,Các thiếu máu tan máu mắc phải khác
+D59.9,Thiếu máu tan máu mắc phải không đặc hiệu
+D60,Suy tủy xương một dòng hồng cầu mắc phải (giảm nguyên hồng cầu)
+D00,"Ung thư biểu mô tại chỗ của khoang miệng, thực quản và dạ dày"
+D00.0,Ung thư biểu mô tại chỗ của của môi khoang miệng và hầu
+D04.8,Ung thư biểu mô tại chỗ của da ở vị trí khác
+D04.9,"Ung thư biểu mô tại chỗ của da, không đặc hiệu"
+D05,Ung thư biểu mô tại chỗ của vú
+D05.0,Ung thư biểu mô tiểu thuỳ tại chỗ
+D05.1,Ung thư biểu mô ống tuyến vú tại chỗ
+D05.7,Ung thư biểu mô ống tuyến khác tại chỗ của vú
+D05.9,"Ung thư biểu mô tại chỗ của vú, không đặc hiệu"
+D06,Ung thư biểu mô tại chỗ của cổ tử cung
+D60.0,Suy tủy xương một dòng hồng cầu mắc phải mãn tính
+D60.1,Suy tủy xương một dòng hồng cầu mắc phải thoáng qua
+D60.8,Suy tủy xương một dòng hồng cầu mắc phải khác
+D60.9,Suy tủy xương một dòng hồng cầu mắc phải không đặc hiệu
+D61,Các thể suy tủy xương khác
+D61.0,Suy tủy xương bẩm sinh
+D61.1,Suy tủy xương do thuốc
+D61.2,Suy tủy xương do các nguyên nhân bên ngoài khác
+D61.3,Suy tủy xương vô căn
+D61.8,Suy tủy xương đặc hiệu khác
+D61.9,Suy tủy xương không đặc hiệu khác
+D62,Thiếu máu sau chảy máu cấp tính
+D63,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D63*,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D63.0*,Thiếu máu trong bệnh ác tính (C00-D48†)
+D63.8*,Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác
+D64,Các thiếu máu khác
+D64.0,Thiếu máu nhược sắc có nguyên hồng cầu
+D64.1,Thiếu máu nguyên hồng cầu sắt thứ phát do bệnh lý
+D64.2,Thiếu máu nguyên hồng cầu sắt thứ phát do thuốc và độc chất
+D64.3,Các thiếu máu nguyên hồng cầu sắt khác
+D64.4,Thiếu máu rối loạn sinh sản dòng hồng cầu bẩm sinh
+D64.8,Các thiếu máu đặc hiệu khác
+D64.9,Thiếu máu không đặc hiệu
+D65,Đông máu nội mạch rải rác (hội chứng tiêu fibrin)
+D66,Thiếu yếu tố VIII di truyền
+D67,Thiếu yếu tố IX di truyền
+D68,Các bất thường đông máu khác
+D68.0,Bệnh Von Willebrand
+D68.1,Thiếu yếu tố XI di truyền
+D41.7,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu khác
+D41.9,U tân sinh không chắc chắn hoặc không biết tính chất của Cơ quan tiết niệu không đặc hiệu
+D42,U tân sinh không chắc chắn hoặc không biết tính chất của màng não
+D42.0,U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc não
+D42.1,U tân sinh không chắc chắn hoặc không biết tính chất của màng não thuộc tủy sống
+D42.9,"U tân sinh không chắc chắn hoặc không biết tính chất của màng não, không đặc hiệu"
+D43,U tân sinh không chắc chắn hoặc không biết tính chất của màng não
+D06.0,Ung thư biểu mô tại chỗ của nội mạc
+D06.1,Ung thư biểu mô tại chỗ của ngoại mạc
+D06.7,Ung thư biểu mô tại chỗ của phần khác của cổ tử cung
+D06.9,"Ung thư biểu mô tại chỗ của cổ tử cung, không đặc hiệu"
+D07,Ung thư biểu mô tại chỗ của cơ quan sinh dục khác và không xác định
+D07.0,Ung thư biểu mô tại chỗ của nội mạc tử cung
+D07.1,Ung thư biểu mô tại chỗ của âm hộ
+D07.2,Ung thư biểu mô tại chỗ của âm đạo
+D07.3,Ung thư biểu mô tại chỗ của cơ quan sinh dục nữ khác và không xác định
+D07.4,Ung thư biểu mô tại chỗ của dương vật
+D07.5,Ung thư biểu mô tại chỗ của tuyến tiền liệt
+D07.6,Ung thư biểu mô tại chỗ của cơ quan sinh dục nam khác và không xác định
+D09,Ung thư biểu mô tại chỗ ở vị trí khác và không xác định
+D09.0,Ung thư biểu mô tại chỗ của bàng quang
+D09.1,Ung thư biểu mô tại chỗ của cơ quan tiết niệu khác và không xác định
+D09.2,Ung thư biểu mô tại chỗ của mắt
+D09.3,Ung thư biểu mô tại chỗ của tuyến giáp và tuyến nội tiết khác
+D09.7,Ung thư biểu mô tại chỗ ở vị trí xác định khác
+D09.9,"Ung thư biểu mô tại chỗ, không xác định"
+D10,U lành của miệng và hầu
+D10.0,U lành của môi
+D10.1,U lành của lưỡi
+D10.2,U lành của sàn miệng
+D10.3,U lành của phần khác và không xác định của miệng
+D10.4,U lành của amiđan
+D10.5,U lành của phần khác của hầu - khẩu
+D10.6,U lành của hầu - mũi
+D10.7,U lành của hạ hầu
+D10.9,"U lành của hầu, không đặc hiệu"
+D11,U lành của các tuyến nước bọt chính
+D11.0,U lành của tuyến mang tai
+D43.0,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, trên lều não"
+D43.1,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, dưới lều não"
+D43.2,"U tân sinh không chắc chắn hoặc không biết tính chất của Não, không đặc hiệu"
+D43.3,U tân sinh không chắc chắn hoặc không biết tính chất của Thần kinh sọ
+D43.4,U tân sinh không chắc chắn hoặc không biết tính chất của tủy sống
+D43.7,U tân sinh không chắc chắn hoặc không biết tính chất của Phần khác của hệ thần kinh trung ương
+D43.9,"U tân sinh không chắc chắn hoặc không biết tính chất của Hệ thần kinh trung ương, không đặc hiệu"
+D44,U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết
+D44.0,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến giáp
+D44.1,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến thượng thận
+D44.2,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến cận giáp
+D44.3,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến yên
+D44.4,U tân sinh không chắc chắn hoặc không biết tính chất của Ống sọ-hầu
+D44.5,U tân sinh không chắc chắn hoặc không biết tính chất của Tuyến tùng
+D44.6,U tân sinh không chắc chắn hoặc không biết tính chất của Thể cảnh
+D44.7,U tân sinh không chắc chắn hoặc không biết tính chất của Thể động mạch chủ và thể cận hạch khác
+D44.8,U tân sinh không chắc chắn hoặc không biết tính chất liên quan nhiều tuyến nội tiết
+D44.9,U lành của tuyến nội tiết không đặc hiệu
+D45,U tân sinh không chắc chắn hoặc không biết tính chất của tuyến nội tiết
+D46,Hội chứng loạn sản tủy xương
+D46.0,"Thiếu máu kháng điều trị không có nguyên hồng cầu sắc hình vòng, được xác lập như vậy"
+D46.1,Thiếu máu kháng điều trị có nguyên hồng cầu hình vòng

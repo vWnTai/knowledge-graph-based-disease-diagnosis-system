@@ -1,0 +1,23 @@
+﻿Loại cấp độ,Mã khoảng bệnh,Đã là cấp cuối chưa,Mã số chương,Tên chương tiếng Việt
+chapter,A00-B99,False,I,(A00-B99) Bệnh nhiễm trùng và ký sinh trùng
+chapter,C00-D48,False,II,(C00-D48) U tân sinh
+chapter,D50-D89,False,III,"(D50-D89) Bệnh máu, cơ quan tạo máu và các bệnh lý liên quan đến cơ chế miễn dịch"
+chapter,E00-E90,False,IV,"(E00-E90) Bệnh nội tiết, dinh dưỡng và chuyển hoá"
+chapter,F00-F99,False,V,(F00-F99) Rối loạn tâm thần và hành vi
+chapter,G00-G99,False,VI,(G00-G99) Bệnh hệ thần kinh
+chapter,H00-H59,False,VII,(H00-H59) Bệnh mắt và phần phụ của mắt
+chapter,H60-H95,False,VIII,(H60-H95) Bệnh tai và xương chũm
+chapter,I00-I99,False,IX,(I00-I99) Bệnh hệ tuần hoàn
+chapter,J00-J99,False,X,(J00-J99) Bệnh hệ hô hấp
+chapter,K00-K93,False,XI,(K00-K93) Bệnh hệ tiêu hoá
+chapter,L00-L99,False,XII,(L00-L99) Bệnh da và tổ chức dưới da
+chapter,M00-M99,False,XIII,"(M00-M99) Bệnh hệ cơ, xương, khớp và mô liên kết"
+chapter,N00-N99,False,XIV,"(N00-N99) Bệnh hệ tiết niệu, sinh dục"
+chapter,O00-O99,False,XV,"(O00-O99) Mang thai, sinh đẻ và hậu sản"
+chapter,P00-P96,False,XVI,(P00-P96) Một số bệnh lý khởi phát trong thời kỳ chu sinh
+chapter,Q00-Q99,False,XVII,"(Q00-Q99) Dị tật bẩm sinh, biến dạng và bất thường về nhiễm sắc thể"
+chapter,R00-R99,False,XVIII,"(R00-R99) Các triệu chứng cơ năng, thực thể và bất thường về lâm sàng và cận lâm sàng không phân loại nơi khác"
+chapter,S00-T98,False,XIX,"(S00-T98) Tổn thương, ngộ độc và một số hậu quả do nguyên nhân ngoại sinh"
+chapter,V01-Y98,False,XX,(V01-Y98) Các nguyên nhân ngoại sinh của bệnh tật và tử vong
+chapter,Z00-Z99,False,XXI,(Z00-Z99) Các yếu tố ảnh hưởng đến tình trạng sức khoẻ và tiếp cận dịch vụ y tế
+chapter,U00-U99,False,XXII,(U00-U99) Mã dành cho những mục đích đặc biệt

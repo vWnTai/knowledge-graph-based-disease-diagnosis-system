@@ -1,0 +1,867 @@
+﻿Ma,Ten_Benh
+J63.8,Bệnh phổi nghề nghiệp do bụi phổi vô cơ xác định khác
+J64,Bệnh bụi phổi không phân loại
+J65,Bệnh bụi phổi kết hợp với lao
+J66,Bệnh đường dẫn khí do bụi hữu cơ đặc biệt khác
+J66.0,Bụi phổi bống
+J66.1,Bệnh Flax - Dresser
+J66.2,Bệnh đường hô hấp do ma túy
+J66.8,Bệnh đường dẫn bụi khí do bụi hữu cơ đặc biệt khác
+J67,Viêm phổi tăng cảm do bụi hữu cơ
+J67.0,Bệnh phổi của người nông dân
+J67.1,Bệnh phổi do bã mía
+J67.2,Bệnh phổi ở người nuôi chim
+J67.3,Bệnh phổi do xơ cây bần
+J67.4,Bệnh phổi của công nhân tiếp xúc với mạch nha bị mốc
+J67.5,Bệnh phổi của công nhân trồng nấm
+J37.0,Viêm thanh quản mãn tính
+J37.1,Viêm thanh khí quản mạn
+J38,"Bệnh lý của dây thanh âm và thanh quản, không phân loại nơi khác"
+J38.0,Liệt dây thanh âm và thanh quản
+J38.1,Polyp của dây thanh âm và thanh quản
+J38.2,Nốt nhỏ ở dây thanh âm
+J38.3,Các bệnh lý khác của dây thanh âm
+J38.4,Phù thanh quản
+J38.5,Co thắt thanh quản
+J38.6,Hẹp thanh quản
+J38.7,Các bệnh lý khác của thanh quản
+J39,Các bệnh khác của đường hô hấp trên
+J39.0,Áp xe sau họng và áp xe cận họng
+J39.1,Áp xe khác của họng
+J39.2,Bệnh khác của họng
+J39.3,"Phản ứng quá mẫn đường hô hấp trên, vị trí không xác định"
+J39.8,Các bệnh lý xác định khác của đường hô hấp trên
+J39.9,"Bệnh của đường hô hấp trên, không đặc hiệu"
+J40,Viêm phế quản không xác định được là cấp hay mãn tính
+J41,Viêm phế quản mãn tính đơn thuần và nhầy mủ
+J41.0,Viêm phế quản mãn tính đơn thuần
+J41.1,Viêm phế quản mãn tính nhầy mủ
+J41.8,Viêm phế quản mãn tính hỗn hợp (đơn thuần và nhầy mủ)
+J42,Viêm phế quản mãn tính không phân loại
+J43,Giãn phế nang
+J43.0,Hội chứng MacLeod
+J43.1,Giãn phế nang toàn tiểu thuỳ
+J43.2,Giãn phế nang trung tâm tiểu thuỳ
+J43.8,Giãn phế nang khác
+J43.9,"Giãn phế nang, không đặc hiệu"
+J44,Các bệnh phổi tắc nghẽn mãn tính khác
+J44.0,Bệnh phổi tắc nghẽn mãn tính đợt cấp do bội nhiễm
+J44.8,"Bệnh phổi tắc nghẽn mãn tính, phân loại khác"
+J44.9,"Bệnh phổi tắc nghẽn mãn tính, không phân loại"
+J45,Hen [suyễn]
+J45.0,Hen chủ yếu do dị ứng
+J45.1,Hen không dị ứng
+J45.8,Hen hỗn hợp
+J45.9,"Hen, không phân loại"
+J46,Cơn hen ác tính
+J47,Dãn phế quản
+J60,Bệnh bụi phổi của công nhân ngành than
+J61,Bệnh bụi phổi amian và các sợi khóang khác
+J62,Bệnh bụi phổi do bụi silic
+J62.0,Bệnh bụi phổi do bột talc
+J62.8,Bệnh bụi phổi do bụi khác chứa silic
+J63,Bệnh bụi phổi do bụi vô cơ khác
+J63.0,Nhiễm bụi nhôm (của phổi)
+J63.1,Xơ hóa do quặng bô- xít (của phổi)
+J63.2,Bụi phổi do beryllium
+J63.3,Xơ phổi do than chì (của phổi)
+J63.4,Bệnh xơ phổi do sắt
+J63.5,Bệnh xơ phổi do thiếc
+J44.1,"Bệnh phổi tắc nghẽn mãn tính đợt cấp, không phân loại"
+J67.6,Bệnh phổi của công nhân bóc vỏ cây thích
+J67.7,Bệnh phổi do máy làm ẩm và máy điều hoà không khí
+J67.8,Viêm phổi tăng cảm do bụi hữu cơ khác
+J67.9,Viêm phổi tăng cảm do bụi hữu cơ không phân loại
+J68,"Bệnh hô hấp do hít hóa chất, khí, khói và chất bay hơi"
+J68.0,"Viêm phế quản và viêm phổi do hóa chất, chất khí, khói và chất bay hơi"
+J68.1,"Phù phổi do hóa chất, khí, khói và chất bay hơi"
+J68.2,"Viêm đường hô hấp trên do hóa chất, khí, khói và chất bay hơi, chưa phân loại nơi khác"
+J68.3,"Bệnh hô hấp cấp và bán cấp khác do hóa chất, khí, khói và chất bay hơi"
+J68.4,"Bệnh hô hấp mạn do hóa chât, khí, khói và chất bay hơi"
+J68.8,"Bệnh hô hấp khác do hóa chất, khí, khói và chất bay hơi"
+J68.9,"Bệnh hô hấp không phân loại do hóa chất, khí, khói và chất bay hơi"
+J69,Viêm phổi do chất rắn và chất lỏng
+J69.0,Viêm phổi hít phải thức ăn và chất nôn
+J69.1,Viêm phổi hít phải dầu và hương liệu
+J69.8,Viêm phổi hít phải chất rắn và chất lỏng khác
+J70,Bệnh hô hấp do tác nhân bên ngoài khác
+J70.0,Biểu hiện cấp tính ở phổi do phóng xạ
+J70.1,Biểu hiện mãn tính và biểu hiện khác ở phổi do phóng xạ
+J70.2,Bệnh phổi mô kẽ cấp tính do thuốc
+J70.3,Bệnh phổi mô kẽ mãn tính do thuốc
+J70.4,"Bệnh phổi mô kẽ do thuốc, không phân loại"
+J70.8,Bệnh lý hô hấp do tác nhân bên ngoài xác định khác
+J70.9,Bệnh lý hô hấp do các tác nhân bên ngoài không phân loại
+J80,Hội chứng suy hô hấp ở người lớn
+J81,Phù phổi 
+J82,"Tăng bạch cầu ái toan ở phổi, chưa được phân loại ở nơi khác"
+J84,Bệnh phổi mô kẽ khác
+J84.0,Bệnh lý phế nang và thành phế nang
+J84.1,Bệnh phổi mô kẽ khác có xơ
+J84.8,Bệnh phổi mô kẽ xác định khác
+J84.9,"Bệnh phổi mô kẽ, không phân loại"
+J85,Áp xe phổi và trung thất
+J85.0,Hoại thư và hoại tử ở phổi
+J85.1,Áp xe phổi có viêm phổi
+J85.2,Áp xe phổi không có viêm phổi
+J85.3,Áp xe trung thất
+J86,Mủ lồng ngực
+J86.0,Mủ lồng ngực có lỗ rò
+J86.9,Mủ lồng ngực không có lỗ rò
+J90,"Tràn dịch màng phổi, không phân loại nơi khác"
+J91,Tràn dịch màng phổi trong bệnh phân loại nơi khác
+J91*,Tràn dịch màng phổi trong bệnh phân loại nơi khác
+J92,Mảng màng phổi
+J92.0,Mảng màng phổi do amian
+J92.9,Mảng màng phổi không do amian
+J93,Tràn khí màng phổi
+J93.0,Tràn khí màng phổi tự phát có van
+J93.1,Các dạng tràn khí màng phổi tự phát khác
+J93.8,Các dạng tràn khí màng phổi khác
+J93.9,"Tràn khí màng phổi, không phân loại"
+J94,Các bệnh màng phổi khác
+J94.0,Tràn dịch dưỡng trấp
+J94.1,Xơ hóa màng phổi
+J94.2,Tràn máu màng phổi
+J94.8,Các bệnh màng phổi xác định khác
+J94.9,"Bệnh màng phổi, không phân loại"
+J95,"Các bệnh hô hấp sau can thiệp thủ thuật, chưa phân loại nơi khác"
+J95.0,Rối loạn chức năng sau khi mở khí quản
+J95.1,Hở van động mạch phổi cấp tính sau phẫu thuật lồng ngực
+J95.2,Hở van động mạch phổi cấp tính sau phẫu thuật ngoài lồng ngực
+J95.3,Hở van động mạch phổi mãn tính sau phẫu thuật
+J95.4,Hội chứng Mendelson
+J20.9,"Viêm phế quản cấp, không phân loại"
+J21,Viêm tiểu phế quản cấp
+J21.0,Viêm tiểu phế quản cấp do virus hợp bào hô hấp
+J21.1,Viêm tiểu phế quản cấp tính do metapneumovirus người
+J21.8,Viêm tiểu phế quản cấp do vi sinh vật khác đã được định danh
+J21.9,"Viêm tiểu phế quản cấp, không phân loại"
+J22,Nhiễm trùng hô hấp dưới cấp không phân loại
+J30,Viêm mũi vận mạch và viêm mũi dị ứng
+J30.0,Viêm mũi vận mạch
+J30.1,Viêm mũi dị ứng do phấn hoa
+J30.2,Viêm mũi dị ứng theo mùa khác
+J30.3,Viêm mũi dị ứng khác
+J00,Viêm mũi họng cấp [cảm thường]
+J01,Viêm xoang cấp
+J01.0,Viêm xoang hàm cấp
+J01.1,Viêm xoang trán cấp
+J01.2,Viêm xoang sàng cấp
+J01.3,Viêm xoang bướm cấp
+J01.4,Viêm toàn bộ xoang cấp
+J01.8,Viêm đa xoang cấp tính khác
+J01.9,"Viêm xoang cấp, không phân loại"
+J02,Viêm họng cấp
+J02.0,Viêm họng do liên cầu
+J02.8,Viêm họng cấp do các vi sinh vật khác đã được xác định
+J02.9,"Viêm họng cấp, không đặc hiệu"
+J03,Viêm amyđan cấp
+J03.0,Viêm amydan do liên cầu Streptococcus
+J03.8,Viêm amydan cấp tính do các vi sinh vật khác đã được xác định
+J03.9,"Viêm amydan cấp, không phân loại"
+J04,Viêm thanh quản và khí quản cấp
+J04.0,Viêm thanh quản cấp
+J04.1,Viêm khí quản cấp
+J04.2,Viêm thanh khí quản cấp
+J05,Viêm thanh quản tắc nghẽn [tắc nghẽn thanh quản] và nắp thanh môn cấp
+J05.0,Viêm thanh quản tắc nghẽn cấp [CROUP]
+J05.1,Viêm nắp thanh môn cấp
+J06,Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại
+J06.0,Viêm họng - thanh quản cấp
+J06.8,Các Nhiễm trùng đường hô hấp trên cấp khác ở nhiều vị trí
+J06.9,"Nhiễm trùng đường hô hấp trên cấp, không phân loại"
+J30.4,"Viêm mũi dị ứng, không phân loại"
+J31,"Viêm mũi, viêm mũi họng, viêm họng mãn tính"
+J31.0,Viêm mũi mãn tính
+J31.1,Viêm mũi họng mãn tính
+J31.2,Viêm họng mãn tính
+J32,Viêm xoang mãn tính
+J32.0,Viêm xoang hàm mãn tính
+J32.1,Viêm xoang trán mãn tính
+J32.2,Viêm xoang sàng mãn tính
+J32.3,Viêm xoang bướm mãn tính
+J32.4,Viêm toàn bộ xoang mạn
+J32.8,Viêm xoang mãn tính khác
+J32.9,"Viêm xoang mãn tính, không phân loại"
+J33,Políp mũi
+J33.0,Políp mũi
+J33.1,thoái hóa xoang dạng políp
+J33.8,Políp của xoang khác
+J33.9,"Políp mũi, không phân loại"
+J34,Bệnh khác của mũi và xoang
+J34.0,"Áp xe, nhọt và nhọt tiền đình mũi"
+J34.1,U nang và u nhày của mũi và xoang mũi
+J34.2,Lệch vách mũi
+J34.3,Phì đại cuốn mũi
+J34.8,Bệnh xác định khác của mũi và xoang
+J35,Bệnh mãn tính của amyđan và sùi dạng tuyến
+J35.0,Viêm amydan mãn tính
+J35.1,Amydan quá phát
+J35.2,Phì đại VA
+J35.3,Phì đại amydan
+J35.8,Bệnh mãn tính khác của amydan và VA
+J35.9,"Bệnh mãn tính của amydan và VA, không đặc hiệu"
+J36,Áp xe quanh Amydan
+J37,Viêm thanh quản và viêm thanh khí quản mãn tính
+J16.0,Viêm phổi do chlamydia
+J16.8,Viêm phổi do tác nhân nhiễm khuẩn khác
+J17*,Viêm phổi trong các bệnh đã được phân loại nơi khác
+J17.0*,Viêm phổi trong các bệnh do vi khuẩn phân loại nơi khác
+J17.1*,Viêm phổi trong các bệnh do virus được phân loại nơi khác
+J17.2*,Viêm phổi trong do nấm
+J17.3*,Viêm phổi trong bệnh ký sinh trùng
+J17.8*,Viêm phổi trong bệnh khác phân loại nơi khác
+J18,"Viêm phổi, tác nhân không xác định"
+J18.0,"Viêm phế quản phổi, không đặc hiệu"
+J18.1,"Viêm phổi thuỳ, không đặc hiệu"
+J18.2,"Viêm phổi do nằm lâu ngày, không đặc hiệu"
+J18.8,"Viêm phổi khác, không xác định vi sinh vật"
+J18.9,"Viêm phổi, không đặc hiệu"
+J20,Viêm phế quản cấp
+J20.0,Viêm phế quản cấp do Mycoplasma pneumoniae
+J20.1,Viêm phế quản cấp do Haemophilus lnfluenzae
+J20.2,Viêm phế quản cấp do streptococcus
+J20.3,Viêm phế quản cấp do virus coxsackie
+J20.4,Viêm phế quản cấp do virus parainfluenza
+J20.5,Viêm phế quản cấp do virus hợp bào hô hấp
+J20.6,Viêm phế quản cấp do rhinovirus
+J20.7,Viêm phế quản cấp do echovirus
+J20.8,Viêm phế quản cấp do vi sinh vật khác đã được định danh
+J09,Cúm do virus đã được định danh
+J10,Cảm cúm do virus cúm được định danh khác
+J10.0,"Cảm cúm với viêm phổi, virus cúm được định danh khác"
+J10.1,"Cảm cúm với biểu hiện hô hấp khác, virus cúm được định"
+J10.8,"Cảm cúm với biểu hiện khác, virus cúm được định danh khác"
+J11,"Cúm, virus không được định danh"
+J11.0,"Cúm kèm viêm phổi, virus không được định danh"
+J11.1,"Cúm với các biểu hiện hô hấp khác, virus không được định danh"
+J11.8,"Cúm với các biểu hiện khác, virus không được định danh"
+J12,"Viêm phổi do virus, chưa được phân loại nơi khác"
+J12.0,Viêm phổi do adenovirus
+J12.1,Viêm phổi do virus hợp bào hô hấp
+J12.2,Viêm phổi do virus parainfluenza
+J12.3,Viêm phổi do metapneumovirus người
+J12.8,Viêm phổi do virus khác
+J12.9,"Viêm phổi virus, không đặc hiệu"
+J13,Viêm phổi do phế cầu Streptococcus pneumoniae
+J13,Viêm phổi do phế cầu Streptococcus pneumoniae
+J14,Viêm phổi do vi khuẩn Haemophilus influenzae
+J15,"Viêm phổi do vi khuẩn, chưa được phân loại nơi khác"
+J15.0,Viêm phổi do Klebsiella pneumoniae
+J15.1,Viêm phổi do Pseudomonas
+J15.2,Viêm phổi do tụ cầu Staphylococcus
+J15.3,"Viêm phổi do liên cầu, nhóm B"
+J15.4,Viêm phổi do các liên cầu Streptoccoccus khác
+J15.5,Viêm phổi do Escherichia coli
+J15.6,Viêm phổi do vi khuẩn Gram (-) hiếu khí khác
+J15.7,Viêm phổi do Mycoplasma pneumoniae
+J15.8,Viêm phổi do vi khuẩn khác
+J15.9,"Viêm phổi do vi khuẩn, không đặc hiệu"
+J16,"Viêm phổi do tác nhân nhiễm khuẩn khác, chưa được phân loại nơi khác"
+J38.00,"Liệt dây thanh âm và thanh quản, không xác định"
+J38.02,Liệt dây thanh âm và thanh quản hai bên
+J38.1,Polyp của dây thanh âm và thanh quản
+J38.2,Nốt nhỏ ở dây thanh âm
+J38.3,Các bệnh lý khác của dây thanh âm
+J38.5,Co thắt thanh quản
+J38.6,Hẹp thanh quản
+J39,Các bệnh khác của đường hô hấp trên
+J39.0,Áp xe sau họng và áp xe cận họng
+J39.1,Áp xe khác của họng
+J39.2,Bệnh khác của họng
+J39.8,Các bệnh lý xác định khác của đường hô hấp trên
+J39.9,"Bệnh của đường hô hấp trên, không đặc hiệu"
+J40,Viêm phế quản không xác định được là cấp hay mãn tính
+J41,Viêm phế quản mãn tính đơn thuần và nhầy mủ
+J41.0,Viêm phế quản mãn tính đơn thuần
+J41.1,Viêm phế quản mãn tính nhầy mủ
+J41.8,Viêm phế quản mãn tính hỗn hợp (đơn thuần và nhầy mủ)
+J43,Giãn phế nang
+J43.0,Hội chứng MacLeod
+J43.1,Giãn phế nang toàn tiểu thuỳ
+J43.8,Giãn phế nang khác
+J43.9,"Giãn phế nang, không đặc hiệu"
+J44.0,Bệnh phổi tắc nghẽn mãn tính đợt cấp do bội nhiễm
+J44.1,"Bệnh phổi tắc nghẽn mãn tính đợt cấp, không phân loại"
+J44.8,"Bệnh phổi tắc nghẽn mãn tính, phân loại khác"
+J44.9,"Bệnh phổi tắc nghẽn mãn tính, không phân loại"
+J45.0,Hen chủ yếu do dị ứng
+J45.1,Hen không dị ứng
+J45.8,Hen hỗn hợp
+J45.9,"Hen, không phân loại"
+J46,Cơn hen ác tính
+J60,Bệnh bụi phổi của công nhân ngành than
+J61,Bệnh bụi phổi amian và các sợi khóang khác
+J62.8,Bệnh bụi phổi do bụi khác chứa silic
+J63.0,Nhiễm bụi nhôm (của phổi)
+J63.1,Xơ hóa do quặng bô- xít (của phổi)
+J63.2,Bụi phổi do beryllium
+J63.4,Bệnh xơ phổi do sắt
+J63.5,Bệnh xơ phổi do thiếc
+J63.8,Bệnh phổi nghề nghiệp do bụi phổi vô cơ xác định khác
+J63,Bệnh bụi phổi do bụi vô cơ khác
+J65,Bệnh bụi phổi kết hợp với lao
+J66.0,Bụi phổi bông
+J66.1,Bệnh Flax - Dresser
+J66.2,Bệnh đường hô hấp do ma túy
+J66.8,Bệnh đường dẫn bụi khí do bụi hữu cơ đặc biệt khác
+J67,Viêm phổi tăng cảm do bụi hữu cơ
+J67.0,Bệnh phổi của người nông dân
+J67.1,Bệnh phổi do bã mía
+J67.2,Bệnh phổi ở người nuôi chim
+J67.4,Bệnh phổi của công nhân tiếp xúc với mạch nha bị mốc
+J67.5,Bệnh phổi của công nhân trồng nấm
+J67.7,Bệnh phổi do máy làm ẩm và máy điều hoà không khí
+J67.9,Viêm phổi tăng cảm do bụi hữu cơ không phân loại
+J68.0,"Viêm phế quản và viêm phổi do hóa chất, chất khí, khói và chất bay hơi"
+J68.1,"Phù phổi do hóa chất, khí, khói và chất bay hơi"
+J15.7,Viêm phổi do Mycoplasma pneumoniae
+J15.9,"Viêm phổi do vi khuẩn, không phân loại"
+J16,"Viêm phổi do tác nhân nhiễm khuẩn khác, chưa được phân loại nơi khác"
+J16.0,Viêm phổi do chlamydia
+J16.8,Viêm phổi do tác nhân nhiễm khuẩn khác
+J17*,Viêm phổi trong các bệnh đã được phân loại nơi khác
+J17.0*,Viêm phổi trong các bệnh do vi khuẩn phân loại nơi khác
+J17.2*,Viêm phổi trong do nấm
+J17.3*,Viêm phổi trong bệnh ký sinh trùng
+J17.8*,Viêm phổi trong bệnh khác phân loại nơi khác
+J18,"Viêm phổi, tác nhân không đặc hiệu"
+J18.0,"Viêm phế quản phổi, không phân loại"
+J18.1,"Viêm phổi thuỳ, không phân loại"
+J18.2,"Viêm phổi do nằm lâu ngày, không phân loại"
+J18.9,"Viêm phổi, không phân loại"
+J20,Viêm phế quản cấp
+J20.0,Viêm phế quản cấp do Mycoplasma pneumoniae
+J20.1,Viêm phế quản cấp do Haemophilus lnfluenzae
+J20.3,Viêm phế quản cấp do virus coxsackie
+J20.4,Viêm phế quản cấp do virus parainfluenza
+J20.5,Viêm phế quản cấp do virus hợp bào hô hấp
+J20.6,Viêm phế quản cấp do rhinovirus
+J20.8,Viêm phế quản cấp do vi sinh vật khác đã được định danh
+J20.9,"Viêm phế quản cấp, không phân loại"
+J21,Viêm tiểu phế quản cấp
+J21.0,Viêm tiểu phế quản cấp do virus hợp bào hô hấp
+J21.9,"Viêm tiểu phế quản cấp, không phân loại"
+J22,Nhiễm trùng hô hấp dưới cấp không phân loại
+J30,Viêm mũi vận mạch và viêm mũi dị ứng
+J30.0,Viêm mũi vận mạch
+J30.1,Viêm mũi dị ứng phấn hoa
+J30.2,Viêm mũi dị ứng theo mùa khác
+J30.4,"Viêm mũi dị ứng, không phân loại"
+J31,"Viêm mũi, viêm mũi họng, viêm họng mãn tính"
+J31.0,Viêm mũi mãn tính
+J31.2,Viêm họng mãn tính
+J98.5,"Bệnh của trung thất, không phân loại nơi khác"
+J98.6,Bệnh của cơ hoành
+J98.9,"Bệnh hô hấp, không phân loại"
+J99*,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J99.0*,Bệnh phổi dạng thấp (M05.1†)
+J99.1*,Bệnh hô hấp trong các bệnh mô liên kết lan toả khác
+J01,Viêm xoang cấp
+J01.00,"Viêm xoang hàm cấp, không xác định"
+J01.01,"Viêm xoang hàm cấp, tái phát"
+J01.1,Viêm xoang trán cấp
+J01.11,"Viêm xoang trán cấp, tái phát"
+J32,Viêm xoang mãn tính
+J32.0,Viêm xoang hàm mãn tính
+J32.1,Viêm xoang trán mãn tính
+J32.3,Viêm xoang bướm mãn tính
+J32.8,Viêm xoang mãn tính khác
+J33,Políp mũi
+J33.0,Políp mũi
+J33.1,thoái hóa xoang dạng políp
+J33.9,"Políp mũi, không phân loại"
+J34,Bệnh khác của mũi và xoang
+J34.0,"Áp xe, nhọt và nhọt tiền đình mũi"
+J34.2,Lệch vách mũi
+J34.3,Phì đại cuốn mũi
+J34.8,Bệnh xác định khác của mũi và xoang
+J35,Bệnh mãn tính của amydan và sùi dạng tuyến
+J35.1,amydan quá phát
+J35.2,Phì đại V.A
+J35.3,Phì đại amydan
+J35.9,"Bệnh mãn tính của amydan và V.A, không đặc hiệu"
+J37,Viêm thanh quản và viêm thanh khí quản mãn tính
+J37.0,Viêm thanh quản mãn tính
+J37.1,Viêm thanh khí quản mạn
+J38,"Bệnh lý của dây thanh âm và thanh quản, không phân loại nơi khác"
+J38.0,Liệt dây thanh âm và thanh quản
+J01.2,Viêm xoang sàng cấp
+J01.20,Viêm xoang sàng cấp không xác định
+J01.21,"Viêm xoang sàng cấp, tái phát"
+J01.30,"Viêm xoang bướm cấp, không xác định"
+J01.31,"Viêm xoang bướm cấp, tái phát"
+J01.40,"Viêm toàn bộ xoang cấp, không xác định"
+J01.41,"Viêm toàn bộ các xoang, tái phát"
+J01.8,Viêm đa xoang cấp tính khác
+J01.81,"Viêm xoang cấp tái phát khác, Viêm xoang cấp tái phát trên nhiều hơn một xoang nhưng không phải là viêm toàn bộ các xoang"
+J01.9,"Viêm xoang cấp, không phân loại"
+J01.90,"Viêm xoang cấp, không xác định"
+J01.91,"Viêm xoang cấp, tái phát không xác định"
+J02,Viêm họng cấp
+J02.0,Viêm họng do liên cầu
+J02.8,Viêm họng cấp do các vi sinh vật khác đã được xác định
+J02.9,"Viêm họng cấp, không đặc hiệu"
+J03,Viêm amydan cấp
+J03.8,Viêm amydan cấp tính do các vi sinh vật khác đã được xác định
+J03.9,"Viêm amydan cấp, không phân loại"
+J04,Viêm thanh quản và khí quản cấp
+J04.1,Viêm khí quản cấp
+J04.2,Viêm thanh khí quản cấp
+J05,Viêm thanh quản tắc nghẽn [tắc nghẽn thanh quản] và nắp thanh môn cấp
+J05.1,Viêm nắp thanh môn cấp
+J06,Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại
+J06.0,Viêm họng - thanh quản cấp
+J06.8,Các Nhiễm trùng đường hô hấp trên cấp khác ở nhiều vị trí
+J10,Cảm cúm do virus cúm được định danh khác
+J10.0,"Cảm cúm với viêm phổi, virus cúm được định danh khác"
+J10.1,"Cảm cúm với biểu hiện hô hấp khác, virus cúm được định"
+J10.8,"Cảm cúm với biểu hiện khác, virus cúm được định danh khác"
+J11,"Cúm, virus không được định danh"
+J11.0,"Cúm kèm viêm phổi, virus không được định danh"
+J11.8,"Cúm với các biểu hiện khác, virus không được định danh"
+J12,"Viêm phổi do virus, chưa được phân loại nơi khác"
+J12.0,Viêm phổi do adenovirus
+J12.1,Viêm phổi do virus hợp bào hô hấp
+J12.2,Viêm phổi do virus parainfluenza
+J12.8,Viêm phổi do virus khác
+J13,Viêm phổi do Streptococcuspneumoniae
+J14,Viêm phổi do Haemophilus influenzae
+J15.0,Viêm phổi do Klebsiella pneumoniae
+J15.1,Viêm phổi do Pseudomonas
+J15.3,"Viêm phổi do liên cầu, nhóm B"
+J15.4,Viêm phổi do các liên cầu Streptoccoccus khác
+J15.5,Viêm phổi do Escherichia coli
+J15.6,Viêm phổi do vi khuẩn Gram (-) hiếu khí khác
+J68.2,"Viêm đường hô hấp trên do hóa chất, khí, khói và chất bay hơi, chưa phân loại nơi khác"
+J68.3,"Bệnh hô hấp cấp và bán cấp khác do hóa chất, khí, khói và chất bay hơi"
+J68.4,"Bệnh hô hấp mạn do hóa chât, khí, khói và chất bay hơi"
+J68.8,"Bệnh hô hấp khác do hóa chất, khí, khói và chất bay hơi"
+J69,Viêm phổi do chất rắn và chất lỏng
+J69.0,Viêm phổi hít phải thức ăn và chất nôn
+J69.1,Viêm phổi hít phải dầu và hương liệu
+J69.8,Viêm phổi hít phải chất rắn và chất lỏng khác
+J70,Bệnh hô hấp do tác nhân bên ngoài khác
+J70.1,Biểu hiện mãn tính và biểu hiện khác ở phổi do phóng xạ
+J70.2,Bệnh phổi mô kẽ cấp tính do thuốc
+J70.3,Bệnh phổi mô kẽ mãn tính do thuốc
+J70.4,"Bệnh phổi mô kẽ do thuốc, không phân loại"
+J70.8,Bệnh lý hô hấp do tác nhân bên ngoài xác định khác
+J70.9,Bệnh lý hô hấp do các tác nhân bên ngoài không phân loại
+J81,Phù phổi
+J84,Bệnh phổi mô kẽ khác
+J84.0,Bệnh lý phế nang và thành phế nang
+J84.8,Bệnh phổi mô kẽ xác định khác
+J84.9,"Bệnh phổi mô kẽ, không phân loại"
+J85,Áp xe phổi và trung thất
+J85.0,Hoại thư và hoại tử ở phổi
+J85.2,Áp xe phổi không có viêm phổi
+J85.3,Áp xe trung thất
+J86,Mủ lồng ngực
+J86.9,Mủ lồng ngực không có lỗ rò
+J90,"Tràn dịch màng phổi, không phân loại nơi khác"
+J91*,Tràn dịch màng phổi trong bệnh phân loại nơi khác
+J92.0,Mảng màng phổi do amian
+J92.9,Mảng màng phổi không do amian
+J93.0,Tràn khí màng phổi tự phát có van
+J93.1,Các dạng tràn khí màng phổi tự phát khác
+J93.8,Các dạng tràn khí màng phổi khác
+J94,Các bệnh màng phổi khác
+J94.0,Tràn dịch dưỡng trấp
+J94.1,Xơ hóa màng phổi
+J94.2,Tràn máu màng phổi
+J94.9,"Bệnh màng phổi, không phân loại"
+J95,"Các bệnh hô hấp sau can thiệp thủ thuật, chưa phân loại nơi khác"
+J95.0,Rối loạn chức năng sau khi mở khí quản
+J95.01,Chảy máu từ lỗ mở khí quản
+J95.02,Nhiễm trùng lỗ mở khí quản
+J95.03,Lỗ mở khí quản không họat động
+J95.04,Rò thực quản-khí quản sau mở khí quản
+J95.09,Biến chứng khác của mở khí quản
+J95.2,Hở van động mạch phổi cấp tính sau phẫu thuật ngoài lồng ngực
+J95.3,Hở van động mạch phổi mãn tính sau phẫu thuật
+J95.4,Hội chứng Mendelson
+J95.5,Hẹp dưới thanh môn sau phẫu thuật
+J95.8,Các bệnh hô hấp sau phẫu thuật khác
+J96,Suy hô hấp không phân loại nơi khác
+J96.0,Suy hô hấp cấp
+J96.1,Suy hô hấp mạn
+J96.9,"Suy hô hấp, không phân loại"
+J98,Các bệnh hô hấp khác
+J98.1,Xẹp phổi
+J98.2,Giãn phế nang mô kẽ
+J98.3,Giãn phế nang còn bù
+J68,"Bệnh hô hấp do hít hóa chất, khí, khói và chất bay hơi"
+J31.1,Viêm mũi họng mãn tính
+J32.2,Viêm xoang sàng mãn tính
+J35.0,Viêm amydan mãn tính
+J36,Áp xe quanh amydan
+J44,Các bệnh phổi tắc nghẽn mãn tính khác
+J98.8,Bệnh hô hấp xác định khác
+J99.8*,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J98.4,Các Bệnh khác của phổi
+J15,"Viêm phổi do vi khuẩn, chưa được phân loại nơi khác"
+J32.9,"Viêm xoang mãn tính, không phân loại"
+J42,Viêm phế quản mãn tính không phân loại
+J67.6,Bệnh phổi của công nhân bóc vỏ cây thích
+J82,"Tăng bạch cầu ái toan ở phổi, chưa được phân loại ở nơi khác"
+J03.0,Viêm amydan do liên cầu Streptococcus
+J68.9,"Bệnh hô hấp không phân loại do hóa chất, khí, khói và chất bay hơi"
+J38.01,Liệt dây thanh âm và thanh quản một bên
+J38.4,Phù thanh quản
+J38.7,Các bệnh lý khác của thanh quản
+J39.3,"Phản ứng quá mẫn đường hô hấp trên, vị trí không xác định"
+J43.2,Giãn phế nang trung tâm tiểu thuỳ
+J45,Hen [suyễn]
+J62.0,Bệnh bụi phổi do bột talc
+J63.3,Xơ phổi do than chì (của phổi)
+J66,Bệnh đường dẫn khí do bụi hữu cơ đặc biệt khác
+J67.3,Bệnh phổi do xơ cây bần
+J67.8,Viêm phổi tăng cảm do bụi hữu cơ khác
+J01.0,Viêm xoang hàm cấp
+J01.10,Viêm xoang trán cấp không xác định
+J01.3,Viêm xoang bướm cấp
+J01.4,Viêm toàn bộ xoang cấp
+J01.80,"Viêm xoang cấp khác, Viêm xoang cấp trên nhiều hơn một xoang nhưng không phải là viêm toàn bộ các xoang"
+J04.0,Viêm thanh quản cấp
+J05.0,Viêm thanh quản tắc nghẽn cấp [CROUP]
+J06.9,"Nhiễm trùng đường hô hấp trên cấp, không phân loại"
+J11.1,"Cúm với các biểu hiện hô hấp khác, virus không được định danh"
+J12.9,"Viêm phổi virus, không đặc hiệu"
+J15.2,Viêm phổi do tụ cầu Staphylococcus
+J70.0,Biểu hiện cấp tính ở phổi do phóng xạ
+J80,Hội chứng suy hô hấp ở người lớn
+J84.1,Bệnh phổi mô kẽ khác có xơ
+J85.1,Áp xe phổi có viêm phổi
+J86.0,Mủ lồng ngực có lỗ rò
+J92,Mảng màng phổi
+J93,Tràn khí màng phổi
+J93.9,"Tràn khí màng phổi, không phân loại"
+J94.8,Các bệnh màng phổi xác định khác
+J95.00,Biến chứng mở khí quản không xác định
+J95.1,Hở van động mạch phổi cấp tính sau phẫu thuật lồng ngực
+J95.9,"Rối loạn hô hấp sau phẫu thuật, không đặc hiệu"
+J98.0,"Bệnh phế quản, không phân loại nơi khác"
+J15.8,Viêm phổi do vi khuẩn khác
+J17.1*,Viêm phổi trong các bệnh do virus được phân loại nơi khác
+J18.8,"Viêm phổi khác, không xác định vi sinh vật"
+J20.2,Viêm phế quản cấp do streptococcus
+J20.7,Viêm phế quản cấp do echovirus
+J21.8,Viêm tiểu phế quản cấp do vi sinh vật khác đã được định danh
+J30.3,Viêm mũi dị ứng khác
+J32.4,Viêm toàn bộ xoang mạn
+J33.8,Políp của xoang khác
+J34.1,U nang và u nhày của mũi và xoang mũi
+J35.8,Bệnh mãn tính khác của amydan và V.A
+J12.3,Viêm phổi do metapneumovirus người
+J00,Viêm mũi họng cấp [cảm thường]
+J09,Cúm do virus đã được định danh
+J21.1,Viêm tiểu phế quản cấp tính do metapneumovirus người
+J93.1,Các dạng tràn khí màng phổi tự phát khác
+J93.8,Các dạng tràn khí màng phổi khác
+J93.9,"Tràn khí màng phổi, không phân loại"
+J94,Các bệnh màng phổi khác
+J94.0,Tràn dịch dưỡng trấp
+J94.1,Xơ hóa màng phổi
+J94.2,Tràn máu màng phổi
+J94.8,Các bệnh màng phổi xác định khác
+J94.9,"Bệnh màng phổi, không phân loại"
+J95,"Các bệnh hô hấp sau can thiệp thủ thuật, chưa phân loại nơi khác"
+J95.0,Rối loạn chức năng sau khi mở khí quản
+J95.1,Hở van động mạch phổi cấp tính sau phẫu thuật lồng ngực
+J95.2,Hở van động mạch phổi cấp tính sau phẫu thuật ngoài lồng ngực
+J95.3,Hở van động mạch phổi mãn tính sau phẫu thuật
+J95.4,Hội chứng Mendelson
+J95.5,Hẹp dưới thanh môn sau phẫu thuật
+J95.8,Các bệnh hô hấp sau phẫu thuật khác
+J95.9,"Rối loạn hô hấp sau phẫu thuật, không đặc hiệu"
+J96,Suy hô hấp không phân loại nơi khác
+J96.0,Suy hô hấp cấp
+J96.1,Suy hô hấp mạn
+J96.9,"Suy hô hấp, không phân loại"
+J98,Các bệnh hô hấp khác
+J98.0,"Bệnh phế quản, không phân loại nơi khác"
+J98.1,Xẹp phổi
+J98.2,Giãn phế nang mô kẽ
+J98.3,Giãn phế nang còn bù
+J98.4,Các Bệnh khác của phổi
+J00,Viêm mũi họng cấp [cảm thường]
+J01,Viêm xoang cấp
+J01.0,Viêm xoang hàm cấp
+J01.1,Viêm xoang trán cấp
+J01.2,Viêm xoang sàng cấp
+J01.3,Viêm xoang bướm cấp
+J01.4,Viêm toàn bộ xoang cấp
+J01.8,Viêm đa xoang cấp tính khác
+J01.9,"Viêm xoang cấp, không phân loại"
+J02,Viêm họng cấp
+J02.0,Viêm họng do liên cầu
+J02.8,Viêm họng cấp do các vi sinh vật khác đã được xác định
+J02.9,"Viêm họng cấp, không đặc hiệu"
+J03,Viêm amyđan cấp
+J03.0,Viêm amydan do liên cầu Streptococcus
+J03.8,Viêm amydan cấp tính do các vi sinh vật khác đã được xác định
+J03.9,"Viêm amydan cấp, không phân loại"
+J04,Viêm thanh quản và khí quản cấp
+J04.0,Viêm thanh quản cấp
+J04.1,Viêm khí quản cấp
+J98.5,"Bệnh của trung thất, không phân loại nơi khác"
+J98.6,Bệnh của cơ hoành
+J98.8,Bệnh hô hấp xác định khác
+J98.9,"Bệnh hô hấp, không phân loại"
+J99,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J99*,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J99.0*,Bệnh phổi dạng thấp (M05.1†)
+J99.1*,Bệnh hô hấp trong các bệnh mô liên kết lan toả khác
+J99.8*,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J04.2,Viêm thanh khí quản cấp
+J05,Viêm thanh quản tắc nghẽn [tắc nghẽn thanh quản] và nắp thanh môn cấp
+J05.0,Viêm thanh quản tắc nghẽn cấp [CROUP]
+J05.1,Viêm nắp thanh môn cấp
+J06,Nhiễm trùng đường hô hấp trên cấp ở nhiều nơi và vị trí không phân loại
+J06.0,Viêm họng - thanh quản cấp
+J06.8,Các Nhiễm trùng đường hô hấp trên cấp khác ở nhiều vị trí
+J06.9,"Nhiễm trùng đường hô hấp trên cấp, không phân loại"
+J09,Cúm do virus đã được định danh
+J10,Cảm cúm do virus cúm được định danh khác
+J10.0,"Cảm cúm với viêm phổi, virus cúm được định danh khác"
+J10.1,"Cảm cúm với biểu hiện hô hấp khác, virus cúm được định"
+J10.8,"Cảm cúm với biểu hiện khác, virus cúm được định danh khác"
+J11,"Cúm, virus không được định danh"
+J11.0,"Cúm kèm viêm phổi, virus không được định danh"
+J11.1,"Cúm với các biểu hiện hô hấp khác, virus không được định danh"
+J11.8,"Cúm với các biểu hiện khác, virus không được định danh"
+J12,"Viêm phổi do virus, chưa được phân loại nơi khác"
+J12.0,Viêm phổi do adenovirus
+J12.1,Viêm phổi do virus hợp bào hô hấp
+J12.2,Viêm phổi do virus parainfluenza
+J12.3,Viêm phổi do metapneumovirus người
+J12.8,Viêm phổi do virus khác
+J12.9,"Viêm phổi virus, không đặc hiệu"
+J13,Viêm phổi do phế cầu Streptococcus pneumoniae
+J13,Viêm phổi do phế cầu Streptococcus pneumoniae
+J14,Viêm phổi do vi khuẩn Haemophilus influenzae
+J39,Các bệnh khác của đường hô hấp trên
+J39.0,Áp xe sau họng và áp xe cận họng
+J39.1,Áp xe khác của họng
+J39.2,Bệnh khác của họng
+J39.3,"Phản ứng quá mẫn đường hô hấp trên, vị trí không xác định"
+J39.8,Các bệnh lý xác định khác của đường hô hấp trên
+J39.9,"Bệnh của đường hô hấp trên, không đặc hiệu"
+J40,Viêm phế quản không xác định được là cấp hay mãn tính
+J41,Viêm phế quản mãn tính đơn thuần và nhầy mủ
+J41.0,Viêm phế quản mãn tính đơn thuần
+J41.1,Viêm phế quản mãn tính nhầy mủ
+J41.8,Viêm phế quản mãn tính hỗn hợp (đơn thuần và nhầy mủ)
+J42,Viêm phế quản mãn tính không phân loại
+J43,Giãn phế nang
+J43.0,Hội chứng MacLeod
+J43.1,Giãn phế nang toàn tiểu thuỳ
+J43.2,Giãn phế nang trung tâm tiểu thuỳ
+J43.8,Giãn phế nang khác
+J43.9,"Giãn phế nang, không đặc hiệu"
+J44,Các bệnh phổi tắc nghẽn mãn tính khác
+J44.0,Bệnh phổi tắc nghẽn mãn tính đợt cấp do bội nhiễm
+J44.1,"Bệnh phổi tắc nghẽn mãn tính đợt cấp, không phân loại"
+J44.8,"Bệnh phổi tắc nghẽn mãn tính, phân loại khác"
+J15,"Viêm phổi do vi khuẩn, chưa được phân loại nơi khác"
+J15.0,Viêm phổi do Klebsiella pneumoniae
+J15.1,Viêm phổi do Pseudomonas
+J15.2,Viêm phổi do tụ cầu Staphylococcus
+J15.3,"Viêm phổi do liên cầu, nhóm B"
+J15.4,Viêm phổi do các liên cầu Streptoccoccus khác
+J15.5,Viêm phổi do Escherichia coli
+J15.6,Viêm phổi do vi khuẩn Gram (-) hiếu khí khác
+J15.7,Viêm phổi do Mycoplasma pneumoniae
+J15.8,Viêm phổi do vi khuẩn khác
+J15.9,"Viêm phổi do vi khuẩn, không đặc hiệu"
+J16,"Viêm phổi do tác nhân nhiễm khuẩn khác, chưa được phân loại nơi khác"
+J16.0,Viêm phổi do chlamydia
+J16.8,Viêm phổi do tác nhân nhiễm khuẩn khác
+J17*,Viêm phổi trong các bệnh đã được phân loại nơi khác
+J17.0*,Viêm phổi trong các bệnh do vi khuẩn phân loại nơi khác
+J17.1*,Viêm phổi trong các bệnh do virus được phân loại nơi khác
+J17.2*,Viêm phổi trong do nấm
+J17.3*,Viêm phổi trong bệnh ký sinh trùng
+J17.8*,Viêm phổi trong bệnh khác phân loại nơi khác
+J18,"Viêm phổi, tác nhân không xác định"
+J18.0,"Viêm phế quản phổi, không phân loại"
+J18.1,"Viêm phổi thuỳ, không phân loại"
+J18.2,"Viêm phổi do nằm lâu ngày, không phân loại"
+J18.8,"Viêm phổi khác, không xác định vi sinh vật"
+J18.9,"Viêm phổi, không phân loại"
+J20,Viêm phế quản cấp
+J20.0,Viêm phế quản cấp do Mycoplasma pneumoniae
+J20.1,Viêm phế quản cấp do Haemophilus lnfluenzae
+J20.2,Viêm phế quản cấp do streptococcus
+J20.3,Viêm phế quản cấp do virus coxsackie
+J20.4,Viêm phế quản cấp do virus parainfluenza
+J20.5,Viêm phế quản cấp do virus hợp bào hô hấp
+J20.6,Viêm phế quản cấp do rhinovirus
+J20.7,Viêm phế quản cấp do echovirus
+J20.8,Viêm phế quản cấp do vi sinh vật khác đã được định danh
+J20.9,"Viêm phế quản cấp, không phân loại"
+J21,Viêm tiểu phế quản cấp
+J21.0,Viêm tiểu phế quản cấp do virus hợp bào hô hấp
+J21.1,Viêm tiểu phế quản cấp tính do metapneumovirus người
+J21.8,Viêm tiểu phế quản cấp do vi sinh vật khác đã được định danh
+J44.9,"Bệnh phổi tắc nghẽn mãn tính, không phân loại"
+J45,Hen [suyễn]
+J45.0,Hen chủ yếu do dị ứng
+J45.1,Hen không dị ứng
+J45.8,Hen hỗn hợp
+J45.9,"Hen, không phân loại"
+J46,Cơn hen ác tính
+J47,Dãn phế quản
+J60,Bệnh bụi phổi của công nhân ngành than
+J61,Bệnh bụi phổi amian và các sợi khóang khác
+J62,Bệnh bụi phổi do bụi silic
+J62.0,Bệnh bụi phổi do bột talc
+J62.8,Bệnh bụi phổi do bụi khác chứa silic
+J63,Bệnh bụi phổi do bụi vô cơ khác
+J63.0,Nhiễm bụi nhôm (của phổi)
+J63.1,Xơ hóa do quặng bô- xít (của phổi)
+J63.2,Bụi phổi do beryllium
+J63.3,Xơ phổi do than chì (của phổi)
+J63.4,Bệnh xơ phổi do sắt
+J63.5,Bệnh xơ phổi do thiếc
+J63.8,Bệnh phổi nghề nghiệp do bụi phổi vô cơ xác định khác
+J64,Bệnh bụi phổi không phân loại
+J65,Bệnh bụi phổi kết hợp với lao
+J66,Bệnh đường dẫn khí do bụi hữu cơ đặc biệt khác
+J66.0,Bụi phổi bông
+J66.1,Bệnh Flax - Dresser
+J47,Dãn phế quản
+J62,Bệnh bụi phổi do bụi silic
+J64,Bệnh bụi phổi không phân loại
+J21.9,"Viêm tiểu phế quản cấp, không phân loại"
+J22,Nhiễm trùng hô hấp dưới cấp không phân loại
+J30,Viêm mũi vận mạch và viêm mũi dị ứng
+J30.0,Viêm mũi vận mạch
+J30.1,Viêm mũi dị ứng do phấn hoa
+J30.2,Viêm mũi dị ứng theo mùa khác
+J30.3,Viêm mũi dị ứng khác
+J30.4,"Viêm mũi dị ứng, không phân loại"
+J31,"Viêm mũi, viêm mũi họng, viêm họng mãn tính"
+J31.0,Viêm mũi mãn tính
+J31.1,Viêm mũi họng mãn tính
+J31.2,Viêm họng mãn tính
+J32,Viêm xoang mãn tính
+J66.2,Bệnh đường hô hấp do ma túy
+J66.8,Bệnh đường dẫn bụi khí do bụi hữu cơ đặc biệt khác
+J67,Viêm phổi tăng cảm do bụi hữu cơ
+J67.0,Bệnh phổi của người nông dân
+J67.1,Bệnh phổi do bã mía
+J67.2,Bệnh phổi ở người nuôi chim
+J67.3,Bệnh phổi do xơ cây bần
+J67.4,Bệnh phổi của công nhân tiếp xúc với mạch nha bị mốc
+J67.5,Bệnh phổi của công nhân trồng nấm
+J67.6,Bệnh phổi của công nhân bóc vỏ cây thích
+J67.7,Bệnh phổi do máy làm ẩm và máy điều hoà không khí
+J67.8,Viêm phổi tăng cảm do bụi hữu cơ khác
+J67.9,Viêm phổi tăng cảm do bụi hữu cơ không phân loại
+J68,"Bệnh hô hấp do hít hóa chất, khí, khói và chất bay hơi"
+J68.0,"Viêm phế quản và viêm phổi do hóa chất, chất khí, khói và chất bay hơi"
+J68.1,"Phù phổi do hóa chất, khí, khói và chất bay hơi"
+J68.2,"Viêm đường hô hấp trên do hóa chất, khí, khói và chất bay hơi, chưa phân loại nơi khác"
+J68.3,"Bệnh hô hấp cấp và bán cấp khác do hóa chất, khí, khói và chất bay hơi"
+J68.4,"Bệnh hô hấp mạn do hóa chât, khí, khói và chất bay hơi"
+J68.8,"Bệnh hô hấp khác do hóa chất, khí, khói và chất bay hơi"
+J68.9,"Bệnh hô hấp không phân loại do hóa chất, khí, khói và chất bay hơi"
+J69,Viêm phổi do chất rắn và chất lỏng
+J69.0,Viêm phổi hít phải thức ăn và chất nôn
+J69.1,Viêm phổi hít phải dầu và hương liệu
+J69.8,Viêm phổi hít phải chất rắn và chất lỏng khác
+J70,Bệnh hô hấp do tác nhân bên ngoài khác
+J70.0,Biểu hiện cấp tính ở phổi do phóng xạ
+J70.1,Biểu hiện mãn tính và biểu hiện khác ở phổi do phóng xạ
+J32.0,Viêm xoang hàm mãn tính
+J32.1,Viêm xoang trán mãn tính
+J32.2,Viêm xoang sàng mãn tính
+J32.3,Viêm xoang bướm mãn tính
+J32.4,Viêm toàn bộ xoang mạn
+J32.8,Viêm xoang mãn tính khác
+J32.9,"Viêm xoang mãn tính, không phân loại"
+J33,Políp mũi
+J33.0,Políp mũi
+J33.1,thoái hóa xoang dạng políp
+J33.8,Políp của xoang khác
+J33.9,"Políp mũi, không phân loại"
+J34,Bệnh khác của mũi và xoang
+J34.0,"Áp xe, nhọt và nhọt tiền đình mũi"
+J34.1,U nang và u nhày của mũi và xoang mũi
+J34.2,Lệch vách mũi
+J34.3,Phì đại cuốn mũi
+J34.8,Bệnh xác định khác của mũi và xoang
+J35,Bệnh mãn tính của amyđan và sùi dạng tuyến
+J35.0,Viêm amydan mãn tính
+J35.1,Amydan quá phát
+J35.2,Phì đại VA
+J35.3,Phì đại amydan
+J35.8,Bệnh mãn tính khác của amydan và VA
+J35.9,"Bệnh mãn tính của amydan và VA, không đặc hiệu"
+J36,Áp xe quanh Amydan
+J37,Viêm thanh quản và viêm thanh khí quản mãn tính
+J37.0,Viêm thanh quản mãn tính
+J37.1,Viêm thanh khí quản mạn
+J38,"Bệnh lý của dây thanh âm và thanh quản, không phân loại nơi khác"
+J38.0,Liệt dây thanh âm và thanh quản
+J38.1,Polyp của dây thanh âm và thanh quản
+J38.2,Nốt nhỏ ở dây thanh âm
+J38.3,Các bệnh lý khác của dây thanh âm
+J38.4,Phù thanh quản
+J38.5,Co thắt thanh quản
+J38.6,Hẹp thanh quản
+J38.7,Các bệnh lý khác của thanh quản
+J70.2,Bệnh phổi mô kẽ cấp tính do thuốc
+J70.3,Bệnh phổi mô kẽ mãn tính do thuốc
+J70.4,"Bệnh phổi mô kẽ do thuốc, không phân loại"
+J70.8,Bệnh lý hô hấp do tác nhân bên ngoài xác định khác
+J70.9,Bệnh lý hô hấp do các tác nhân bên ngoài không phân loại
+J80,Hội chứng suy hô hấp ở người lớn
+J81,Phù phổi 
+J82,"Tăng bạch cầu ái toan ở phổi, chưa được phân loại ở nơi khác"
+J84,Bệnh phổi mô kẽ khác
+J84.0,Bệnh lý phế nang và thành phế nang
+J84.1,Bệnh phổi mô kẽ khác có xơ
+J84.8,Bệnh phổi mô kẽ xác định khác
+J84.9,"Bệnh phổi mô kẽ, không phân loại"
+J85,Áp xe phổi và trung thất
+J85.0,Hoại thư và hoại tử ở phổi
+J85.1,Áp xe phổi có viêm phổi
+J85.2,Áp xe phổi không có viêm phổi
+J85.3,Áp xe trung thất
+J86,Mủ lồng ngực
+J86.0,Mủ lồng ngực có lỗ rò
+J86.9,Mủ lồng ngực không có lỗ rò
+J90,"Tràn dịch màng phổi, không phân loại nơi khác"
+J91,Tràn dịch màng phổi trong bệnh phân loại nơi khác
+J91*,Tràn dịch màng phổi trong bệnh phân loại nơi khác
+J92,Mảng màng phổi
+J92.0,Mảng màng phổi do amian
+J92.9,Mảng màng phổi không do amian
+J93,Tràn khí màng phổi
+J93.0,Tràn khí màng phổi tự phát có van
+J95.5,Hẹp dưới thanh môn sau phẫu thuật
+J95.8,Các bệnh hô hấp sau phẫu thuật khác
+J95.9,"Rối loạn hô hấp sau phẫu thuật, không đặc hiệu"
+J96,Suy hô hấp không phân loại nơi khác
+J96.0,Suy hô hấp cấp
+J96.1,Suy hô hấp mạn
+J96.9,"Suy hô hấp, không phân loại"
+J98,Các bệnh hô hấp khác
+J98.0,"Bệnh phế quản, không phân loại nơi khác"
+J98.1,Xẹp phổi
+J98.2,Giãn phế nang mô kẽ
+J98.3,Giãn phế nang còn bù
+J98.4,Các Bệnh khác của phổi
+J98.5,"Bệnh của trung thất, không phân loại nơi khác"
+J98.6,Bệnh của cơ hoành
+J98.8,Bệnh hô hấp xác định khác
+J98.9,"Bệnh hô hấp, không phân loại"
+J99,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J99*,Bệnh hô hấp trong các bệnh được phân loại nơi khác
+J99.0*,Bệnh phổi dạng thấp (M05.1†)
+J99.1*,Bệnh hô hấp trong các bệnh mô liên kết lan toả khác
+J99.8*,Bệnh hô hấp trong các bệnh được phân loại nơi khác

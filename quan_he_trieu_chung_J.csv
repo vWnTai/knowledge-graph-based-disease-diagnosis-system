@@ -1,0 +1,1034 @@
+Ma_ICD10,Trieu_Chung,Trong_So
+J63.8,Khó thở tiến triển,0.85
+J63.8,Ho khan kéo dài,0.80
+J63.8,Giảm khả năng gắng sức,0.75
+J63.8,Đau tức ngực,0.70
+J64,Khó thở tiến triển,0.85
+J64,Ho khan kéo dài,0.80
+J64,Giảm khả năng gắng sức,0.75
+J64,Đau tức ngực,0.70
+J65,Khó thở tiến triển,0.85
+J65,Ho khan kéo dài,0.80
+J65,Giảm khả năng gắng sức,0.75
+J65,Đau tức ngực,0.70
+J66,Khó thở tiến triển,0.85
+J66,Ho khan kéo dài,0.80
+J66,Giảm khả năng gắng sức,0.75
+J66,Đau tức ngực,0.70
+J66.0,Khó thở tiến triển,0.85
+J66.0,Ho khan kéo dài,0.80
+J66.0,Giảm khả năng gắng sức,0.75
+J66.0,Đau tức ngực,0.70
+J66.1,Khó thở tiến triển,0.85
+J66.1,Ho khan kéo dài,0.80
+J66.1,Giảm khả năng gắng sức,0.75
+J66.1,Đau tức ngực,0.70
+J66.2,Khó thở tiến triển,0.85
+J66.2,Ho khan kéo dài,0.80
+J66.2,Giảm khả năng gắng sức,0.75
+J66.2,Đau tức ngực,0.70
+J66.8,Khó thở tiến triển,0.85
+J66.8,Ho khan kéo dài,0.80
+J66.8,Giảm khả năng gắng sức,0.75
+J66.8,Đau tức ngực,0.70
+J67,Khó thở tiến triển,0.85
+J67,Ho khan kéo dài,0.80
+J67,Giảm khả năng gắng sức,0.75
+J67,Đau tức ngực,0.70
+J67.0,Khó thở tiến triển,0.85
+J67.0,Ho khan kéo dài,0.80
+J67.0,Giảm khả năng gắng sức,0.75
+J67.0,Đau tức ngực,0.70
+J67.1,Khó thở tiến triển,0.85
+J67.1,Ho khan kéo dài,0.80
+J67.1,Giảm khả năng gắng sức,0.75
+J67.1,Đau tức ngực,0.70
+J67.2,Khó thở tiến triển,0.85
+J67.2,Ho khan kéo dài,0.80
+J67.2,Giảm khả năng gắng sức,0.75
+J67.2,Đau tức ngực,0.70
+J67.3,Khó thở tiến triển,0.85
+J67.3,Ho khan kéo dài,0.80
+J67.3,Giảm khả năng gắng sức,0.75
+J67.3,Đau tức ngực,0.70
+J67.4,Khó thở tiến triển,0.85
+J67.4,Ho khan kéo dài,0.80
+J67.4,Giảm khả năng gắng sức,0.75
+J67.4,Đau tức ngực,0.70
+J67.5,Khó thở tiến triển,0.85
+J67.5,Ho khan kéo dài,0.80
+J67.5,Giảm khả năng gắng sức,0.75
+J67.5,Đau tức ngực,0.70
+J37.0,Khàn tiếng,0.95
+J37.0,Ho khan ong óng,0.85
+J37.0,Đau vùng thanh quản,0.75
+J37.0,Khó thở thanh quản,0.70
+J37.1,Khàn tiếng,0.95
+J37.1,Ho khan ong óng,0.85
+J37.1,Đau vùng thanh quản,0.75
+J37.1,Khó thở thanh quản,0.70
+J38,Khàn tiếng,0.95
+J38,Ho khan ong óng,0.85
+J38,Đau vùng thanh quản,0.75
+J38,Khó thở thanh quản,0.70
+J38.0,Khàn tiếng,0.95
+J38.0,Ho khan ong óng,0.85
+J38.0,Đau vùng thanh quản,0.75
+J38.0,Khó thở thanh quản,0.70
+J38.1,Khàn tiếng,0.95
+J38.1,Ho khan ong óng,0.85
+J38.1,Đau vùng thanh quản,0.75
+J38.1,Khó thở thanh quản,0.70
+J38.2,Khàn tiếng,0.95
+J38.2,Ho khan ong óng,0.85
+J38.2,Đau vùng thanh quản,0.75
+J38.2,Khó thở thanh quản,0.70
+J38.3,Khàn tiếng,0.95
+J38.3,Ho khan ong óng,0.85
+J38.3,Đau vùng thanh quản,0.75
+J38.3,Khó thở thanh quản,0.70
+J38.4,Khàn tiếng,0.95
+J38.4,Ho khan ong óng,0.85
+J38.4,Đau vùng thanh quản,0.75
+J38.4,Khó thở thanh quản,0.70
+J38.5,Khàn tiếng,0.95
+J38.5,Ho khan ong óng,0.85
+J38.5,Đau vùng thanh quản,0.75
+J38.5,Khó thở thanh quản,0.70
+J38.6,Khàn tiếng,0.95
+J38.6,Ho khan ong óng,0.85
+J38.6,Đau vùng thanh quản,0.75
+J38.6,Khó thở thanh quản,0.70
+J38.7,Khàn tiếng,0.95
+J38.7,Ho khan ong óng,0.85
+J38.7,Đau vùng thanh quản,0.75
+J38.7,Khó thở thanh quản,0.70
+J39,Nghẹt mũi,0.80
+J39,Đau rát họng,0.80
+J39,Ho khan,0.75
+J39,Sốt nhẹ,0.70
+J39.0,Đau rát họng,0.90
+J39.0,Nuốt vướng đau,0.85
+J39.0,Sốt nhẹ,0.70
+J39.0,Ho khan,0.65
+J39.1,Đau rát họng,0.90
+J39.1,Nuốt vướng đau,0.85
+J39.1,Sốt nhẹ,0.70
+J39.1,Ho khan,0.65
+J39.2,Đau rát họng,0.90
+J39.2,Nuốt vướng đau,0.85
+J39.2,Sốt nhẹ,0.70
+J39.2,Ho khan,0.65
+J39.3,Nghẹt mũi,0.80
+J39.3,Đau rát họng,0.80
+J39.3,Ho khan,0.75
+J39.3,Sốt nhẹ,0.70
+J39.8,Nghẹt mũi,0.80
+J39.8,Đau rát họng,0.80
+J39.8,Ho khan,0.75
+J39.8,Sốt nhẹ,0.70
+J39.9,Nghẹt mũi,0.80
+J39.9,Đau rát họng,0.80
+J39.9,Ho khan,0.75
+J39.9,Sốt nhẹ,0.70
+J40,Ho có đờm,0.85
+J40,Thở khò khè,0.80
+J40,Thở nhanh,0.75
+J40,Sốt nhẹ,0.70
+J41,Khó thở khi gắng sức,0.90
+J41,Ho khạc đờm kéo dài,0.85
+J41,Thở khò khè,0.80
+J41,Nặng ngực,0.75
+J41.0,Khó thở khi gắng sức,0.90
+J41.0,Ho khạc đờm kéo dài,0.85
+J41.0,Thở khò khè,0.80
+J41.0,Nặng ngực,0.75
+J41.1,Khó thở khi gắng sức,0.90
+J41.1,Ho khạc đờm kéo dài,0.85
+J41.1,Thở khò khè,0.80
+J41.1,Nặng ngực,0.75
+J41.8,Khó thở khi gắng sức,0.90
+J41.8,Ho khạc đờm kéo dài,0.85
+J41.8,Thở khò khè,0.80
+J41.8,Nặng ngực,0.75
+J42,Khó thở khi gắng sức,0.90
+J42,Ho khạc đờm kéo dài,0.85
+J42,Thở khò khè,0.80
+J42,Nặng ngực,0.75
+J43,Khó thở khi gắng sức,0.90
+J43,Ho khạc đờm kéo dài,0.85
+J43,Thở khò khè,0.80
+J43,Nặng ngực,0.75
+J43.0,Khó thở khi gắng sức,0.90
+J43.0,Ho khạc đờm kéo dài,0.85
+J43.0,Thở khò khè,0.80
+J43.0,Nặng ngực,0.75
+J43.1,Khó thở khi gắng sức,0.90
+J43.1,Ho khạc đờm kéo dài,0.85
+J43.1,Thở khò khè,0.80
+J43.1,Nặng ngực,0.75
+J43.2,Khó thở khi gắng sức,0.90
+J43.2,Ho khạc đờm kéo dài,0.85
+J43.2,Thở khò khè,0.80
+J43.2,Nặng ngực,0.75
+J43.8,Khó thở khi gắng sức,0.90
+J43.8,Ho khạc đờm kéo dài,0.85
+J43.8,Thở khò khè,0.80
+J43.8,Nặng ngực,0.75
+J43.9,Khó thở khi gắng sức,0.90
+J43.9,Ho khạc đờm kéo dài,0.85
+J43.9,Thở khò khè,0.80
+J43.9,Nặng ngực,0.75
+J44,Khó thở khi gắng sức,0.90
+J44,Ho khạc đờm kéo dài,0.85
+J44,Thở khò khè,0.80
+J44,Nặng ngực,0.75
+J44.0,Khó thở khi gắng sức,0.90
+J44.0,Ho khạc đờm kéo dài,0.85
+J44.0,Thở khò khè,0.80
+J44.0,Nặng ngực,0.75
+J44.8,Khó thở khi gắng sức,0.90
+J44.8,Ho khạc đờm kéo dài,0.85
+J44.8,Thở khò khè,0.80
+J44.8,Nặng ngực,0.75
+J44.9,Khó thở khi gắng sức,0.90
+J44.9,Ho khạc đờm kéo dài,0.85
+J44.9,Thở khò khè,0.80
+J44.9,Nặng ngực,0.75
+J45,Khó thở kịch phát,0.95
+J45,Thở rít khò khè,0.90
+J45,Ho về đêm và sáng sớm,0.85
+J45,Nặng ngực,0.80
+J45.0,Khó thở kịch phát,0.95
+J45.0,Thở rít khò khè,0.90
+J45.0,Ho về đêm và sáng sớm,0.85
+J45.0,Nặng ngực,0.80
+J45.1,Khó thở kịch phát,0.95
+J45.1,Thở rít khò khè,0.90
+J45.1,Ho về đêm và sáng sớm,0.85
+J45.1,Nặng ngực,0.80
+J45.8,Khó thở kịch phát,0.95
+J45.8,Thở rít khò khè,0.90
+J45.8,Ho về đêm và sáng sớm,0.85
+J45.8,Nặng ngực,0.80
+J45.9,Khó thở kịch phát,0.95
+J45.9,Thở rít khò khè,0.90
+J45.9,Ho về đêm và sáng sớm,0.85
+J45.9,Nặng ngực,0.80
+J46,Khó thở kịch phát,0.95
+J46,Thở rít khò khè,0.90
+J46,Ho về đêm và sáng sớm,0.85
+J46,Nặng ngực,0.80
+J47,Ho khạc đờm nhiều thể tích,0.95
+J47,Ho ra máu,0.85
+J47,Khó thở mãn tính,0.75
+J47,Đau ngực âm ỉ,0.70
+J60,Khó thở tiến triển,0.85
+J60,Ho khan kéo dài,0.80
+J60,Giảm khả năng gắng sức,0.75
+J60,Đau tức ngực,0.70
+J61,Khó thở tiến triển,0.85
+J61,Ho khan kéo dài,0.80
+J61,Giảm khả năng gắng sức,0.75
+J61,Đau tức ngực,0.70
+J62,Khó thở tiến triển,0.85
+J62,Ho khan kéo dài,0.80
+J62,Giảm khả năng gắng sức,0.75
+J62,Đau tức ngực,0.70
+J62.0,Khó thở tiến triển,0.85
+J62.0,Ho khan kéo dài,0.80
+J62.0,Giảm khả năng gắng sức,0.75
+J62.0,Đau tức ngực,0.70
+J62.8,Khó thở tiến triển,0.85
+J62.8,Ho khan kéo dài,0.80
+J62.8,Giảm khả năng gắng sức,0.75
+J62.8,Đau tức ngực,0.70
+J63,Khó thở tiến triển,0.85
+J63,Ho khan kéo dài,0.80
+J63,Giảm khả năng gắng sức,0.75
+J63,Đau tức ngực,0.70
+J63.0,Khó thở tiến triển,0.85
+J63.0,Ho khan kéo dài,0.80
+J63.0,Giảm khả năng gắng sức,0.75
+J63.0,Đau tức ngực,0.70
+J63.1,Khó thở tiến triển,0.85
+J63.1,Ho khan kéo dài,0.80
+J63.1,Giảm khả năng gắng sức,0.75
+J63.1,Đau tức ngực,0.70
+J63.2,Khó thở tiến triển,0.85
+J63.2,Ho khan kéo dài,0.80
+J63.2,Giảm khả năng gắng sức,0.75
+J63.2,Đau tức ngực,0.70
+J63.3,Khó thở tiến triển,0.85
+J63.3,Ho khan kéo dài,0.80
+J63.3,Giảm khả năng gắng sức,0.75
+J63.3,Đau tức ngực,0.70
+J63.4,Khó thở tiến triển,0.85
+J63.4,Ho khan kéo dài,0.80
+J63.4,Giảm khả năng gắng sức,0.75
+J63.4,Đau tức ngực,0.70
+J63.5,Khó thở tiến triển,0.85
+J63.5,Ho khan kéo dài,0.80
+J63.5,Giảm khả năng gắng sức,0.75
+J63.5,Đau tức ngực,0.70
+J67.8,Khó thở tiến triển,0.85
+J67.8,Ho khan kéo dài,0.80
+J67.8,Giảm khả năng gắng sức,0.75
+J67.8,Đau tức ngực,0.70
+J67.9,Khó thở tiến triển,0.85
+J67.9,Ho khan kéo dài,0.80
+J67.9,Giảm khả năng gắng sức,0.75
+J67.9,Đau tức ngực,0.70
+J68,Khó thở tiến triển,0.85
+J68,Ho khan kéo dài,0.80
+J68,Giảm khả năng gắng sức,0.75
+J68,Đau tức ngực,0.70
+J68.0,Ho có đờm,0.85
+J68.0,Thở khò khè,0.80
+J68.0,Thở nhanh,0.75
+J68.0,Sốt nhẹ,0.70
+J68.1,Khó thở dữ dội,0.95
+J68.1,Tím tái môi và đầu chi,0.90
+J68.1,Thở nhanh nông,0.85
+J68.1,Nhịp tim nhanh,0.75
+J68.2,Khàn tiếng,0.95
+J68.2,Ho khan ong óng,0.85
+J68.2,Đau vùng thanh quản,0.75
+J68.2,Khó thở thanh quản,0.70
+J68.3,Khó thở tiến triển,0.85
+J68.3,Ho khan kéo dài,0.80
+J68.3,Giảm khả năng gắng sức,0.75
+J68.3,Đau tức ngực,0.70
+J68.4,Khó thở tiến triển,0.85
+J68.4,Ho khan kéo dài,0.80
+J68.4,Giảm khả năng gắng sức,0.75
+J68.4,Đau tức ngực,0.70
+J68.8,Khó thở tiến triển,0.85
+J68.8,Ho khan kéo dài,0.80
+J68.8,Giảm khả năng gắng sức,0.75
+J68.8,Đau tức ngực,0.70
+J68.9,Khó thở tiến triển,0.85
+J68.9,Ho khan kéo dài,0.80
+J68.9,Giảm khả năng gắng sức,0.75
+J68.9,Đau tức ngực,0.70
+J69,Ho kèm đờm đục,0.85
+J69,Sốt cao run rẩy,0.80
+J69,Đau ngực khi ho,0.80
+J69,Khó thở,0.75
+J69.0,Ho kèm đờm đục,0.85
+J69.0,Sốt cao run rẩy,0.80
+J69.0,Đau ngực khi ho,0.80
+J69.0,Khó thở,0.75
+J69.1,Ho kèm đờm đục,0.85
+J69.1,Sốt cao run rẩy,0.80
+J69.1,Đau ngực khi ho,0.80
+J69.1,Khó thở,0.75
+J69.8,Ho kèm đờm đục,0.85
+J69.8,Sốt cao run rẩy,0.80
+J69.8,Đau ngực khi ho,0.80
+J69.8,Khó thở,0.75
+J70,Khó thở tiến triển,0.85
+J70,Ho khan kéo dài,0.80
+J70,Giảm khả năng gắng sức,0.75
+J70,Đau tức ngực,0.70
+J70.0,Khó thở tiến triển,0.85
+J70.0,Ho khan kéo dài,0.80
+J70.0,Giảm khả năng gắng sức,0.75
+J70.0,Đau tức ngực,0.70
+J70.1,Khó thở tiến triển,0.85
+J70.1,Ho khan kéo dài,0.80
+J70.1,Giảm khả năng gắng sức,0.75
+J70.1,Đau tức ngực,0.70
+J70.2,Khó thở dữ dội,0.95
+J70.2,Tím tái môi và đầu chi,0.90
+J70.2,Thở nhanh nông,0.85
+J70.2,Nhịp tim nhanh,0.75
+J70.3,Khó thở dữ dội,0.95
+J70.3,Tím tái môi và đầu chi,0.90
+J70.3,Thở nhanh nông,0.85
+J70.3,Nhịp tim nhanh,0.75
+J70.4,Khó thở dữ dội,0.95
+J70.4,Tím tái môi và đầu chi,0.90
+J70.4,Thở nhanh nông,0.85
+J70.4,Nhịp tim nhanh,0.75
+J70.8,Khó thở tiến triển,0.85
+J70.8,Ho khan kéo dài,0.80
+J70.8,Giảm khả năng gắng sức,0.75
+J70.8,Đau tức ngực,0.70
+J70.9,Khó thở tiến triển,0.85
+J70.9,Ho khan kéo dài,0.80
+J70.9,Giảm khả năng gắng sức,0.75
+J70.9,Đau tức ngực,0.70
+J00,Hắt hơi liên tục,0.85
+J00,Nghẹt mũi,0.80
+J00,Chảy nước mũi trong,0.80
+J00,Ngứa mũi,0.75
+J01.0,Đau nhức vùng mặt xoang,0.90
+J01.0,Chảy dịch mũi đặc,0.85
+J01.0,Nghẹt mũi,0.80
+J01.0,Giảm khứu giác,0.75
+J01.1,Đau nhức vùng mặt xoang,0.90
+J01.1,Chảy dịch mũi đặc,0.85
+J01.1,Nghẹt mũi,0.80
+J01.1,Giảm khứu giác,0.75
+J01.2,Đau nhức vùng mặt xoang,0.90
+J01.2,Chảy dịch mũi đặc,0.85
+J01.2,Nghẹt mũi,0.80
+J01.2,Giảm khứu giác,0.75
+J01.3,Đau nhức vùng mặt xoang,0.90
+J01.3,Chảy dịch mũi đặc,0.85
+J01.3,Nghẹt mũi,0.80
+J01.3,Giảm khứu giác,0.75
+J01.4,Đau nhức vùng mặt xoang,0.90
+J01.4,Chảy dịch mũi đặc,0.85
+J01.4,Nghẹt mũi,0.80
+J01.4,Giảm khứu giác,0.75
+J01.8,Đau nhức vùng mặt xoang,0.90
+J01.8,Chảy dịch mũi đặc,0.85
+J01.8,Nghẹt mũi,0.80
+J01.8,Giảm khứu giác,0.75
+J01.9,Đau nhức vùng mặt xoang,0.90
+J01.9,Chảy dịch mũi đặc,0.85
+J01.9,Nghẹt mũi,0.80
+J01.9,Giảm khứu giác,0.75
+J02,Đau rát họng,0.90
+J02,Nuốt vướng đau,0.85
+J02,Sốt nhẹ,0.70
+J02,Ho khan,0.65
+J02.0,Đau rát họng,0.90
+J02.0,Nuốt vướng đau,0.85
+J02.0,Sốt nhẹ,0.70
+J02.0,Ho khan,0.65
+J02.8,Đau rát họng,0.90
+J02.8,Nuốt vướng đau,0.85
+J02.8,Sốt nhẹ,0.70
+J02.8,Ho khan,0.65
+J02.9,Đau rát họng,0.90
+J02.9,Nuốt vướng đau,0.85
+J02.9,Sốt nhẹ,0.70
+J02.9,Ho khan,0.65
+J03,Đau rát họng,0.90
+J03,Nuốt vướng đau,0.85
+J03,Sốt nhẹ,0.70
+J03,Ho khan,0.65
+J03.0,Đau rát họng,0.90
+J03.0,Nuốt vướng đau,0.85
+J03.0,Sốt nhẹ,0.70
+J03.0,Ho khan,0.65
+J03.8,Đau rát họng,0.90
+J03.8,Nuốt vướng đau,0.85
+J03.8,Sốt nhẹ,0.70
+J03.8,Ho khan,0.65
+J03.9,Đau rát họng,0.90
+J03.9,Nuốt vướng đau,0.85
+J03.9,Sốt nhẹ,0.70
+J03.9,Ho khan,0.65
+J04,Khàn tiếng,0.95
+J04,Ho khan ong óng,0.85
+J04,Đau vùng thanh quản,0.75
+J04,Khó thở thanh quản,0.70
+J04.0,Khàn tiếng,0.95
+J04.0,Ho khan ong óng,0.85
+J04.0,Đau vùng thanh quản,0.75
+J04.0,Khó thở thanh quản,0.70
+J04.1,Khàn tiếng,0.95
+J04.1,Ho khan ong óng,0.85
+J04.1,Đau vùng thanh quản,0.75
+J04.1,Khó thở thanh quản,0.70
+J04.2,Khàn tiếng,0.95
+J04.2,Ho khan ong óng,0.85
+J04.2,Đau vùng thanh quản,0.75
+J04.2,Khó thở thanh quản,0.70
+J05,Khàn tiếng,0.95
+J05,Ho khan ong óng,0.85
+J05,Đau vùng thanh quản,0.75
+J05,Khó thở thanh quản,0.70
+J05.0,Khàn tiếng,0.95
+J05.0,Ho khan ong óng,0.85
+J05.0,Đau vùng thanh quản,0.75
+J05.0,Khó thở thanh quản,0.70
+J05.1,Khàn tiếng,0.95
+J05.1,Ho khan ong óng,0.85
+J05.1,Đau vùng thanh quản,0.75
+J05.1,Khó thở thanh quản,0.70
+J06,Nghẹt mũi,0.80
+J06,Đau rát họng,0.80
+J06,Ho khan,0.75
+J06,Sốt nhẹ,0.70
+J06.8,Nghẹt mũi,0.80
+J06.8,Đau rát họng,0.80
+J06.8,Ho khan,0.75
+J06.8,Sốt nhẹ,0.70
+J06.9,Nghẹt mũi,0.80
+J06.9,Đau rát họng,0.80
+J06.9,Ho khan,0.75
+J06.9,Sốt nhẹ,0.70
+J09,Sốt cao đột ngột,0.90
+J09,Đau mỏi cơ khớp,0.85
+J09,Ho khan,0.75
+J09,Đau đầu,0.70
+J09,Mệt mỏi suy nhược,0.65
+J10,Sốt cao đột ngột,0.90
+J10,Đau mỏi cơ khớp,0.85
+J10,Ho khan,0.75
+J10,Đau đầu,0.70
+J10,Mệt mỏi suy nhược,0.65
+J10.0,Sốt cao đột ngột,0.90
+J10.0,Đau mỏi cơ khớp,0.85
+J10.0,Ho khan,0.75
+J10.0,Đau đầu,0.70
+J10.0,Mệt mỏi suy nhược,0.65
+J10.1,Sốt cao đột ngột,0.90
+J10.1,Đau mỏi cơ khớp,0.85
+J10.1,Ho khan,0.75
+J10.1,Đau đầu,0.70
+J10.1,Mệt mỏi suy nhược,0.65
+J10.8,Sốt cao đột ngột,0.90
+J10.8,Đau mỏi cơ khớp,0.85
+J10.8,Ho khan,0.75
+J10.8,Đau đầu,0.70
+J10.8,Mệt mỏi suy nhược,0.65
+J11,Sốt cao đột ngột,0.90
+J11,Đau mỏi cơ khớp,0.85
+J11,Ho khan,0.75
+J11,Đau đầu,0.70
+J11,Mệt mỏi suy nhược,0.65
+J11.0,Sốt cao đột ngột,0.90
+J11.0,Đau mỏi cơ khớp,0.85
+J11.0,Ho khan,0.75
+J11.0,Đau đầu,0.70
+J11.0,Mệt mỏi suy nhược,0.65
+J11.1,Sốt cao đột ngột,0.90
+J11.1,Đau mỏi cơ khớp,0.85
+J11.1,Ho khan,0.75
+J11.1,Đau đầu,0.70
+J11.1,Mệt mỏi suy nhược,0.65
+J11.8,Sốt cao đột ngột,0.90
+J11.8,Đau mỏi cơ khớp,0.85
+J11.8,Ho khan,0.75
+J11.8,Đau đầu,0.70
+J11.8,Mệt mỏi suy nhược,0.65
+J12,Ho kèm đờm đục,0.85
+J12,Sốt cao run rẩy,0.80
+J12,Đau ngực khi ho,0.80
+J12,Khó thở,0.75
+J12.0,Ho kèm đờm đục,0.85
+J12.0,Sốt cao run rẩy,0.80
+J12.0,Đau ngực khi ho,0.80
+J12.0,Khó thở,0.75
+J12.1,Ho kèm đờm đục,0.85
+J12.1,Sốt cao run rẩy,0.80
+J12.1,Đau ngực khi ho,0.80
+J12.1,Khó thở,0.75
+J12.2,Ho kèm đờm đục,0.85
+J12.2,Sốt cao run rẩy,0.80
+J12.2,Đau ngực khi ho,0.80
+J12.2,Khó thở,0.75
+J12.8,Ho kèm đờm đục,0.85
+J12.8,Sốt cao run rẩy,0.80
+J12.8,Đau ngực khi ho,0.80
+J12.8,Khó thở,0.75
+J12.9,Ho kèm đờm đục,0.85
+J12.9,Sốt cao run rẩy,0.80
+J12.9,Đau ngực khi ho,0.80
+J12.9,Khó thở,0.75
+J13,Ho kèm đờm đục,0.85
+J13,Sốt cao run rẩy,0.80
+J13,Đau ngực khi ho,0.80
+J13,Khó thở,0.75
+J14,Ho kèm đờm đục,0.85
+J14,Sốt cao run rẩy,0.80
+J14,Đau ngực khi ho,0.80
+J14,Khó thở,0.75
+J15,Ho kèm đờm đục,0.85
+J15,Sốt cao run rẩy,0.80
+J15,Đau ngực khi ho,0.80
+J15,Khó thở,0.75
+J15.0,Ho kèm đờm đục,0.85
+J15.0,Sốt cao run rẩy,0.80
+J15.0,Đau ngực khi ho,0.80
+J15.0,Khó thở,0.75
+J15.1,Ho kèm đờm đục,0.85
+J15.1,Sốt cao run rẩy,0.80
+J15.1,Đau ngực khi ho,0.80
+J15.1,Khó thở,0.75
+J15.2,Ho kèm đờm đục,0.85
+J15.2,Sốt cao run rẩy,0.80
+J15.2,Đau ngực khi ho,0.80
+J15.2,Khó thở,0.75
+J15.3,Ho kèm đờm đục,0.85
+J15.3,Sốt cao run rẩy,0.80
+J15.3,Đau ngực khi ho,0.80
+J15.3,Khó thở,0.75
+J15.4,Ho kèm đờm đục,0.85
+J15.4,Sốt cao run rẩy,0.80
+J15.4,Đau ngực khi ho,0.80
+J15.4,Khó thở,0.75
+J15.5,Ho kèm đờm đục,0.85
+J15.5,Sốt cao run rẩy,0.80
+J15.5,Đau ngực khi ho,0.80
+J15.5,Khó thở,0.75
+J15.6,Ho kèm đờm đục,0.85
+J15.6,Sốt cao run rẩy,0.80
+J15.6,Đau ngực khi ho,0.80
+J15.6,Khó thở,0.75
+J15.7,Ho kèm đờm đục,0.85
+J15.7,Sốt cao run rẩy,0.80
+J15.7,Đau ngực khi ho,0.80
+J15.7,Khó thở,0.75
+J15.8,Ho kèm đờm đục,0.85
+J15.8,Sốt cao run rẩy,0.80
+J15.8,Đau ngực khi ho,0.80
+J15.8,Khó thở,0.75
+J15.9,Ho kèm đờm đục,0.85
+J15.9,Sốt cao run rẩy,0.80
+J15.9,Đau ngực khi ho,0.80
+J15.9,Khó thở,0.75
+J16,Ho kèm đờm đục,0.85
+J16,Sốt cao run rẩy,0.80
+J16,Đau ngực khi ho,0.80
+J16,Khó thở,0.75
+J16.0,Ho kèm đờm đục,0.85
+J16.0,Sốt cao run rẩy,0.80
+J16.0,Đau ngực khi ho,0.80
+J16.0,Khó thở,0.75
+J16.8,Ho kèm đờm đục,0.85
+J16.8,Sốt cao run rẩy,0.80
+J16.8,Đau ngực khi ho,0.80
+J16.8,Khó thở,0.75
+J17,Ho kèm đờm đục,0.85
+J17,Sốt cao run rẩy,0.80
+J17,Đau ngực khi ho,0.80
+J17,Khó thở,0.75
+J17.0*,Ho kèm đờm đục,0.85
+J17.0*,Sốt cao run rẩy,0.80
+J17.0*,Đau ngực khi ho,0.80
+J17.0*,Khó thở,0.75
+J17.1*,Ho kèm đờm đục,0.85
+J17.1*,Sốt cao run rẩy,0.80
+J17.1*,Đau ngực khi ho,0.80
+J17.1*,Khó thở,0.75
+J17.2*,Ho kèm đờm đục,0.85
+J17.2*,Sốt cao run rẩy,0.80
+J17.2*,Đau ngực khi ho,0.80
+J17.2*,Khó thở,0.75
+J17.3*,Ho kèm đờm đục,0.85
+J17.3*,Sốt cao run rẩy,0.80
+J17.3*,Đau ngực khi ho,0.80
+J17.3*,Khó thở,0.75
+J17.8*,Ho kèm đờm đục,0.85
+J17.8*,Sốt cao run rẩy,0.80
+J17.8*,Đau ngực khi ho,0.80
+J17.8*,Khó thở,0.75
+J18,Ho kèm đờm đục,0.85
+J18,Sốt cao run rẩy,0.80
+J18,Đau ngực khi ho,0.80
+J18,Khó thở,0.75
+J18.0,Ho kèm đờm đục,0.85
+J18.0,Sốt cao run rẩy,0.80
+J18.0,Đau ngực khi ho,0.80
+J18.0,Khó thở,0.75
+J18.1,Ho kèm đờm đục,0.85
+J18.1,Sốt cao run rẩy,0.80
+J18.1,Đau ngực khi ho,0.80
+J18.1,Khó thở,0.75
+J18.2,Ho kèm đờm đục,0.85
+J18.2,Sốt cao run rẩy,0.80
+J18.2,Đau ngực khi ho,0.80
+J18.2,Khó thở,0.75
+J18.8,Ho kèm đờm đục,0.85
+J18.8,Sốt cao run rẩy,0.80
+J18.8,Đau ngực khi ho,0.80
+J18.8,Khó thở,0.75
+J18.9,Ho kèm đờm đục,0.85
+J18.9,Sốt cao run rẩy,0.80
+J18.9,Đau ngực khi ho,0.80
+J18.9,Khó thở,0.75
+J20,Ho có đờm,0.85
+J20,Thở khò khè,0.80
+J20,Thở nhanh,0.75
+J20,Sốt nhẹ,0.70
+J20.0,Ho có đờm,0.85
+J20.0,Thở khò khè,0.80
+J20.0,Thở nhanh,0.75
+J20.0,Sốt nhẹ,0.70
+J20.1,Ho có đờm,0.85
+J20.1,Thở khò khè,0.80
+J20.1,Thở nhanh,0.75
+J20.1,Sốt nhẹ,0.70
+J20.2,Ho có đờm,0.85
+J20.2,Thở khò khè,0.80
+J20.2,Thở nhanh,0.75
+J20.2,Sốt nhẹ,0.70
+J20.3,Ho có đờm,0.85
+J20.3,Thở khò khè,0.80
+J20.3,Thở nhanh,0.75
+J20.3,Sốt nhẹ,0.70
+J20.4,Ho có đờm,0.85
+J20.4,Thở khò khè,0.80
+J20.4,Thở nhanh,0.75
+J20.4,Sốt nhẹ,0.70
+J20.5,Ho có đờm,0.85
+J20.5,Thở khò khè,0.80
+J20.5,Thở nhanh,0.75
+J20.5,Sốt nhẹ,0.70
+J20.6,Ho có đờm,0.85
+J20.6,Thở khò khè,0.80
+J20.6,Thở nhanh,0.75
+J20.6,Sốt nhẹ,0.70
+J20.7,Ho có đờm,0.85
+J20.7,Thở khò khè,0.80
+J20.7,Thở nhanh,0.75
+J20.7,Sốt nhẹ,0.70
+J20.8,Ho có đờm,0.85
+J20.8,Thở khò khè,0.80
+J20.8,Thở nhanh,0.75
+J20.8,Sốt nhẹ,0.70
+J20.9,Ho có đờm,0.85
+J20.9,Thở khò khè,0.80
+J20.9,Thở nhanh,0.75
+J20.9,Sốt nhẹ,0.70
+J21,Ho có đờm,0.85
+J21,Thở khò khè,0.80
+J21,Thở nhanh,0.75
+J21,Sốt nhẹ,0.70
+J21.0,Ho có đờm,0.85
+J21.0,Thở khò khè,0.80
+J21.0,Thở nhanh,0.75
+J21.0,Sốt nhẹ,0.70
+J21.1,Ho có đờm,0.85
+J21.1,Thở khò khè,0.80
+J21.1,Thở nhanh,0.75
+J21.1,Sốt nhẹ,0.70
+J21.8,Ho có đờm,0.85
+J21.8,Thở khò khè,0.80
+J21.8,Thở nhanh,0.75
+J21.8,Sốt nhẹ,0.70
+J21.9,Ho có đờm,0.85
+J21.9,Thở khò khè,0.80
+J21.9,Thở nhanh,0.75
+J21.9,Sốt nhẹ,0.70
+J22,Ho có đờm,0.85
+J22,Thở khò khè,0.80
+J22,Thở nhanh,0.75
+J22,Sốt nhẹ,0.70
+J30,Hắt hơi liên tục,0.85
+J30,Nghẹt mũi,0.80
+J30,Chảy nước mũi trong,0.80
+J30,Ngứa mũi,0.75
+J30.0,Hắt hơi liên tục,0.85
+J30.0,Nghẹt mũi,0.80
+J30.0,Chảy nước mũi trong,0.80
+J30.0,Ngứa mũi,0.75
+J30.1,Hắt hơi liên tục,0.85
+J30.1,Nghẹt mũi,0.80
+J30.1,Chảy nước mũi trong,0.80
+J30.1,Ngứa mũi,0.75
+J30.2,Hắt hơi liên tục,0.85
+J30.2,Nghẹt mũi,0.80
+J30.2,Chảy nước mũi trong,0.80
+J30.2,Ngứa mũi,0.75
+J30.3,Hắt hơi liên tục,0.85
+J30.3,Nghẹt mũi,0.80
+J30.3,Chảy nước mũi trong,0.80
+J30.3,Ngứa mũi,0.75
+J30.4,Hắt hơi liên tục,0.85
+J30.4,Nghẹt mũi,0.80
+J30.4,Chảy nước mũi trong,0.80
+J30.4,Ngứa mũi,0.75
+J31,Đau rát họng,0.90
+J31,Nuốt vướng đau,0.85
+J31,Sốt nhẹ,0.70
+J31,Ho khan,0.65
+J31.0,Hắt hơi liên tục,0.85
+J31.0,Nghẹt mũi,0.80
+J31.0,Chảy nước mũi trong,0.80
+J31.0,Ngứa mũi,0.75
+J31.1,Đau rát họng,0.90
+J31.1,Nuốt vướng đau,0.85
+J31.1,Sốt nhẹ,0.70
+J31.1,Ho khan,0.65
+J31.2,Đau rát họng,0.90
+J31.2,Nuốt vướng đau,0.85
+J31.2,Sốt nhẹ,0.70
+J31.2,Ho khan,0.65
+J32,Đau nhức vùng mặt xoang,0.90
+J32,Chảy dịch mũi đặc,0.85
+J32,Nghẹt mũi,0.80
+J32,Giảm khứu giác,0.75
+J32.0,Đau nhức vùng mặt xoang,0.90
+J32.0,Chảy dịch mũi đặc,0.85
+J32.0,Nghẹt mũi,0.80
+J32.0,Giảm khứu giác,0.75
+J32.1,Đau nhức vùng mặt xoang,0.90
+J32.1,Chảy dịch mũi đặc,0.85
+J32.1,Nghẹt mũi,0.80
+J32.1,Giảm khứu giác,0.75
+J32.2,Đau nhức vùng mặt xoang,0.90
+J32.2,Chảy dịch mũi đặc,0.85
+J32.2,Nghẹt mũi,0.80
+J32.2,Giảm khứu giác,0.75
+J32.3,Đau nhức vùng mặt xoang,0.90
+J32.3,Chảy dịch mũi đặc,0.85
+J32.3,Nghẹt mũi,0.80
+J32.3,Giảm khứu giác,0.75
+J32.4,Đau nhức vùng mặt xoang,0.90
+J32.4,Chảy dịch mũi đặc,0.85
+J32.4,Nghẹt mũi,0.80
+J32.4,Giảm khứu giác,0.75
+J32.8,Đau nhức vùng mặt xoang,0.90
+J32.8,Chảy dịch mũi đặc,0.85
+J32.8,Nghẹt mũi,0.80
+J32.8,Giảm khứu giác,0.75
+J32.9,Đau nhức vùng mặt xoang,0.90
+J32.9,Chảy dịch mũi đặc,0.85
+J32.9,Nghẹt mũi,0.80
+J32.9,Giảm khứu giác,0.75
+J33,Hắt hơi liên tục,0.85
+J33,Nghẹt mũi,0.80
+J33,Chảy nước mũi trong,0.80
+J33,Ngứa mũi,0.75
+J33.0,Hắt hơi liên tục,0.85
+J33.0,Nghẹt mũi,0.80
+J33.0,Chảy nước mũi trong,0.80
+J33.0,Ngứa mũi,0.75
+J33.1,Hắt hơi liên tục,0.85
+J33.1,Nghẹt mũi,0.80
+J33.1,Chảy nước mũi trong,0.80
+J33.1,Ngứa mũi,0.75
+J33.8,Hắt hơi liên tục,0.85
+J33.8,Nghẹt mũi,0.80
+J33.8,Chảy nước mũi trong,0.80
+J33.8,Ngứa mũi,0.75
+J33.9,Hắt hơi liên tục,0.85
+J33.9,Nghẹt mũi,0.80
+J33.9,Chảy nước mũi trong,0.80
+J33.9,Ngứa mũi,0.75
+J34,Hắt hơi liên tục,0.85
+J34,Nghẹt mũi,0.80
+J34,Chảy nước mũi trong,0.80
+J34,Ngứa mũi,0.75
+J34.0,Đau rát họng,0.90
+J34.0,Nuốt vướng đau,0.85
+J34.0,Sốt nhẹ,0.70
+J34.0,Ho khan,0.65
+J34.1,Hắt hơi liên tục,0.85
+J34.1,Nghẹt mũi,0.80
+J34.1,Chảy nước mũi trong,0.80
+J34.1,Ngứa mũi,0.75
+J34.2,Hắt hơi liên tục,0.85
+J34.2,Nghẹt mũi,0.80
+J34.2,Chảy nước mũi trong,0.80
+J34.2,Ngứa mũi,0.75
+J34.3,Hắt hơi liên tục,0.85
+J34.3,Nghẹt mũi,0.80
+J34.3,Chảy nước mũi trong,0.80
+J34.3,Ngứa mũi,0.75
+J34.8,Hắt hơi liên tục,0.85
+J34.8,Nghẹt mũi,0.80
+J34.8,Chảy nước mũi trong,0.80
+J34.8,Ngứa mũi,0.75
+J35,Đau rát họng,0.90
+J35,Nuốt vướng đau,0.85
+J35,Sốt nhẹ,0.70
+J35,Ho khan,0.65
+J35.0,Đau rát họng,0.90
+J35.0,Nuốt vướng đau,0.85
+J35.0,Sốt nhẹ,0.70
+J35.0,Ho khan,0.65
+J35.1,Đau rát họng,0.90
+J35.1,Nuốt vướng đau,0.85
+J35.1,Sốt nhẹ,0.70
+J35.1,Ho khan,0.65
+J35.2,Đau rát họng,0.90
+J35.2,Nuốt vướng đau,0.85
+J35.2,Sốt nhẹ,0.70
+J35.2,Ho khan,0.65
+J35.3,Đau rát họng,0.90
+J35.3,Nuốt vướng đau,0.85
+J35.3,Sốt nhẹ,0.70
+J35.3,Ho khan,0.65
+J35.8,Đau rát họng,0.90
+J35.8,Nuốt vướng đau,0.85
+J35.8,Sốt nhẹ,0.70
+J35.8,Ho khan,0.65
+J35.9,Đau rát họng,0.90
+J35.9,Nuốt vướng đau,0.85
+J35.9,Sốt nhẹ,0.70
+J35.9,Ho khan,0.65
+J36,Đau rát họng,0.90
+J36,Nuốt vướng đau,0.85
+J36,Sốt nhẹ,0.70
+J36,Ho khan,0.65
+J80,Khó thở dữ dội,0.95
+J80,Tím tái môi và đầu chi,0.90
+J80,Thở nhanh nông,0.85
+J80,Nhịp tim nhanh,0.75
+J81,Khó thở dữ dội,0.95
+J81,Tím tái môi và đầu chi,0.90
+J81,Thở nhanh nông,0.85
+J81,Nhịp tim nhanh,0.75
+J82,Khó thở dữ dội,0.95
+J82,Tím tái môi và đầu chi,0.90
+J82,Thở nhanh nông,0.85
+J82,Nhịp tim nhanh,0.75
+J84,Khó thở dữ dội,0.95
+J84,Tím tái môi và đầu chi,0.90
+J84,Thở nhanh nông,0.85
+J84,Nhịp tim nhanh,0.75
+J84.0,Khó thở dữ dội,0.95
+J84.0,Tím tái môi và đầu chi,0.90
+J84.0,Thở nhanh nông,0.85
+J84.0,Nhịp tim nhanh,0.75
+J84.1,Khó thở dữ dội,0.95
+J84.1,Tím tái môi và đầu chi,0.90
+J84.1,Thở nhanh nông,0.85
+J84.1,Nhịp tim nhanh,0.75
+J84.8,Khó thở dữ dội,0.95
+J84.8,Tím tái môi và đầu chi,0.90
+J84.8,Thở nhanh nông,0.85
+J84.8,Nhịp tim nhanh,0.75
+J84.9,Khó thở dữ dội,0.95
+J84.9,Tím tái môi và đầu chi,0.90
+J84.9,Thở nhanh nông,0.85
+J84.9,Nhịp tim nhanh,0.75
+J85,Ho khạc đờm mủ thối,0.95
+J85,Sốt cao dao động,0.85
+J85,Đau ngực dữ dội,0.80
+J85,Chán ăn gầy sút cân,0.70
+J85.0,Ho khạc đờm mủ thối,0.95
+J85.0,Sốt cao dao động,0.85
+J85.0,Đau ngực dữ dội,0.80
+J85.0,Chán ăn gầy sút cân,0.70
+J85.1,Ho khạc đờm mủ thối,0.95
+J85.1,Sốt cao dao động,0.85
+J85.1,Đau ngực dữ dội,0.80
+J85.1,Chán ăn gầy sút cân,0.70
+J85.2,Ho khạc đờm mủ thối,0.95
+J85.2,Sốt cao dao động,0.85
+J85.2,Đau ngực dữ dội,0.80
+J85.2,Chán ăn gầy sút cân,0.70
+J85.3,Ho khạc đờm mủ thối,0.95
+J85.3,Sốt cao dao động,0.85
+J85.3,Đau ngực dữ dội,0.80
+J85.3,Chán ăn gầy sút cân,0.70
+J86,Ho khạc đờm mủ thối,0.95
+J86,Sốt cao dao động,0.85
+J86,Đau ngực dữ dội,0.80
+J86,Chán ăn gầy sút cân,0.70
+J86.0,Ho khạc đờm mủ thối,0.95
+J86.0,Sốt cao dao động,0.85
+J86.0,Đau ngực dữ dội,0.80
+J86.0,Chán ăn gầy sút cân,0.70
+J86.9,Ho khạc đờm mủ thối,0.95
+J86.9,Sốt cao dao động,0.85
+J86.9,Đau ngực dữ dội,0.80
+J86.9,Chán ăn gầy sút cân,0.70
+J90,Đau ngực màng phổi,0.90
+J90,Khó thở khi nằm,0.85
+J90,Ho khan khi thay đổi tư thế,0.75
+J91,Đau ngực màng phổi,0.90
+J91,Khó thở khi nằm,0.85
+J91,Ho khan khi thay đổi tư thế,0.75
+J91*,Đau ngực màng phổi,0.90
+J91*,Khó thở khi nằm,0.85
+J91*,Ho khan khi thay đổi tư thế,0.75
+J92,Đau ngực màng phổi,0.90
+J92,Khó thở khi nằm,0.85
+J92,Ho khan khi thay đổi tư thế,0.75
+J92.0,Đau ngực màng phổi,0.90
+J92.0,Khó thở khi nằm,0.85
+J92.0,Ho khan khi thay đổi tư thế,0.75
+J92.9,Đau ngực màng phổi,0.90
+J92.9,Khó thở khi nằm,0.85
+J92.9,Ho khan khi thay đổi tư thế,0.75
+J93,Đau ngực màng phổi,0.90
+J93,Khó thở khi nằm,0.85
+J93,Ho khan khi thay đổi tư thế,0.75
+J93.0,Đau ngực màng phổi,0.90
+J93.0,Khó thở khi nằm,0.85
+J93.0,Ho khan khi thay đổi tư thế,0.75
+J95.5,Khàn tiếng,0.95
+J95.5,Ho khan ong óng,0.85
+J95.5,Đau vùng thanh quản,0.75
+J95.5,Khó thở thanh quản,0.70
+J95.8,Khó thở dữ dội,0.95
+J95.8,Tím tái môi và đầu chi,0.90
+J95.8,Thở nhanh nông,0.85
+J95.8,Nhịp tim nhanh,0.75
+J95.9,Khó thở dữ dội,0.95
+J95.9,Tím tái môi và đầu chi,0.90
+J95.9,Thở nhanh nông,0.85
+J95.9,Nhịp tim nhanh,0.75
+J96,Khó thở dữ dội,0.95
+J96,Tím tái môi và đầu chi,0.90
+J96,Thở nhanh nông,0.85
+J96,Nhịp tim nhanh,0.75
+J96.0,Khó thở dữ dội,0.95
+J96.0,Tím tái môi và đầu chi,0.90
+J96.0,Thở nhanh nông,0.85
+J96.0,Nhịp tim nhanh,0.75
+J96.1,Khó thở dữ dội,0.95
+J96.1,Tím tái môi và đầu chi,0.90
+J96.1,Thở nhanh nông,0.85
+J96.1,Nhịp tim nhanh,0.75
+J96.9,Khó thở dữ dội,0.95
+J96.9,Tím tái môi và đầu chi,0.90
+J96.9,Thở nhanh nông,0.85
+J96.9,Nhịp tim nhanh,0.75
+J98,Khó thở dữ dội,0.95
+J98,Tím tái môi và đầu chi,0.90
+J98,Thở nhanh nông,0.85
+J98,Nhịp tim nhanh,0.75
+J98.0,Ho có đờm,0.85
+J98.0,Thở khò khè,0.80
+J98.0,Thở nhanh,0.75
+J98.0,Sốt nhẹ,0.70
+J98.1,Khó thở dữ dội,0.95
+J98.1,Tím tái môi và đầu chi,0.90
+J98.1,Thở nhanh nông,0.85
+J98.1,Nhịp tim nhanh,0.75
+J98.2,Khó thở dữ dội,0.95
+J98.2,Tím tái môi và đầu chi,0.90
+J98.2,Thở nhanh nông,0.85
+J98.2,Nhịp tim nhanh,0.75
+J98.3,Khó thở dữ dội,0.95
+J98.3,Tím tái môi và đầu chi,0.90
+J98.3,Thở nhanh nông,0.85
+J98.3,Nhịp tim nhanh,0.75
+J98.4,Khó thở dữ dội,0.95
+J98.4,Tím tái môi và đầu chi,0.90
+J98.4,Thở nhanh nông,0.85
+J98.4,Nhịp tim nhanh,0.75
+J98.5,Khó thở dữ dội,0.95
+J98.5,Tím tái môi và đầu chi,0.90
+J98.5,Thở nhanh nông,0.85
+J98.5,Nhịp tim nhanh,0.75
+J98.6,Khó thở dữ dội,0.95
+J98.6,Tím tái môi và đầu chi,0.90
+J98.6,Thở nhanh nông,0.85
+J98.6,Nhịp tim nhanh,0.75
+J98.8,Khó thở dữ dội,0.95
+J98.8,Tím tái môi và đầu chi,0.90
+J98.8,Thở nhanh nông,0.85
+J98.8,Nhịp tim nhanh,0.75
+J98.9,Khó thở dữ dội,0.95
+J98.9,Tím tái môi và đầu chi,0.90
+J98.9,Thở nhanh nông,0.85
+J98.9,Nhịp tim nhanh,0.75
+J99,Khó thở dữ dội,0.95
+J99,Tím tái môi và đầu chi,0.90
+J99,Thở nhanh nông,0.85
+J99,Nhịp tim nhanh,0.75
+J99.0*,Khó thở dữ dội,0.95
+J99.0*,Tím tái môi và đầu chi,0.90
+J99.0*,Thở nhanh nông,0.85
+J99.0*,Nhịp tim nhanh,0.75
+J99.1*,Khó thở dữ dội,0.95
+J99.1*,Tím tái môi và đầu chi,0.90
+J99.1*,Thở nhanh nông,0.85
+J99.1*,Nhịp tim nhanh,0.75
+J99.8*,Khó thở dữ dội,0.95
+J99.8*,Tím tái môi và đầu chi,0.90
+J99.8*,Thở nhanh nông,0.85
+J99.8*,Nhịp tim nhanh,0.75
