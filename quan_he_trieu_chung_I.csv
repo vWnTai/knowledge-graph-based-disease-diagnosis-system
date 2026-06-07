@@ -1,0 +1,1566 @@
+Ma_ICD10,Trieu_Chung,Trong_So
+I52.8*,Hồi hộp đánh trống ngực,0.75
+I52.8*,Khó thở nhẹ khi gắng sức,0.78
+I52.8*,Mệt mỏi,0.70
+I60,Đau đầu dữ dội đột ngột,0.95
+I60,Nôn vọt,0.88
+I60,Cứng gáy,0.92
+I60,Rối loạn ý thức,0.85
+I60.0,Đau đầu dữ dội đột ngột,0.95
+I60.0,Nôn vọt,0.88
+I60.0,Cứng gáy,0.92
+I60.0,Rối loạn ý thức,0.85
+I60.1,Đau đầu dữ dội đột ngột,0.95
+I60.1,Nôn vọt,0.88
+I60.1,Cứng gáy,0.92
+I60.1,Rối loạn ý thức,0.85
+I60.2,Đau đầu dữ dội đột ngột,0.95
+I60.2,Nôn vọt,0.88
+I60.2,Cứng gáy,0.92
+I60.2,Rối loạn ý thức,0.85
+I60.3,Đau đầu dữ dội đột ngột,0.95
+I60.3,Nôn vọt,0.88
+I60.3,Cứng gáy,0.92
+I60.3,Rối loạn ý thức,0.85
+I60.4,Đau đầu dữ dội đột ngột,0.95
+I60.4,Nôn vọt,0.88
+I60.4,Cứng gáy,0.92
+I60.4,Rối loạn ý thức,0.85
+I60.5,Đau đầu dữ dội đột ngột,0.95
+I60.5,Nôn vọt,0.88
+I60.5,Cứng gáy,0.92
+I60.5,Rối loạn ý thức,0.85
+I60.6,Đau đầu dữ dội đột ngột,0.95
+I60.6,Nôn vọt,0.88
+I60.6,Cứng gáy,0.92
+I60.6,Rối loạn ý thức,0.85
+I60.7,Đau đầu dữ dội đột ngột,0.95
+I60.7,Nôn vọt,0.88
+I60.7,Cứng gáy,0.92
+I60.7,Rối loạn ý thức,0.85
+I60.8,Đau đầu dữ dội đột ngột,0.95
+I60.8,Nôn vọt,0.88
+I60.8,Cứng gáy,0.92
+I60.8,Rối loạn ý thức,0.85
+I61,Liệt nửa người,0.92
+I61,Mất ngôn ngữ,0.88
+I61,Đau đầu dữ dội,0.85
+I61,Hôn mê,0.80
+I61.0,Liệt nửa người,0.92
+I61.0,Mất ngôn ngữ,0.88
+I61.0,Đau đầu dữ dội,0.85
+I61.0,Hôn mê,0.80
+I61.1,Liệt nửa người,0.92
+I61.1,Mất ngôn ngữ,0.88
+I61.1,Đau đầu dữ dội,0.85
+I61.1,Hôn mê,0.80
+I61.2,Liệt nửa người,0.92
+I61.2,Mất ngôn ngữ,0.88
+I61.2,Đau đầu dữ dội,0.85
+I61.2,Hôn mê,0.80
+I61.4,Liệt nửa người,0.92
+I61.4,Mất ngôn ngữ,0.88
+I61.4,Đau đầu dữ dội,0.85
+I61.4,Hôn mê,0.80
+I61.5,Liệt nửa người,0.92
+I61.5,Mất ngôn ngữ,0.88
+I61.5,Đau đầu dữ dội,0.85
+I61.5,Hôn mê,0.80
+I61.6,Liệt nửa người,0.92
+I61.6,Mất ngôn ngữ,0.88
+I61.6,Đau đầu dữ dội,0.85
+I61.6,Hôn mê,0.80
+I61.8,Liệt nửa người,0.92
+I61.8,Mất ngôn ngữ,0.88
+I61.8,Đau đầu dữ dội,0.85
+I61.8,Hôn mê,0.80
+I62,Liệt nửa người,0.92
+I62,Mất ngôn ngữ,0.88
+I62,Đau đầu dữ dội,0.85
+I62,Hôn mê,0.80
+I62.0,Liệt nửa người,0.92
+I62.0,Mất ngôn ngữ,0.88
+I62.0,Đau đầu dữ dội,0.85
+I62.0,Hôn mê,0.80
+I62.1,Liệt nửa người,0.92
+I62.1,Mất ngôn ngữ,0.88
+I62.1,Đau đầu dữ dội,0.85
+I62.1,Hôn mê,0.80
+I62.9,Liệt nửa người,0.92
+I62.9,Mất ngôn ngữ,0.88
+I62.9,Đau đầu dữ dội,0.85
+I62.9,Hôn mê,0.80
+I63.0,Liệt nửa người,0.92
+I63.0,Méo miệng,0.90
+I63.0,Nói ngọng,0.88
+I63.0,Tê bì nửa người,0.85
+I63.1,Liệt nửa người,0.92
+I63.1,Méo miệng,0.90
+I63.1,Nói ngọng,0.88
+I63.1,Tê bì nửa người,0.85
+I63.2,Liệt nửa người,0.92
+I63.2,Méo miệng,0.90
+I63.2,Nói ngọng,0.88
+I63.2,Tê bì nửa người,0.85
+I63.3,Liệt nửa người,0.92
+I63.3,Méo miệng,0.90
+I63.3,Nói ngọng,0.88
+I63.3,Tê bì nửa người,0.85
+I63.4,Liệt nửa người,0.92
+I63.4,Méo miệng,0.90
+I63.4,Nói ngọng,0.88
+I63.4,Tê bì nửa người,0.85
+I63.5,Liệt nửa người,0.92
+I63.5,Méo miệng,0.90
+I63.5,Nói ngọng,0.88
+I63.5,Tê bì nửa người,0.85
+I63.8,Liệt nửa người,0.92
+I63.8,Méo miệng,0.90
+I63.8,Nói ngọng,0.88
+I63.8,Tê bì nửa người,0.85
+I63.9,Liệt nửa người,0.92
+I63.9,Méo miệng,0.90
+I63.9,Nói ngọng,0.88
+I63.9,Tê bì nửa người,0.85
+I64,Liệt nửa người,0.92
+I64,Méo miệng,0.90
+I64,Nói ngọng,0.88
+I64,Tê bì nửa người,0.85
+I65,Hồi hộp đánh trống ngực,0.75
+I65,Khó thở nhẹ khi gắng sức,0.78
+I65,Mệt mỏi,0.70
+I65.0,Hồi hộp đánh trống ngực,0.75
+I65.0,Khó thở nhẹ khi gắng sức,0.78
+I65.0,Mệt mỏi,0.70
+I65.1,Hồi hộp đánh trống ngực,0.75
+I65.1,Khó thở nhẹ khi gắng sức,0.78
+I65.1,Mệt mỏi,0.70
+I65.2,Hồi hộp đánh trống ngực,0.75
+I65.2,Khó thở nhẹ khi gắng sức,0.78
+I65.2,Mệt mỏi,0.70
+I65.3,Hồi hộp đánh trống ngực,0.75
+I65.3,Khó thở nhẹ khi gắng sức,0.78
+I65.3,Mệt mỏi,0.70
+I65.8,Hồi hộp đánh trống ngực,0.75
+I65.8,Khó thở nhẹ khi gắng sức,0.78
+I65.8,Mệt mỏi,0.70
+I65.9,Hồi hộp đánh trống ngực,0.75
+I65.9,Khó thở nhẹ khi gắng sức,0.78
+I65.9,Mệt mỏi,0.70
+I66,Hồi hộp đánh trống ngực,0.75
+I66,Khó thở nhẹ khi gắng sức,0.78
+I66,Mệt mỏi,0.70
+I66.0,Hồi hộp đánh trống ngực,0.75
+I66.0,Khó thở nhẹ khi gắng sức,0.78
+I66.0,Mệt mỏi,0.70
+I66.1,Hồi hộp đánh trống ngực,0.75
+I66.1,Khó thở nhẹ khi gắng sức,0.78
+I66.1,Mệt mỏi,0.70
+I66.2,Hồi hộp đánh trống ngực,0.75
+I66.2,Khó thở nhẹ khi gắng sức,0.78
+I66.2,Mệt mỏi,0.70
+I66.3,Hồi hộp đánh trống ngực,0.75
+I66.3,Khó thở nhẹ khi gắng sức,0.78
+I66.3,Mệt mỏi,0.70
+I66.4,Hồi hộp đánh trống ngực,0.75
+I66.4,Khó thở nhẹ khi gắng sức,0.78
+I66.4,Mệt mỏi,0.70
+I66.8,Hồi hộp đánh trống ngực,0.75
+I66.8,Khó thở nhẹ khi gắng sức,0.78
+I66.8,Mệt mỏi,0.70
+I66.9,Hồi hộp đánh trống ngực,0.75
+I66.9,Khó thở nhẹ khi gắng sức,0.78
+I66.9,Mệt mỏi,0.70
+I67,Hồi hộp đánh trống ngực,0.75
+I67,Khó thở nhẹ khi gắng sức,0.78
+I67,Mệt mỏi,0.70
+I67.0,Hồi hộp đánh trống ngực,0.75
+I67.0,Khó thở nhẹ khi gắng sức,0.78
+I67.0,Mệt mỏi,0.70
+I67.1,Hồi hộp đánh trống ngực,0.75
+I67.1,Khó thở nhẹ khi gắng sức,0.78
+I67.1,Mệt mỏi,0.70
+I67.2,Đau cách hồi,0.88
+I67.2,Giảm mạch ngoại vi,0.85
+I67.2,Tê lạnh chi,0.80
+I67.4,Hồi hộp đánh trống ngực,0.75
+I67.4,Khó thở nhẹ khi gắng sức,0.78
+I67.4,Mệt mỏi,0.70
+I67.5,Hồi hộp đánh trống ngực,0.75
+I67.5,Khó thở nhẹ khi gắng sức,0.78
+I67.5,Mệt mỏi,0.70
+I67.6,Hồi hộp đánh trống ngực,0.75
+I67.6,Khó thở nhẹ khi gắng sức,0.78
+I67.6,Mệt mỏi,0.70
+I67.7,Hồi hộp đánh trống ngực,0.75
+I67.7,Khó thở nhẹ khi gắng sức,0.78
+I67.7,Mệt mỏi,0.70
+I67.8,Hồi hộp đánh trống ngực,0.75
+I67.8,Khó thở nhẹ khi gắng sức,0.78
+I67.8,Mệt mỏi,0.70
+I67.9,Hồi hộp đánh trống ngực,0.75
+I67.9,Khó thở nhẹ khi gắng sức,0.78
+I67.9,Mệt mỏi,0.70
+I68*,Hồi hộp đánh trống ngực,0.75
+I68*,Khó thở nhẹ khi gắng sức,0.78
+I68*,Mệt mỏi,0.70
+I69,Liệt nửa người di chứng,0.90
+I69,Khó nuốt,0.80
+I69,Sa sút trí tuệ,0.75
+I69.0,Liệt nửa người di chứng,0.90
+I69.0,Khó nuốt,0.80
+I69.0,Sa sút trí tuệ,0.75
+I69.1,Liệt nửa người di chứng,0.90
+I69.1,Khó nuốt,0.80
+I69.1,Sa sút trí tuệ,0.75
+I69.2,Liệt nửa người di chứng,0.90
+I69.2,Khó nuốt,0.80
+I69.2,Sa sút trí tuệ,0.75
+I69.3,Liệt nửa người di chứng,0.90
+I69.3,Khó nuốt,0.80
+I69.3,Sa sút trí tuệ,0.75
+I69.4,Liệt nửa người di chứng,0.90
+I69.4,Khó nuốt,0.80
+I69.4,Sa sút trí tuệ,0.75
+I69.8,Liệt nửa người di chứng,0.90
+I69.8,Khó nuốt,0.80
+I69.8,Sa sút trí tuệ,0.75
+I70,Đau cách hồi,0.88
+I70,Giảm mạch ngoại vi,0.85
+I70,Tê lạnh chi,0.80
+I70.0,Đau cách hồi,0.88
+I70.0,Giảm mạch ngoại vi,0.85
+I70.0,Tê lạnh chi,0.80
+I70.1,Đau cách hồi,0.88
+I70.1,Giảm mạch ngoại vi,0.85
+I70.1,Tê lạnh chi,0.80
+I70.2,Đau cách hồi,0.88
+I70.2,Giảm mạch ngoại vi,0.85
+I70.2,Tê lạnh chi,0.80
+I70.8,Đau cách hồi,0.88
+I70.8,Giảm mạch ngoại vi,0.85
+I70.8,Tê lạnh chi,0.80
+I70.9,Đau cách hồi,0.88
+I70.9,Giảm mạch ngoại vi,0.85
+I70.9,Tê lạnh chi,0.80
+I71,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71,Huyết áp chênh lệch hai tay,0.85
+I71.0,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.0,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.0,Huyết áp chênh lệch hai tay,0.85
+I71.1,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.1,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.1,Huyết áp chênh lệch hai tay,0.85
+I71.2,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.2,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.2,Huyết áp chênh lệch hai tay,0.85
+I71.3,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.3,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.3,Huyết áp chênh lệch hai tay,0.85
+I71.4,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.4,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.4,Huyết áp chênh lệch hai tay,0.85
+I71.5,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.5,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.5,Huyết áp chênh lệch hai tay,0.85
+I71.6,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.6,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.6,Huyết áp chênh lệch hai tay,0.85
+I71.8,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.8,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.8,Huyết áp chênh lệch hai tay,0.85
+I71.9,Đau ngực hoặc đau lưng dữ dội kiểu xé rách,0.95
+I71.9,Sờ thấy khối đập theo mạch ở bụng,0.90
+I71.9,Huyết áp chênh lệch hai tay,0.85
+I72,Hồi hộp đánh trống ngực,0.75
+I72,Khó thở nhẹ khi gắng sức,0.78
+I72,Mệt mỏi,0.70
+I72.0,Hồi hộp đánh trống ngực,0.75
+I72.0,Khó thở nhẹ khi gắng sức,0.78
+I72.0,Mệt mỏi,0.70
+I72.1,Hồi hộp đánh trống ngực,0.75
+I72.1,Khó thở nhẹ khi gắng sức,0.78
+I72.1,Mệt mỏi,0.70
+I72.2,Hồi hộp đánh trống ngực,0.75
+I72.2,Khó thở nhẹ khi gắng sức,0.78
+I72.2,Mệt mỏi,0.70
+I72.3,Hồi hộp đánh trống ngực,0.75
+I72.3,Khó thở nhẹ khi gắng sức,0.78
+I72.3,Mệt mỏi,0.70
+I72.4,Hồi hộp đánh trống ngực,0.75
+I72.4,Khó thở nhẹ khi gắng sức,0.78
+I72.4,Mệt mỏi,0.70
+I72.8,Hồi hộp đánh trống ngực,0.75
+I72.8,Khó thở nhẹ khi gắng sức,0.78
+I72.8,Mệt mỏi,0.70
+I72.9,Hồi hộp đánh trống ngực,0.75
+I72.9,Khó thở nhẹ khi gắng sức,0.78
+I72.9,Mệt mỏi,0.70
+I73,Hồi hộp đánh trống ngực,0.75
+I73,Khó thở nhẹ khi gắng sức,0.78
+I73,Mệt mỏi,0.70
+I73.0,Hồi hộp đánh trống ngực,0.75
+I73.0,Khó thở nhẹ khi gắng sức,0.78
+I73.0,Mệt mỏi,0.70
+I73.1,Hồi hộp đánh trống ngực,0.75
+I73.1,Khó thở nhẹ khi gắng sức,0.78
+I73.1,Mệt mỏi,0.70
+I73.8,Hồi hộp đánh trống ngực,0.75
+I73.8,Khó thở nhẹ khi gắng sức,0.78
+I73.8,Mệt mỏi,0.70
+I73.9,Hồi hộp đánh trống ngực,0.75
+I73.9,Khó thở nhẹ khi gắng sức,0.78
+I73.9,Mệt mỏi,0.70
+I74,Đau chi đột ngột dữ dội,0.92
+I74,Chi lạnh và nhợt nhạt,0.90
+I74,Mất mạch ngoại vi,0.95
+I74.0,Đau chi đột ngột dữ dội,0.92
+I74.0,Chi lạnh và nhợt nhạt,0.90
+I74.0,Mất mạch ngoại vi,0.95
+I74.1,Đau chi đột ngột dữ dội,0.92
+I74.1,Chi lạnh và nhợt nhạt,0.90
+I74.1,Mất mạch ngoại vi,0.95
+I74.2,Đau chi đột ngột dữ dội,0.92
+I74.2,Chi lạnh và nhợt nhạt,0.90
+I74.2,Mất mạch ngoại vi,0.95
+I74.3,Đau chi đột ngột dữ dội,0.92
+I74.3,Chi lạnh và nhợt nhạt,0.90
+I74.3,Mất mạch ngoại vi,0.95
+I74.4,Đau chi đột ngột dữ dội,0.92
+I74.4,Chi lạnh và nhợt nhạt,0.90
+I74.4,Mất mạch ngoại vi,0.95
+I74.5,Đau chi đột ngột dữ dội,0.92
+I74.5,Chi lạnh và nhợt nhạt,0.90
+I74.5,Mất mạch ngoại vi,0.95
+I74.8,Đau chi đột ngột dữ dội,0.92
+I74.8,Chi lạnh và nhợt nhạt,0.90
+I74.8,Mất mạch ngoại vi,0.95
+I74.9,Đau chi đột ngột dữ dội,0.92
+I74.9,Chi lạnh và nhợt nhạt,0.90
+I74.9,Mất mạch ngoại vi,0.95
+I77,Hồi hộp đánh trống ngực,0.75
+I77,Khó thở nhẹ khi gắng sức,0.78
+I77,Mệt mỏi,0.70
+I77.0,Hồi hộp đánh trống ngực,0.75
+I77.0,Khó thở nhẹ khi gắng sức,0.78
+I77.0,Mệt mỏi,0.70
+I77.1,Hồi hộp đánh trống ngực,0.75
+I77.1,Khó thở nhẹ khi gắng sức,0.78
+I77.1,Mệt mỏi,0.70
+I77.2,Hồi hộp đánh trống ngực,0.75
+I77.2,Khó thở nhẹ khi gắng sức,0.78
+I77.2,Mệt mỏi,0.70
+I77.3,Hồi hộp đánh trống ngực,0.75
+I77.3,Khó thở nhẹ khi gắng sức,0.78
+I77.3,Mệt mỏi,0.70
+I77.4,Hồi hộp đánh trống ngực,0.75
+I77.4,Khó thở nhẹ khi gắng sức,0.78
+I77.4,Mệt mỏi,0.70
+I77.5,Hồi hộp đánh trống ngực,0.75
+I77.5,Khó thở nhẹ khi gắng sức,0.78
+I77.5,Mệt mỏi,0.70
+I77.6,Hồi hộp đánh trống ngực,0.75
+I77.6,Khó thở nhẹ khi gắng sức,0.78
+I77.6,Mệt mỏi,0.70
+I77.8,Hồi hộp đánh trống ngực,0.75
+I77.8,Khó thở nhẹ khi gắng sức,0.78
+I77.8,Mệt mỏi,0.70
+I77.9,Hồi hộp đánh trống ngực,0.75
+I77.9,Khó thở nhẹ khi gắng sức,0.78
+I77.9,Mệt mỏi,0.70
+I78,Hồi hộp đánh trống ngực,0.75
+I78,Khó thở nhẹ khi gắng sức,0.78
+I78,Mệt mỏi,0.70
+I78.0,Hồi hộp đánh trống ngực,0.75
+I78.0,Khó thở nhẹ khi gắng sức,0.78
+I78.0,Mệt mỏi,0.70
+I78.1,Hồi hộp đánh trống ngực,0.75
+I78.1,Khó thở nhẹ khi gắng sức,0.78
+I78.1,Mệt mỏi,0.70
+I78.8,Hồi hộp đánh trống ngực,0.75
+I78.8,Khó thở nhẹ khi gắng sức,0.78
+I78.8,Mệt mỏi,0.70
+I78.9,Hồi hộp đánh trống ngực,0.75
+I78.9,Khó thở nhẹ khi gắng sức,0.78
+I78.9,Mệt mỏi,0.70
+I79*,Hồi hộp đánh trống ngực,0.75
+I79*,Khó thở nhẹ khi gắng sức,0.78
+I79*,Mệt mỏi,0.70
+I80,Sưng đau một bên chân,0.92
+I80,Da vùng chân nóng đỏ,0.85
+I80,Đau tăng khi đi lại,0.80
+I80.0,Sưng đau một bên chân,0.92
+I80.0,Da vùng chân nóng đỏ,0.85
+I80.0,Đau tăng khi đi lại,0.80
+I80.1,Sưng đau một bên chân,0.92
+I80.1,Da vùng chân nóng đỏ,0.85
+I80.1,Đau tăng khi đi lại,0.80
+I80.2,Sưng đau một bên chân,0.92
+I80.2,Da vùng chân nóng đỏ,0.85
+I80.2,Đau tăng khi đi lại,0.80
+I80.3,Sưng đau một bên chân,0.92
+I80.3,Da vùng chân nóng đỏ,0.85
+I80.3,Đau tăng khi đi lại,0.80
+I80.8,Sưng đau một bên chân,0.92
+I80.8,Da vùng chân nóng đỏ,0.85
+I80.8,Đau tăng khi đi lại,0.80
+I80.9,Sưng đau một bên chân,0.92
+I80.9,Da vùng chân nóng đỏ,0.85
+I80.9,Đau tăng khi đi lại,0.80
+I81,Hồi hộp đánh trống ngực,0.75
+I81,Khó thở nhẹ khi gắng sức,0.78
+I81,Mệt mỏi,0.70
+I82,Sưng đau một bên chân,0.92
+I82,Da vùng chân nóng đỏ,0.85
+I82,Đau tăng khi đi lại,0.80
+I82.0,Sưng đau một bên chân,0.92
+I82.0,Da vùng chân nóng đỏ,0.85
+I82.0,Đau tăng khi đi lại,0.80
+I82.1,Sưng đau một bên chân,0.92
+I82.1,Da vùng chân nóng đỏ,0.85
+I82.1,Đau tăng khi đi lại,0.80
+I82.2,Sưng đau một bên chân,0.92
+I82.2,Da vùng chân nóng đỏ,0.85
+I82.2,Đau tăng khi đi lại,0.80
+I82.3,Sưng đau một bên chân,0.92
+I82.3,Da vùng chân nóng đỏ,0.85
+I82.3,Đau tăng khi đi lại,0.80
+I82.8,Sưng đau một bên chân,0.92
+I82.8,Da vùng chân nóng đỏ,0.85
+I82.8,Đau tăng khi đi lại,0.80
+I82.9,Sưng đau một bên chân,0.92
+I82.9,Da vùng chân nóng đỏ,0.85
+I82.9,Đau tăng khi đi lại,0.80
+I83,Tê nặng chân về chiều,0.88
+I83,Phù chân nhẹ,0.82
+I83,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I83.0,Tê nặng chân về chiều,0.88
+I83.0,Phù chân nhẹ,0.82
+I83.0,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I83.1,Tê nặng chân về chiều,0.88
+I83.1,Phù chân nhẹ,0.82
+I83.1,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I83.2,Tê nặng chân về chiều,0.88
+I83.2,Phù chân nhẹ,0.82
+I83.2,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I83.9,Tê nặng chân về chiều,0.88
+I83.9,Phù chân nhẹ,0.82
+I83.9,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I85,Hồi hộp đánh trống ngực,0.75
+I85,Khó thở nhẹ khi gắng sức,0.78
+I85,Mệt mỏi,0.70
+I85.0,Hồi hộp đánh trống ngực,0.75
+I85.0,Khó thở nhẹ khi gắng sức,0.78
+I85.0,Mệt mỏi,0.70
+I85.9,Hồi hộp đánh trống ngực,0.75
+I85.9,Khó thở nhẹ khi gắng sức,0.78
+I85.9,Mệt mỏi,0.70
+I86,Hồi hộp đánh trống ngực,0.75
+I86,Khó thở nhẹ khi gắng sức,0.78
+I86,Mệt mỏi,0.70
+I86.0,Hồi hộp đánh trống ngực,0.75
+I86.0,Khó thở nhẹ khi gắng sức,0.78
+I86.0,Mệt mỏi,0.70
+I86.1,Hồi hộp đánh trống ngực,0.75
+I86.1,Khó thở nhẹ khi gắng sức,0.78
+I86.1,Mệt mỏi,0.70
+I86.2,Hồi hộp đánh trống ngực,0.75
+I86.2,Khó thở nhẹ khi gắng sức,0.78
+I86.2,Mệt mỏi,0.70
+I86.3,Hồi hộp đánh trống ngực,0.75
+I86.3,Khó thở nhẹ khi gắng sức,0.78
+I86.3,Mệt mỏi,0.70
+I86.4,Hồi hộp đánh trống ngực,0.75
+I86.4,Khó thở nhẹ khi gắng sức,0.78
+I86.4,Mệt mỏi,0.70
+I86.8,Hồi hộp đánh trống ngực,0.75
+I86.8,Khó thở nhẹ khi gắng sức,0.78
+I86.8,Mệt mỏi,0.70
+I87,Tê nặng chân về chiều,0.88
+I87,Phù chân nhẹ,0.82
+I87,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I87.0,Tê nặng chân về chiều,0.88
+I87.0,Phù chân nhẹ,0.82
+I87.0,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I87.1,Tê nặng chân về chiều,0.88
+I87.1,Phù chân nhẹ,0.82
+I87.1,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I87.2,Tê nặng chân về chiều,0.88
+I87.2,Phù chân nhẹ,0.82
+I87.2,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I87.8,Tê nặng chân về chiều,0.88
+I87.8,Phù chân nhẹ,0.82
+I87.8,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I87.9,Tê nặng chân về chiều,0.88
+I87.9,Phù chân nhẹ,0.82
+I87.9,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I88,Hồi hộp đánh trống ngực,0.75
+I88,Khó thở nhẹ khi gắng sức,0.78
+I88,Mệt mỏi,0.70
+I88.0,Hồi hộp đánh trống ngực,0.75
+I88.0,Khó thở nhẹ khi gắng sức,0.78
+I88.0,Mệt mỏi,0.70
+I88.1,Hồi hộp đánh trống ngực,0.75
+I88.1,Khó thở nhẹ khi gắng sức,0.78
+I88.1,Mệt mỏi,0.70
+I88.8,Hồi hộp đánh trống ngực,0.75
+I88.8,Khó thở nhẹ khi gắng sức,0.78
+I88.8,Mệt mỏi,0.70
+I88.9,Hồi hộp đánh trống ngực,0.75
+I88.9,Khó thở nhẹ khi gắng sức,0.78
+I88.9,Mệt mỏi,0.70
+I89,Hồi hộp đánh trống ngực,0.75
+I89,Khó thở nhẹ khi gắng sức,0.78
+I89,Mệt mỏi,0.70
+I89.0,Hồi hộp đánh trống ngực,0.75
+I89.0,Khó thở nhẹ khi gắng sức,0.78
+I89.0,Mệt mỏi,0.70
+I89.1,Hồi hộp đánh trống ngực,0.75
+I89.1,Khó thở nhẹ khi gắng sức,0.78
+I89.1,Mệt mỏi,0.70
+I89.8,Hồi hộp đánh trống ngực,0.75
+I89.8,Khó thở nhẹ khi gắng sức,0.78
+I89.8,Mệt mỏi,0.70
+I89.9,Hồi hộp đánh trống ngực,0.75
+I89.9,Khó thở nhẹ khi gắng sức,0.78
+I89.9,Mệt mỏi,0.70
+I95,Hồi hộp đánh trống ngực,0.75
+I95,Khó thở nhẹ khi gắng sức,0.78
+I95,Mệt mỏi,0.70
+I95.0,Hồi hộp đánh trống ngực,0.75
+I95.0,Khó thở nhẹ khi gắng sức,0.78
+I95.0,Mệt mỏi,0.70
+I95.1,Hồi hộp đánh trống ngực,0.75
+I95.1,Khó thở nhẹ khi gắng sức,0.78
+I95.1,Mệt mỏi,0.70
+I95.2,Hồi hộp đánh trống ngực,0.75
+I95.2,Khó thở nhẹ khi gắng sức,0.78
+I95.2,Mệt mỏi,0.70
+I95.8,Hồi hộp đánh trống ngực,0.75
+I95.8,Khó thở nhẹ khi gắng sức,0.78
+I95.8,Mệt mỏi,0.70
+I95.9,Hồi hộp đánh trống ngực,0.75
+I95.9,Khó thở nhẹ khi gắng sức,0.78
+I95.9,Mệt mỏi,0.70
+I97,Hồi hộp đánh trống ngực,0.75
+I97,Khó thở nhẹ khi gắng sức,0.78
+I97,Mệt mỏi,0.70
+I97.0,Hồi hộp đánh trống ngực,0.75
+I97.0,Khó thở nhẹ khi gắng sức,0.78
+I97.0,Mệt mỏi,0.70
+I97.1,Hồi hộp đánh trống ngực,0.75
+I97.1,Khó thở nhẹ khi gắng sức,0.78
+I97.1,Mệt mỏi,0.70
+I97.2,Hồi hộp đánh trống ngực,0.75
+I97.2,Khó thở nhẹ khi gắng sức,0.78
+I97.2,Mệt mỏi,0.70
+I97.8,Hồi hộp đánh trống ngực,0.75
+I97.8,Khó thở nhẹ khi gắng sức,0.78
+I97.8,Mệt mỏi,0.70
+I97.9,Hồi hộp đánh trống ngực,0.75
+I97.9,Khó thở nhẹ khi gắng sức,0.78
+I97.9,Mệt mỏi,0.70
+I98*,Hồi hộp đánh trống ngực,0.75
+I98*,Khó thở nhẹ khi gắng sức,0.78
+I98*,Mệt mỏi,0.70
+I98.0*,Hồi hộp đánh trống ngực,0.75
+I98.0*,Khó thở nhẹ khi gắng sức,0.78
+I98.0*,Mệt mỏi,0.70
+I98.1*,Hồi hộp đánh trống ngực,0.75
+I98.1*,Khó thở nhẹ khi gắng sức,0.78
+I98.1*,Mệt mỏi,0.70
+I98.8*,Hồi hộp đánh trống ngực,0.75
+I98.8*,Khó thở nhẹ khi gắng sức,0.78
+I98.8*,Mệt mỏi,0.70
+I99,Hồi hộp đánh trống ngực,0.75
+I99,Khó thở nhẹ khi gắng sức,0.78
+I99,Mệt mỏi,0.70
+I01,Đau di chuyển các khớp lớn,0.88
+I01,Tiếng thổi ở tim,0.85
+I01,Múa giật,0.80
+I01,Sốt,0.70
+I01.0,Đau di chuyển các khớp lớn,0.88
+I01.0,Tiếng thổi ở tim,0.85
+I01.0,Múa giật,0.80
+I01.0,Sốt,0.70
+I01.8,Đau di chuyển các khớp lớn,0.88
+I01.8,Tiếng thổi ở tim,0.85
+I01.8,Múa giật,0.80
+I01.8,Sốt,0.70
+I01.9,Đau di chuyển các khớp lớn,0.88
+I01.9,Tiếng thổi ở tim,0.85
+I01.9,Múa giật,0.80
+I01.9,Sốt,0.70
+I02,Đau di chuyển các khớp lớn,0.88
+I02,Tiếng thổi ở tim,0.85
+I02,Múa giật,0.80
+I02,Sốt,0.70
+I02.0,Đau di chuyển các khớp lớn,0.88
+I02.0,Tiếng thổi ở tim,0.85
+I02.0,Múa giật,0.80
+I02.0,Sốt,0.70
+I02.9,Đau di chuyển các khớp lớn,0.88
+I02.9,Tiếng thổi ở tim,0.85
+I02.9,Múa giật,0.80
+I02.9,Sốt,0.70
+I05,Đau di chuyển các khớp lớn,0.88
+I05,Tiếng thổi ở tim,0.85
+I05,Múa giật,0.80
+I05,Sốt,0.70
+I05.0,Đau di chuyển các khớp lớn,0.88
+I05.0,Tiếng thổi ở tim,0.85
+I05.0,Múa giật,0.80
+I05.0,Sốt,0.70
+I05.1,Đau di chuyển các khớp lớn,0.88
+I05.1,Tiếng thổi ở tim,0.85
+I05.1,Múa giật,0.80
+I05.1,Sốt,0.70
+I05.2,Đau di chuyển các khớp lớn,0.88
+I05.2,Tiếng thổi ở tim,0.85
+I05.2,Múa giật,0.80
+I05.2,Sốt,0.70
+I05.8,Đau di chuyển các khớp lớn,0.88
+I05.8,Tiếng thổi ở tim,0.85
+I05.8,Múa giật,0.80
+I05.8,Sốt,0.70
+I05.9,Đau di chuyển các khớp lớn,0.88
+I05.9,Tiếng thổi ở tim,0.85
+I05.9,Múa giật,0.80
+I05.9,Sốt,0.70
+I06,Đau di chuyển các khớp lớn,0.88
+I06,Tiếng thổi ở tim,0.85
+I06,Múa giật,0.80
+I06,Sốt,0.70
+I06.0,Đau di chuyển các khớp lớn,0.88
+I06.0,Tiếng thổi ở tim,0.85
+I06.0,Múa giật,0.80
+I06.0,Sốt,0.70
+I06.1,Đau di chuyển các khớp lớn,0.88
+I06.1,Tiếng thổi ở tim,0.85
+I06.1,Múa giật,0.80
+I06.1,Sốt,0.70
+I06.2,Đau di chuyển các khớp lớn,0.88
+I06.2,Tiếng thổi ở tim,0.85
+I06.2,Múa giật,0.80
+I06.2,Sốt,0.70
+I06.8,Đau di chuyển các khớp lớn,0.88
+I06.8,Tiếng thổi ở tim,0.85
+I06.8,Múa giật,0.80
+I06.8,Sốt,0.70
+I06.9,Đau di chuyển các khớp lớn,0.88
+I06.9,Tiếng thổi ở tim,0.85
+I06.9,Múa giật,0.80
+I06.9,Sốt,0.70
+I07,Đau di chuyển các khớp lớn,0.88
+I07,Tiếng thổi ở tim,0.85
+I07,Múa giật,0.80
+I07,Sốt,0.70
+I07.0,Đau di chuyển các khớp lớn,0.88
+I07.0,Tiếng thổi ở tim,0.85
+I07.0,Múa giật,0.80
+I07.0,Sốt,0.70
+I07.1,Đau di chuyển các khớp lớn,0.88
+I07.1,Tiếng thổi ở tim,0.85
+I07.1,Múa giật,0.80
+I07.1,Sốt,0.70
+I07.2,Đau di chuyển các khớp lớn,0.88
+I07.2,Tiếng thổi ở tim,0.85
+I07.2,Múa giật,0.80
+I07.2,Sốt,0.70
+I07.8,Đau di chuyển các khớp lớn,0.88
+I07.8,Tiếng thổi ở tim,0.85
+I07.8,Múa giật,0.80
+I07.8,Sốt,0.70
+I07.9,Đau di chuyển các khớp lớn,0.88
+I07.9,Tiếng thổi ở tim,0.85
+I07.9,Múa giật,0.80
+I07.9,Sốt,0.70
+I08,Đau di chuyển các khớp lớn,0.88
+I08,Tiếng thổi ở tim,0.85
+I08,Múa giật,0.80
+I08,Sốt,0.70
+I08.0,Đau di chuyển các khớp lớn,0.88
+I08.0,Tiếng thổi ở tim,0.85
+I08.0,Múa giật,0.80
+I08.0,Sốt,0.70
+I08.1,Đau di chuyển các khớp lớn,0.88
+I08.1,Tiếng thổi ở tim,0.85
+I08.1,Múa giật,0.80
+I08.1,Sốt,0.70
+I08.2,Đau di chuyển các khớp lớn,0.88
+I08.2,Tiếng thổi ở tim,0.85
+I08.2,Múa giật,0.80
+I08.2,Sốt,0.70
+I08.3,Đau di chuyển các khớp lớn,0.88
+I08.3,Tiếng thổi ở tim,0.85
+I08.3,Múa giật,0.80
+I08.3,Sốt,0.70
+I08.8,Đau di chuyển các khớp lớn,0.88
+I08.8,Tiếng thổi ở tim,0.85
+I08.8,Múa giật,0.80
+I08.8,Sốt,0.70
+I08.9,Đau di chuyển các khớp lớn,0.88
+I08.9,Tiếng thổi ở tim,0.85
+I08.9,Múa giật,0.80
+I08.9,Sốt,0.70
+I09,Đau di chuyển các khớp lớn,0.88
+I09,Tiếng thổi ở tim,0.85
+I09,Múa giật,0.80
+I09,Sốt,0.70
+I09.0,Đau di chuyển các khớp lớn,0.88
+I09.0,Tiếng thổi ở tim,0.85
+I09.0,Múa giật,0.80
+I09.0,Sốt,0.70
+I09.1,Đau di chuyển các khớp lớn,0.88
+I09.1,Tiếng thổi ở tim,0.85
+I09.1,Múa giật,0.80
+I09.1,Sốt,0.70
+I09.2,Đau di chuyển các khớp lớn,0.88
+I09.2,Tiếng thổi ở tim,0.85
+I09.2,Múa giật,0.80
+I09.2,Sốt,0.70
+I09.8,Đau di chuyển các khớp lớn,0.88
+I09.8,Tiếng thổi ở tim,0.85
+I09.8,Múa giật,0.80
+I09.8,Sốt,0.70
+I09.9,Đau di chuyển các khớp lớn,0.88
+I09.9,Tiếng thổi ở tim,0.85
+I09.9,Múa giật,0.80
+I09.9,Sốt,0.70
+I10,Nhức đầu vùng chẩm,0.88
+I10,Hoa mắt chóng mặt,0.85
+I10,Mặt đỏ bừng,0.75
+I10,Ù tai,0.70
+I11,Nhức đầu vùng chẩm,0.88
+I11,Hoa mắt chóng mặt,0.85
+I11,Mặt đỏ bừng,0.75
+I11,Ù tai,0.70
+I11.0,Nhức đầu vùng chẩm,0.88
+I11.0,Hoa mắt chóng mặt,0.85
+I11.0,Mặt đỏ bừng,0.75
+I11.0,Ù tai,0.70
+I11.9,Nhức đầu vùng chẩm,0.88
+I11.9,Hoa mắt chóng mặt,0.85
+I11.9,Mặt đỏ bừng,0.75
+I11.9,Ù tai,0.70
+I12,Nhức đầu vùng chẩm,0.88
+I12,Hoa mắt chóng mặt,0.85
+I12,Mặt đỏ bừng,0.75
+I12,Ù tai,0.70
+I12.0,Nhức đầu vùng chẩm,0.88
+I12.0,Hoa mắt chóng mặt,0.85
+I12.0,Mặt đỏ bừng,0.75
+I12.0,Ù tai,0.70
+I12.9,Nhức đầu vùng chẩm,0.88
+I12.9,Hoa mắt chóng mặt,0.85
+I12.9,Mặt đỏ bừng,0.75
+I12.9,Ù tai,0.70
+I13,Nhức đầu vùng chẩm,0.88
+I13,Hoa mắt chóng mặt,0.85
+I13,Mặt đỏ bừng,0.75
+I13,Ù tai,0.70
+I13.0,Nhức đầu vùng chẩm,0.88
+I13.0,Hoa mắt chóng mặt,0.85
+I13.0,Mặt đỏ bừng,0.75
+I13.0,Ù tai,0.70
+I13.1,Nhức đầu vùng chẩm,0.88
+I13.1,Hoa mắt chóng mặt,0.85
+I13.1,Mặt đỏ bừng,0.75
+I13.1,Ù tai,0.70
+I13.2,Nhức đầu vùng chẩm,0.88
+I13.2,Hoa mắt chóng mặt,0.85
+I13.2,Mặt đỏ bừng,0.75
+I13.2,Ù tai,0.70
+I13.9,Nhức đầu vùng chẩm,0.88
+I13.9,Hoa mắt chóng mặt,0.85
+I13.9,Mặt đỏ bừng,0.75
+I13.9,Ù tai,0.70
+I15,Nhức đầu vùng chẩm,0.88
+I15,Hoa mắt chóng mặt,0.85
+I15,Mặt đỏ bừng,0.75
+I15,Ù tai,0.70
+I15.0,Nhức đầu vùng chẩm,0.88
+I15.0,Hoa mắt chóng mặt,0.85
+I15.0,Mặt đỏ bừng,0.75
+I15.0,Ù tai,0.70
+I15.1,Nhức đầu vùng chẩm,0.88
+I15.1,Hoa mắt chóng mặt,0.85
+I15.1,Mặt đỏ bừng,0.75
+I15.1,Ù tai,0.70
+I15.2,Nhức đầu vùng chẩm,0.88
+I15.2,Hoa mắt chóng mặt,0.85
+I15.2,Mặt đỏ bừng,0.75
+I15.2,Ù tai,0.70
+I15.8,Nhức đầu vùng chẩm,0.88
+I15.8,Hoa mắt chóng mặt,0.85
+I15.8,Mặt đỏ bừng,0.75
+I15.8,Ù tai,0.70
+I15.9,Nhức đầu vùng chẩm,0.88
+I15.9,Hoa mắt chóng mặt,0.85
+I15.9,Mặt đỏ bừng,0.75
+I15.9,Ù tai,0.70
+I20,Đau thắt ngực khi gắng sức,0.92
+I20,Đau đỡ khi nghỉ ngơi,0.88
+I20,Cảm giác đè nặng ngực trái,0.85
+I20.0,Đau thắt ngực khi gắng sức,0.92
+I20.0,Đau đỡ khi nghỉ ngơi,0.88
+I20.0,Cảm giác đè nặng ngực trái,0.85
+I20.1,Đau thắt ngực khi gắng sức,0.92
+I20.1,Đau đỡ khi nghỉ ngơi,0.88
+I20.1,Cảm giác đè nặng ngực trái,0.85
+I20.8,Đau thắt ngực khi gắng sức,0.92
+I20.8,Đau đỡ khi nghỉ ngơi,0.88
+I20.8,Cảm giác đè nặng ngực trái,0.85
+I20.9,Đau thắt ngực khi gắng sức,0.92
+I20.9,Đau đỡ khi nghỉ ngơi,0.88
+I20.9,Cảm giác đè nặng ngực trái,0.85
+I21,Đau ngực trái dữ dội,0.95
+I21,Đau lan ra tay trái,0.90
+I21,Khó thở,0.85
+I21,Vã mồ hôi,0.80
+I21.0,Đau ngực trái dữ dội,0.95
+I21.0,Đau lan ra tay trái,0.90
+I21.0,Khó thở,0.85
+I21.0,Vã mồ hôi,0.80
+I21.1,Đau ngực trái dữ dội,0.95
+I21.1,Đau lan ra tay trái,0.90
+I21.1,Khó thở,0.85
+I21.1,Vã mồ hôi,0.80
+I21.2,Đau ngực trái dữ dội,0.95
+I21.2,Đau lan ra tay trái,0.90
+I21.2,Khó thở,0.85
+I21.2,Vã mồ hôi,0.80
+I21.3,Đau ngực trái dữ dội,0.95
+I21.3,Đau lan ra tay trái,0.90
+I21.3,Khó thở,0.85
+I21.3,Vã mồ hôi,0.80
+I21.4,Đau ngực trái dữ dội,0.95
+I21.4,Đau lan ra tay trái,0.90
+I21.4,Khó thở,0.85
+I21.4,Vã mồ hôi,0.80
+I21.9,Đau ngực trái dữ dội,0.95
+I21.9,Đau lan ra tay trái,0.90
+I21.9,Khó thở,0.85
+I21.9,Vã mồ hôi,0.80
+I22,Đau ngực trái dữ dội,0.95
+I22,Đau lan ra tay trái,0.90
+I22,Khó thở,0.85
+I22,Vã mồ hôi,0.80
+I22.0,Đau ngực trái dữ dội,0.95
+I22.0,Đau lan ra tay trái,0.90
+I22.0,Khó thở,0.85
+I22.0,Vã mồ hôi,0.80
+I22.1,Đau ngực trái dữ dội,0.95
+I22.1,Đau lan ra tay trái,0.90
+I22.1,Khó thở,0.85
+I22.1,Vã mồ hôi,0.80
+I22.8,Đau ngực trái dữ dội,0.95
+I22.8,Đau lan ra tay trái,0.90
+I22.8,Khó thở,0.85
+I22.8,Vã mồ hôi,0.80
+I22.9,Đau ngực trái dữ dội,0.95
+I22.9,Đau lan ra tay trái,0.90
+I22.9,Khó thở,0.85
+I22.9,Vã mồ hôi,0.80
+I23,Hồi hộp đánh trống ngực,0.75
+I23,Khó thở nhẹ khi gắng sức,0.78
+I23,Mệt mỏi,0.70
+I23.0,Hồi hộp đánh trống ngực,0.75
+I23.0,Khó thở nhẹ khi gắng sức,0.78
+I23.0,Mệt mỏi,0.70
+I23.1,Hồi hộp đánh trống ngực,0.75
+I23.1,Khó thở nhẹ khi gắng sức,0.78
+I23.1,Mệt mỏi,0.70
+I23.2,Hồi hộp đánh trống ngực,0.75
+I23.2,Khó thở nhẹ khi gắng sức,0.78
+I23.2,Mệt mỏi,0.70
+I23.3,Hồi hộp đánh trống ngực,0.75
+I23.3,Khó thở nhẹ khi gắng sức,0.78
+I23.3,Mệt mỏi,0.70
+I23.4,Hồi hộp đánh trống ngực,0.75
+I23.4,Khó thở nhẹ khi gắng sức,0.78
+I23.4,Mệt mỏi,0.70
+I23.5,Hồi hộp đánh trống ngực,0.75
+I23.5,Khó thở nhẹ khi gắng sức,0.78
+I23.5,Mệt mỏi,0.70
+I23.6,Hồi hộp đánh trống ngực,0.75
+I23.6,Khó thở nhẹ khi gắng sức,0.78
+I23.6,Mệt mỏi,0.70
+I23.8,Hồi hộp đánh trống ngực,0.75
+I23.8,Khó thở nhẹ khi gắng sức,0.78
+I23.8,Mệt mỏi,0.70
+I24,Hồi hộp đánh trống ngực,0.75
+I24,Khó thở nhẹ khi gắng sức,0.78
+I24,Mệt mỏi,0.70
+I24.0,Hồi hộp đánh trống ngực,0.75
+I24.0,Khó thở nhẹ khi gắng sức,0.78
+I24.0,Mệt mỏi,0.70
+I24.1,Hồi hộp đánh trống ngực,0.75
+I24.1,Khó thở nhẹ khi gắng sức,0.78
+I24.1,Mệt mỏi,0.70
+I24.8,Hồi hộp đánh trống ngực,0.75
+I24.8,Khó thở nhẹ khi gắng sức,0.78
+I24.8,Mệt mỏi,0.70
+I24.9,Hồi hộp đánh trống ngực,0.75
+I24.9,Khó thở nhẹ khi gắng sức,0.78
+I24.9,Mệt mỏi,0.70
+I25,Đau ngực trái âm ỉ,0.88
+I25,Khó thở khi gắng sức,0.85
+I25,Mệt mỏi,0.75
+I25.0,Đau ngực trái âm ỉ,0.88
+I25.0,Khó thở khi gắng sức,0.85
+I25.0,Mệt mỏi,0.75
+I25.1,Đau ngực trái âm ỉ,0.88
+I25.1,Khó thở khi gắng sức,0.85
+I25.1,Mệt mỏi,0.75
+I25.2,Đau ngực trái âm ỉ,0.88
+I25.2,Khó thở khi gắng sức,0.85
+I25.2,Mệt mỏi,0.75
+I25.3,Đau ngực trái âm ỉ,0.88
+I25.3,Khó thở khi gắng sức,0.85
+I25.3,Mệt mỏi,0.75
+I25.4,Đau ngực trái âm ỉ,0.88
+I25.4,Khó thở khi gắng sức,0.85
+I25.4,Mệt mỏi,0.75
+I25.5,Đau ngực trái âm ỉ,0.88
+I25.5,Khó thở khi gắng sức,0.85
+I25.5,Mệt mỏi,0.75
+I25.6,Đau ngực trái âm ỉ,0.88
+I25.6,Khó thở khi gắng sức,0.85
+I25.6,Mệt mỏi,0.75
+I25.8,Đau ngực trái âm ỉ,0.88
+I25.8,Khó thở khi gắng sức,0.85
+I25.8,Mệt mỏi,0.75
+I25.9,Đau ngực trái âm ỉ,0.88
+I25.9,Khó thở khi gắng sức,0.85
+I25.9,Mệt mỏi,0.75
+I26,Hồi hộp đánh trống ngực,0.75
+I26,Khó thở nhẹ khi gắng sức,0.78
+I26,Mệt mỏi,0.70
+I26.0,Hồi hộp đánh trống ngực,0.75
+I26.0,Khó thở nhẹ khi gắng sức,0.78
+I26.0,Mệt mỏi,0.70
+I26.9,Hồi hộp đánh trống ngực,0.75
+I26.9,Khó thở nhẹ khi gắng sức,0.78
+I26.9,Mệt mỏi,0.70
+I27,Hồi hộp đánh trống ngực,0.75
+I27,Khó thở nhẹ khi gắng sức,0.78
+I27,Mệt mỏi,0.70
+I27.0,Hồi hộp đánh trống ngực,0.75
+I27.0,Khó thở nhẹ khi gắng sức,0.78
+I27.0,Mệt mỏi,0.70
+I27.1,Hồi hộp đánh trống ngực,0.75
+I27.1,Khó thở nhẹ khi gắng sức,0.78
+I27.1,Mệt mỏi,0.70
+I27.2,Hồi hộp đánh trống ngực,0.75
+I27.2,Khó thở nhẹ khi gắng sức,0.78
+I27.2,Mệt mỏi,0.70
+I27.8,Hồi hộp đánh trống ngực,0.75
+I27.8,Khó thở nhẹ khi gắng sức,0.78
+I27.8,Mệt mỏi,0.70
+I27.9,Hồi hộp đánh trống ngực,0.75
+I27.9,Khó thở nhẹ khi gắng sức,0.78
+I27.9,Mệt mỏi,0.70
+I28,Hồi hộp đánh trống ngực,0.75
+I28,Khó thở nhẹ khi gắng sức,0.78
+I28,Mệt mỏi,0.70
+I28.0,Hồi hộp đánh trống ngực,0.75
+I28.0,Khó thở nhẹ khi gắng sức,0.78
+I28.0,Mệt mỏi,0.70
+I28.1,Hồi hộp đánh trống ngực,0.75
+I28.1,Khó thở nhẹ khi gắng sức,0.78
+I28.1,Mệt mỏi,0.70
+I28.8,Hồi hộp đánh trống ngực,0.75
+I28.8,Khó thở nhẹ khi gắng sức,0.78
+I28.8,Mệt mỏi,0.70
+I28.9,Hồi hộp đánh trống ngực,0.75
+I28.9,Khó thở nhẹ khi gắng sức,0.78
+I28.9,Mệt mỏi,0.70
+I30,Đau ngực tư thế cúi người đỡ đau,0.92
+I30,Tiếng cọ màng ngoài tim,0.95
+I30,Sốt nhẹ,0.70
+I30.0,Đau ngực tư thế cúi người đỡ đau,0.92
+I30.0,Tiếng cọ màng ngoài tim,0.95
+I30.0,Sốt nhẹ,0.70
+I30.1,Đau ngực tư thế cúi người đỡ đau,0.92
+I30.1,Tiếng cọ màng ngoài tim,0.95
+I30.1,Sốt nhẹ,0.70
+I30.8,Đau ngực tư thế cúi người đỡ đau,0.92
+I30.8,Tiếng cọ màng ngoài tim,0.95
+I30.8,Sốt nhẹ,0.70
+I30.9,Đau ngực tư thế cúi người đỡ đau,0.92
+I30.9,Tiếng cọ màng ngoài tim,0.95
+I30.9,Sốt nhẹ,0.70
+I31,Hồi hộp đánh trống ngực,0.75
+I31,Khó thở nhẹ khi gắng sức,0.78
+I31,Mệt mỏi,0.70
+I31.0,Hồi hộp đánh trống ngực,0.75
+I31.0,Khó thở nhẹ khi gắng sức,0.78
+I31.0,Mệt mỏi,0.70
+I31.1,Hồi hộp đánh trống ngực,0.75
+I31.1,Khó thở nhẹ khi gắng sức,0.78
+I31.1,Mệt mỏi,0.70
+I31.2,Hồi hộp đánh trống ngực,0.75
+I31.2,Khó thở nhẹ khi gắng sức,0.78
+I31.2,Mệt mỏi,0.70
+I31.3,Hồi hộp đánh trống ngực,0.75
+I31.3,Khó thở nhẹ khi gắng sức,0.78
+I31.3,Mệt mỏi,0.70
+I31.8,Hồi hộp đánh trống ngực,0.75
+I31.8,Khó thở nhẹ khi gắng sức,0.78
+I31.8,Mệt mỏi,0.70
+I31.9,Hồi hộp đánh trống ngực,0.75
+I31.9,Khó thở nhẹ khi gắng sức,0.78
+I31.9,Mệt mỏi,0.70
+I32*,Hồi hộp đánh trống ngực,0.75
+I32*,Khó thở nhẹ khi gắng sức,0.78
+I32*,Mệt mỏi,0.70
+I33,Sốt kéo dài,0.88
+I33,Tiếng thổi tim mới xuất hiện,0.92
+I33,Mệt mỏi kéo dài,0.75
+I33.0,Sốt kéo dài,0.88
+I33.0,Tiếng thổi tim mới xuất hiện,0.92
+I33.0,Mệt mỏi kéo dài,0.75
+I33.9,Sốt kéo dài,0.88
+I33.9,Tiếng thổi tim mới xuất hiện,0.92
+I33.9,Mệt mỏi kéo dài,0.75
+I34,Tiếng thổi bệnh lý tại tim,0.92
+I34,Khó thở khi gắng sức,0.85
+I34,Mệt mỏi,0.75
+I34.0,Tiếng thổi bệnh lý tại tim,0.92
+I34.0,Khó thở khi gắng sức,0.85
+I34.0,Mệt mỏi,0.75
+I34.1,Tiếng thổi bệnh lý tại tim,0.92
+I34.1,Khó thở khi gắng sức,0.85
+I34.1,Mệt mỏi,0.75
+I34.2,Tiếng thổi bệnh lý tại tim,0.92
+I34.2,Khó thở khi gắng sức,0.85
+I34.2,Mệt mỏi,0.75
+I34.8,Tiếng thổi bệnh lý tại tim,0.92
+I34.8,Khó thở khi gắng sức,0.85
+I34.8,Mệt mỏi,0.75
+I34.9,Tiếng thổi bệnh lý tại tim,0.92
+I34.9,Khó thở khi gắng sức,0.85
+I34.9,Mệt mỏi,0.75
+I35,Tiếng thổi bệnh lý tại tim,0.92
+I35,Khó thở khi gắng sức,0.85
+I35,Mệt mỏi,0.75
+I35.0,Tiếng thổi bệnh lý tại tim,0.92
+I35.0,Khó thở khi gắng sức,0.85
+I35.0,Mệt mỏi,0.75
+I35.1,Tiếng thổi bệnh lý tại tim,0.92
+I35.1,Khó thở khi gắng sức,0.85
+I35.1,Mệt mỏi,0.75
+I35.2,Tiếng thổi bệnh lý tại tim,0.92
+I35.2,Khó thở khi gắng sức,0.85
+I35.2,Mệt mỏi,0.75
+I35.8,Tiếng thổi bệnh lý tại tim,0.92
+I35.8,Khó thở khi gắng sức,0.85
+I35.8,Mệt mỏi,0.75
+I35.9,Tiếng thổi bệnh lý tại tim,0.92
+I35.9,Khó thở khi gắng sức,0.85
+I35.9,Mệt mỏi,0.75
+I36,Tiếng thổi bệnh lý tại tim,0.92
+I36,Khó thở khi gắng sức,0.85
+I36,Mệt mỏi,0.75
+I36.0,Tiếng thổi bệnh lý tại tim,0.92
+I36.0,Khó thở khi gắng sức,0.85
+I36.0,Mệt mỏi,0.75
+I36.1,Tiếng thổi bệnh lý tại tim,0.92
+I36.1,Khó thở khi gắng sức,0.85
+I36.1,Mệt mỏi,0.75
+I36.2,Tiếng thổi bệnh lý tại tim,0.92
+I36.2,Khó thở khi gắng sức,0.85
+I36.2,Mệt mỏi,0.75
+I36.8,Tiếng thổi bệnh lý tại tim,0.92
+I36.8,Khó thở khi gắng sức,0.85
+I36.8,Mệt mỏi,0.75
+I36.9,Tiếng thổi bệnh lý tại tim,0.92
+I36.9,Khó thở khi gắng sức,0.85
+I36.9,Mệt mỏi,0.75
+I37,Tiếng thổi bệnh lý tại tim,0.92
+I37,Khó thở khi gắng sức,0.85
+I37,Mệt mỏi,0.75
+I37.0,Tiếng thổi bệnh lý tại tim,0.92
+I37.0,Khó thở khi gắng sức,0.85
+I37.0,Mệt mỏi,0.75
+I37.1,Tiếng thổi bệnh lý tại tim,0.92
+I37.1,Khó thở khi gắng sức,0.85
+I37.1,Mệt mỏi,0.75
+I37.2,Tiếng thổi bệnh lý tại tim,0.92
+I37.2,Khó thở khi gắng sức,0.85
+I37.2,Mệt mỏi,0.75
+I37.8,Tiếng thổi bệnh lý tại tim,0.92
+I37.8,Khó thở khi gắng sức,0.85
+I37.8,Mệt mỏi,0.75
+I37.9,Tiếng thổi bệnh lý tại tim,0.92
+I37.9,Khó thở khi gắng sức,0.85
+I37.9,Mệt mỏi,0.75
+I38,Sốt kéo dài,0.88
+I38,Tiếng thổi tim mới xuất hiện,0.92
+I38,Mệt mỏi kéo dài,0.75
+I39*,Sốt kéo dài,0.88
+I39*,Tiếng thổi tim mới xuất hiện,0.92
+I39*,Mệt mỏi kéo dài,0.75
+I40,Đau ngực trái,0.85
+I40,Hồi hộp đánh trống ngực,0.82
+I40,Mệt mỏi kéo dài,0.78
+I40,Sốt,0.65
+I40.0,Đau ngực trái,0.85
+I40.0,Hồi hộp đánh trống ngực,0.82
+I40.0,Mệt mỏi kéo dài,0.78
+I40.0,Sốt,0.65
+I40.1,Đau ngực trái,0.85
+I40.1,Hồi hộp đánh trống ngực,0.82
+I40.1,Mệt mỏi kéo dài,0.78
+I40.1,Sốt,0.65
+I40.8,Đau ngực trái,0.85
+I40.8,Hồi hộp đánh trống ngực,0.82
+I40.8,Mệt mỏi kéo dài,0.78
+I40.8,Sốt,0.65
+I40.9,Đau ngực trái,0.85
+I40.9,Hồi hộp đánh trống ngực,0.82
+I40.9,Mệt mỏi kéo dài,0.78
+I40.9,Sốt,0.65
+I41*,Đau ngực trái,0.85
+I41*,Hồi hộp đánh trống ngực,0.82
+I41*,Mệt mỏi kéo dài,0.78
+I41*,Sốt,0.65
+I42,Khó thở khi gắng sức,0.85
+I42,Hồi hộp đánh trống ngực,0.80
+I42,Mệt mỏi,0.75
+I42.0,Khó thở khi gắng sức,0.85
+I42.0,Hồi hộp đánh trống ngực,0.80
+I42.0,Mệt mỏi,0.75
+I42.1,Khó thở khi gắng sức,0.85
+I42.1,Hồi hộp đánh trống ngực,0.80
+I42.1,Mệt mỏi,0.75
+I42.2,Khó thở khi gắng sức,0.85
+I42.2,Hồi hộp đánh trống ngực,0.80
+I42.2,Mệt mỏi,0.75
+I42.3,Khó thở khi gắng sức,0.85
+I42.3,Hồi hộp đánh trống ngực,0.80
+I42.3,Mệt mỏi,0.75
+I42.4,Khó thở khi gắng sức,0.85
+I42.4,Hồi hộp đánh trống ngực,0.80
+I42.4,Mệt mỏi,0.75
+I42.5,Khó thở khi gắng sức,0.85
+I42.5,Hồi hộp đánh trống ngực,0.80
+I42.5,Mệt mỏi,0.75
+I42.6,Khó thở khi gắng sức,0.85
+I42.6,Hồi hộp đánh trống ngực,0.80
+I42.6,Mệt mỏi,0.75
+I42.7,Khó thở khi gắng sức,0.85
+I42.7,Hồi hộp đánh trống ngực,0.80
+I42.7,Mệt mỏi,0.75
+I42.8,Khó thở khi gắng sức,0.85
+I42.8,Hồi hộp đánh trống ngực,0.80
+I42.8,Mệt mỏi,0.75
+I42.9,Khó thở khi gắng sức,0.85
+I42.9,Hồi hộp đánh trống ngực,0.80
+I42.9,Mệt mỏi,0.75
+I43*,Hồi hộp đánh trống ngực,0.75
+I43*,Khó thở nhẹ khi gắng sức,0.78
+I43*,Mệt mỏi,0.70
+I44,Mạch chậm,0.92
+I44,Ngất xỉu,0.85
+I44,Mệt mỏi chóng mặt,0.80
+I44.0,Mạch chậm,0.92
+I44.0,Ngất xỉu,0.85
+I44.0,Mệt mỏi chóng mặt,0.80
+I44.1,Mạch chậm,0.92
+I44.1,Ngất xỉu,0.85
+I44.1,Mệt mỏi chóng mặt,0.80
+I44.2,Mạch chậm,0.92
+I44.2,Ngất xỉu,0.85
+I44.2,Mệt mỏi chóng mặt,0.80
+I44.3,Mạch chậm,0.92
+I44.3,Ngất xỉu,0.85
+I44.3,Mệt mỏi chóng mặt,0.80
+I44.4,Mạch chậm,0.92
+I44.4,Ngất xỉu,0.85
+I44.4,Mệt mỏi chóng mặt,0.80
+I44.5,Mạch chậm,0.92
+I44.5,Ngất xỉu,0.85
+I44.5,Mệt mỏi chóng mặt,0.80
+I44.7,Mạch chậm,0.92
+I44.7,Ngất xỉu,0.85
+I44.7,Mệt mỏi chóng mặt,0.80
+I45,Mạch chậm,0.92
+I45,Ngất xỉu,0.85
+I45,Mệt mỏi chóng mặt,0.80
+I45.0,Mạch chậm,0.92
+I45.0,Ngất xỉu,0.85
+I45.0,Mệt mỏi chóng mặt,0.80
+I45.1,Mạch chậm,0.92
+I45.1,Ngất xỉu,0.85
+I45.1,Mệt mỏi chóng mặt,0.80
+I45.2,Mạch chậm,0.92
+I45.2,Ngất xỉu,0.85
+I45.2,Mệt mỏi chóng mặt,0.80
+I45.3,Mạch chậm,0.92
+I45.3,Ngất xỉu,0.85
+I45.3,Mệt mỏi chóng mặt,0.80
+I45.4,Mạch chậm,0.92
+I45.4,Ngất xỉu,0.85
+I45.4,Mệt mỏi chóng mặt,0.80
+I45.5,Mạch chậm,0.92
+I45.5,Ngất xỉu,0.85
+I45.5,Mệt mỏi chóng mặt,0.80
+I45.8,Mạch chậm,0.92
+I45.8,Ngất xỉu,0.85
+I45.8,Mệt mỏi chóng mặt,0.80
+I45.9,Mạch chậm,0.92
+I45.9,Ngất xỉu,0.85
+I45.9,Mệt mỏi chóng mặt,0.80
+I46,Hồi hộp đánh trống ngực,0.75
+I46,Khó thở nhẹ khi gắng sức,0.78
+I46,Mệt mỏi,0.70
+I46.0,Hồi hộp đánh trống ngực,0.75
+I46.0,Khó thở nhẹ khi gắng sức,0.78
+I46.0,Mệt mỏi,0.70
+I46.1,Hồi hộp đánh trống ngực,0.75
+I46.1,Khó thở nhẹ khi gắng sức,0.78
+I46.1,Mệt mỏi,0.70
+I46.9,Hồi hộp đánh trống ngực,0.75
+I46.9,Khó thở nhẹ khi gắng sức,0.78
+I46.9,Mệt mỏi,0.70
+I47,Hồi hộp đánh trống ngực,0.90
+I47,Cảm giác tim đập nhanh kịch phát,0.92
+I47,Chóng mặt,0.75
+I47.0,Hồi hộp đánh trống ngực,0.90
+I47.0,Cảm giác tim đập nhanh kịch phát,0.92
+I47.0,Chóng mặt,0.75
+I47.1,Hồi hộp đánh trống ngực,0.90
+I47.1,Cảm giác tim đập nhanh kịch phát,0.92
+I47.1,Chóng mặt,0.75
+I47.2,Hồi hộp đánh trống ngực,0.90
+I47.2,Cảm giác tim đập nhanh kịch phát,0.92
+I47.2,Chóng mặt,0.75
+I47.9,Hồi hộp đánh trống ngực,0.90
+I47.9,Cảm giác tim đập nhanh kịch phát,0.92
+I47.9,Chóng mặt,0.75
+I48,Hồi hộp đánh trống ngực,0.92
+I48,Mạch không đều,0.95
+I48,Hụt hơi,0.80
+I48,Chóng mặt,0.75
+I49,Hồi hộp đánh trống ngực,0.90
+I49,Cảm giác hẫng hụt ở ngực,0.88
+I49,Mệt mỏi,0.70
+I49.0,Hồi hộp đánh trống ngực,0.90
+I49.0,Cảm giác hẫng hụt ở ngực,0.88
+I49.0,Mệt mỏi,0.70
+I49.1,Hồi hộp đánh trống ngực,0.90
+I49.1,Cảm giác hẫng hụt ở ngực,0.88
+I49.1,Mệt mỏi,0.70
+I49.2,Hồi hộp đánh trống ngực,0.90
+I49.2,Cảm giác hẫng hụt ở ngực,0.88
+I49.2,Mệt mỏi,0.70
+I49.3,Hồi hộp đánh trống ngực,0.90
+I49.3,Cảm giác hẫng hụt ở ngực,0.88
+I49.3,Mệt mỏi,0.70
+I49.4,Hồi hộp đánh trống ngực,0.90
+I49.4,Cảm giác hẫng hụt ở ngực,0.88
+I49.4,Mệt mỏi,0.70
+I49.5,Hồi hộp đánh trống ngực,0.90
+I49.5,Cảm giác hẫng hụt ở ngực,0.88
+I49.5,Mệt mỏi,0.70
+I49.8,Hồi hộp đánh trống ngực,0.90
+I49.8,Cảm giác hẫng hụt ở ngực,0.88
+I49.8,Mệt mỏi,0.70
+I49.9,Hồi hộp đánh trống ngực,0.90
+I49.9,Cảm giác hẫng hụt ở ngực,0.88
+I49.9,Mệt mỏi,0.70
+I50,Khó thở khi nằm,0.92
+I50,Phù chân,0.88
+I50,Gan to,0.80
+I50,Mệt mỏi kéo dài,0.75
+I50.0,Khó thở khi nằm,0.92
+I50.0,Phù chân,0.88
+I50.0,Gan to,0.80
+I50.0,Mệt mỏi kéo dài,0.75
+I50.1,Khó thở khi nằm,0.92
+I50.1,Phù chân,0.88
+I50.1,Gan to,0.80
+I50.1,Mệt mỏi kéo dài,0.75
+I50.9,Khó thở khi nằm,0.92
+I50.9,Phù chân,0.88
+I50.9,Gan to,0.80
+I50.9,Mệt mỏi kéo dài,0.75
+I51,Hồi hộp đánh trống ngực,0.75
+I51,Khó thở nhẹ khi gắng sức,0.78
+I51,Mệt mỏi,0.70
+I51.0,Hồi hộp đánh trống ngực,0.75
+I51.0,Khó thở nhẹ khi gắng sức,0.78
+I51.0,Mệt mỏi,0.70
+I51.1,Hồi hộp đánh trống ngực,0.75
+I51.1,Khó thở nhẹ khi gắng sức,0.78
+I51.1,Mệt mỏi,0.70
+I51.2,Hồi hộp đánh trống ngực,0.75
+I51.2,Khó thở nhẹ khi gắng sức,0.78
+I51.2,Mệt mỏi,0.70
+I51.3,Hồi hộp đánh trống ngực,0.75
+I51.3,Khó thở nhẹ khi gắng sức,0.78
+I51.3,Mệt mỏi,0.70
+I51.4,Hồi hộp đánh trống ngực,0.75
+I51.4,Khó thở nhẹ khi gắng sức,0.78
+I51.4,Mệt mỏi,0.70
+I51.5,Hồi hộp đánh trống ngực,0.75
+I51.5,Khó thở nhẹ khi gắng sức,0.78
+I51.5,Mệt mỏi,0.70
+I51.6,Hồi hộp đánh trống ngực,0.75
+I51.6,Khó thở nhẹ khi gắng sức,0.78
+I51.6,Mệt mỏi,0.70
+I51.7,Hồi hộp đánh trống ngực,0.75
+I51.7,Khó thở nhẹ khi gắng sức,0.78
+I51.7,Mệt mỏi,0.70
+I51.8,Hồi hộp đánh trống ngực,0.75
+I51.8,Khó thở nhẹ khi gắng sức,0.78
+I51.8,Mệt mỏi,0.70
+I51.9,Hồi hộp đánh trống ngực,0.75
+I51.9,Khó thở nhẹ khi gắng sức,0.78
+I51.9,Mệt mỏi,0.70
+I52*,Hồi hộp đánh trống ngực,0.75
+I52*,Khó thở nhẹ khi gắng sức,0.78
+I52*,Mệt mỏi,0.70
+I52.0*,Hồi hộp đánh trống ngực,0.75
+I52.0*,Khó thở nhẹ khi gắng sức,0.78
+I52.0*,Mệt mỏi,0.70
+I52.1*,Hồi hộp đánh trống ngực,0.75
+I52.1*,Khó thở nhẹ khi gắng sức,0.78
+I52.1*,Mệt mỏi,0.70
+I31.30,Hồi hộp đánh trống ngực,0.75
+I31.30,Khó thở nhẹ khi gắng sức,0.78
+I31.30,Mệt mỏi,0.70
+I84,Đi ngoài ra máu tươi,0.90
+I84,Sa búi trĩ khi đại tiện,0.92
+I84,Đau rát hậu môn,0.85
+I25.20,Đau ngực trái âm ỉ,0.88
+I25.20,Khó thở khi gắng sức,0.85
+I25.20,Mệt mỏi,0.75
+I25.21,Đau ngực trái âm ỉ,0.88
+I25.21,Khó thở khi gắng sức,0.85
+I25.21,Mệt mỏi,0.75
+I34.00,Tiếng thổi bệnh lý tại tim,0.92
+I34.00,Khó thở khi gắng sức,0.85
+I34.00,Mệt mỏi,0.75
+I35.00,Tiếng thổi bệnh lý tại tim,0.92
+I35.00,Khó thở khi gắng sức,0.85
+I35.00,Mệt mỏi,0.75
+I44.10,Mạch chậm,0.92
+I44.10,Ngất xỉu,0.85
+I44.10,Mệt mỏi chóng mặt,0.80
+I44.20,Mạch chậm,0.92
+I44.20,Ngất xỉu,0.85
+I44.20,Mệt mỏi chóng mặt,0.80
+I47.10,Hồi hộp đánh trống ngực,0.90
+I47.10,Cảm giác tim đập nhanh kịch phát,0.92
+I47.10,Chóng mặt,0.75
+I47.11,Hồi hộp đánh trống ngực,0.90
+I47.11,Cảm giác tim đập nhanh kịch phát,0.92
+I47.11,Chóng mặt,0.75
+I47.12,Hồi hộp đánh trống ngực,0.90
+I47.12,Cảm giác tim đập nhanh kịch phát,0.92
+I47.12,Chóng mặt,0.75
+I47.13,Hồi hộp đánh trống ngực,0.90
+I47.13,Cảm giác tim đập nhanh kịch phát,0.92
+I47.13,Chóng mặt,0.75
+I48.0,Hồi hộp đánh trống ngực,0.92
+I48.0,Mạch không đều,0.95
+I48.0,Hụt hơi,0.80
+I48.0,Chóng mặt,0.75
+I48.1,Hồi hộp đánh trống ngực,0.92
+I48.1,Mạch không đều,0.95
+I48.1,Hụt hơi,0.80
+I48.1,Chóng mặt,0.75
+I48.2,Hồi hộp đánh trống ngực,0.92
+I48.2,Mạch không đều,0.95
+I48.2,Hụt hơi,0.80
+I48.2,Chóng mặt,0.75
+I48.9,Hồi hộp đánh trống ngực,0.92
+I48.9,Mạch không đều,0.95
+I48.9,Hụt hơi,0.80
+I48.9,Chóng mặt,0.75
+I49.00,Hồi hộp đánh trống ngực,0.90
+I49.00,Cảm giác hẫng hụt ở ngực,0.88
+I49.00,Mệt mỏi,0.70
+I49.10,Hồi hộp đánh trống ngực,0.90
+I49.10,Cảm giác hẫng hụt ở ngực,0.88
+I49.10,Mệt mỏi,0.70
+I49.30,Hồi hộp đánh trống ngực,0.90
+I49.30,Cảm giác hẫng hụt ở ngực,0.88
+I49.30,Mệt mỏi,0.70
+I49.40,Hồi hộp đánh trống ngực,0.90
+I49.40,Cảm giác hẫng hụt ở ngực,0.88
+I49.40,Mệt mỏi,0.70
+I49.41,Hồi hộp đánh trống ngực,0.90
+I49.41,Cảm giác hẫng hụt ở ngực,0.88
+I49.41,Mệt mỏi,0.70
+I50.00,Khó thở khi nằm,0.92
+I50.00,Phù chân,0.88
+I50.00,Gan to,0.80
+I50.00,Mệt mỏi kéo dài,0.75
+I50.01,Khó thở khi nằm,0.92
+I50.01,Phù chân,0.88
+I50.01,Gan to,0.80
+I50.01,Mệt mỏi kéo dài,0.75
+I50.10,Khó thở khi nằm,0.92
+I50.10,Phù chân,0.88
+I50.10,Gan to,0.80
+I50.10,Mệt mỏi kéo dài,0.75
+I50.90,Khó thở khi nằm,0.92
+I50.90,Phù chân,0.88
+I50.90,Gan to,0.80
+I50.90,Mệt mỏi kéo dài,0.75
+I63.20,Liệt nửa người,0.92
+I63.20,Méo miệng,0.90
+I63.20,Nói ngọng,0.88
+I63.20,Tê bì nửa người,0.85
+I63.30,Liệt nửa người,0.92
+I63.30,Méo miệng,0.90
+I63.30,Nói ngọng,0.88
+I63.30,Tê bì nửa người,0.85
+I63.31,Liệt nửa người,0.92
+I63.31,Méo miệng,0.90
+I63.31,Nói ngọng,0.88
+I63.31,Tê bì nửa người,0.85
+I63.32,Liệt nửa người,0.92
+I63.32,Méo miệng,0.90
+I63.32,Nói ngọng,0.88
+I63.32,Tê bì nửa người,0.85
+I63.33,Liệt nửa người,0.92
+I63.33,Méo miệng,0.90
+I63.33,Nói ngọng,0.88
+I63.33,Tê bì nửa người,0.85
+I63.38,Liệt nửa người,0.92
+I63.38,Méo miệng,0.90
+I63.38,Nói ngọng,0.88
+I63.38,Tê bì nửa người,0.85
+I63.39,Liệt nửa người,0.92
+I63.39,Méo miệng,0.90
+I63.39,Nói ngọng,0.88
+I63.39,Tê bì nửa người,0.85
+I63.40,Liệt nửa người,0.92
+I63.40,Méo miệng,0.90
+I63.40,Nói ngọng,0.88
+I63.40,Tê bì nửa người,0.85
+I63.41,Liệt nửa người,0.92
+I63.41,Méo miệng,0.90
+I63.41,Nói ngọng,0.88
+I63.41,Tê bì nửa người,0.85
+I63.42,Liệt nửa người,0.92
+I63.42,Méo miệng,0.90
+I63.42,Nói ngọng,0.88
+I63.42,Tê bì nửa người,0.85
+I63.43,Liệt nửa người,0.92
+I63.43,Méo miệng,0.90
+I63.43,Nói ngọng,0.88
+I63.43,Tê bì nửa người,0.85
+I63.44,Liệt nửa người,0.92
+I63.44,Méo miệng,0.90
+I63.44,Nói ngọng,0.88
+I63.44,Tê bì nửa người,0.85
+I63.49,Liệt nửa người,0.92
+I63.49,Méo miệng,0.90
+I63.49,Nói ngọng,0.88
+I63.49,Tê bì nửa người,0.85
+I63.50,Liệt nửa người,0.92
+I63.50,Méo miệng,0.90
+I63.50,Nói ngọng,0.88
+I63.50,Tê bì nửa người,0.85
+I63.51,Liệt nửa người,0.92
+I63.51,Méo miệng,0.90
+I63.51,Nói ngọng,0.88
+I63.51,Tê bì nửa người,0.85
+I63.52,Liệt nửa người,0.92
+I63.52,Méo miệng,0.90
+I63.52,Nói ngọng,0.88
+I63.52,Tê bì nửa người,0.85
+I63.53,Liệt nửa người,0.92
+I63.53,Méo miệng,0.90
+I63.53,Nói ngọng,0.88
+I63.53,Tê bì nửa người,0.85
+I63.58,Liệt nửa người,0.92
+I63.58,Méo miệng,0.90
+I63.58,Nói ngọng,0.88
+I63.58,Tê bì nửa người,0.85
+I63.59,Liệt nửa người,0.92
+I63.59,Méo miệng,0.90
+I63.59,Nói ngọng,0.88
+I63.59,Tê bì nửa người,0.85
+I67.20,Đau cách hồi,0.88
+I67.20,Giảm mạch ngoại vi,0.85
+I67.20,Tê lạnh chi,0.80
+I70.20,Đau cách hồi,0.88
+I70.20,Giảm mạch ngoại vi,0.85
+I70.20,Tê lạnh chi,0.80
+I70.21,Đau cách hồi,0.88
+I70.21,Giảm mạch ngoại vi,0.85
+I70.21,Tê lạnh chi,0.80
+I70.22,Đau cách hồi,0.88
+I70.22,Giảm mạch ngoại vi,0.85
+I70.22,Tê lạnh chi,0.80
+I70.23,Đau cách hồi,0.88
+I70.23,Giảm mạch ngoại vi,0.85
+I70.23,Tê lạnh chi,0.80
+I70.24,Đau cách hồi,0.88
+I70.24,Giảm mạch ngoại vi,0.85
+I70.24,Tê lạnh chi,0.80
+I70.29,Đau cách hồi,0.88
+I70.29,Giảm mạch ngoại vi,0.85
+I70.29,Tê lạnh chi,0.80
+I73.90,Hồi hộp đánh trống ngực,0.75
+I73.90,Khó thở nhẹ khi gắng sức,0.78
+I73.90,Mệt mỏi,0.70
+I80.20,Sưng đau một bên chân,0.92
+I80.20,Da vùng chân nóng đỏ,0.85
+I80.20,Đau tăng khi đi lại,0.80
+I80.21,Sưng đau một bên chân,0.92
+I80.21,Da vùng chân nóng đỏ,0.85
+I80.21,Đau tăng khi đi lại,0.80
+I80.22,Sưng đau một bên chân,0.92
+I80.22,Da vùng chân nóng đỏ,0.85
+I80.22,Đau tăng khi đi lại,0.80
+I82.80,Sưng đau một bên chân,0.92
+I82.80,Da vùng chân nóng đỏ,0.85
+I82.80,Đau tăng khi đi lại,0.80
+I83.90,Tê nặng chân về chiều,0.88
+I83.90,Phù chân nhẹ,0.82
+I83.90,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I84.0,Đi ngoài ra máu tươi,0.90
+I84.0,Sa búi trĩ khi đại tiện,0.92
+I84.0,Đau rát hậu môn,0.85
+I84.1,Đi ngoài ra máu tươi,0.90
+I84.1,Sa búi trĩ khi đại tiện,0.92
+I84.1,Đau rát hậu môn,0.85
+I84.2,Đi ngoài ra máu tươi,0.90
+I84.2,Sa búi trĩ khi đại tiện,0.92
+I84.2,Đau rát hậu môn,0.85
+I84.3,Đi ngoài ra máu tươi,0.90
+I84.3,Sa búi trĩ khi đại tiện,0.92
+I84.3,Đau rát hậu môn,0.85
+I84.4,Đi ngoài ra máu tươi,0.90
+I84.4,Sa búi trĩ khi đại tiện,0.92
+I84.4,Đau rát hậu môn,0.85
+I84.5,Đi ngoài ra máu tươi,0.90
+I84.5,Sa búi trĩ khi đại tiện,0.92
+I84.5,Đau rát hậu môn,0.85
+I84.6,Đi ngoài ra máu tươi,0.90
+I84.6,Sa búi trĩ khi đại tiện,0.92
+I84.6,Đau rát hậu môn,0.85
+I84.7,Đi ngoài ra máu tươi,0.90
+I84.7,Sa búi trĩ khi đại tiện,0.92
+I84.7,Đau rát hậu môn,0.85
+I84.8,Đi ngoài ra máu tươi,0.90
+I84.8,Sa búi trĩ khi đại tiện,0.92
+I84.8,Đau rát hậu môn,0.85
+I84.9,Đi ngoài ra máu tươi,0.90
+I84.9,Sa búi trĩ khi đại tiện,0.92
+I84.9,Đau rát hậu môn,0.85
+I87.20,Tê nặng chân về chiều,0.88
+I87.20,Phù chân nhẹ,0.82
+I87.20,Nổi gân xanh ngoằn ngoèo ở chân,0.90
+I95.10,Hồi hộp đánh trống ngực,0.75
+I95.10,Khó thở nhẹ khi gắng sức,0.78
+I95.10,Mệt mỏi,0.70

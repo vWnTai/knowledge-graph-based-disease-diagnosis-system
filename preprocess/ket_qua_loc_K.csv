@@ -1,0 +1,1558 @@
+﻿Mã,Tên bệnh
+K80,Sỏi mật
+K80.0,Sỏi túi mật có viêm túi mật cấp
+K80.1,Sỏi túi mật có viêm túi mật khác
+K80.2,Sỏi túi mật không có viêm túi mật
+K80.3,Sỏi ống mật có viêm đường mật
+K80.4,Sỏi đường mật có viêm túi mật
+K80.5,Sỏi mật không viêm đường mật hay viêm túi mật
+K80.8,Sỏi mật khác
+K81,Viêm túi mật
+K81.0,Viêm túi mật cấp
+K81.1,Viêm túi mật mạn
+K81.8,Viêm túi mật thể khác
+K81.9,"Viêm túi mật, không đặc hiệu"
+K82,Bệnh khác của túi mật
+K82.0,Tắc túi mật
+K82.1,Tràn dịch túi mật
+K92.8,Bệnh hệ tiêu hóa đặc hiệu khác
+K92.9,"Bệnh hệ tiêu hóa, không đặc hiệu"
+K93,Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác
+K93*,Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác
+K93.0*,"Bệnh lao ở ruột, phúc mạc và tuyến mạc treo (A18.3†)"
+K93.1*,Phình đại tràng trong bệnh Chagas (B57.3†)
+K93.8*,Rối loạn cơ quan tiêu hóa đặc hiệu khác đã được phân loại ở nơi khác
+K56.1,Lồng ruột
+K56.2,Xoắn ruột
+K56.3,Liệt ruột do sỏi
+K56.4,Nghẹt ruột khác
+K56.5,Dính ruột [thành dải] có tắc nghẽn
+K56.6,Tắc ruột khác và không xác định
+K56.7,"Liệt ruột, không đặc hiệu"
+K57,Bệnh túi thừa của ruột
+K57.0,"Bệnh túi thừa của ruột non, có thủng và áp xe"
+K57.1,"Bệnh túi thừa của ruột non, không thủng hay áp xe"
+K57.2,"Bệnh túi thừa của đại tràng, có thủng và áp xe"
+K57.3,"Bệnh túi thừa của đại tràng, không thủng hay áp xe"
+K57.4,"Bệnh túi thừa của ruột non và đại tràng, có thủng và áp xe"
+K57.5,"Bệnh túi thừa của cả ruột non và đại tràng, không thủng hay áp xe"
+K57.8,"Bệnh túi thừa của ruột, vị trí không xác định, có thủng và áp xe"
+K57.9,"Bệnh túi thừa của ruột, vị trí không xác định, không thủng hay áp xe"
+K28.5,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có thủng)
+K28.6,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K28.7,Loét dạ dày - hỗng tràng (Mạn không có xuất huyết hay thủng)
+K28.9,"Loét dạ dày - hỗng tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K29,Viêm dạ dày và tá tràng
+K29.0,Viêm dạ dày xuất huyết cấp tính
+K29.1,Viêm dạ dày cấp khác
+K29.2,Viêm dạ dày do rượu
+K29.3,Viêm nông niêm mạc dạ dày mãn tính
+K43.3,"Thoát vị cạnh miệng nối có tắc, không hoại thư"
+K43.4,Thoát vị cạnh miệng nối có hoại thư
+K43.5,Thoát vị cạnh miệng nối không tắc hay hoại thư
+K43.6,"Thoát vị bụng khác và không xác định có tắc nghẽn, không hoại thư"
+K29.4,Viêm teo niêm mạc dạ dày mãn tính
+K29.5,"Viêm dạ dày mạn, không đặc hiệu"
+K29.6,Viêm dạ dày khác
+K29.7,"Viêm dạ dày, không đặc hiệu"
+K29.8,Viêm tá tràng
+K29.9,"Viêm dạ dày tá tràng, không đặc hiệu"
+K30,Khó tiêu chức năng
+K31,Bệnh khác của dạ dày và tá tràng
+K31.0,Dãn dạ dày cấp
+K31.1,Hẹp môn vị do phì đại ở người lớn
+K31.2,Hẹp dạ dày và chít hẹp dạng đồng hồ cát
+K31.3,"Co thắt môn vị, không phân loại nơi khác"
+K31.4,Túi thừa dạ dày
+K31.5,Tắc tá tràng
+K31.6,Dò dạ dày và tá tràng
+K31.7,Polyp dạ dày và tá tràng
+K31.8,Bệnh dạ dày và tá tràng đặc hiệu khác
+K31.9,"Bệnh dạ dày và tá tràng, không đặc hiệu"
+K35,Viêm ruột thừa cấp
+K35.0,Viêm ruột thừa với viêm phúc mạc toàn bộ
+K35.1,Viêm ruột thừa cấp với áp xe phúc mạc
+K35.2,Viêm ruột thừa cấp tính kèm viêm phúc mạc toàn bộ
+K35.3,Viêm ruột thừa cấp tính kèm viêm phúc mạc khu trú
+K35.8,"Viêm ruột thừa cấp tính, khác và không đặc hiệu"
+K35.9,Viêm ruột thừa cấp - không đặc hiệu
+K36,Viêm ruột thừa khác
+K37,Viêm ruột thừa không đặc hiệu
+K38,Bệnh khác của ruột thừa
+K38.0,Tăng sản ở ruột thừa
+K38.1,Sỏi ở ruột thừa
+K38.2,Túi thừa của ruột thừa
+K38.3,Dò ruột thừa
+K38.8,Bệnh ruột thừa đặc hiệu khác
+K43.7,Thoát vị bụng khác và không xác định có hoại thư
+K43.9,Thoát vị bụng không tắc hay hoại thư
+K44,Thoát vị hoành
+K44.0,"Thoát vị hoành có tắc, không hoại tử"
+K44.1,Thoát vị hoành có hoại tử
+K44.9,"Thoát vị hoành, không tắc hay hoại tử"
+K45,Thoát vị bụng khác
+K45.0,"Thoát vị bụng xác định khác có tắc, không hoại thư"
+K45.1,"Thoát vị bụng đặc hiệu khác, có hoại tử"
+K45.8,"Thoát vị bụng đặc hiệu khác, không tắc hay hoại tử"
+K46,Thoát vị bụng không đặc hiệu
+K46.0,"Thoát vị bụng không đặc hiệu có tắc, không hoại tử"
+K46.1,"Thoát vị bụng không đặc hiệu, có hoại tử"
+K46.9,"Thoát vị bụng không đặc hiệu, không tắc hay hoại tử"
+K50,Bệnh Crohn (viêm ruột từng vùng)
+K50.0,Bệnh Crohn của ruột non
+K50.1,Bênh Crohn của đại tràng
+K50.8,Bệnh Crohn khác
+K50.9,Bệnh Crohn không đặc hiệu
+K51,Viêm loét đại tràng chảy máu
+K51.0,Viêm loét toàn ruột (mãn tính)
+K51.1,Viêm loét hồi - đại tràng(mãn)
+K51.2,Viêm loét trực tràng chảy máu (mạn)
+K51.3,Viêm loét đại tràng sigma - trực tràng chảy máu (mạn)
+K51.4,Nhiều polyp viêm
+K51.5,Viêm loét đại tràng chảy máu nửa đại tràng trái 
+K51.8,Viêm loét đại tràng chảy máu phần khác
+K51.9,"Viêm loét đại tràng chảy máu, không đặc hiệu"
+K52,Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác
+K52.0,Viêm dạ dày - ruột và đại tràng do tia xạ
+K52.1,Viêm dạ dày - ruột và đại tràng do nhiễm độc
+K52.2,Viêm dạ dày - ruột và đại tràng do dị ứng và thức ăn
+K52.3,Viêm đại tràng không xác định
+K58,Hội chứng ruột kích thích
+K58.0,"Hội chứng ruột kích thích, có tiêu chảy"
+K38.9,"Bệnh ruột thừa, không đặc hiệu"
+K40,Thoát vị bẹn
+K40.0,"Thoát vị bẹn hai bên, có tắc, không hoại tử"
+K40.1,"Thoát vị bẹn hai bên, có hoại tử"
+K40.2,"Thoát vị bẹn hai bên, không tắc hay hoại thư"
+K40.3,"Thoát vị bẹn một bên hay không xác định, có tắc, không hoại tử"
+K40.4,"Thoát vị bẹn một bên hay không đặc hiệu, có hoại tử"
+K40.9,"Thoát vị bẹn một bên hay không đặc hiệu, không tắc hay hoại tử"
+K41,Thoát vị đùi
+K41.0,"Thoát vị đùi hai bên, có tắc, không hoại tử"
+K58.9,"Hội chứng ruột kích thích, không tiêu chảy"
+K59,Rối loạn chức năng khác của ruột
+K59.0,Táo bón
+K59.1,Tiêu chảy rối loạn chức năng
+K59.2,"Rối loạn ruột do nguyên nhân thần kinh, không phân loại nơi khác"
+K59.3,"Phình đại tràng, không phần loại nơi khác"
+K59.4,Co thắt hậu môn
+K59.8,Rối loạn chức năng đặc hiệu khác
+K59.9,"Rối loạn ruột chức năng, không đặc hiệu"
+K60,rò vùng hậu môn và trực tràng
+K60.0,Nứt kẽ hậu môn cấp
+K60.1,Nứt kẽ hậu môn mạn
+K60.2,"Nứt ống hậu môn, không đặc hiệu"
+K60.3,Rò hậu môn
+K60.4,Rò trực tràng
+K60.5,Rò hậu môn trực tràng
+K61,áp xe vùng hậu môn - trực tràng
+K61.0,áp xe hậu môn
+K61.1,áp xe trực tràng
+K61.2,áp xe hậu môn trực tràng
+K61.3,áp xe ụ ngồi - trực tràng
+K61.4,Áp xe trong cơ thắt hậu môn
+K62,Bệnh khác của hậu môn và trực tràng
+K62.0,Polip hậu môn
+K62.1,Polip trực tràng
+K62.2,Sa hậu môn
+K52.8,Viêm dạ dày - ruột và đại tràng đặc hiệu khác không do nhiễm trùng
+K52.9,"Viêm dạ dày - ruột và đại tràng không nhiễm trùng, không đặc hiệu"
+K55,Rối loạn mạch máu của ruột
+K55.0,Rối loạn mạch máu ruột cấp tính
+K55.1,Rối loạn mạch máu ruột mạn
+K55.2,Loạn sản mạch máu đại tràng
+K55.8,Rối loạn mạch máu khác của ruột
+K55.9,"Rối loạn mạch máu ở ruột, không đặc hiệu"
+K56,Liệt ruột và tắc ruột không có thoát vị
+K56.0,Liệt ruột
+K41.1,"Thoát vị đùi hai bên, có hoại tử"
+K41.2,"Thoát vị đùi hai bên, không tắc hay hoại tử"
+K41.3,"Thoát vị đùi một bên hay không đặc hiệu, có tắc, không hoại tử"
+K41.4,"Thoát vị đùi một bên hay không đặc hiệu, có hoại tử"
+K41.9,"Thoát vị đùi một bên hay không đặc hiệu, không tắc hay hoại tử"
+K42,Thoát vị rốn
+K42.0,"Thoát vị rốn có tắc, không hoại tử"
+K42.1,Thoát vị rốn có hoại tử
+K42.9,"Thoát vị rốn, không tắc hay hoại tử"
+K43,Thoát vị bụng
+K43.0,"Thoát vị qua đường mổ có tắc nghẽn, không hoại thư"
+K43.1,Thoát vị qua đường mổ có hoại thư
+K43.2,Thoát vị qua đường mổ không tắc hoặc hoại thư
+K62.3,Sa trực tràng
+K62.4,Hẹp trực tràng và ống hậu môn
+K62.5,Xuất huyết hậu môn và trực tràng
+K62.6,Loét hậu môn và trực tràng
+K62.7,Viêm trực tràng do tia xạ
+K62.8,Bệnh đặc hiệu khác của hậu môn và trực tràng
+K62.9,"Bệnh hậu môn và trực tràng, không đặc hiệu"
+K63,Bệnh khác của ruột
+K63.0,áp xe ruột
+K63.1,Thủng ruột (không có chấn thương)
+K63.2,Rò ruột
+K63.3,Loét ruột
+K63.4,Sa ruột
+K63.5,Polyp đại tràng
+K63.8,Bệnh đặc hiệu khác của ruột
+K63.9,"Bệnh ruột, không đặc hiệu"
+K64,Trĩ và huyết khối tĩnh mạch qua hậu môn
+K64.0,Trĩ độ I
+K64.1,Trĩ độ II
+K64.2,Trĩ độ III
+K64.3,Trĩ độ IV
+K64.4,Dãn da do trĩ sót lại
+K64.5,Huyết khối tĩnh mạch quanh hậu môn
+K64.8,Trĩ xác định khác
+K64.9,"Trĩ, không đặc hiệu"
+K65,Viêm phúc mạc
+K65.0,Viêm phúc mạc cấp
+K82.2,Thủng túi mật
+K82.3,Dò túi mật
+K82.4,Tích tụ Cholesterol ở túi mật
+K82.8,Bệnh đặc hiệu khác của túi mật
+K82.9,"Bệnh của túi mật, không đặc hiệu"
+K65.8,Viêm phúc mạc khác
+K65.9,"Viêm phúc mạc, không đặc hiệu"
+K66,Rối loạn khác của phúc mạc
+K66.0,Dính phúc mạc
+K66.1,Cổ trướng máu
+K66.8,Rối loạn đặc hiệu khác của phúc mạc
+K66.9,"Rối loạn của phúc mạc, không đặc hiệu"
+K67,Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác
+K67*,Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác
+K67.0*,Viêm phúc mạc do Chlamydia (A74.8†)
+K67.1*,Viêm phúc mạc do lậu cầu (A54.8†)
+K67.2*,Viêm phúc mạc do giang mai (A52.7†)
+K67.3*,Viêm phúc mạc do lao (A18.3†)
+K67.8*,Các rối loạn khác của phúc mạc trong nhiễm trùng đã phân loại nơi khác
+K70,Bệnh gan do rượu
+K70.0,Gan nhiễm mỡ do rượu
+K70.1,Viêm gan do rượu
+K70.2,Bệnh xơ hóa gan do rượu
+K70.3,Xơ gan do rượu
+K71.7,Bệnh gan nhiễm độc có xơ hóa và xơ gan
+K71.8,Bệnh gan nhiễm độc có rối loạn khác của gan
+K71.9,"Bệnh gan nhiễm độc, không đặc hiệu"
+K72,"Suy gan, không phân loại nơi khác"
+K72.0,Suy gan cấp và bán cấp
+K72.1,Suy gan mãn
+K72.9,"Suy gan, không đặc hiệu"
+K73,"Viêm gan mãn, không phân loại nơi khác"
+K73.0,"Viêm gan mãn trường diễn, không phân loại nơi khác"
+K73.1,"Viêm tiểu thuỳ gan mạn, không phân loại nơi khác"
+K73.2,"Viêm gan mãn hoạt động, không phân loại nơi khác"
+K73.8,"Viêm gan mãn khác, không phân loại nơi khác"
+K73.9,"Viêm gan mạn, không đặc hiệu"
+K74,Gan xơ hóa và xơ gan
+K74.0,Gan xơ hóa
+K74.1,Gan xơ cứng
+K74.2,Gan xơ hóa với gan xơ cứng
+K74.3,Xơ gan mật tiên phát
+K74.4,Xơ gan mật thứ phát
+K74.5,Xơ gan mật không đặc hiệu
+K74.6,Xơ gan khác và không đặc hiệu
+K75,Bệnh viêm gan khác
+K75.0,áp xe ở gan
+K75.1,Viêm tĩnh mạch của tĩnh mạch cửa
+K75.2,"Viêm gan tái hoạt động, không đặc hiệu"
+K75.3,"Viêm gan dạng u hạt, không phân loại nơi khác"
+K75.4,Viêm gan tự miễn
+K75.8,Bệnh viêm gan đặc hiệu khác
+K75.9,"Bệnh viêm gan, không đặc hiệu"
+K76,Bệnh gan khác
+K76.0,"Gan (biến đổi) nhiễm mỡ, không phân loại nơi khác"
+K76.1,Xung huyết thụ động mãn tính ở gan
+K76.2,Hoại tử xuất huyết trung tâm tiểu thùy gan
+K76.3,Nhồi máu gan
+K76.4,Bệnh ứ máu xoang gan
+K76.5,Bệnh tắc tĩnh mạch trên gan
+K76.6,Tăng áp lực tĩnh mạch cửa
+K76.7,Hội chứng gan - thận
+K76.8,Bệnh gan đặc hiệu khác
+K76.9,"Bệnh gan, không đặc hiệu"
+K77,Rối loạn chức năng gan trong bệnh phân loại nơi khác
+K77*,Rối loạn chức năng gan trong bệnh phân loại nơi khác
+K83,Bệnh khác của đường mật
+K83.0,Viêm đường mật
+K83.1,Tắc ống mật
+K83.2,Thủng đường mật
+K83.3,Rò đường mật
+K83.4,Co thắt cơ vòng Oddi
+K83.5,Nang đường mật
+K83.8,Bệnh đặc hiệu khác của đường mật
+K83.9,"Bệnh đường mật, không đặc hiệu"
+K85,Viêm tụy cấp
+K85.0,Viêm tụy cấp tính tự phát
+K85.1,Viêm tụy cấp tính do mật
+K85.2,Viêm tụy cấp tính do rượu
+K85.3,Viêm tụy cấp tính do thuốc
+K85.8,Viêm tụy cấp tính khác
+K85.9,"Viêm tụy cấp tính, không đặc hiệu"
+K86,Bệnh tụy khác
+K86.0,Viêm tụy mạn do rượu
+K86.1,Viêm tụy mạn thể khác
+K86.2,Nang tụy
+K86.3,Nang giả tụy
+K86.8,Bệnh đặc hiệu khác của tụy
+K86.9,"Bệnh tụy, không đặc hiệu"
+K87,"Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác"
+K87*,"Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác"
+K87.0*,Rối loạn của túi mật và đường mật đã được phân loại ở nơi khác
+K87.1*,Rối loạn tụy trong phân loại nơi khác
+K90,Ruột kém hấp thu
+K90.0,Bệnh Coeliac
+K90.1,Tiêu chảy nhiệt đới
+K90.2,"Hội chứng quai tới, không phân loại nơi khác"
+K90.3,Tiêu chảy phân mỡ do tụy
+K90.4,"Kém hấp thụ do không dung nạp, không phân loại nơi khác"
+K90.8,Ruột kém hấp thu khác
+K77.0*,Rối loạn chức năng gan trong bệnh nhiễm trùng và nhiễm ký sinh trùng được phân loại nơi khác
+K70.4,Suy gan do rượu
+K70.9,"Bệnh gan do rượu, không đặc hiệu"
+K71,Bệnh gan do độc chất
+K71.0,"Bệnh gan nhiễm độc, có ứ mật"
+K71.1,Bệnh gan nhiễm độc có hoại tử gan
+K77.8*,"Rối loạn chức năng gan trong bệnh khác, phân loại nơi khác"
+K90.9,"Ruột kém hấp thu, không đặc hiệu"
+K91,Rối loạn tiêu hóa sau phẫu thuật không phân loại nơi khác
+K91.0,Nôn mửa sau phẫu thuật dạ dày - ruột
+K91.1,Hội chứng sau phẫu thuật dạ dày
+K91.2,"Kém hấp thu sau phẫu thuật, không phân loại nơi khác"
+K91.3,Tắc ruột sau mổ
+K91.4,Suy chức năng sau mổ thông đại tràng và mổ thông đường ruột
+K91.5,Hội chứng sau cắt túi mật
+K91.8,Rối loạn sau phẫu thuật khác của hệ tiêu hóa không phân loại nơi khác
+K91.9,"Rối loạn sau phẫu thuật của hệ tiêu hóa, không đặc hiệu"
+K92,Bệnh khác của hệ tiêu hóa
+K92.0,Nôn ra máu
+K92.1,Đi ngoài phân đen
+K92.2,"Chảy máu tiêu hóa, không đặc hiệu"
+K71.2,Bệnh gan nhiễm độc có viêm gan cấp
+K71.3,Bệnh gan nhiễm độc có viêm gan mạn dai dẳng
+K71.4,Bệnh gan nhiễm độc có viêm tiểu thùy gan mạn
+K71.5,Bệnh gan nhiễm độc có viêm gan mạn hoạt động
+K71.6,"Bệnh gan nhiễm độc có viêm gan, không phân loại nơi khác"
+K75.0,áp xe ở gan
+K75.1,Viêm tĩnh mạch của tĩnh mạch cửa
+K75.3,"Viêm gan dạng u hạt, không phân loại nơi khác"
+K75.8,Bệnh viêm gan đặc hiệu khác
+K75.9,"Bệnh viêm gan, không đặc hiệu"
+K76,Bệnh gan khác
+K76.0,"Gan (biến đổi) nhiễm mỡ, không phân loại nơi khác"
+K76.1,Xung huyết thụ động mãn tính ở gan
+K76.3,Nhồi máu gan
+K76.4,Bệnh ứ máu xoang gan
+K76.5,Bệnh tắc tĩnh mạch trên gan
+K76.6,Tăng áp lực tĩnh mạch cửa
+K76.8,Bệnh gan đặc hiệu khác
+K77*,Rối loạn chức năng gan trong bệnh phân loại nơi khác
+K77.0*,Rối loạn chức năng gan trong bệnh nhiễm trùng và nhiễm ký sinh trùng được phân loại nơi khác
+K77.8*,"Rối loạn chức năng gan trong bệnh khác, phân loại nơi khác"
+K80,Sỏi mật
+K80.1,Sỏi túi mật có viêm túi mật khác
+K80.2,Sỏi túi mật không có viêm túi mật
+K80.3,Sỏi ống mật có viêm đường mật
+K80.5,Sỏi mật không viêm đường mật hay viêm túi mật
+K66.9,"Rối loạn của phúc mạc, không đặc hiệu"
+K67*,Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác
+K67.0*,Viêm phúc mạc do Chlamydia (A74.8†)
+K67.2*,Viêm phúc mạc do giang mai (A52.7†)
+K67.3*,Viêm phúc mạc do lao (A18.3†)
+K67.8*,Các rối loạn khác của phúc mạc trong nhiễm trùng đã phân loại nơi khác
+K70,Bệnh gan do rượu
+K70.0,Gan nhiễm mỡ do rượu
+K70.2,Bệnh xơ hóa gan do rượu
+K70.3,Xơ gan do rượu
+K70.4,Suy gan do rượu
+K71,Bệnh gan do độc chất
+K71.0,"Bệnh gan nhiễm độc, có ứ mật"
+K71.1,Bệnh gan nhiễm độc có hoại tử gan
+K71.2,Bệnh gan nhiễm độc có viêm gan cấp
+K71.4,Bệnh gan nhiễm độc có viêm tiểu thùy gan mạn
+K71.5,Bệnh gan nhiễm độc có viêm gan mạn hoạt động
+K71.6,"Bệnh gan nhiễm độc có viêm gan, không phân loại nơi khác"
+K71.7,Bệnh gan nhiễm độc có xơ hóa và xơ gan
+K71.9,"Bệnh gan nhiễm độc, không đặc hiệu"
+K72,"Suy gan, không phân loại nơi khác"
+K72.0,Suy gan cấp và bán cấp
+K72.00,Suy gan cấp và bán cấp không hôn mê
+K72.01,Suy gan cấp và bán cấp với hôn mê
+K72.10,Suy gan mãn không hôn mê
+K72.11,Suy gan mãn có hôn mê
+K73,"Viêm gan mãn, không phân loại nơi khác"
+K73.0,"Viêm gan mãn trường diễn, không phân loại nơi khác"
+K73.1,"Viêm tiểu thuỳ gan mạn, không phân loại nơi khác"
+K73.8,"Viêm gan mãn khác, không phân loại nơi khác"
+K73.9,"Viêm gan mạn, không đặc hiệu"
+K74,Gan xơ hóa và xơ gan
+K74.0,Gan xơ hóa
+K74.1,Gan xơ cứng
+K74.3,Xơ gan mật tiên phát
+K74.4,Xơ gan mật thứ phát
+K74.5,Xơ gan mật không đặc hiệu
+K74.6,Xơ gan khác và không đặc hiệu
+K14.1,Lưỡi bản đồ
+K14.2,Viêm lưỡi dạng thoi
+K14.3,Phì đại gai lưỡi
+K14.4,Teo gai lưỡi
+K14.6,Đau lưỡi
+K14.8,Bệnh khác của lưỡi
+K20,Viêm thực quản
+K21,Bệnh trào ngược dạ dày - thực quản
+K21.0,Bệnh trào ngược dạ dày - thực quản với viêm thực quản
+K22,Bệnh khác của thực quản
+K22.0,Mất khả năng giãn của tâm vị
+K22.1,Loét thực quản
+K22.2,Tắc nghẽn thực quản
+K22.3,Thủng thực quản
+K22.4,Rối loạn vận động thực quản
+K22.6,Hội chứng rách - chảy máu thực quản - dạ dày
+K22.8,Bệnh đặc hiệu khác của thực quản
+K22.9,"Bệnh thực quản, không đặc hiệu"
+K23*,Rối loạn thực quản trong bệnh phân loại nơi khác
+K23.1*,Phình thực quản trong bệnh Chagas (B57.3†)
+K23.8*,Rối loạn thực quản trong bệnh phân loại nơi khác
+K25,Loét dạ dày
+K26,Loét tá tràng
+K27,"Loét dạ dày-tá tràng, vị trí không đặc hiệu"
+K28,Loét dạ dày - hỗng tràng
+K29.0,Viêm dạ dày xuất huyết cấp tính
+K29.1,Viêm dạ dày cấp khác
+K29.2,Viêm dạ dày do rượu
+K29.4,Viêm teo niêm mạc dạ dày mãn tính
+K29.5,"Viêm dạ dày mạn, không đặc hiệu"
+K29.6,Viêm dạ dày khác
+K29.7,"Viêm dạ dày, không đặc hiệu"
+K29.8,Viêm tá tràng
+K30,Khó tiêu chức năng
+K31,Bệnh khác của dạ dày và tá tràng
+K31.0,Dãn dạ dày cấp
+K31.1,Hẹp môn vị do phì đại ở người lớn
+K31.8,Bệnh dạ dày và tá tràng đặc hiệu khác
+K31.9,"Bệnh dạ dày và tá tràng, không đặc hiệu"
+K32,Xuất Huyết Tiêu Hóa
+K32.0,Xuất Huyết Tiêu Hóa Cao
+K35,Viêm ruột thừa cấp
+K35.0,Viêm ruột thừa với viêm phúc mạc toàn bộ
+K35.1,Viêm ruột thừa cấp với áp xe phúc mạc
+K36,Viêm ruột thừa khác
+K37,Viêm ruột thừa không đặc hiệu
+K38,Bệnh khác của ruột thừa
+K38.0,Tăng sản ở ruột thừa
+K38.2,Túi thừa của ruột thừa
+K38.3,Dò ruột thừa
+K38.8,Bệnh ruột thừa đặc hiệu khác
+K40,Thóat vị bẹn
+K40.0,"Thóat vị bẹn hai bên, có tắc, không hoại tử"
+K40.1,"Thóat vị bẹn hai bên, có hoại tử"
+K40.2,"Thóat vị bẹn hai bên, không tắc hay hoại thư"
+K40.3,"Thóat vị bẹn một bên hay không đặc hiệu, có tắc, không hoại tử"
+K40.4,"Thóat vị bẹn một bên hay không đặc hiệu, có hoại tử"
+K40.5,Thoát Vị Bẹn Tái Phát Bên Phải
+K40.9,"Thóat vị bẹn một bên hay không đặc hiệu, không tắc hay hoại tử"
+K41,Thóat vị đùi
+K41.0,"Thóat vị đùi hai bên, có tắc, không hoại tử"
+K41.1,"Thóat vị đùi hai bên, có hoại tử"
+K41.3,"Thóat vị đùi một bên hay không đặc hiệu, có tắc, không hoại tử"
+K41.4,"Thóat vị đùi một bên hay không đặc hiệu, có hoại tử"
+K41.9,"Thóat vị đùi một bên hay không đặc hiệu, không tắc hay hoại tử"
+K42,Thóat vị rốn
+K42.0,"Thóat vị rốn có tắc, không hoại tử"
+K42.1,Thóat vị rốn có hoại tử
+K43,Thóat vị bụng
+K43.0,"Thóat vị qua đường mổ có tắc nghẽn, không hoại thư"
+K43.1,Thóat vị qua đường mổ có hoại thư
+K43.9,Thóat vị bụng khác và không đặc hiệu không tắc hay hoại thư
+K44,Thóat vị hoành
+K44.9,"Thóat vị hoành, không tắc hay hoại tử"
+K45,Thóat vị bụng khác
+K45.0,"Thóat vị bụng xác định khác có tắc, không hoại thư"
+K45.1,"Thóat vị bụng đặc hiệu khác, có hoại tử"
+K46,Thóat vị bụng không đặc hiệu
+K46.0,"Thóat vị bụng không đặc hiệu có tắc, không hoại tử"
+K46.1,"Thóat vị bụng không đặc hiệu, có hoại tử"
+K46.9,"Thóat vị bụng không đặc hiệu, không tắc hay hoại tử"
+K50,Bệnh Crohn (viêm ruột từng vùng)
+K50.1,Bênh Crohn của đại tràng
+K50.8,Bệnh Crohn khác
+K50.9,Bệnh Crohn không đặc hiệu
+K51.0,Viêm loét toàn ruột (mãn tính)
+K51.1,Viêm loét hồi - đại tràng(mãn)
+K51.2,Viêm loét trực tràng chảy máu (mạn)
+K51.4,Nhiều polyp viêm
+K51.5,Viêm loét đại tràng chảy máu nửa đại tràng trái 
+K00,Rối loạn phát triển răng và mọc răng
+K00.0,Không đủ răng
+K00.1,Răng thừa
+K00.2,Bất thường kích thước và hình dạng răng
+K00.3,Răng lốm đốm
+K00.4,Rối loạn tạo răng
+K00.6,Rối loạn mọc răng
+K00.7,Hội chứng mọc răng
+K00.8,Rối loạn khác về phát triển răng
+K00.9,"Rối loạn phát triển răng, không đặc hiệu"
+K01,Răng mọc kẹt và răng ngầm
+K01.0,Răng ngầm
+K02,Sâu răng
+K02.0,Sâu giới hạn ở men
+K02.2,Sâu chất xương
+K02.3,Sâu răng ngưng tiến triển
+K02.8,Sâu răng khác
+K02.9,"Sâu răng, không đặc hiệu"
+K03.0,Mòn răng quá mức
+K03.1,Mòn răng
+K03.2,Mòn răng
+K03.3,Tiêu răng bệnh lý
+K03.5,Cứng khớp răng
+K03.6,Cặn lắng [tăng tích tụ] trên răng
+K03.9,"Bệnh mô cứng của răng, không đặc hiệu"
+K04,Bệnh tủy và mô quanh chân răng
+K04.0,Viêm tủy
+K04.1,Hoại tử tủy
+K04.2,thoái hóa tủy
+K04.4,Viêm nha chu chân răng cấp có nguồn gốc tủy
+K04.5,Viêm nha chu chân răng mãn
+K04.6,áp xe quanh chân răng có ổ
+K04.8,Nang có cuống
+K04.9,Bệnh tủy và mô quanh chân răng khác và không xác định
+K05,Viêm nướu và bệnh nha chu
+K05.0,Viêm nướu cấp
+K05.2,Viêm nha chu cấp
+K05.3,Viêm nha chu mãn
+K05.4,thoái hóa nha chu
+K05.6,"Bệnh nha chu, không đặc hiệu"
+K06,Rối loạn khác của nướu và sóng hàm vùng mất răng
+K06.1,Lợi sưng
+K06.2,Chấn thương nướu răng và nang sống hàm liên quan đến chấn thương
+K06.8,Rối loạn đặc hiệu khác của nướu và sống hàm
+K07,Bất thường hàm mặt [bao gồm khớp cắn lệch]
+K07.0,Bất thường chủ yếu của kích thước xương hàm
+K07.1,Bất thường có liên quan nền sọ xương hàm
+K07.2,Bất thường liên quan đến cung răng
+K07.3,Vị trí răng bất thường
+K07.4,Khớp cắn lệch không xác định
+K07.5,Bất thường chức năng hàm mặt
+K07.8,Các bất thường hàm mặt khác
+K07.9,Bất thường hàm mặt không xác định
+K08,Bệnh khác của răng và cấu trúc nâng dỡ
+K08.0,Mẻ răng do nguyên nhân hệ thống
+K08.2,Teo ổ chân răng
+K08.3,Chân răng còn sót
+K08.8,Bệnh đặc hiệu khác của răng và cấu trúc nâng đỡ
+K08.9,"Bệnh của răng và cấu trúc nâng đỡ, không đặc hiệu"
+K09,"Nang vùng miệng, không phân loại nơi khác"
+K80.50,"Sỏi đường mật không có viêm đường mật hoặc viêm túi mật, không tắc mật"
+K80.51,Sỏi mật không có viêm đường mật hay viêm túi mật
+K81,Viêm túi mật
+K81.0,Viêm túi mật cấp
+K81.1,Viêm túi mật mạn
+K81.9,"Viêm túi mật, không đặc hiệu"
+K82,Bệnh khác của túi mật
+K82.0,Tắc túi mật
+K82.2,Thủng túi mật
+K82.3,Dò túi mật
+K82.8,Bệnh đặc hiệu khác của túi mật
+K82.9,"Bệnh của túi mật, không đặc hiệu"
+K83,Bệnh khác của đường mật
+K83.0,Viêm đường mật
+K83.2,Thủng đường mật
+K83.3,Rò đường mật
+K83.5,Nang đường mật
+K83.8,Bệnh đặc hiệu khác của đường mật
+K83.9,"Bệnh đường mật, không đặc hiệu"
+K86,Bệnh tụy khác
+K86.0,Viêm tụy mạn do rượu
+K86.2,Nang tụy
+K86.3,Nang giả tụy
+K86.8,Bệnh đặc hiệu khác của tụy
+K86.9,"Bệnh tụy, không đặc hiệu"
+K87*,"Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác"
+K87.0*,Rối loạn của túi mật và đường mật đã được phân loại ở nơi khác
+K87.1*,Rối loạn tụy trong phân loại nơi khác
+K90,Ruột kém hấp thu
+K90.1,Tiêu chảy nhiệt đới
+K90.2,"Hội chứng quai tới, không phân loại nơi khác"
+K90.4,"Kém hấp thụ do không dung nạp, không phân loại nơi khác"
+K90.8,Ruột kém hấp thu khác
+K90.9,"Ruột kém hấp thu, không đặc hiệu"
+K91.0,Nôn mửa sau phẫu thuật dạ dày - ruột
+K91.1,Hội chứng sau phẫu thuật dạ dày
+K91.2,"Kém hấp thu sau phẫu thuật, không phân loại nơi khác"
+K91.3,Tắc ruột sau mổ
+K91.4,Suy chức năng sau mổ thông đại tràng và mổ thông đường ruột
+K91.5,Hội chứng sau cắt túi mật
+K91.8,Rối loạn sau phẫu thuật khác của hệ tiêu hóa không phân loại nơi khác
+K91.9,"Rối loạn sau phẫu thuật của hệ tiêu hóa, không đặc hiệu"
+K92,Bệnh khác của hệ tiêu hóa
+K92.1,Đi ngoài phân đen
+K92.2,"Chảy máu tiêu hóa, không đặc hiệu"
+K92.8,Bệnh hệ tiêu hóa đặc hiệu khác
+K93*,Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác
+K51.8,Viêm loét đại tràng chảy máu phần khác
+K52,Viêm dạ dày - ruột và viêm đại tràng khác không nhiễm trùng khác
+K93.1*,Phình đại tràng trong bệnh Chagas (B57.3†)
+K52.0,Viêm dạ dày - ruột và đại tràng do tia xạ
+K52.8,Viêm dạ dày - ruột và đại tràng đặc hiệu khác không do nhiễm trùng
+K52.9,"Viêm dạ dày - ruột và đại tràng không nhiễm trùng, không đặc hiệu"
+K55,Rối loạn mạch máu của ruột
+K55.0,Rối loạn mạch máu ruột cấp tính
+K55.1,Rối loạn mạch máu ruột mạn
+K55.2,Loạn sản mạch máu đại tràng
+K55.8,Rối loạn mạch máu khác của ruột
+K55.9,"Rối loạn mạch máu ở ruột, không đặc hiệu"
+K56,Liệt ruột và tắc ruột không có thóat vị
+K56.0,Liệt ruột
+K56.2,Xoắn ruột
+K56.4,Nghẹt ruột khác
+K56.5,Dính ruột [thành dải] có tắc nghẽn
+K56.6,Tắc ruột khác và không xác định
+K57,Bệnh túi thừa của ruột
+K57.0,"Bệnh túi thừa của ruột non, có thủng và áp xe"
+K57.1,"Bệnh túi thừa của ruột non, không thủng hay áp xe"
+K57.3,"Bệnh túi thừa của đại tràng, không thủng hay áp xe"
+K57.4,"Bệnh túi thừa của ruột non và đại tràng, có thủng và áp xe"
+K57.5,"Bệnh túi thừa của cả ruột non và đại tràng, không thủng hay áp xe"
+K57.8,"Bệnh túi thừa của ruột, vị trí không xác định, có thủng và áp xe"
+K57.9,"Bệnh túi thừa của ruột, vị trí không xác định, không thủng hay áp xe"
+K58.0,"Hội chứng ruột kích thích, có tiêu chảy"
+K58.9,"Hội chứng ruột kích thích, không tiêu chảy"
+K59,Rối loạn chức năng khác của ruột
+K59.1,Tiêu chảy rối loạn chức năng
+K59.2,"Rối loạn ruột do nguyên nhân thần kinh, không phân loại nơi khác"
+K59.4,Co thắt hậu môn
+K59.8,Rối loạn chức năng đặc hiệu khác
+K31.3,"Co thắt môn vị, không phân loại nơi khác"
+K31.4,Túi thừa dạ dày
+K31.5,Tắc tá tràng
+K31.6,Dò dạ dày và tá tràng
+K09.0,Nang răng phát triển
+K09.2,Nang khác của xương hàm
+K09.8,"Nang khác ở vùng miệng, không phân loại nơi khác"
+K09.9,Nang vùng miệng không đặc hiệu
+K10,Bệnh khác của xương hàm
+K10.1,"U hạt tế bào khổng lồ, trung tâm"
+K10.2,Tình trạng viêm của xương hàm
+K10.3,Viêm ổ răng xương hàm
+K10.4,Áp Xe Hàm Mặt Do Viêm Ổ Răng
+K10.9,"Bệnh xương hàm, không đặc hiệu"
+K11,Bệnh tuyến nước bọt
+K11.0,Teo tuyến nước bọt
+K11.2,Viêm tuyến nước bọt
+K11.3,áp xe tuyến nước bọt
+K11.4,Lỗ dò tuyến nước bọt
+K11.6,Nang nhầy của tuyến nước bọt
+K11.7,Rối loạn tiết nước bọt
+K11.8,Bệnh khác của tuyến nước bọt
+K11.9,"Bệnh tuyến nước bọt, không đặc hiệu"
+K12.0,Loét miệng tái diễn
+K12.1,Dạng khác của viêm miệng
+K12.2,Viêm mô tế bào và áp xe của miệng
+K13,Bệnh khác của môi và niêm mạc miệng
+K13.1,Đau má và môi
+K13.2,"Mảng trắng và rối loạn khác của thượng bì miệng, bao gồm lưới"
+K13.4,U hạt và tổn thương dạng u hạt của niêm mạc miệng
+K13.5,Xơ hóa dưới niêm mạc miệng
+K13.6,Tăng sản do kích thích của niêm mạc miệng
+K14,Bệnh của lưỡi
+K14.0,Viêm lưỡi
+K03.7,Biến màu mô cứng sau gẫy răng
+K04.3,Tạo mô cứng bất thường trong tủy
+K41.2,"Thóat vị đùi hai bên, không tắc hay hoại tử"
+K42.9,"Thóat vị rốn, không tắc hay hoại tử"
+K44.0,"Thóat vị hoành có tắc, không hoại tử"
+K45.8,"Thóat vị bụng đặc hiệu khác, không tắc hay hoại tử"
+K51.3,Viêm loét đại tràng sigma - trực tràng chảy máu (mạn)
+K52.1,Viêm dạ dày - ruột và đại tràng do nhiễm độc
+K92.9,"Bệnh hệ tiêu hóa, không đặc hiệu"
+K59.9,"Rối loạn ruột chức năng, không đặc hiệu"
+K60,rò vùng hậu môn và trực tràng
+K60.0,Nứt kẽ hậu môn cấp
+K60.2,"Nứt ống hậu môn, không đặc hiệu"
+K60.3,Rò hậu môn
+K60.5,Rò hậu môn trực tràng
+K61,áp xe vùng hậu môn - trực tràng
+K61.0,áp xe hậu môn
+K61.2,áp xe hậu môn trực tràng
+K61.3,áp xe ụ ngồi - trực tràng
+K62,Bệnh khác của hậu môn và trực tràng
+K62.0,Polip hậu môn
+K62.1,Polip trực tràng
+K62.2,Sa hậu môn
+K62.4,Hẹp trực tràng và ống hậu môn
+K62.5,Xuất huyết hậu môn và trực tràng
+K62.7,Viêm trực tràng do tia xạ
+K62.8,Bệnh đặc hiệu khác của hậu môn và trực tràng
+K62.9,"Bệnh hậu môn và trực tràng, không đặc hiệu"
+K63.0,áp xe ruột
+K63.1,Thủng ruột (không có chấn thương)
+K63.2,Rò ruột
+K63.4,Sa ruột
+K63.8,Bệnh đặc hiệu khác của ruột
+K65,Viêm phúc mạc
+K65.0,Viêm phúc mạc cấp
+K65.8,Viêm phúc mạc khác
+K66,Rối loạn khác của phúc mạc
+K66.0,Dính phúc mạc
+K66.1,Cổ trướng máu
+K00.5,"Rối loạn di truyền cấu trúc răng, không phân loại nơi khác"
+K01.1,Răng mọc kẹt
+K02.1,Sâu ngà
+K02.4,Hủy răng
+K03,Bệnh mô cứng khác của răng
+K03.4,Tăng sinh chất răng
+K03.8,Bệnh xác định khác của mô cứng của răng
+K04.7,áp xe quanh chân răng không có ổ
+K05.1,Viêm nướu mãn
+K05.5,Bệnh nha chu
+K06.0,Tụt lợi răng
+K06.9,"Rối loạn ở nướu và sóng hàm, không đặc hiệu"
+K07.6,Rối loạn ở khớp thái dương
+K08.1,"Mất răng do tai nạn, do nhổ răng hay bệnh nha chu khu trú"
+K80.8,Sỏi mật khác
+K81.8,Viêm túi mật thể khác
+K82.1,Tràn dịch túi mật
+K82.4,Tích tụ Cholesterol ở túi mật
+K83.1,Tắc ống mật
+K83.4,Co thắt cơ vòng Oddi
+K85,Viêm tụy cấp
+K86.1,Viêm tụy mạn thể khác
+K90.0,Bệnh Coeliac
+K90.3,Tiêu chảy phân mỡ do tụy
+K91,Rối loạn tiêu hóa sau phẫu thuật không phân loại nơi khác
+K92.0,Nôn ra máu
+K93.0*,"Bệnh lao ở ruột, phúc mạc và tuyến mạc treo (A18.3†)"
+K09.1,Nang (không do răng) của vùng miệng
+K10.0,Rối loạn phát triển của xương hàm
+K10.8,Bệnh xác định khác của xương hàm
+K11.1,Phì đại tuyến nước bọt
+K11.5,Bệnh sỏi tuyến nước bọt
+K12,Viêm miệng và tổn thương liên quan
+K13.0,Bệnh của môi
+K13.3,Bạch sản dạng tóc
+K13.7,Tổn thương khác và không xác định của niêm mạc miệng
+K14.5,Lưỡi bị gấp nếp
+K14.9,"Bệnh lưỡi, không đặc hiệu"
+K21.9,Bệnh trào ngược dạ dày - thực quản không có viêm thực quản
+K22.5,"Túi thừa thực quản, mắc phải"
+K23.0*,Viêm thực quản do laoA18.8
+K29,Viêm dạ dày và tá tràng
+K29.3,Viêm nông niêm mạc dạ dày mãn tính
+K29.9,"Viêm dạ dày tá tràng, không đặc hiệu"
+K67.1*,Viêm phúc mạc do lậu cầu (A54.8†)
+K70.1,Viêm gan do rượu
+K70.9,"Bệnh gan do rượu, không đặc hiệu"
+K71.3,Bệnh gan nhiễm độc có viêm gan mạn dai dẳng
+K71.8,Bệnh gan nhiễm độc có rối loạn khác của gan
+K72.1,Suy gan mãn
+K72.9,"Suy gan, không đặc hiệu"
+K73.2,"Viêm gan mãn hoạt động, không phân loại nơi khác"
+K74.2,Gan xơ hóa với gan xơ cứng
+K75,Bệnh viêm gan khác
+K75.2,"Viêm gan tái hoạt động, không đặc hiệu"
+K76.2,Hoại tử xuất huyết trung tâm tiểu thùy gan
+K76.7,Hội chứng gan - thận
+K76.9,"Bệnh gan, không đặc hiệu"
+K80.0,Sỏi túi mật có viêm túi mật cấp
+K31.2,Hẹp dạ dày và chít hẹp dạng đồng hồ cát
+K32.1,Xuất Huyết Tiêu Hóa Thấp
+K35.9,Viêm ruột thừa cấp - không đặc hiệu
+K38.1,Sỏi ở ruột thừa
+K38.9,"Bệnh ruột thừa, không đặc hiệu"
+K40.6,Thoát Vị Bẹn Tái Phát Bên Trái
+K44.1,Thóat vị hoành có hoại tử
+K50.0,Bệnh Crohn của ruột non
+K51,Viêm loét đại tràng chảy máu
+K51.9,"Viêm loét đại tràng chảy máu, không đặc hiệu"
+K80.4,Sỏi đường mật có viêm túi mật
+K26.9,"Loét tá tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K27.0,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp có xuất huyết)"
+K27.1,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp có thủng)"
+K27.2,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp, cả xuất huyết và thủng)"
+K27.3,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp không có xuất huyết hay thủng)"
+K27.4,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có xuất huyết)"
+K27.5,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có thủng)"
+K27.6,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có xuất huyết hay thủng)"
+K27.7,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn không có xuất huyết hay thủng)"
+K27.9,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K28.0,Loét dạ dày - hỗng tràng (Cấp có xuất huyết)
+K28.1,Loét dạ dày - hỗng tràng (Cấp có thủng)
+K28.2,"Loét dạ dày - hỗng tràng (Cấp, cả xuất huyết và thủng)"
+K28.3,Loét dạ dày - hỗng tràng (Cấp không có xuất huyết hay thủng)
+K28.4,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết)
+K28.5,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có thủng)
+K28.6,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K28.7,Loét dạ dày - hỗng tràng (Mạn không có xuất huyết hay thủng)
+K28.9,"Loét dạ dày - hỗng tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K31.7,Polyp dạ dày và tá tràng
+K35.2,Viêm ruột thừa cấp tính kèm viêm phúc mạc toàn bộ
+K35.3,Viêm ruột thừa cấp tính kèm viêm phúc mạc khu trú
+K43.2,Thóat vị qua đường mổ không tắc hoặc hoại thư
+K43.3,"Thóat vị cạnh miệng nối có tắc, không hoại thư"
+K43.4,Thóat vị cạnh miệng nối có hoại thư
+K43.5,Thóat vị cạnh miệng nối không tắc hay hoại thư
+K43.6,"Thóat vị bụng khác và không xác định có tắc nghẽn, không hoại thư"
+K43.7,Thóat vị bụng khác và không xác định có hoại thư
+K52.3,Viêm đại tràng không xác định
+K63.5,Polyp đại tràng
+K64.0,Trĩ độ I
+K64.1,Trĩ độ II
+K64.2,Trĩ độ III
+K64.4,Dãn da do trĩ sót lại
+K64.8,Trĩ xác định khác
+K64.9,"Trĩ, không đặc hiệu"
+K75.4,Viêm gan tự miễn
+K85.1,Viêm tụy cấp tính do mật
+K85.2,Viêm tụy cấp tính do rượu
+K52.2,Viêm dạ dày - ruột và đại tràng do dị ứng và thức ăn
+K56.1,Lồng ruột
+K56.3,Liệt ruột do sỏi
+K56.7,"Liệt ruột, không đặc hiệu"
+K57.2,"Bệnh túi thừa của đại tràng, có thủng và áp xe"
+K58,Hội chứng ruột kích thích
+K59.0,Táo bón
+K59.3,"Phình đại tràng, không phần loại nơi khác"
+K60.1,Nứt kẽ hậu môn mạn
+K60.4,Rò trực tràng
+K61.1,áp xe trực tràng
+K61.4,Áp xe trong cơ thắt hậu môn
+K62.3,Sa trực tràng
+K62.6,Loét hậu môn và trực tràng
+K63,Bệnh khác của ruột
+K63.3,Loét ruột
+K63.9,"Bệnh ruột, không đặc hiệu"
+K65.9,"Viêm phúc mạc, không đặc hiệu"
+K66.8,Rối loạn đặc hiệu khác của phúc mạc
+K85.8,Viêm tụy cấp tính khác
+K85.9,"Viêm tụy cấp tính, không đặc hiệu"
+K12.3,Viêm miệng (loét)
+K25.1,Loét dạ dày (Cấp có thủng)
+K25.4,Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết)
+K26.0,Loét tá tràng (Cấp có xuất huyết)
+K26.4,Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết)
+K35.8,"Viêm ruột thừa cấp tính, khác và không đặc hiệu"
+K64,Trĩ và huyết khối tĩnh mạch qua hậu môn
+K64.3,Trĩ độ IV
+K64.5,Huyết khối tĩnh mạch quanh hậu môn
+K85.0,Viêm tụy cấp tính tự phát
+K85.3,Viêm tụy cấp tính do thuốc
+K02.5,Sâu răng với hở tủy
+K22.7,Thực quản Barrett
+K25.0,Loét dạ dày (Cấp có xuất huyết)
+K25.2,"Loét dạ dày (Cấp, cả xuất huyết và thủng)"
+K25.3,Loét dạ dày (Cấp không có xuất huyết hay thủng)
+K25.5,Loét dạ dày (Mạn hay không đặc hiệu có thủng)
+K25.6,Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K25.7,Loét dạ dày (Mạn không có xuất huyết hay thủng)
+K25.9,"Loét dạ dày (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K26.1,Loét tá tràng (Cấp có thủng)
+K26.2,"Loét tá tràng (Cấp, cả xuất huyết và thủng)"
+K26.3,Loét tá tràng (Cấp không có xuất huyết hay thủng)
+K26.5,Loét tá tràng (Mạn hay không đặc hiệu có thủng)
+K26.6,Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K26.7,Loét tá tràng (Mạn không có xuất huyết hay thủng)
+K93.8*,Rối loạn cơ quan tiêu hóa đặc hiệu khác đã được phân loại ở nơi khác
+K70.4,Suy gan do rượu
+K70.9,"Bệnh gan do rượu, không đặc hiệu"
+K71,Bệnh gan do độc chất
+K71.0,"Bệnh gan nhiễm độc, có ứ mật"
+K71.1,Bệnh gan nhiễm độc có hoại tử gan
+K71.2,Bệnh gan nhiễm độc có viêm gan cấp
+K71.3,Bệnh gan nhiễm độc có viêm gan mạn dai dẳng
+K71.4,Bệnh gan nhiễm độc có viêm tiểu thùy gan mạn
+K71.5,Bệnh gan nhiễm độc có viêm gan mạn hoạt động
+K71.6,"Bệnh gan nhiễm độc có viêm gan, không phân loại nơi khác"
+K71.7,Bệnh gan nhiễm độc có xơ hóa và xơ gan
+K71.8,Bệnh gan nhiễm độc có rối loạn khác của gan
+K71.9,"Bệnh gan nhiễm độc, không đặc hiệu"
+K72,"Suy gan, không phân loại nơi khác"
+K72.0,Suy gan cấp và bán cấp
+K72.1,Suy gan mãn
+K72.9,"Suy gan, không đặc hiệu"
+K73,"Viêm gan mãn, không phân loại nơi khác"
+K51,Viêm loét đại tràng chảy máu
+K51.0,Viêm loét toàn ruột (mãn tính)
+K51.1,Viêm loét hồi - đại tràng(mãn)
+K51.2,Viêm loét trực tràng chảy máu (mạn)
+K51.3,Viêm loét đại tràng sigma - trực tràng chảy máu (mạn)
+K51.4,Nhiều polyp viêm
+K51.5,Viêm loét đại tràng chảy máu nửa đại tràng trái 
+K51.8,Viêm loét đại tràng chảy máu phần khác
+K51.9,"Viêm loét đại tràng chảy máu, không đặc hiệu"
+K81,Viêm túi mật
+K81.0,Viêm túi mật cấp
+K81.1,Viêm túi mật mạn
+K81.8,Viêm túi mật thể khác
+K81.9,"Viêm túi mật, không đặc hiệu"
+K85.2,Viêm tụy cấp tính do rượu
+K85.3,Viêm tụy cấp tính do thuốc
+K85.8,Viêm tụy cấp tính khác
+K85.9,"Viêm tụy cấp tính, không đặc hiệu"
+K86,Bệnh tụy khác
+K86.0,Viêm tụy mạn do rượu
+K86.1,Viêm tụy mạn thể khác
+K86.2,Nang tụy
+K86.3,Nang giả tụy
+K86.8,Bệnh đặc hiệu khác của tụy
+K86.9,"Bệnh tụy, không đặc hiệu"
+K87,"Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác"
+K87*,"Rối loạn của túi mật, đường mật và tụy đã được phân loại nơi khác"
+K87.0*,Rối loạn của túi mật và đường mật đã được phân loại ở nơi khác
+K87.1*,Rối loạn tụy trong phân loại nơi khác
+K90,Ruột kém hấp thu
+K90.0,Bệnh Coeliac
+K90.1,Tiêu chảy nhiệt đới
+K90.2,"Hội chứng quai tới, không phân loại nơi khác"
+K90.3,Tiêu chảy phân mỡ do tụy
+K90.4,"Kém hấp thụ do không dung nạp, không phân loại nơi khác"
+K90.8,Ruột kém hấp thu khác
+K90.9,"Ruột kém hấp thu, không đặc hiệu"
+K91,Rối loạn tiêu hóa sau phẫu thuật không phân loại nơi khác
+K91.0,Nôn mửa sau phẫu thuật dạ dày - ruột
+K91.1,Hội chứng sau phẫu thuật dạ dày
+K91.2,"Kém hấp thu sau phẫu thuật, không phân loại nơi khác"
+K91.3,Tắc ruột sau mổ
+K91.4,Suy chức năng sau mổ thông đại tràng và mổ thông đường ruột
+K91.5,Hội chứng sau cắt túi mật
+K91.8,Rối loạn sau phẫu thuật khác của hệ tiêu hóa không phân loại nơi khác
+K26.6,Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K26.7,Loét tá tràng (Mạn không có xuất huyết hay thủng)
+K00,Rối loạn phát triển răng và mọc răng
+K00.0,Không đủ răng
+K00.1,Răng thừa
+K00.2,Bất thường kích thước và hình dạng răng
+K00.3,Răng lốm đốm
+K00.4,Rối loạn tạo răng
+K00.5,"Rối loạn di truyền cấu trúc răng, không phân loại nơi khác"
+K00.6,Rối loạn mọc răng
+K00.7,Hội chứng mọc răng
+K00.8,Rối loạn khác về phát triển răng
+K00.9,"Rối loạn phát triển răng, không đặc hiệu"
+K01,Răng mọc kẹt và răng ngầm
+K01.0,Răng ngầm
+K01.1,Răng mọc kẹt
+K02,Sâu răng
+K02.0,Sâu giới hạn ở men
+K02.1,Sâu ngà
+K02.2,Sâu chất xương
+K02.3,Sâu răng ngưng tiến triển
+K02.4,Hủy răng
+K02.5,Sâu răng với hở tủy
+K02.8,Sâu răng khác
+K02.9,"Sâu răng, không đặc hiệu"
+K03,Bệnh mô cứng khác của răng
+K03.0,Mòn răng quá mức
+K03.1,Mòn răng
+K03.2,Mòn răng
+K03.3,Tiêu răng bệnh lý
+K03.4,Tăng sinh chất răng
+K03.5,Cứng khớp răng
+K03.6,Cặn lắng [tăng tích tụ] trên răng
+K03.7,Biến màu mô cứng sau gẫy răng
+K26.9,"Loét tá tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K27,"Loét dạ dày-tá tràng, vị trí không đặc hiệu"
+K27.0,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp có xuất huyết)"
+K27.1,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp có thủng)"
+K27.2,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp, cả xuất huyết và thủng)"
+K27.3,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Cấp không có xuất huyết hay thủng)"
+K27.4,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có xuất huyết)"
+K27.5,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có thủng)"
+K27.6,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn hay không đặc hiệu có xuất huyết hay thủng)"
+K27.7,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Mạn không có xuất huyết hay thủng)"
+K27.9,"Loét dạ dày - tá tràng, vị trí không đặc hiệu (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K28,Loét dạ dày-hỗng tràng
+K28.0,Loét dạ dày - hỗng tràng (Cấp có xuất huyết)
+K28.1,Loét dạ dày - hỗng tràng (Cấp có thủng)
+K28.2,"Loét dạ dày - hỗng tràng (Cấp, cả xuất huyết và thủng)"
+K28.3,Loét dạ dày - hỗng tràng (Cấp không có xuất huyết hay thủng)
+K28.4,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết)
+K28.5,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có thủng)
+K28.6,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K28.7,Loét dạ dày - hỗng tràng (Mạn không có xuất huyết hay thủng)
+K28.9,"Loét dạ dày - hỗng tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K29,Viêm dạ dày và tá tràng
+K29.0,Viêm dạ dày xuất huyết cấp tính
+K29.1,Viêm dạ dày cấp khác
+K29.2,Viêm dạ dày do rượu
+K29.3,Viêm nông niêm mạc dạ dày mãn tính
+K29.4,Viêm teo niêm mạc dạ dày mãn tính
+K29.5,"Viêm dạ dày mạn, không đặc hiệu"
+K29.6,Viêm dạ dày khác
+K29.7,"Viêm dạ dày, không đặc hiệu"
+K29.8,Viêm tá tràng
+K29.9,"Viêm dạ dày tá tràng, không đặc hiệu"
+K30,Khó tiêu chức năng
+K31,Bệnh khác của dạ dày và tá tràng
+K31.0,Dãn dạ dày cấp
+K31.1,Hẹp môn vị do phì đại ở người lớn
+K31.2,Hẹp dạ dày và chít hẹp dạng đồng hồ cát
+K31.3,"Co thắt môn vị, không phân loại nơi khác"
+K31.4,Túi thừa dạ dày
+K31.5,Tắc tá tràng
+K31.6,Dò dạ dày và tá tràng
+K31.7,Polyp dạ dày và tá tràng
+K31.8,Bệnh dạ dày và tá tràng đặc hiệu khác
+K31.9,"Bệnh dạ dày và tá tràng, không đặc hiệu"
+K35,Viêm ruột thừa cấp
+K35.0,Viêm ruột thừa với viêm phúc mạc toàn bộ
+K35.1,Viêm ruột thừa cấp với áp xe phúc mạc
+K35.2,Viêm ruột thừa cấp tính kèm viêm phúc mạc toàn bộ
+K91.9,"Rối loạn sau phẫu thuật của hệ tiêu hóa, không đặc hiệu"
+K92,Bệnh khác của hệ tiêu hóa
+K92.0,Nôn ra máu
+K92.1,Đi ngoài phân đen
+K92.2,"Chảy máu tiêu hóa, không đặc hiệu"
+K92.8,Bệnh hệ tiêu hóa đặc hiệu khác
+K92.9,"Bệnh hệ tiêu hóa, không đặc hiệu"
+K93,Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác
+K93*,Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác
+K93.0*,"Bệnh lao ở ruột, phúc mạc và tuyến mạc treo (A18.3†)"
+K93.1*,Phình đại tràng trong bệnh Chagas (B57.3†)
+K93.8*,Rối loạn cơ quan tiêu hóa đặc hiệu khác đã được phân loại ở nơi khác
+K03.8,Bệnh xác định khác của mô cứng của răng
+K03.9,"Bệnh mô cứng của răng, không đặc hiệu"
+K04,Bệnh tủy và mô quanh chân răng
+K04.0,Viêm tủy
+K04.1,Hoại tử tủy
+K04.2,thoái hóa tủy
+K04.3,Tạo mô cứng bất thường trong tủy
+K04.4,Viêm nha chu chân răng cấp có nguồn gốc tủy
+K04.5,Viêm nha chu chân răng mãn
+K04.6,áp xe quanh chân răng có ổ
+K04.7,áp xe quanh chân răng không có ổ
+K04.8,Nang có cuống
+K04.9,Bệnh tủy và mô quanh chân răng khác và không xác định
+K05,Viêm nướu và bệnh nha chu
+K05.0,Viêm nướu cấp
+K05.1,Viêm nướu mãn
+K05.2,Viêm nha chu cấp
+K05.3,Viêm nha chu mãn
+K05.4,thoái hóa nha chu
+K05.5,Bệnh nha chu
+K05.6,"Bệnh nha chu, không đặc hiệu"
+K06,Rối loạn khác của nướu và sóng hàm vùng mất răng
+K06.0,Tụt lợi răng
+K06.1,Lợi sưng
+K06.2,Chấn thương nướu răng và nang sống hàm liên quan đến chấn thương
+K06.8,Rối loạn đặc hiệu khác của nướu và sống hàm
+K06.9,"Rối loạn ở nướu và sóng hàm, không đặc hiệu"
+K07,Bất thường hàm mặt [bao gồm khớp cắn lệch]
+K07.0,Bất thường chủ yếu của kích thước xương hàm
+K07.1,Bất thường có liên quan nền sọ xương hàm
+K07.2,Bất thường liên quan đến cung răng
+K07.3,Vị trí răng bất thường
+K07.4,Khớp cắn lệch không xác định
+K07.5,Bất thường chức năng hàm mặt
+K07.6,Rối loạn ở khớp thái dương
+K07.8,Các bất thường hàm mặt khác
+K07.9,Bất thường hàm mặt không xác định
+K08,Bệnh khác của răng và cấu trúc nâng dỡ
+K08.0,Mẻ răng do nguyên nhân hệ thống
+K08.1,"Mất răng do tai nạn, do nhổ răng hay bệnh nha chu khu trú"
+K08.2,Teo ổ chân răng
+K08.3,Chân răng còn sót
+K08.8,Bệnh đặc hiệu khác của răng và cấu trúc nâng đỡ
+K08.9,"Bệnh của răng và cấu trúc nâng đỡ, không đặc hiệu"
+K09,"Nang vùng miệng, không phân loại nơi khác"
+K09.0,Nang răng phát triển
+K09.1,Nang (không do răng) của vùng miệng
+K09.2,Nang khác của xương hàm
+K09.8,"Nang khác ở vùng miệng, không phân loại nơi khác"
+K09.9,Nang vùng miệng không đặc hiệu
+K10,Bệnh khác của xương hàm
+K10.0,Rối loạn phát triển của xương hàm
+K10.1,"U hạt tế bào khổng lồ, trung tâm"
+K10.2,Tình trạng viêm của xương hàm
+K10.3,Viêm ổ răng xương hàm
+K10.8,Bệnh xác định khác của xương hàm
+K10.9,"Bệnh xương hàm, không đặc hiệu"
+K11,Bệnh tuyến nước bọt
+K11.0,Teo tuyến nước bọt
+K11.1,Phì đại tuyến nước bọt
+K11.2,Viêm tuyến nước bọt
+K11.3,áp xe tuyến nước bọt
+K11.4,Lỗ dò tuyến nước bọt
+K11.5,Bệnh sỏi tuyến nước bọt
+K11.6,Nang nhầy của tuyến nước bọt
+K11.7,Rối loạn tiết nước bọt
+K11.8,Bệnh khác của tuyến nước bọt
+K35.3,Viêm ruột thừa cấp tính kèm viêm phúc mạc khu trú
+K35.8,"Viêm ruột thừa cấp tính, khác và không đặc hiệu"
+K35.9,Viêm ruột thừa cấp - không đặc hiệu
+K36,Viêm ruột thừa khác
+K37,Viêm ruột thừa không đặc hiệu
+K38,Bệnh khác của ruột thừa
+K38.0,Tăng sản ở ruột thừa
+K38.1,Sỏi ở ruột thừa
+K38.2,Túi thừa của ruột thừa
+K38.3,Dò ruột thừa
+K38.8,Bệnh ruột thừa đặc hiệu khác
+K38.9,"Bệnh ruột thừa, không đặc hiệu"
+K40,Thoát vị bẹn
+K40.0,"Thoát vị bẹn hai bên, có tắc, không hoại tử"
+K40.1,"Thoát vị bẹn hai bên, có hoại tử"
+K40.2,"Thoát vị bẹn hai bên, không tắc hay hoại thư"
+K40.3,"Thoát vị bẹn một bên hay không xác định, có tắc, không hoại tử"
+K40.4,"Thoát vị bẹn một bên hay không đặc hiệu, có hoại tử"
+K40.9,"Thoát vị bẹn một bên hay không đặc hiệu, không tắc hay hoại tử"
+K41,Thoát vị đùi
+K41.0,"Thoát vị đùi hai bên, có tắc, không hoại tử"
+K41.1,"Thoát vị đùi hai bên, có hoại tử"
+K41.2,"Thoát vị đùi hai bên, không tắc hay hoại tử"
+K41.3,"Thoát vị đùi một bên hay không đặc hiệu, có tắc, không hoại tử"
+K41.4,"Thoát vị đùi một bên hay không đặc hiệu, có hoại tử"
+K41.9,"Thoát vị đùi một bên hay không đặc hiệu, không tắc hay hoại tử"
+K42,Thoát vị rốn
+K42.0,"Thoát vị rốn có tắc, không hoại tử"
+K42.1,Thoát vị rốn có hoại tử
+K42.9,"Thoát vị rốn, không tắc hay hoại tử"
+K43,Thoát vị bụng
+K43.0,"Thoát vị qua đường mổ có tắc nghẽn, không hoại thư"
+K43.1,Thoát vị qua đường mổ có hoại thư
+K43.2,Thoát vị qua đường mổ không tắc hoặc hoại thư
+K43.3,"Thoát vị cạnh miệng nối có tắc, không hoại thư"
+K43.4,Thoát vị cạnh miệng nối có hoại thư
+K43.5,Thoát vị cạnh miệng nối không tắc hay hoại thư
+K43.6,"Thoát vị bụng khác và không xác định có tắc nghẽn, không hoại thư"
+K43.7,Thoát vị bụng khác và không xác định có hoại thư
+K43.9,Thoát vị bụng khác và không đặc hiệu không tắc hay hoại thư
+K44,Thoát vị hoành
+K44.0,"Thoát vị hoành có tắc, không hoại tử"
+K44.1,Thoát vị hoành có hoại tử
+K44.9,"Thoát vị hoành, không tắc hay hoại tử"
+K45,Thoát vị bụng khác
+K45.0,"Thoát vị bụng xác định khác có tắc, không hoại thư"
+K45.1,"Thoát vị bụng đặc hiệu khác, có hoại tử"
+K45.8,"Thoát vị bụng đặc hiệu khác, không tắc hay hoại tử"
+K46,Thoát vị bụng không đặc hiệu
+K46.0,"Thoát vị bụng không đặc hiệu có tắc, không hoại tử"
+K46.1,"Thoát vị bụng không đặc hiệu, có hoại tử"
+K46.9,"Thoát vị bụng không đặc hiệu, không tắc hay hoại tử"
+K50,Bệnh Crohn (viêm ruột từng vùng)
+K50.0,Bệnh Crohn của ruột non
+K50.1,Bênh Crohn của đại tràng
+K50.8,Bệnh Crohn khác
+K50.9,Bệnh Crohn không đặc hiệu
+K51,Viêm loét đại tràng chảy máu
+K51.0,Viêm loét toàn ruột (mãn tính)
+K51.1,Viêm loét hồi - đại tràng(mãn)
+K51.2,Viêm loét trực tràng chảy máu (mạn)
+K51.3,Viêm loét đại tràng sigma - trực tràng chảy máu (mạn)
+K51.4,Nhiều polyp viêm
+K51.5,Viêm loét đại tràng chảy máu nửa đại tràng trái 
+K51.8,Viêm loét đại tràng chảy máu phần khác
+K51.9,"Viêm loét đại tràng chảy máu, không đặc hiệu"
+K52,Viêm dạ dày-ruột và viêm đại tràng khác không nhiễm trùng khác
+K52.0,Viêm dạ dày - ruột và đại tràng do tia xạ
+K52.1,Viêm dạ dày - ruột và đại tràng do nhiễm độc
+K52.2,Viêm dạ dày - ruột và đại tràng do dị ứng và thức ăn
+K52.3,Viêm đại tràng không xác định
+K52.8,Viêm dạ dày - ruột và đại tràng đặc hiệu khác không do nhiễm trùng
+K52.9,"Viêm dạ dày - ruột và đại tràng không nhiễm trùng, không đặc hiệu"
+K55,Rối loạn mạch máu của ruột
+K55.0,Rối loạn mạch máu ruột cấp tính
+K55.1,Rối loạn mạch máu ruột mạn
+K55.2,Loạn sản mạch máu đại tràng
+K55.8,Rối loạn mạch máu khác của ruột
+K55.9,"Rối loạn mạch máu ở ruột, không đặc hiệu"
+K56,Liệt ruột và tắc ruột không có thoát vị
+K56.0,Liệt ruột
+K56.1,Lồng ruột
+K56.2,Xoắn ruột
+K56.3,Liệt ruột do sỏi
+K56.4,Nghẹt ruột khác
+K56.5,Dính ruột [thành dải] có tắc nghẽn
+K56.6,Tắc ruột khác và không xác định
+K56.7,"Liệt ruột, không đặc hiệu"
+K57,Bệnh túi thừa của ruột
+K57.0,"Bệnh túi thừa của ruột non, có thủng và áp xe"
+K57.1,"Bệnh túi thừa của ruột non, không thủng hay áp xe"
+K57.2,"Bệnh túi thừa của đại tràng, có thủng và áp xe"
+K57.3,"Bệnh túi thừa của đại tràng, không thủng hay áp xe"
+K57.4,"Bệnh túi thừa của ruột non và đại tràng, có thủng và áp xe"
+K57.5,"Bệnh túi thừa của cả ruột non và đại tràng, không thủng hay áp xe"
+K57.8,"Bệnh túi thừa của ruột, vị trí không xác định, có thủng và áp xe"
+K57.9,"Bệnh túi thừa của ruột, vị trí không xác định, không thủng hay áp xe"
+K58,Hội chứng ruột kích thích
+K58.0,"Hội chứng ruột kích thích, có tiêu chảy"
+K58.9,"Hội chứng ruột kích thích, không tiêu chảy"
+K59,Rối loạn chức năng khác của ruột
+K59.0,Táo bón
+K59.1,Tiêu chảy rối loạn chức năng
+K59.2,"Rối loạn ruột do nguyên nhân thần kinh, không phân loại nơi khác"
+K59.3,"Phình đại tràng, không phần loại nơi khác"
+K59.4,Co thắt hậu môn
+K59.8,Rối loạn chức năng đặc hiệu khác
+K59.9,"Rối loạn ruột chức năng, không đặc hiệu"
+K60,rò vùng hậu môn và trực tràng
+K60.0,Nứt kẽ hậu môn cấp
+K60.1,Nứt kẽ hậu môn mạn
+K60.2,"Nứt ống hậu môn, không đặc hiệu"
+K60.3,Rò hậu môn
+K60.4,Rò trực tràng
+K60.5,Rò hậu môn trực tràng
+K61,áp xe vùng hậu môn - trực tràng
+K61.0,áp xe hậu môn
+K61.1,áp xe trực tràng
+K61.2,áp xe hậu môn trực tràng
+K61.3,áp xe ụ ngồi - trực tràng
+K73.0,"Viêm gan mãn trường diễn, không phân loại nơi khác"
+K73.1,"Viêm tiểu thuỳ gan mạn, không phân loại nơi khác"
+K73.2,"Viêm gan mãn hoạt động, không phân loại nơi khác"
+K73.8,"Viêm gan mãn khác, không phân loại nơi khác"
+K73.9,"Viêm gan mạn, không đặc hiệu"
+K74,Gan xơ hóa và xơ gan
+K74.0,Gan xơ hóa
+K74.1,Gan xơ cứng
+K74.2,Gan xơ hóa với gan xơ cứng
+K74.3,Xơ gan mật tiên phát
+K74.4,Xơ gan mật thứ phát
+K74.5,Xơ gan mật không đặc hiệu
+K74.6,Xơ gan khác và không đặc hiệu
+K75,Bệnh viêm gan khác
+K75.0,áp xe ở gan
+K75.1,Viêm tĩnh mạch của tĩnh mạch cửa
+K75.2,"Viêm gan tái hoạt động, không đặc hiệu"
+K75.3,"Viêm gan dạng u hạt, không phân loại nơi khác"
+K75.4,Viêm gan tự miễn
+K75.8,Bệnh viêm gan đặc hiệu khác
+K75.9,"Bệnh viêm gan, không đặc hiệu"
+K76,Bệnh gan khác
+K76.0,"Gan (biến đổi) nhiễm mỡ, không phân loại nơi khác"
+K76.1,Xung huyết thụ động mãn tính ở gan
+K76.2,Hoại tử xuất huyết trung tâm tiểu thùy gan
+K76.3,Nhồi máu gan
+K76.4,Bệnh ứ máu xoang gan
+K76.5,Bệnh tắc tĩnh mạch trên gan
+K76.6,Tăng áp lực tĩnh mạch cửa
+K76.7,Hội chứng gan - thận
+K76.8,Bệnh gan đặc hiệu khác
+K76.9,"Bệnh gan, không đặc hiệu"
+K77,Rối loạn chức năng gan trong bệnh phân loại nơi khác
+K77*,Rối loạn chức năng gan trong bệnh phân loại nơi khác
+K77.0*,Rối loạn chức năng gan trong bệnh nhiễm trùng và nhiễm ký sinh trùng được phân loại nơi khác
+K77.8*,"Rối loạn chức năng gan trong bệnh khác, phân loại nơi khác"
+K80,Sỏi mật
+K80.0,Sỏi túi mật có viêm túi mật cấp
+K80.1,Sỏi túi mật có viêm túi mật khác
+K80.2,Sỏi túi mật không có viêm túi mật
+K80.3,Sỏi ống mật có viêm đường mật
+K80.4,Sỏi đường mật có viêm túi mật
+K80.5,Sỏi mật không viêm đường mật hay viêm túi mật
+K80.8,Sỏi mật khác
+K81,Viêm túi mật
+K81.0,Viêm túi mật cấp
+K81.1,Viêm túi mật mạn
+K81.8,Viêm túi mật thể khác
+K81.9,"Viêm túi mật, không đặc hiệu"
+K82,Bệnh khác của túi mật
+K82.0,Tắc túi mật
+K82.1,Tràn dịch túi mật
+K82.2,Thủng túi mật
+K82.3,Dò túi mật
+K82.4,Tích tụ Cholesterol ở túi mật
+K82.8,Bệnh đặc hiệu khác của túi mật
+K82.9,"Bệnh của túi mật, không đặc hiệu"
+K83,Bệnh khác của đường mật
+K83.0,Viêm đường mật
+K83.1,Tắc ống mật
+K83.2,Thủng đường mật
+K83.3,Rò đường mật
+K83.4,Co thắt cơ vòng Oddi
+K83.5,Nang đường mật
+K83.8,Bệnh đặc hiệu khác của đường mật
+K83.9,"Bệnh đường mật, không đặc hiệu"
+K85,Viêm tụy cấp
+K85.0,Viêm tụy cấp tính tự phát
+K85.1,Viêm tụy cấp tính do mật
+K11.9,"Bệnh tuyến nước bọt, không đặc hiệu"
+K12,Viêm miệng và tổn thương liên quan
+K12.0,Loét miệng tái diễn
+K12.1,Dạng khác của viêm miệng
+K12.2,Viêm mô tế bào và áp xe của miệng
+K12.3,Viêm miệng (loét)
+K13,Bệnh khác của môi và niêm mạc miệng
+K13.0,Bệnh của môi
+K13.1,Đau má và môi
+K13.2,"Mảng trắng và rối loạn khác của thượng bì miệng, bao gồm lưới"
+K13.3,Bạch sản dạng tóc
+K13.4,U hạt và tổn thương dạng u hạt của niêm mạc miệng
+K13.5,Xơ hóa dưới niêm mạc miệng
+K13.6,Tăng sản do kích thích của niêm mạc miệng
+K13.7,Tổn thương khác và không xác định của niêm mạc miệng
+K14,Bệnh của lưỡi
+K14.0,Viêm lưỡi
+K14.1,Lưỡi bản đồ
+K14.2,Viêm lưỡi dạng thoi
+K14.3,Phì đại gai lưỡi
+K14.4,Teo gai lưỡi
+K14.5,Lưỡi bị gấp nếp
+K14.6,Đau lưỡi
+K14.8,Bệnh khác của lưỡi
+K14.9,"Bệnh lưỡi, không đặc hiệu"
+K20,Viêm thực quản
+K21,Bệnh trào ngược dạ dày - thực quản
+K21.0,Bệnh trào ngược dạ dày - thực quản với viêm thực quản
+K21.9,Bệnh trào ngược dạ dày - thực quản không có viêm thực quản
+K22,Bệnh khác của thực quản
+K22.0,Mất khả năng giãn của tâm vị
+K22.1,Loét thực quản
+K22.2,Tắc nghẽn thực quản
+K22.3,Thủng thực quản
+K22.4,Rối loạn vận động thực quản
+K22.5,"Túi thừa thực quản, mắc phải"
+K22.6,Hội chứng rách - chảy máu thực quản - dạ dày
+K22.7,Thực quản Barrett
+K22.8,Bệnh đặc hiệu khác của thực quản
+K22.9,"Bệnh thực quản, không đặc hiệu"
+K23,Rối loạn thực quản trong bệnh phân loại nơi khác
+K23*,Rối loạn thực quản trong bệnh phân loại nơi khác
+K23.0*,Viêm thực quản do laoA18.8
+K23.1*,Phình thực quản trong bệnh Chagas (B57.3†)
+K23.8*,Rối loạn thực quản trong bệnh phân loại nơi khác
+K25,Loét dạ dày 
+K25.0,Loét dạ dày (Cấp có xuất huyết)
+K25.1,Loét dạ dày (Cấp có thủng)
+K25.2,"Loét dạ dày (Cấp, cả xuất huyết và thủng)"
+K25.3,Loét dạ dày (Cấp không có xuất huyết hay thủng)
+K25.4,Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết)
+K25.5,Loét dạ dày (Mạn hay không đặc hiệu có thủng)
+K25.6,Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K25.7,Loét dạ dày (Mạn không có xuất huyết hay thủng)
+K25.9,"Loét dạ dày (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K26,Loét tá tràng
+K26.0,Loét tá tràng (Cấp có xuất huyết)
+K26.1,Loét tá tràng (Cấp có thủng)
+K26.2,"Loét tá tràng (Cấp, cả xuất huyết và thủng)"
+K26.3,Loét tá tràng (Cấp không có xuất huyết hay thủng)
+K26.4,Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết)
+K26.5,Loét tá tràng (Mạn hay không đặc hiệu có thủng)
+K61.4,Áp xe trong cơ thắt hậu môn
+K62,Bệnh khác của hậu môn và trực tràng
+K62.0,Polip hậu môn
+K62.1,Polip trực tràng
+K62.2,Sa hậu môn
+K62.3,Sa trực tràng
+K62.4,Hẹp trực tràng và ống hậu môn
+K62.5,Xuất huyết hậu môn và trực tràng
+K62.6,Loét hậu môn và trực tràng
+K62.7,Viêm trực tràng do tia xạ
+K62.8,Bệnh đặc hiệu khác của hậu môn và trực tràng
+K62.9,"Bệnh hậu môn và trực tràng, không đặc hiệu"
+K63,Bệnh khác của ruột
+K63.0,áp xe ruột
+K63.1,Thủng ruột (không có chấn thương)
+K63.2,Rò ruột
+K63.3,Loét ruột
+K63.4,Sa ruột
+K63.5,Polyp đại tràng
+K63.8,Bệnh đặc hiệu khác của ruột
+K63.9,"Bệnh ruột, không đặc hiệu"
+K64,Trĩ và huyết khối tĩnh mạch qua hậu môn
+K64.0,Trĩ độ I
+K64.1,Trĩ độ II
+K64.2,Trĩ độ III
+K64.3,Trĩ độ IV
+K64.4,Dãn da do trĩ sót lại
+K64.5,Huyết khối tĩnh mạch quanh hậu môn
+K64.8,Trĩ xác định khác
+K64.9,"Trĩ, không đặc hiệu"
+K65,Viêm phúc mạc
+K65.0,Viêm phúc mạc cấp
+K65.8,Viêm phúc mạc khác
+K65.9,"Viêm phúc mạc, không đặc hiệu"
+K66,Rối loạn khác của phúc mạc
+K66.0,Dính phúc mạc
+K66.1,Cổ trướng máu
+K66.8,Rối loạn đặc hiệu khác của phúc mạc
+K66.9,"Rối loạn của phúc mạc, không đặc hiệu"
+K67,Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác
+K67*,Rối loạn của phúc mạc trong bệnh nhiễm trùng phân loại nơi khác
+K67.0*,Viêm phúc mạc do Chlamydia (A74.8†)
+K67.1*,Viêm phúc mạc do lậu cầu (A54.8†)
+K67.2*,Viêm phúc mạc do giang mai (A52.7†)
+K67.3*,Viêm phúc mạc do lao (A18.3†)
+K67.8*,Các rối loạn khác của phúc mạc trong nhiễm trùng đã phân loại nơi khác
+K70,Bệnh gan do rượu
+K70.0,Gan nhiễm mỡ do rượu
+K70.1,Viêm gan do rượu
+K70.2,Bệnh xơ hóa gan do rượu
+K70.3,Xơ gan do rượu
+K06.0,Tụt lợi răng
+K06.1,Lợi sưng
+K06.2,Chấn thương nướu răng và nang sống hàm liên quan đến chấn thương
+K06.8,Rối loạn đặc hiệu khác của nướu và sống hàm
+K06.9,"Rối loạn ở nướu và sóng hàm, không đặc hiệu"
+K07,Bất thường hàm mặt [bao gồm khớp cắn lệch]
+K07.0,Bất thường chủ yếu của kích thước xương hàm
+K07.1,Bất thường có liên quan nền sọ xương hàm
+K07.2,Bất thường liên quan đến cung răng
+K07.3,Vị trí răng bất thường
+K07.4,Khớp cắn lệch không xác định
+K07.5,Bất thường chức năng hàm mặt
+K07.6,Rối loạn ở khớp thái dương
+K07.8,Các bất thường hàm mặt khác
+K07.9,Bất thường hàm mặt không xác định
+K08,Bệnh khác của răng và cấu trúc nâng dỡ
+K08.0,Mẻ răng do nguyên nhân hệ thống
+K08.1,"Mất răng do tai nạn, do nhổ răng hay bệnh nha chu khu trú"
+K08.2,Teo ổ chân răng
+K08.3,Chân răng còn sót
+K08.8,Bệnh đặc hiệu khác của răng và cấu trúc nâng đỡ
+K08.9,"Bệnh của răng và cấu trúc nâng đỡ, không đặc hiệu"
+K09,"Nang vùng miệng, không phân loại nơi khác"
+K09.0,Nang răng phát triển
+K09.1,Nang (không do răng) của vùng miệng
+K09.2,Nang khác của xương hàm
+K04.2,thoái hóa tủy
+K04.3,Tạo mô cứng bất thường trong tủy
+K04.4,Viêm nha chu chân răng cấp có nguồn gốc tủy
+K04.5,Viêm nha chu chân răng mãn
+K04.6,áp xe quanh chân răng có ổ
+K04.7,áp xe quanh chân răng không có ổ
+K04.8,Nang có cuống
+K04.9,Bệnh tủy và mô quanh chân răng khác và không xác định
+K09.8,"Nang khác ở vùng miệng, không phân loại nơi khác"
+K09.9,Nang vùng miệng không đặc hiệu
+K10,Bệnh khác của xương hàm
+K10.0,Rối loạn phát triển của xương hàm
+K10.1,"U hạt tế bào khổng lồ, trung tâm"
+K10.2,Tình trạng viêm của xương hàm
+K10.3,Viêm ổ răng xương hàm
+K10.8,Bệnh xác định khác của xương hàm
+K10.9,"Bệnh xương hàm, không đặc hiệu"
+K11,Bệnh tuyến nước bọt
+K11.0,Teo tuyến nước bọt
+K11.1,Phì đại tuyến nước bọt
+K11.2,Viêm tuyến nước bọt
+K11.3,áp xe tuyến nước bọt
+K14.9,"Bệnh lưỡi, không đặc hiệu"
+K20,Viêm thực quản
+K21,Bệnh trào ngược dạ dày - thực quản
+K21.0,Bệnh trào ngược dạ dày - thực quản với viêm thực quản
+K21.9,Bệnh trào ngược dạ dày - thực quản không có viêm thực quản
+K22,Bệnh khác của thực quản
+K22.0,Mất khả năng giãn của tâm vị
+K22.1,Loét thực quản
+K22.2,Tắc nghẽn thực quản
+K22.3,Thủng thực quản
+K22.4,Rối loạn vận động thực quản
+K22.5,"Túi thừa thực quản, mắc phải"
+K22.6,Hội chứng rách - chảy máu thực quản - dạ dày
+K22.7,Thực quản Barrett
+K22.8,Bệnh đặc hiệu khác của thực quản
+K22.9,"Bệnh thực quản, không đặc hiệu"
+K23,Rối loạn thực quản trong bệnh phân loại nơi khác
+K23*,Rối loạn thực quản trong bệnh phân loại nơi khác
+K23.0*,Viêm thực quản do laoA18.8
+K23.1*,Phình thực quản trong bệnh Chagas (B57.3†)
+K23.8*,Rối loạn thực quản trong bệnh phân loại nơi khác
+K25,Loét dạ dày 
+K05,Viêm nướu và bệnh nha chu
+K05.0,Viêm nướu cấp
+K05.1,Viêm nướu mãn
+K05.2,Viêm nha chu cấp
+K05.3,Viêm nha chu mãn
+K05.4,thoái hóa nha chu
+K05.5,Bệnh nha chu
+K05.6,"Bệnh nha chu, không đặc hiệu"
+K25.0,Loét dạ dày (Cấp có xuất huyết)
+K25.1,Loét dạ dày (Cấp có thủng)
+K25.2,"Loét dạ dày (Cấp, cả xuất huyết và thủng)"
+K11.4,Lỗ dò tuyến nước bọt
+K11.5,Bệnh sỏi tuyến nước bọt
+K11.6,Nang nhầy của tuyến nước bọt
+K11.7,Rối loạn tiết nước bọt
+K11.8,Bệnh khác của tuyến nước bọt
+K11.9,"Bệnh tuyến nước bọt, không đặc hiệu"
+K12,Viêm miệng và tổn thương liên quan
+K12.0,Loét miệng tái diễn
+K12.1,Dạng khác của viêm miệng
+K12.2,Viêm mô tế bào và áp xe của miệng
+K12.3,Viêm miệng (loét)
+K13,Bệnh khác của môi và niêm mạc miệng
+K13.0,Bệnh của môi
+K13.1,Đau má và môi
+K13.2,"Mảng trắng và rối loạn khác của thượng bì miệng, bao gồm lưới"
+K13.3,Bạch sản dạng tóc
+K13.4,U hạt và tổn thương dạng u hạt của niêm mạc miệng
+K13.5,Xơ hóa dưới niêm mạc miệng
+K13.6,Tăng sản do kích thích của niêm mạc miệng
+K13.7,Tổn thương khác và không xác định của niêm mạc miệng
+K14,Bệnh của lưỡi
+K14.0,Viêm lưỡi
+K14.1,Lưỡi bản đồ
+K14.2,Viêm lưỡi dạng thoi
+K14.3,Phì đại gai lưỡi
+K14.4,Teo gai lưỡi
+K14.5,Lưỡi bị gấp nếp
+K14.6,Đau lưỡi
+K06,Rối loạn khác của nướu và sóng hàm vùng mất răng
+K14.8,Bệnh khác của lưỡi
+K25.3,Loét dạ dày (Cấp không có xuất huyết hay thủng)
+K25.4,Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết)
+K25.5,Loét dạ dày (Mạn hay không đặc hiệu có thủng)
+K25.6,Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K25.7,Loét dạ dày (Mạn không có xuất huyết hay thủng)
+K25.9,"Loét dạ dày (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K26,Loét tá tràng
+K26.0,Loét tá tràng (Cấp có xuất huyết)
+K26.1,Loét tá tràng (Cấp có thủng)
+K26.2,"Loét tá tràng (Cấp, cả xuất huyết và thủng)"
+K26.3,Loét tá tràng (Cấp không có xuất huyết hay thủng)
+K26.4,Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết)
+K26.5,Loét tá tràng (Mạn hay không đặc hiệu có thủng)
+K26.6,Loét tá tràng (Mạn hay không đặc hiệu có xuất huyết hay thủng)
+K26.7,Loét tá tràng (Mạn không có xuất huyết hay thủng)
+K26.9,"Loét tá tràng (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K27,"Loét dạ dày-tá tràng, vị trí không xác định"
+K27.0,"Loét dạ dày - tá tràng, vị trí không xác định (Cấp có xuất huyết)"
+K27.1,"Loét dạ dày - tá tràng, vị trí không xác định (Cấp có thủng)"
+K27.2,"Loét dạ dày - tá tràng, vị trí không xác định (Cấp, cả xuất huyết và thủng)"
+K27.3,"Loét dạ dày - tá tràng, vị trí không xác định (Cấp không có xuất huyết hay thủng)"
+K27.4,"Loét dạ dày - tá tràng, vị trí không xác định (Mạn hay không đặc hiệu có xuất huyết)"
+K27.5,"Loét dạ dày - tá tràng, vị trí không xác định (Mạn hay không đặc hiệu có thủng)"
+K27.6,"Loét dạ dày - tá tràng, vị trí không xác định (Mạn hay không đặc hiệu có xuất huyết hay thủng)"
+K27.7,"Loét dạ dày - tá tràng, vị trí không xác định (Mạn không có xuất huyết hay thủng)"
+K27.9,"Loét dạ dày - tá tràng, vị trí không xác định (Không xác định là cấp hay mạn, không xuất huyết hay thủng)"
+K28,Loét dạ dày-hỗng tràng
+K28.0,Loét dạ dày - hỗng tràng (Cấp có xuất huyết)
+K28.1,Loét dạ dày - hỗng tràng (Cấp có thủng)
+K28.2,"Loét dạ dày - hỗng tràng (Cấp, cả xuất huyết và thủng)"
+K28.3,Loét dạ dày - hỗng tràng (Cấp không có xuất huyết hay thủng)
+K28.4,Loét dạ dày - hỗng tràng (Mạn hay không đặc hiệu có xuất huyết)
+K00,Rối loạn phát triển răng và mọc răng
+K00.0,Không đủ răng
+K00.1,Răng thừa
+K00.2,Bất thường kích thước và hình dạng răng
+K00.3,Răng lốm đốm
+K00.4,Rối loạn tạo răng
+K00.5,"Rối loạn di truyền cấu trúc răng, không phân loại nơi khác"
+K00.6,Rối loạn mọc răng
+K00.7,Hội chứng mọc răng
+K00.8,Rối loạn khác về phát triển răng
+K00.9,"Rối loạn phát triển răng, không đặc hiệu"
+K01,Răng mọc kẹt và răng ngầm
+K01.0,Răng ngầm
+K01.1,Răng mọc kẹt
+K02,Sâu răng
+K02.0,Sâu giới hạn ở men
+K02.1,Sâu ngà
+K02.2,Sâu chất xương
+K02.3,Sâu răng ngưng tiến triển
+K02.4,Hủy răng
+K02.5,Sâu răng với hở tủy
+K02.8,Sâu răng khác
+K02.9,"Sâu răng, không đặc hiệu"
+K03,Bệnh mô cứng khác của răng
+K03.0,Mòn răng quá mức
+K03.1,Mòn răng
+K03.2,Mòn răng
+K03.3,Tiêu răng bệnh lý
+K03.4,Tăng sinh chất răng
+K03.5,Cứng khớp răng
+K03.6,Cặn lắng [tăng tích tụ] trên răng
+K03.7,Biến màu mô cứng sau gãy răng
+K03.8,Bệnh xác định khác của mô cứng của răng
+K03.9,"Bệnh mô cứng của răng, không đặc hiệu"
+K04,Bệnh tủy và mô quanh chân răng
+K04.0,Viêm tủy
+K04.1,Hoại tử tủy

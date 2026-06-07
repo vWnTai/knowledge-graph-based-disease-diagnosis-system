@@ -1,0 +1,402 @@
+Ma_ICD10,Trieu_Chung,Trong_So
+X93,Vết thương hở,0.95
+X93,Chảy máu,0.90
+X93,Đau dữ dội,0.85
+X93,Sốc mất máu,0.92
+X94,Vết thương hở,0.95
+X94,Chảy máu,0.90
+X94,Đau dữ dội,0.85
+X94,Sốc mất máu,0.92
+X95,Vết thương hở,0.95
+X95,Chảy máu,0.90
+X95,Đau dữ dội,0.85
+X95,Sốc mất máu,0.92
+X96,Vết thương hở,0.90
+X96,Chảy máu,0.88
+X96,Bỏng da,0.85
+X96,Chấn thương sọ não,0.92
+X97,Bỏng da,0.95
+X97,Khó thở,0.88
+X97,Ngạt khí CO,0.90
+X97,Đau rát,0.80
+X98,Bỏng da,0.92
+X98,Phồng rộp da,0.90
+X98,Đỏ da,0.80
+X98,Đau rát,0.85
+X99,Vết thương hở,0.95
+X99,Chảy máu,0.92
+X99,Đau dữ dội,0.85
+X99,Sốc mất máu,0.90
+X00,Bỏng da,0.95
+X00,Khó thở,0.88
+X00,Ngạt khí CO,0.90
+X00,Đau rát,0.80
+X01,Bỏng da,0.95
+X01,Khó thở,0.88
+X01,Ngạt khí CO,0.90
+X01,Đau rát,0.80
+X02,Bỏng da,0.95
+X02,Khó thở,0.88
+X02,Ngạt khí CO,0.90
+X02,Đau rát,0.80
+X03,Bỏng da,0.95
+X03,Khó thở,0.88
+X03,Ngạt khí CO,0.90
+X03,Đau rát,0.80
+X04,Bỏng da,0.95
+X04,Khó thở,0.88
+X04,Ngạt khí CO,0.90
+X04,Đau rát,0.80
+X05,Bỏng da,0.95
+X05,Khó thở,0.88
+X05,Ngạt khí CO,0.90
+X05,Đau rát,0.80
+X06,Bỏng da,0.95
+X06,Khó thở,0.88
+X06,Ngạt khí CO,0.90
+X06,Đau rát,0.80
+X08,Bỏng da,0.95
+X08,Khó thở,0.88
+X08,Ngạt khí CO,0.90
+X08,Đau rát,0.80
+X09,Bỏng da,0.95
+X09,Khó thở,0.88
+X09,Ngạt khí CO,0.90
+X09,Đau rát,0.80
+X10,Bỏng da,0.92
+X10,Phồng rộp da,0.90
+X10,Đỏ da,0.80
+X10,Đau rát,0.85
+X11,Bỏng da,0.92
+X11,Phồng rộp da,0.90
+X11,Đỏ da,0.80
+X11,Đau rát,0.85
+X12,Bỏng da,0.92
+X12,Phồng rộp da,0.90
+X12,Đỏ da,0.80
+X12,Đau rát,0.85
+X13,Bỏng da,0.92
+X13,Phồng rộp da,0.90
+X13,Đỏ da,0.80
+X13,Đau rát,0.85
+X14,Bỏng da,0.92
+X14,Phồng rộp da,0.90
+X14,Đỏ da,0.80
+X14,Đau rát,0.85
+X15,Bỏng da,0.92
+X15,Phồng rộp da,0.90
+X15,Đỏ da,0.80
+X15,Đau rát,0.85
+X16,Bỏng da,0.92
+X16,Phồng rộp da,0.90
+X16,Đỏ da,0.80
+X16,Đau rát,0.85
+X17,Bỏng da,0.92
+X17,Phồng rộp da,0.90
+X17,Đỏ da,0.80
+X17,Đau rát,0.85
+X18,Bỏng da,0.92
+X18,Phồng rộp da,0.90
+X18,Đỏ da,0.80
+X18,Đau rát,0.85
+X19,Bỏng da,0.92
+X19,Phồng rộp da,0.90
+X19,Đỏ da,0.80
+X19,Đau rát,0.85
+X20,Buồn nôn,0.85
+X20,Nôn mửa,0.88
+X20,Chóng mặt,0.80
+X20,Đau bụng,0.82
+X20,Co giật,0.90
+X21,Buồn nôn,0.85
+X21,Nôn mửa,0.88
+X21,Chóng mặt,0.80
+X21,Đau bụng,0.82
+X21,Co giật,0.90
+X22,Đau dữ dội,0.80
+X22,Tổn thương mô mềm,0.85
+X22,Chảy máu,0.75
+X23,Đau dữ dội,0.80
+X23,Tổn thương mô mềm,0.85
+X23,Chảy máu,0.75
+X24,Đau dữ dội,0.80
+X24,Tổn thương mô mềm,0.85
+X24,Chảy máu,0.75
+X25,Buồn nôn,0.85
+X25,Nôn mửa,0.88
+X25,Chóng mặt,0.80
+X25,Đau bụng,0.82
+X25,Co giật,0.90
+X26,Buồn nôn,0.85
+X26,Nôn mửa,0.88
+X26,Chóng mặt,0.80
+X26,Đau bụng,0.82
+X26,Co giật,0.90
+X27,Buồn nôn,0.85
+X27,Nôn mửa,0.88
+X27,Chóng mặt,0.80
+X27,Đau bụng,0.82
+X27,Co giật,0.90
+X28,Buồn nôn,0.85
+X28,Nôn mửa,0.88
+X28,Chóng mặt,0.80
+X28,Đau bụng,0.82
+X28,Co giật,0.90
+X29,Buồn nôn,0.85
+X29,Nôn mửa,0.88
+X29,Chóng mặt,0.80
+X29,Đau bụng,0.82
+X29,Co giật,0.90
+X30,Đau dữ dội,0.80
+X30,Tổn thương mô mềm,0.85
+X30,Chảy máu,0.75
+X31,Đau dữ dội,0.80
+X31,Tổn thương mô mềm,0.85
+X31,Chảy máu,0.75
+X32,Đau dữ dội,0.80
+X32,Tổn thương mô mềm,0.85
+X32,Chảy máu,0.75
+X33,Đau dữ dội,0.80
+X33,Tổn thương mô mềm,0.85
+X33,Chảy máu,0.75
+X34,Đau dữ dội,0.80
+X34,Tổn thương mô mềm,0.85
+X34,Chảy máu,0.75
+X34.0,Gãy xương,0.92
+X34.0,Chấn thương sọ não,0.90
+X34.0,Tổn thương nội tạng,0.88
+X34.0,Chảy máu,0.85
+X34.1,Đau dữ dội,0.80
+X34.1,Tổn thương mô mềm,0.85
+X34.1,Chảy máu,0.75
+X34.8,Đau dữ dội,0.80
+X34.8,Tổn thương mô mềm,0.85
+X34.8,Chảy máu,0.75
+X34.9,Đau dữ dội,0.80
+X34.9,Tổn thương mô mềm,0.85
+X34.9,Chảy máu,0.75
+X35,Bỏng da,0.95
+X35,Khó thở,0.88
+X35,Ngạt khí CO,0.90
+X35,Đau rát,0.80
+X36,Gãy xương,0.92
+X36,Chấn thương sọ não,0.90
+X36,Tổn thương nội tạng,0.88
+X36,Chảy máu,0.85
+X37,Đau dữ dội,0.80
+X37,Tổn thương mô mềm,0.85
+X37,Chảy máu,0.75
+X38,Đau dữ dội,0.80
+X38,Tổn thương mô mềm,0.85
+X38,Chảy máu,0.75
+X39,Đau dữ dội,0.80
+X39,Tổn thương mô mềm,0.85
+X39,Chảy máu,0.75
+X40,Buồn nôn,0.85
+X40,Nôn mửa,0.88
+X40,Chóng mặt,0.80
+X40,Đau bụng,0.82
+X40,Co giật,0.90
+X41,Buồn nôn,0.85
+X41,Nôn mửa,0.88
+X41,Chóng mặt,0.80
+X41,Đau bụng,0.82
+X41,Co giật,0.90
+X42,Buồn nôn,0.85
+X42,Nôn mửa,0.88
+X42,Chóng mặt,0.80
+X42,Đau bụng,0.82
+X42,Co giật,0.90
+X43,Buồn nôn,0.85
+X43,Nôn mửa,0.88
+X43,Chóng mặt,0.80
+X43,Đau bụng,0.82
+X43,Co giật,0.90
+X44,Buồn nôn,0.85
+X44,Nôn mửa,0.88
+X44,Chóng mặt,0.80
+X44,Đau bụng,0.82
+X44,Co giật,0.90
+X45,Buồn nôn,0.85
+X45,Nôn mửa,0.88
+X45,Chóng mặt,0.80
+X45,Đau bụng,0.82
+X45,Co giật,0.90
+X46,Đau dữ dội,0.80
+X46,Tổn thương mô mềm,0.85
+X46,Chảy máu,0.75
+X47,Buồn nôn,0.85
+X47,Nôn mửa,0.88
+X47,Chóng mặt,0.80
+X47,Đau bụng,0.82
+X47,Co giật,0.90
+X48,Buồn nôn,0.85
+X48,Nôn mửa,0.88
+X48,Chóng mặt,0.80
+X48,Đau bụng,0.82
+X48,Co giật,0.90
+X49,Buồn nôn,0.85
+X49,Nôn mửa,0.88
+X49,Chóng mặt,0.80
+X49,Đau bụng,0.82
+X49,Co giật,0.90
+X50,Đau dữ dội,0.80
+X50,Tổn thương mô mềm,0.85
+X50,Chảy máu,0.75
+X51,Đau dữ dội,0.80
+X51,Tổn thương mô mềm,0.85
+X51,Chảy máu,0.75
+X52,Đau dữ dội,0.80
+X52,Tổn thương mô mềm,0.85
+X52,Chảy máu,0.75
+X53,Đau dữ dội,0.80
+X53,Tổn thương mô mềm,0.85
+X53,Chảy máu,0.75
+X54,Đau dữ dội,0.80
+X54,Tổn thương mô mềm,0.85
+X54,Chảy máu,0.75
+X57,Đau dữ dội,0.80
+X57,Tổn thương mô mềm,0.85
+X57,Chảy máu,0.75
+X58,Đau dữ dội,0.80
+X58,Tổn thương mô mềm,0.85
+X58,Chảy máu,0.75
+X59,Đau dữ dội,0.80
+X59,Tổn thương mô mềm,0.85
+X59,Chảy máu,0.75
+X59.0,Đau dữ dội,0.80
+X59.0,Tổn thương mô mềm,0.85
+X59.0,Chảy máu,0.75
+X59.9,Đau dữ dội,0.80
+X59.9,Tổn thương mô mềm,0.85
+X59.9,Chảy máu,0.75
+X60,Buồn nôn,0.85
+X60,Nôn mửa,0.88
+X60,Chóng mặt,0.80
+X60,Đau bụng,0.82
+X60,Co giật,0.90
+X61,Buồn nôn,0.85
+X61,Nôn mửa,0.88
+X61,Chóng mặt,0.80
+X61,Đau bụng,0.82
+X61,Co giật,0.90
+X62,Buồn nôn,0.85
+X62,Nôn mửa,0.88
+X62,Chóng mặt,0.80
+X62,Đau bụng,0.82
+X62,Co giật,0.90
+X63,Buồn nôn,0.85
+X63,Nôn mửa,0.88
+X63,Chóng mặt,0.80
+X63,Đau bụng,0.82
+X63,Co giật,0.90
+X64,Buồn nôn,0.85
+X64,Nôn mửa,0.88
+X64,Chóng mặt,0.80
+X64,Đau bụng,0.82
+X64,Co giật,0.90
+X65,Vết thương hở,0.85
+X65,Chảy máu,0.88
+X65,Đau dữ dội,0.80
+X66,Vết thương hở,0.85
+X66,Chảy máu,0.88
+X66,Đau dữ dội,0.80
+X67,Vết thương hở,0.85
+X67,Chảy máu,0.88
+X67,Đau dữ dội,0.80
+X68,Vết thương hở,0.85
+X68,Chảy máu,0.88
+X68,Đau dữ dội,0.80
+X69,Bỏng da,0.90
+X69,Đau rát,0.85
+X69,Khó thở,0.80
+X69,Buồn nôn,0.75
+X70,Khó thở,0.95
+X70,Suy hô hấp,0.92
+X70,Mất ý thức,0.90
+X70,Bầm tím vùng cổ,0.85
+X71,Gãy xương,0.95
+X71,Chấn thương sọ não,0.92
+X71,Tổn thương nội tạng,0.90
+X71,Chảy máu,0.85
+X72,Vết thương hở,0.95
+X72,Chảy máu,0.90
+X72,Đau dữ dội,0.85
+X72,Sốc mất máu,0.92
+X73,Vết thương hở,0.95
+X73,Chảy máu,0.90
+X73,Đau dữ dội,0.85
+X73,Sốc mất máu,0.92
+X74,Vết thương hở,0.95
+X74,Chảy máu,0.90
+X74,Đau dữ dội,0.85
+X74,Sốc mất máu,0.92
+X75,Vết thương hở,0.90
+X75,Chảy máu,0.88
+X75,Bỏng da,0.85
+X75,Chấn thương sọ não,0.92
+X76,Bỏng da,0.95
+X76,Khó thở,0.88
+X76,Ngạt khí CO,0.90
+X76,Đau rát,0.80
+X77,Bỏng da,0.92
+X77,Phồng rộp da,0.90
+X77,Đỏ da,0.80
+X77,Đau rát,0.85
+X78,Vết thương hở,0.95
+X78,Chảy máu,0.92
+X78,Đau dữ dội,0.85
+X78,Sốc mất máu,0.90
+X79,Vết thương hở,0.85
+X79,Chảy máu,0.88
+X79,Đau dữ dội,0.80
+X80,Gãy xương,0.95
+X80,Chấn thương sọ não,0.92
+X80,Tổn thương nội tạng,0.90
+X80,Chảy máu,0.85
+X81,Vết thương hở,0.85
+X81,Chảy máu,0.88
+X81,Đau dữ dội,0.80
+X82,Gãy xương,0.92
+X82,Chấn thương sọ não,0.90
+X82,Tổn thương nội tạng,0.88
+X82,Chảy máu,0.85
+X83,Vết thương hở,0.85
+X83,Chảy máu,0.88
+X83,Đau dữ dội,0.80
+X84,Vết thương hở,0.85
+X84,Chảy máu,0.88
+X84,Đau dữ dội,0.80
+X85,Buồn nôn,0.85
+X85,Nôn mửa,0.88
+X85,Chóng mặt,0.80
+X85,Đau bụng,0.82
+X85,Co giật,0.90
+X86,Bỏng da,0.90
+X86,Đau rát,0.85
+X86,Khó thở,0.80
+X86,Buồn nôn,0.75
+X87,Vết cắn,0.95
+X87,Sưng nề,0.88
+X87,Đau nhức,0.85
+X87,Dị ứng,0.80
+X88,Bỏng da,0.92
+X88,Phồng rộp da,0.90
+X88,Đỏ da,0.80
+X88,Đau rát,0.85
+X89,Bỏng da,0.90
+X89,Đau rát,0.85
+X89,Khó thở,0.80
+X89,Buồn nôn,0.75
+X90,Bỏng da,0.90
+X90,Đau rát,0.85
+X90,Khó thở,0.80
+X90,Buồn nôn,0.75
+X91,Khó thở,0.95
+X91,Suy hô hấp,0.92
+X91,Mất ý thức,0.90
+X91,Bầm tím vùng cổ,0.85
+X92,Ngạt nước,0.95
+X92,Khó thở,0.90
+X92,Suy hô hấp,0.92
+X92,Mất ý thức,0.88

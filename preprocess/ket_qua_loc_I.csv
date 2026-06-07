@@ -1,0 +1,1395 @@
+﻿Mã,Tên bệnh
+I52.8*,"Bệnh tim khác trong bệnh khác, phân loại nơi khác"
+I60,Xuất huyết dưới màng nhện
+I60.0,Xuất huyết dưới màng nhện từ hành cảnh và chỗ chia nhánh động mạch cảnh
+I60.1,Xuất huyết dưới nhện từ động mạch não giữa
+I60.2,Xuất huyết dưới nhện từ động mạch thông trước
+I60.3,Xuất huyết dưới màng nhện từ động mạch thông sau
+I60.4,Xuất huyết dưới nhện từ động mạch sống nền
+I60.5,Xuất huyết dưới nhện từ động mạch đốt sống
+I60.6,Xuất huyết dưới nhện từ động mạch nội sọ khác
+I60.7,"Xuất huyết dưới màng nhện từ động mạch nội sọ, không đặc hiệu"
+I60.8,Xuất huyết dưới màng nhện khác
+I61,Xuất huyết nội sọ
+I61.0,"Xuất huyết nội sọ tại bán cầu, vùng dưới vỏ"
+I61.1,"Xuất huyết nội sọ tại bán cầu, vùng vỏ"
+I61.2,"Xuất huyết nội sọ tại bán cầu, không đặc hiệu"
+I61.4,Xuất huyết nội sọ tại tiểu não
+I61.5,"Xuất huyết nội sọ, tại não thất"
+I61.6,"Xuất huyết nội sọ, tại nhiều nơi"
+I61.8,Xuất huyết nội sọ khác
+I62,Xuất huyết nội sọ không do chấn thương khác
+I62.0,Xuất huyết dưới màng cứng (cấp) (không do chấn thương)
+I62.1,"Xuất huyết ngoài màng cứng, không do chấn thương"
+I62.9,"Xuất huyết nội sọ không do chấn thương, không đặc hiệu"
+I63.0,Nhồi máu não do huyết khối động mạch trước não
+I63.1,Nhồi máu não do thuyên tắc động mạch trước não
+I63.2,Nhồi máu não không đặc hiệu do tắc hay hẹp ở động mạch trước não
+I63.3,Nhồi máu não do huyết khối động mạch não
+I63.4,Nhồi máu não do thuyên tắc động mạch não
+I63.5,Nhồi máu não không xác định do tắc hay hẹp ở động mạch não
+I63.8,Nhồi máu não khác
+I63.9,"Nhồi máu não, không đặc hiệu"
+I64,"Đột quị, không xác định do xuất huyết hay nhồi máu (Tai biến mạch máu não)"
+I65,"Nghẽn tắc và hẹp động mạch trước não, không dẫn đến nhồi máu não"
+I65.0,Nghẽn tắc và hẹp động mạch đốt sống
+I65.2,Nghẽn tắc và hẹp động mạch cảnh
+I65.3,Nghẽn tắc và hẹp nhiều động mạch và động mạch trước não hai bên
+I65.8,Nghẽn tắc và hẹp của động mạch trước não khác
+I65.9,Nghẽn tắc và hẹp của động mạch trước não không xác định
+I66.0,Nghẽn tắc và hẹp động mạch não giữa
+I66.1,Nghẽn tắc và hẹp động mạch não trước
+I66.2,Nghẽn tắc và hẹp động mạch não sau
+I66.3,Nghẽn tắc và hẹp động mạch tiểu não
+I66.4,Nghẽn tắc và hẹp nhiều động mạch não hai bên
+I66.9,"Nghẽn tắc và hẹp động mạch não, không xác định"
+I67,Bệnh mạch máu não khác
+I67.1,"Phình động mạch não, không vỡ"
+I67.2,Xơ vữa động mạch não
+I67.3,Bệnh lý chất trắng não do nguyên nhân mạch máu
+I67.4,Bệnh lý não do tăng huyết áp
+I67.6,Huyết khối không sinh mủ của hệ tĩnh mạch nội sọ
+I67.7,"Viêm động mạch não, không phân loại nơi khác"
+I67.9,Bệnh mạch máu não không đặc hiệu
+I68*,Bệnh mạch máu não trong bệnh phân loại nơi khác
+I83.0,Dãn tĩnh mạch chi dưới có loét
+I83.1,Dãn tĩnh mạch chi dưới có viêm
+I83.2,Dãn tĩnh mạch chi dưới có loét và viêm
+I83.9,Dãn tĩnh mạch chi dưới không loét không viêm
+I85,Dãn tĩnh mạch thực quản
+I85.0,Dãn tĩnh mạch thực quản có chảy máu
+I85.9,Dãn tĩnh mạch thực quản không chảy máu
+I86,Dãn tĩnh mạch vị trí khác
+I86.0,Dãn tĩnh mạch dưới lưỡi
+I86.1,Túi dãn tĩnh mạch bìu
+I86.2,Dãn tĩnh mạch chậu
+I86.3,Dãn tĩnh mạch âm hộ
+I86.4,Dãn tĩnh mạch dạ dày
+I86.8,Dãn tĩnh mạch ở vị trí xác định khác
+I87,Rối loạn khác của tĩnh mạch
+I87.0,Hội chứng sau huyết khối
+I65.2,Nghẽn tắc và hẹp động mạch cảnh
+I65.3,Nghẽn tắc và hẹp nhiều động mạch và động mạch trước não hai bên
+I65.8,Nghẽn tắc và hẹp của động mạch trước não khác
+I65.9,Nghẽn tắc và hẹp của động mạch trước não không xác định
+I66,"Nghẽn tắc và hẹp động mạch não, không dẫn đến nhồi máu não"
+I66.0,Nghẽn tắc và hẹp động mạch não giữa
+I66.1,Nghẽn tắc và hẹp động mạch não trước
+I66.2,Nghẽn tắc và hẹp động mạch não sau
+I66.3,Nghẽn tắc và hẹp động mạch tiểu não
+I66.4,Nghẽn tắc và hẹp nhiều động mạch não hai bên
+I66.8,Nghẽn tắc và hẹp động mạch não khác
+I66.9,"Nghẽn tắc và hẹp động mạch não, không xác định"
+I67,Bệnh mạch máu não khác
+I67.0,"Tách thành động mạch não, không vỡ"
+I67.1,"Phình động mạch não, không vỡ"
+I69.3,Di chứng nhồi máu não
+I69.4,"Di chứng đột quỵ, không xác định là xuất huyết hay nhồi máu"
+I69.8,Di chứng bệnh mạch máu não khác và không xác định
+I70,Xơ vữa động mạch
+I70.0,Xơ vữa động mạch chủ
+I70.1,Xơ vữa động mạch thận
+I70.2,Xơ vữa động mạch ngoại biên
+I70.8,Xơ vữa động mạch khác
+I70.9,"Xơ vữa động mạch, toàn thể và không xác định"
+I71,Phình và tách thành động mạch chủ
+I71.0,Tách thành động mạch chủ (bất kỳ đoạn nào)
+I71.1,"Phình động mạch chủ ngực, vỡ"
+I71.2,"Phình động mạch chủ ngực, không vỡ"
+I71.3,"Phình động mạch chủ bụng, vỡ"
+I71.4,"Phình động mạch chủ bụng, không vỡ"
+I71.5,"Phình động mạch chủ ngực-bụng, vỡ"
+I71.6,"Phình động mạch chủ ngực-bụng, không vỡ"
+I71.8,"Phình động mạch chủ, vị trí không xác định, vỡ"
+I71.9,"Phình động mạch chủ, vị trí không xác định, không vỡ"
+I72,Phình và tách động mạch khác
+I72.0,Phình và tách động mạch cảnh
+I72.1,Phình và tách động mạch chi trên
+I72.2,Phình và tách động mạch thận
+I72.3,Phình và tách động mạch chậu
+I72.4,Phình và tách động mạch chi dưới
+I72.5,Phình và tách động mạch nền (thân)
+I72.6,Phình và tách động mạch đốt sống
+I72.8,Phình và tách động mạch xác định khác
+I72.9,"Phình và tách động mạch, vị trí không xác định"
+I73,Bệnh mạch máu ngoại biên
+I73.0,Hội chứng Raynaud
+I73.1,Viêm tắc mạch huyết khối [Buerger]
+I73.8,Bệnh mạch máu ngoại biên xác định khác
+I73.9,"Bệnh mạch máu ngoại biên, không đặc hiệu"
+I08.1,Bệnh cả van hai lá và van ba lá
+I08.2,Bệnh cả van động mạch chủ và van ba lá
+I08.3,"Bệnh lý phối hợp van hai lá, van động mạch chủ và van ba lá"
+I08.8,Bệnh lý nhiều van khác
+I87.1,Ép tĩnh mạch
+I87.2,Suy tĩnh mạch (mạn) (ngoại biên)
+I87.8,Rối loạn khác tĩnh mạch xác định khác
+I87.9,"Rối loạn khác tĩnh mạch, không đặc hiệu khác"
+I88,Viêm hạch bạch huyết không đặc hiệu
+I88.0,Viêm hạch bạch huyết mạc treo không đặc hiệu
+I88.1,"Viêm hạch bạch huyết mạn, ngoại trừ mạc treo"
+I88.8,Viêm hạch bạch huyết không đặc hiệu khác
+I88.9,"Viêm hạch bạch huyết không đặc hiệu, không đặc hiệu"
+I89,Rối loạn mạch bạch huyết và hạch bạch huyết không nhiễm trùng khác
+I89.0,"Phù bạch huyết, không phân loại nơi khác"
+I89.1,Viêm mạch bạch huyết
+I89.8,Rối loạn mạch bạch huyết và hạch bạch huyết xác định khác không do nhiễm trùng
+I89.9,"Rối loạn mạch bạch huyết và hạch bạch huyết không do nhiễm trùng, không đặc hiệu"
+I95,Huyết áp thấp (hạ huyết áp)
+I95.0,Hạ huyết áp không rõ nguyên nhân
+I95.1,Hạ huyết áp thế đứng
+I95.2,Hạ huyết áp do thuốc
+I95.8,Hạ huyết áp khác
+I95.9,"Hạ huyết áp, không đặc hiệu"
+I97,"Rối loạn hệ tuần hoàn sau phẫu thuật, chưa phân loại nơi khác"
+I97.0,Hội chứng sau mổ tim
+I97.1,Rối loạn chức năng khác sau phẫu thuật tim
+I97.2,Hội chứng phù hạch bạch huyết sau cắt bỏ tuyến vú
+I97.8,"Rối loạn hệ tuần hoàn khác sau phẫu thuật, không phân loại nơi khác"
+I00,Thấp không có tổn thương tim
+I08.9,"Bệnh lý nhiều van khác, không đặc hiệu"
+I09,Các bệnh tim khác do thấp
+I09.0,Viêm cơ tim do thấp
+I09.1,"Bệnh nội tâm mạc do thấp, có tổn thương van không đặc hiệu"
+I09.2,Viêm màng ngoài tim do thấp mãn tính
+I09.8,Các bệnh tim do thấp khác
+I09.9,"Bệnh tim do thấp, không đặc hiệu"
+I10,Bệnh lý tăng huyết áp
+I11,Bệnh tim do tăng huyết áp
+I11.0,"Bệnh tim do tăng huyết áp, có suy tim (sung huyết)"
+I11.9,"Bệnh tim do tăng huyết áp, không suy tim (sung huyết)"
+I12,Bệnh thận do tăng huyết áp
+I12.0,"Bệnh thận do tăng huyết áp, có suy thận"
+I12.9,"Bệnh thận do tăng huyết áp, không suy thận"
+I13,Bệnh tim và thận do tăng huyết áp
+I13.0,"Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết)"
+I13.1,"Bệnh tim và thận do tăng huyết áp, có suy thận"
+I13.2,"Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết) và suy thận"
+I13.9,"Bệnh tim và thận do tăng huyết áp, không đặc hiệu"
+I15,Tăng huyết áp thứ phát
+I15.0,Tăng huyết áp do nguyên nhân mạch thận
+I15.1,Tăng huyết áp thứ phát do bệnh thận khác
+I15.2,Tăng huyết áp thứ phát do rối loạn nội tiết
+I15.8,Tăng huyết áp thứ phát khác
+I15.9,Tăng huyết áp thứ phát không đặc hiệu
+I20,Cơn đau thắt ngực
+I20.0,Cơn đau thắt ngực không ổn định
+I20.1,Cơn đau thắt ngực do co thắt mạch
+I20.8,Dạng khác của cơn đau thắt ngực
+I20.9,"Cơn đau thắt ngực, không đặc hiệu"
+I21,Nhồi máu cơ tim cấp
+I21.0,Nhồi máu cơ tim trước vách cấp xuyên thành của thành trước
+I21.1,Nhồi máu cơ tim xuyên thành cấp của thành dưới
+I21.2,Nhồi máu xuyên thành cấp ở vị trí khác
+I21.3,Nhồi máu cơ tim xuyên thành cấp không rõ vị trí
+I21.4,Nhồi máu cơ tim dưới nội tâm mạc cấp
+I23.3,Biến chứng nứt thành tim không có tràn máu màng ngoài tim sau nhồi máu cơ tim cấp
+I23.4,Biến chứng đứt dây chằng van hai lá sau nhồi máu cơ tim cấp
+I23.5,Biến chứng đứt cơ nhú sau nhồi máu cơ tim cấp
+I23.6,"Biến chứng huyết khối trong buồng tim tâm nhĩ, tiểu nhĩ và tâm thất sau nhồi máu cơ tim cấp"
+I23.8,Biến chứng khác xảy ra sau nhồi máu cơ tim cấp
+I24,Bệnh tim do thiếu máu cục bộ cấp khác
+I24.0,Huyết khối mạch vành không gây nhồi máu cơ tim
+I24.1,Hội chứng Dressler
+I24.8,Dạng khác của bệnh tim thiếu máu cục bộ cấp
+I24.9,"Bệnh tim do thiếu máu cục bộ cấp, không đặc hiệu"
+I25,Bệnh tim thiếu máu cục bộ mạn
+I25.0,Bệnh tim mạch do xơ vữa động mạch vành
+I25.1,Bệnh tim mạch do xơ vữa động mạch
+I25.2,Nhồi máu cơ tim cũ
+I01,Thấp ảnh hưởng đến tim
+I01.0,Viêm màng ngoài tim do thấp cấp
+I01.1,Viêm nội tâm mạc cấp do thấp
+I01.2,Viêm cơ tim do thấp cấp
+I01.8,Bệnh tim cấp khác do thấp
+I44.7,Blốc nhánh trái không đặc hiệu
+I45,Rối loạn dẫn truyền khác
+I45.0,Blốc nhánh phải
+I45.1,Blốc nhánh phải khác và không xác định
+I45.2,Blốc hai nhánh
+I45.3,Blốc ba nhánh
+I45.4,Blốc trong thất không đặc hiệu
+I45.5,Blốc tim xác định khác
+I45.6,Hội chứng kích thích sớm (hội chứng tiền kích thích)
+I45.8,"Rối loạn dẫn truyền, xác định khác"
+I45.9,Rối loạn dẫn truyền không đặc hiệu
+I46,Ngưng tim
+I46.0,Ngưng tim với hồi sức thành công
+I46.1,Đột tử do tim (được mô tả)
+I46.9,Ngưng tim không đặc hiệu
+I47,Nhịp nhanh kịch phát
+I47.0,Loạn nhịp thất do cơ chế vòng vào lại
+I47.1,Nhịp nhanh trên thất
+I47.2,Nhịp nhanh thất
+I47.9,"Nhịp nhanh kịch phát, không đặc hiệu"
+I74,Thuyên tắc và huyết khối động mạch
+I74.0,Thuyên tắc và huyết khối động mạch chủ bụng
+I74.1,"Thuyên tắc và huyết khối, đoạn động mạch chủ khác và không xác định"
+I74.2,Thuyên tắc và huyết khối động mạch chi trên
+I74.3,Thuyên tắc và huyết khối động mạch chi dưới
+I25.3,Phình thành tim
+I25.4,Phình động mạch vành
+I25.5,Bệnh cơ tim do thiếu máu cục bộ
+I25.6,Thiếu máu cơ tim thầm lặng
+I25.8,Dạng khác của bệnh tim thiếu máu cục bộ mạn
+I25.9,"Bệnh tim thiếu máu cục bộ mạn, không đặc hiệu"
+I26,Tắc mạch phổi
+I26.0,Thuyên tắc phổi có tâm phế cấp
+I26.9,Thuyên tắc phổi không có tâm phế cấp
+I27,Các bệnh tim do phổi khác
+I27.0,Tăng áp động mạch phổi nguyên phát
+I27.1,Bệnh tim do gù vẹo cột sống
+I27.2,Tăng huyết áp động mạch phổi thứ phát
+I27.8,Bệnh tim do phổi đã xác định khác
+I27.9,"Bệnh tim do phổi, không đặc hiệu"
+I28,Bệnh mạch máu phổi khác
+I28.0,Dò động - tĩnh mạch phổi
+I28.1,Phình động mạch phổi
+I28.8,Bệnh mạch máu phổi xác định khác
+I28.9,Bệnh mạch máu phổi không đặc hiệu
+I30,Viêm màng ngoài tim cấp
+I30.0,"Viêm màng ngoài tim cấp, không rõ nguyên nhân, không đặc hiệu"
+I30.1,Viêm màng ngoài tim nhiễm trùng
+I30.8,Các thể khác của viêm màng ngoài tim cấp
+I30.9,"Viêm màng ngoài tim cấp, không đặc hiệu"
+I31,Các bệnh màng ngoài tim khác
+I31.0,Viêm dày dính màng ngoài tim mạn
+I67.2,Xơ vữa động mạch não
+I67.3,Bệnh lý chất trắng não do nguyên nhân mạch máu
+I67.4,Bệnh lý não do tăng huyết áp
+I67.5,Bệnh Moyamoya
+I67.6,Huyết khối không sinh mủ của hệ tĩnh mạch nội sọ
+I67.7,"Viêm động mạch não, không phân loại nơi khác"
+I67.8,Bệnh mạch máu não xác định khác
+I67.9,Bệnh mạch máu não không đặc hiệu
+I68,Bệnh mạch máu não trong bệnh phân loại nơi khác
+I68*,Bệnh mạch máu não trong bệnh phân loại nơi khác
+I68.0*,Bệnh mạch máu não do thoái hóa dạng bột E85.-
+I68.1*,Viêm động mạch não trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác
+I68.2*,Viêm động mạch não trong bệnh khác phân loại nơi khác
+I68.8*,Ngập máu tăng ure máu trong bệnh thận mãn tính
+I69,Di chứng bệnh mạch máu não
+I69.0,Di chứng xuất huyết dưới màng nhện
+I69.1,Di chứng xuất huyết nội sọ
+I69.2,Di chứng xuất huyết nội sọ không do chấn thương khác
+I48,Rung nhĩ và cuồng nhĩ
+I48.0,Rung nhĩ kịch phát
+I48.1,Rung nhĩ dai dẳng
+I48.2,Rung nhĩ mãn tính
+I48.3,Rung nhĩ điển hình
+I48.4,Cuồng nhĩ không điển hình
+I48.9,"Rung nhĩ và cuồng nhĩ, không đặc hiệu"
+I49,Loạn nhịp tim khác
+I49.0,Rung thất và cuồng thất
+I49.1,Ngoại tâm thu nhĩ
+I49.2,Khử cực sớm vùng bộ nối
+I49.3,Ngoại tâm thu thất
+I49.4,Khử cực sớm khác và không xác định
+I49.5,Hội chứng suy nút xoang
+I49.8,Loạn nhịp tim xác định khác
+I74.4,Thuyên tắc và huyết khối động mạch chi không đặc hiệu
+I74.5,Thuyên tắc và huyết khối động mạch chậu
+I74.8,Thuyên tắc và huyết khối động mạch khác
+I74.9,"Thuyên tắc và huyết khối động mạch, không xác định"
+I77,Các bệnh khác của hệ động mạch và tiểu động mạch
+I77.0,Dò động - tĩnh mạch mắc phải
+I77.1,Co hẹp động mạch
+I77.2,Vỡ động mạch
+I77.3,Loạn sản chun xơ cơ của động mạch
+I77.4,Hội chứng chèn ép động mạch tạng
+I77.5,Hoại tử động mạch
+I77.6,"Viêm động mạch, không đặc hiệu"
+I77.8,Bệnh xác định khác của động mạch và tiểu động mạch
+I77.9,"Bệnh động mạch và tiểu động mạch, không đặc hiệu"
+I78,Bệnh của mao mạch
+I78.0,Dãn mạch di truyền xuất huyết
+I78.1,"Tổn thương mạch máu trên da (Naevus), không tân sinh"
+I78.8,Bệnh khác của mao mạch
+I78.9,"Bệnh khác của mao mạch, không đặc hiệu"
+I79,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I79*,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I79.0*,Phình động mạch chủ trong bệnh phân loại nơi khác
+I79.1*,Viêm động mạch chủ trong bệnh phân loại nơi khác
+I79.8*,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I97.9,"Rối loạn hệ tuần hoàn sau phẫu thuật, không đặc hiệu"
+I98,Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác
+I98*,Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác
+I98.0*,Giang mai tim mạch
+I21.9,"Nhồi máu cơ tim cấp, không đặc hiệu"
+I22,Nhồi máu cơ tim tiến triển
+I22.0,Nhồi máu cơ tim tiến triển của thành trước
+I98.1*,Rối loạn tim mạch trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I31.1,Viêm màng ngoài tim co thắt mạn
+I31.2,"Tràn máu ngoại tâm mạc, không phân loại nơi khác"
+I31.3,Tràn dịch màng ngoài tim (không do viêm)
+I31.8,Bệnh màng ngoài tim khác
+I31.9,"Bệnh ngoại tâm mạc, không đặc hiệu"
+I32,Viêm màng ngoài tim trong bệnh phân loại nơi khác
+I32*,Viêm màng ngoài tim trong bệnh phân loại nơi khác
+I32.0*,Viêm màng ngoài tim trong bệnh nhiễm khuẩn phân loại nơi khác
+I32.1*,Viêm màng ngoài tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I32.8*,Viêm màng ngoài tim trong bệnh khác phân loại nơi khác
+I33,Viêm nội tâm mạc cấp và bán cấp
+I33.0,Viêm nội tâm mạc nhiễm trùng cấp và bán cấp
+I33.9,"Viêm nội tâm mạc cấp, không đặc hiệu"
+I34,Bệnh van hai lá không do thấp
+I34.0,Hở (van) hai lá
+I49.9,"Rối loạn nhịp tim, không đặc hiệu"
+I50,Suy tim
+I50.0,Suy tim sung huyết
+I50.1,Suy thất trái
+I50.9,"Suy tim, không đặc hiệu"
+I51,Biến chứng và bệnh lý được xác định là do bệnh tim mạch
+I51.0,"Thông vách ngăn tim, mắc phải"
+I51.1,"Đứt dây chằng van tim, không có trong phân loại nơi khác"
+I51.2,"Đứt cơ nhú, không có trong phân loại nơi khác"
+I51.3,"Huyết khối trong tim, không phân loại nơi khác"
+I51.4,"Viêm cơ tim, không đặc hiệu"
+I51.5,thoái hóa cơ tim
+I51.6,"Bệnh tim mạch, không đặc hiệu"
+I51.7,Tim to
+I51.8,Bệnh lý khác được xác định là bệnh lý của tim
+I51.9,"Bệnh tim, không đặc hiệu"
+I52,Các bệnh lý khác trong các bệnh đã phân loại nơi khác
+I52*,Các bệnh lý khác trong các bệnh đã phân loại nơi khác
+I52.0*,Bệnh tim khác trong bệnh nhiễm trùng phân loại nơi khác
+I52.1*,Bệnh tim khác trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I52.8*,"Bệnh tim khác trong bệnh khác, phân loại nơi khác"
+I60,Xuất huyết dưới màng nhện
+I60.0,Xuất huyết dưới màng nhện từ hành cảnh và chỗ chia nhánh động mạch cảnh
+I60.1,Xuất huyết dưới nhện từ động mạch não giữa
+I60.2,Xuất huyết dưới nhện từ động mạch thông trước
+I60.3,Xuất huyết dưới màng nhện từ động mạch thông sau
+I60.4,Xuất huyết dưới nhện từ động mạch sống nền
+I98.2*,Giãn tĩnh mạch thực quản không chảy máu trong bệnh phân loại nơi khác
+I98.3*,Dãn tĩnh mạch thực quản chảy máu trong bệnh phân loại nơi khác
+I98.8*,Rối loạn hệ tuần hoàn xác định khác trong bệnh phân loại nơi khác
+I99,Rối loạn hệ tuần hoàn khác và không xác định của hệ tuần hoàn
+I34.1,Sa (van) hai lá
+I34.2,Hẹp (van) hai lá không do thấp
+I34.8,Hẹp van hai lá không do thấp khác
+I34.9,Hẹp van hai lá không do thấp
+I35,Bệnh van động mạch chủ không do thấp
+I35.0,Hẹp (van) động mạch chủ
+I35.1,Hở (van) động mạch chủ
+I35.2,Hẹp hở (van) động mạch chủ
+I35.8,Bệnh van động mạch chủ khác
+I35.9,"Bệnh van động mạch chủ, không đặc hiệu"
+I36,Bệnh van ba lá không do thấp
+I36.0,Hẹp (van) ba lá không do thấp
+I36.1,Hở (van) ba lá không do thấp
+I36.2,Hẹp kèm hở van ba lá không do thấp
+I36.8,Bệnh van ba lá không do thấp khác
+I36.9,"Bệnh van ba lá không do thấp khác, không đặc hiệu"
+I37,Bệnh van động mạch phổi
+I37.0,Hẹp van động mạch phổi
+I37.1,Hở van động mạch phổi
+I37.2,Hẹp hở van động mạch phổi
+I37.8,Bệnh van động mạch phổi khác
+I37.9,"Bệnh van động mạch phổi, không xác định"
+I38,"Viêm nội tâm mạc, không xác định"
+I39,Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác
+I39*,Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác
+I39.0*,Bệnh van hai lá trong bệnh phân loại nơi khác
+I39.1*,Bệnh van động mạch chủ trong bệnh phân loại nơi khác
+I39.2*,Bệnh van ba lá trong bệnh phân loại nơi khác
+I60.5,Xuất huyết dưới nhện từ động mạch đốt sống
+I60.6,Xuất huyết dưới nhện từ động mạch nội sọ khác
+I60.7,"Xuất huyết dưới màng nhện từ động mạch nội sọ, không đặc hiệu"
+I60.8,Xuất huyết dưới màng nhện khác
+I60.9,"Xuất huyết dưới màng nhện, không đặc hiệu"
+I61,Xuất huyết nội sọ
+I39.3*,Bệnh van động mạch phổi trong bệnh phân loại nơi khác
+I39.4*,Bệnh của nhiều van trong bệnh phân loại nơi khác
+I39.8*,"Viêm nội tâm mạc, không xác định van, trong bệnh phân loại nơi khác"
+I40,Viêm cơ tim cấp
+I40.0,Viêm cơ tim nhiễm trùng
+I40.1,Viêm cơ tim đơn thuần
+I40.8,Viêm cơ tim cấp khác
+I61.0,"Xuất huyết nội sọ tại bán cầu, vùng dưới vỏ"
+I61.1,"Xuất huyết nội sọ tại bán cầu, vùng vỏ"
+I61.2,"Xuất huyết nội sọ tại bán cầu, không đặc hiệu"
+I61.3,Xuất huyết nội sọ tại thân não
+I79.2*,Bệnh lý mạch máu ngoại biên trong bệnh phân loại nơi khác
+I80,Viêm tĩnh mạch và tắc tĩnh mạch
+I80.0,Viêm tĩnh mạch và viêm tắc tĩnh mạch nông ở chi dưới
+I80.1,Viêm tĩnh mạch và viêm tắc tĩnh mạch đùi
+I80.2,Viêm tĩnh mạch và viêm tắc tĩnh mạch của các tĩnh mạch sâu khác ở chi dưới
+I80.3,"Viêm tĩnh mạch và viêm tắc tĩnh mạch ở chi dưới, không đặc hiệu"
+I80.8,Viêm tĩnh mạch và viêm tắc tĩnh mạch ở vị trí khác
+I80.9,"Viêm tĩnh mạch và viêm tắc tĩnh mạch, vị trí không xác định"
+I81,Huyết khối tĩnh mạch cửa
+I82,Các thuyên tắc và huyết khối tĩnh mạch khác
+I82.0,Hội chứng Budd-Chiari
+I82.1,Viêm tắc tĩnh mạch tái phát (migrans)
+I82.2,Thuyên tắc và huyết khối tĩnh mạch chủ
+I82.3,Thuyên tắc và huyết khối tĩnh mạch thận
+I82.8,Thuyên tắc và huyết khối tĩnh mạch khác
+I82.9,"Thuyên tắc và huyết khối, không xác định tĩnh mạch"
+I83,Dãn tĩnh mạch chi dưới
+I40.9,"Viêm cơ tim cấp, không đặc hiệu"
+I41,Viêm cơ tim trong bệnh phân loại nơi khác
+I41*,Viêm cơ tim trong bệnh phân loại nơi khác
+I41.0*,Viêm cơ tim trong bệnh nhiễm trùng phân loại nơi khác
+I41.1*,Viêm cơ tim trong bệnh do virus phân loại nơi khác
+I41.2*,Viêm cơ tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I41.8*,Viêm cơ tim trong bệnh khác phân loại nơi khác
+I42,Bệnh cơ tim
+I42.0,Bệnh cơ tim giãn
+I42.1,Bệnh cơ tim phì đại có tắc nghẽn
+I42.2,Bệnh cơ tim phì đại khác
+I42.3,Bệnh cơ-nội tâm mạc (nhiễm bạch cầu ái toan)
+I42.4,Xơ chun nội tâm mạc
+I42.5,Bệnh lý cơ tim hạn chế
+I42.6,Bệnh cơ tim do rượu
+I42.7,Bệnh cơ tim do thuốc và tác nhân bên ngoài
+I42.8,Bệnh cơ tim khác
+I42.9,Bệnh cơ tim không đặc hiệu
+I43,Bệnh cơ tim trong bệnh phân loại nơi khác
+I43*,Bệnh cơ tim trong bệnh phân loại nơi khác
+I43.0*,Bệnh cơ tim trong bệnh nhiễm trùng và ký sinh trùng
+I43.1*,Bệnh cơ tim trong bệnh chuyển hóa
+I43.2*,Bệnh cơ tim trong các bệnh về dinh dưỡng
+I43.8*,Bệnh cơ tim trong bệnh khác phân loại nơi khác
+I44,Blốc nhĩ thất và nhánh trái
+I44.0,Blốc nhĩ thất độ I
+I44.1,Blốc nhĩ thất độ II
+I44.2,"Blốc nhĩ thất, hoàn toàn"
+I44.3,Blốc nhĩ thất khác và không xác định
+I44.4,Blốc nhánh trước trái
+I44.5,Blốc nhánh sau trái
+I44.6,Blốc nhánh khác và không xác định
+I01.9,"Bệnh tim do thấp cấp, không đặc hiệu"
+I02,Múa giật do thấp
+I02.0,Múa giật do thấp có ảnh hưởng đến tim
+I02.9,Múa giật do thấp không ảnh hưởng đến tim
+I05,Bệnh lý van hai lá do thấp
+I05.0,Hẹp van hai lá
+I05.1,Hở van hai lá do thấp
+I05.2,Hẹp hở van hai lá
+I05.8,Bệnh van hai lá khác
+I05.9,"Bệnh van hai lá, không đặc hiệu"
+I06,Bệnh van động mạch chủ do thấp
+I06.0,Hẹp van động mạch chủ do thấp
+I06.1,Hở van động mạch chủ do thấp
+I06.2,Hẹp Hở van động mạch chủ do thấp
+I06.8,Bệnh van động mạch chủ do thấp khác
+I06.9,Bệnh van động mạch chủ do thấp không đặc hiệu
+I07,Bệnh lý van ba lá do thấp
+I07.0,Hẹp van ba lá
+I07.1,Hở van ba lá
+I07.2,Hẹp hở van ba lá
+I07.8,Bệnh lý khác của van ba lá
+I07.9,Bệnh lý van ba lá khác không đặc hiệu
+I08,Bệnh lý của nhiều van tim
+I08.0,Bệnh Lý cả hai lá và van động mạch chủ
+I22.1,Nhồi máu cơ tim tiến triển của thành dưới
+I22.8,Nhồi máu cơ tim tiến triển ở vị trí khác
+I22.9,Nhồi máu cơ tim tiến triển ở vị trí không xác định
+I23,Một số biến chứng thường gặp sau nhồi máu cơ tim cấp
+I23.0,Biến chứng tràn máu màng ngoài tim sau nhồi máu cơ tim cấp
+I23.1,Biến chứng thủng vách liên nhĩ xảy ra sau nhồi máu cơ tim cấp
+I23.2,Biến chứng thủng vách liên thất sau nhồi máu cơ tim cấp
+I61.4,Xuất huyết nội sọ tại tiểu não
+I61.5,"Xuất huyết nội sọ, tại não thất"
+I61.6,"Xuất huyết nội sọ, tại nhiều nơi"
+I61.8,Xuất huyết nội sọ khác
+I61.9,"Xuất huyết nội sọ, không đặc hiệu"
+I62,Xuất huyết nội sọ không do chấn thương khác
+I62.0,Xuất huyết dưới màng cứng (cấp) (không do chấn thương)
+I62.1,"Xuất huyết ngoài màng cứng, không do chấn thương"
+I62.9,"Xuất huyết nội sọ không do chấn thương, không đặc hiệu"
+I63,Nhồi máu não
+I63.0,Nhồi máu não do huyết khối động mạch trước não
+I63.1,Nhồi máu não do thuyên tắc động mạch trước não
+I63.2,Nhồi máu não không đặc hiệu do tắc hay hẹp ở động mạch trước não
+I63.3,Nhồi máu não do huyết khối động mạch não
+I63.4,Nhồi máu não do thuyên tắc động mạch não
+I63.5,Nhồi máu não không xác định do tắc hay hẹp ở động mạch não
+I63.6,"Nhồi máu não do huyết khối tĩnh mạch não, không sinh mủ"
+I63.8,Nhồi máu não khác
+I63.9,"Nhồi máu não, không đặc hiệu"
+I64,"Đột quị, không xác định do xuất huyết hay nhồi máu (Tai biến mạch máu não)"
+I65,"Nghẽn tắc và hẹp động mạch trước não, không dẫn đến nhồi máu não"
+I65.0,Nghẽn tắc và hẹp động mạch đốt sống
+I65.1,Nghẽn tắc và hẹp động mạch nền
+I00,Thấp không có tổn thương tim
+I01,Thấp ảnh hưởng đến tim
+I01.0,Viêm màng ngoài tim do thấp cấp
+I01.1,Viêm nội tâm mạc cấp do thấp
+I01.2,Viêm cơ tim do thấp cấp
+I01.8,Bệnh tim cấp khác do thấp
+I02,Múa giật do thấp
+I02.0,Múa giật do thấp có ảnh hưởng đến tim
+I02.9,Múa giật do thấp không ảnh hưởng đến tim
+I05,Bệnh lý van hai lá do thấp
+I05.1,Hở van hai lá do thấp
+I05.2,Hẹp hở van hai lá
+I05.8,Bệnh van hai lá khác
+I06,Bệnh van động mạch chủ do thấp
+I06.0,Hẹp van động mạch chủ do thấp
+I06.1,Hở van động mạch chủ do thấp
+I06.8,Bệnh van động mạch chủ do thấp khác
+I06.9,Bệnh van động mạch chủ do thấp không đặc hiệu
+I07,Bệnh lý van ba lá do thấp
+I07.0,Hẹp van ba lá
+I07.2,Hẹp hở van ba lá
+I07.8,Bệnh lý khác của van ba lá
+I25.6,Thiếu máu cơ tim thầm lặng
+I25.8,Dạng khác của bệnh tim thiếu máu cục bộ mạn
+I26,Tắc mạch phổi
+I26.0,Thuyên tắc phổi có tâm phế cấp
+I26.9,Thuyên tắc phổi không có tâm phế cấp
+I27,Các bệnh tim do phổi khác
+I27.0,Tăng áp động mạch phổi nguyên phát
+I27.8,Bệnh tim do phổi đã xác định khác
+I27.9,"Bệnh tim do phổi, không đặc hiệu"
+I28,Bệnh mạch máu phổi khác
+I28.1,Phình động mạch phổi
+I28.8,Bệnh mạch máu phổi xác định khác
+I28.9,Bệnh mạch máu phổi không đặc hiệu
+I30,Viêm màng ngoài tim cấp
+I30.1,Viêm màng ngoài tim nhiễm trùng
+I30.8,Các thể khác của viêm màng ngoài tim cấp
+I30.9,"Viêm màng ngoài tim cấp, không đặc hiệu"
+I31,Các bệnh màng ngoài tim khác
+I31.0,Viêm dày dính màng ngoài tim mạn
+I31.1,Viêm màng ngoài tim co thắt mạn
+I31.2,"Tràn máu ngoại tâm mạc, không phân loại nơi khác"
+I31.3,Tràn dịch màng ngoài tim (không do viêm)
+I31.8,Bệnh màng ngoài tim khác
+I31.9,"Bệnh ngoại tâm mạc, không đặc hiệu"
+I32*,Viêm màng ngoài tim trong bệnh phân loại nơi khác
+I32.0*,Viêm màng ngoài tim trong bệnh nhiễm khuẩn phân loại nơi khác
+I32.1*,Viêm màng ngoài tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I32.8*,Viêm màng ngoài tim trong bệnh khác phân loại nơi khác
+I33,Viêm nội tâm mạc cấp và bán cấp
+I33.9,"Viêm nội tâm mạc cấp, không đặc hiệu"
+I34,Bệnh van hai lá không do thấp
+I34.0,Hở (van) hai lá
+I34.1,Sa (van) hai lá
+I34.2,Hẹp (van) hai lá không do thấp
+I34.8,Hẹp van hai lá không do thấp khác
+I34.9,Hẹp van hai lá không do thấp
+I35,Bệnh van động mạch chủ không do thấp
+I35.0,Hẹp (van) động mạch chủ
+I35.1,Hở (van) động mạch chủ
+I35.2,Hẹp hở (van) động mạch chủ
+I35.8,Bệnh van động mạch chủ khác
+I35.9,"Bệnh van động mạch chủ, không đặc hiệu"
+I36,Bệnh van ba lá không do thấp
+I36.0,Hẹp (van) ba lá không do thấp
+I36.1,Hở (van) ba lá không do thấp
+I36.8,Bệnh van ba lá không do thấp khác
+I36.9,"Bệnh van ba lá không do thấp khác, không đặc hiệu"
+I37,Bệnh van động mạch phổi
+I37.0,Hẹp van động mạch phổi
+I37.2,Hẹp hở van động mạch phổi
+I37.8,Bệnh van động mạch phổi khác
+I37.9,"Bệnh van động mạch phổi, không xác định"
+I39*,Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác
+I39.0*,Bệnh van hai lá trong bệnh phân loại nơi khác
+I39.1*,Bệnh van động mạch chủ trong bệnh phân loại nơi khác
+I39.2*,Bệnh van ba lá trong bệnh phân loại nơi khác
+I39.3*,Bệnh van động mạch phổi trong bệnh phân loại nơi khác
+I39.4*,Bệnh của nhiều van trong bệnh phân loại nơi khác
+I39.8*,"Viêm nội tâm mạc, không xác định van, trong bệnh phân loại nơi khác"
+I40,Viêm cơ tim cấp
+I40.0,Viêm cơ tim nhiễm trùng
+I40.1,Viêm cơ tim đơn thuần
+I40.8,Viêm cơ tim cấp khác
+I40.9,"Viêm cơ tim cấp, không đặc hiệu"
+I41*,Viêm cơ tim trong bệnh phân loại nơi khác
+I41.0*,Viêm cơ tim trong bệnh nhiễm trùng phân loại nơi khác
+I41.1*,Viêm cơ tim trong bệnh do virus phân loại nơi khác
+I41.8*,Viêm cơ tim trong bệnh khác phân loại nơi khác
+I42,Bệnh cơ tim
+I42.0,Bệnh cơ tim giãn
+I42.1,Bệnh cơ tim phì đại có tắc nghẽn
+I42.2,Bệnh cơ tim phì đại khác
+I42.3,Bệnh cơ-nội tâm mạc (nhiễm bạch cầu ái toan)
+I42.4,Xơ chun nội tâm mạc
+I42.5,Bệnh lý cơ tim hạn chế
+I42.7,Bệnh cơ tim do thuốc và tác nhân bên ngoài
+I42.8,Bệnh cơ tim khác
+I42.9,Bệnh cơ tim không đặc hiệu
+I43*,Bệnh cơ tim trong bệnh phân loại nơi khác
+I43.0*,Bệnh cơ tim trong bệnh nhiễm trùng và ký sinh trùng
+I43.1*,Bệnh cơ tim trong bệnh chuyển hóa
+I43.2*,Bệnh cơ tim trong các bệnh về dinh dưỡng
+I43.8*,Bệnh cơ tim trong bệnh khác phân loại nơi khác
+I44.0,Blốc nhĩ thất độ I
+I44.1,Blốc nhĩ thất độ II
+I44.2,"Blốc nhĩ thất, hoàn toàn"
+I44.4,Blốc nhánh trước trái
+I44.5,Blốc nhánh sau trái
+I44.6,Blốc nhánh khác và không xác định
+I44.7,Blốc nhánh trái không đặc hiệu
+I45.0,Blốc nhánh phải
+I45.1,Blốc nhánh phải khác và không xác định
+I45.2,Blốc hai nhánh
+I45.4,Blốc trong thất không đặc hiệu
+I45.5,Blốc tim xác định khác
+I45.6,Hội chứng kích thích sớm (hội chứng tiền kích thích)
+I45.9,Rối loạn dẫn truyền không đặc hiệu
+I46,Ngưng tim
+I46.0,Ngưng tim với hồi sức thành công
+I46.1,Đột tử do tim (được mô tả)
+I47,Nhịp nhanh kịch phát
+I47.0,Loạn nhịp thất do cơ chế vòng vào lại
+I47.1,Nhịp nhanh trên thất
+I47.9,"Nhịp nhanh kịch phát, không đặc hiệu"
+I48,Rung nhĩ và cuồng nhĩ
+I49.0,Rung thất và cuồng thất
+I49.01,Rung thất
+I49.02,Cuồng thất
+I49.2,Khử cực sớm vùng bộ nối
+I49.3,Ngoại tâm thu thất
+I49.5,Hội chứng suy nút xoang
+I49.8,Loạn nhịp tim xác định khác
+I49.9,"Rối loạn nhịp tim, không đặc hiệu"
+I50,Suy tim
+I50.1,Suy thất trái
+I50.9,"Suy tim, không đặc hiệu"
+I51,Biến chứng và bệnh lý được xác định là do bệnh tim mạch
+I51.3,"Huyết khối trong tim, không phân loại nơi khác"
+I51.4,"Viêm cơ tim, không đặc hiệu"
+I51.5,thoái hóa cơ tim
+I51.6,"Bệnh tim mạch, không đặc hiệu"
+I51.7,Tim to
+I51.9,"Bệnh tim, không đặc hiệu"
+I52*,Các bệnh lý khác trong các bệnh đã phân loại nơi khác
+I52.0*,Bệnh tim khác trong bệnh nhiễm trùng phân loại nơi khác
+I08,Bệnh lý của nhiều van tim
+I08.0,Bệnh Lý cả hai lá và van động mạch chủ
+I08.1,Bệnh cả van hai lá và van ba lá
+I08.3,"Bệnh lý phối hợp van hai lá, van động mạch chủ và van ba lá"
+I08.8,Bệnh lý nhiều van khác
+I08.9,"Bệnh lý nhiều van khác, không đặc hiệu"
+I09,Các bệnh tim khác do thấp
+I09.0,Viêm cơ tim do thấp
+I09.2,Viêm màng ngoài tim do thấp mãn tính
+I09.8,Các bệnh tim do thấp khác
+I09.9,"Bệnh tim do thấp, không đặc hiệu"
+I10,Bệnh tăng huyết áp vô căn (nguyên phát)
+I11,Bệnh tim do tăng huyết áp
+I11.0,"Bệnh tim do tăng huyết áp, có suy tim (sung huyết)"
+I12,Bệnh thận do tăng huyết áp
+I12.0,"Bệnh thận do tăng huyết áp, có suy thận"
+I12.9,"Bệnh thận do tăng huyết áp, không suy thận"
+I13,Bệnh tim và thận do tăng huyết áp
+I13.0,"Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết)"
+I13.1,"Bệnh tim và thận do tăng huyết áp, có suy thận"
+I13.9,"Bệnh tim và thận do tăng huyết áp, không đặc hiệu"
+I15,Tăng huyết áp thứ phát
+I15.0,Tăng huyết áp do nguyên nhân mạch thận
+I15.1,Tăng huyết áp thứ phát do bệnh thận khác
+I15.2,Tăng huyết áp thứ phát do rối loạn nội tiết
+I15.8,Tăng huyết áp thứ phát khác
+I20,Cơn đau thắt ngực
+I20.0,Cơn đau thắt ngực không ổn định
+I20.1,Cơn đau thắt ngực do co thắt mạch
+I20.8,Dạng khác của cơn đau thắt ngực
+I21,Nhồi máu cơ tim cấp
+I21.1,Nhồi máu cơ tim xuyên thành cấp của thành dưới
+I21.2,Nhồi máu xuyên thành cấp ở vị trí khác
+I21.3,Nhồi máu cơ tim xuyên thành cấp không rõ vị trí
+I22,Nhồi máu cơ tim tiến triển
+I22.0,Nhồi máu cơ tim tiến triển của thành trước
+I22.1,Nhồi máu cơ tim tiến triển của thành dưới
+I22.9,Nhồi máu cơ tim tiến triển ở vị trí không xác định
+I23,Một số biến chứng thường gặp sau nhồi máu cơ tim cấp
+I23.0,Biến chứng tràn máu màng ngoài tim sau nhồi máu cơ tim cấp
+I23.1,Biến chứng thủng vách liên nhĩ xảy ra sau nhồi máu cơ tim cấp
+I23.2,Biến chứng thủng vách liên thất sau nhồi máu cơ tim cấp
+I23.4,Biến chứng đứt dây chằng van hai lá sau nhồi máu cơ tim cấp
+I23.5,Biến chứng đứt cơ nhú sau nhồi máu cơ tim cấp
+I23.6,"Biến chứng huyết khối trong buồng tim tâm nhĩ, tiểu nhĩ và tâm thất sau nhồi máu cơ tim cấp"
+I23.8,Biến chứng khác xảy ra sau nhồi máu cơ tim cấp
+I24,Bệnh tim do thiếu máu cục bộ cấp khác
+I24.0,Huyết khối mạch vành không gây nhồi máu cơ tim
+I24.1,Hội chứng Dressler
+I24.8,Dạng khác của bệnh tim thiếu máu cục bộ cấp
+I25,Bệnh tim thiếu máu cục bộ mạn
+I25.0,Bệnh tim mạch do xơ vữa động mạch vành
+I25.1,Bệnh tim mạch do xơ vữa động mạch
+I25.2,Nhồi máu cơ tim cũ
+I25.3,Phình thành tim
+I68.1*,Viêm động mạch não trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác
+I68.2*,Viêm động mạch não trong bệnh khác phân loại nơi khác
+I68.8*,Ngập máu tăng ure máu trong bệnh thận mãn tính
+I69,Di chứng bệnh mạch máu não
+I69.0,Di chứng xuất huyết dưới màng nhện
+I69.2,Di chứng xuất huyết nội sọ không do chấn thương khác
+I69.3,Di chứng nhồi máu não
+I69.4,"Di chứng đột quỵ, không xác định là xuất huyết hay nhồi máu"
+I70,Xơ vữa động mạch
+I70.0,Xơ vữa động mạch chủ
+I70.1,Xơ vữa động mạch thận
+I70.2,Xơ vữa động mạch ngoại biên
+I70.8,Xơ vữa động mạch khác
+I71,Phình và tách thành động mạch chủ
+I71.0,Tách thành động mạch chủ (bất kỳ đoạn nào)
+I71.1,"Phình động mạch chủ ngực, vỡ"
+I71.2,"Phình động mạch chủ ngực, không vỡ"
+I71.3,"Phình động mạch chủ bụng, vỡ"
+I71.5,"Phình động mạch chủ ngực-bụng, vỡ"
+I71.6,"Phình động mạch chủ ngực-bụng, không vỡ"
+I71.8,"Phình động mạch chủ, vị trí không xác định, vỡ"
+I71.9,"Phình động mạch chủ, vị trí không xác định, không vỡ"
+I72.0,Phình và tách động mạch cảnh
+I72.1,Phình và tách động mạch chi trên
+I72.2,Phình và tách động mạch thận
+I72.5,Phình và tách động mạch nền (thân)
+I72.6,Phình và tách động mạch đốt sống
+I72.8,Phình và tách động mạch xác định khác
+I72.9,"Phình và tách động mạch, vị trí không xác định"
+I73.0,Hội chứng Raynaud
+I73.1,Viêm tắc mạch huyết khối [Buerger]
+I73.8,Bệnh mạch máu ngoại biên xác định khác
+I74,Thuyên tắc và huyết khối động mạch
+I74.0,Thuyên tắc và huyết khối động mạch chủ bụng
+I74.1,"Thuyên tắc và huyết khối, đoạn động mạch chủ khác và không xác định"
+I74.2,Thuyên tắc và huyết khối động mạch chi trên
+I74.4,Thuyên tắc và huyết khối động mạch chi không đặc hiệu
+I74.5,Thuyên tắc và huyết khối động mạch chậu
+I74.8,Thuyên tắc và huyết khối động mạch khác
+I74.9,"Thuyên tắc và huyết khối động mạch, không xác định"
+I77,Các bệnh khác của hệ động mạch và tiểu động mạch
+I77.2,Vỡ động mạch
+I77.3,Loạn sản chun xơ cơ của động mạch
+I77.5,Hoại tử động mạch
+I77.6,"Viêm động mạch, không đặc hiệu"
+I77.8,Bệnh xác định khác của động mạch và tiểu động mạch
+I77.9,"Bệnh động mạch và tiểu động mạch, không đặc hiệu"
+I78.0,Dãn mạch di truyền xuất huyết
+I68.0*,Bệnh mạch máu não do thoái hóa dạng bột E85.-
+I78.8,Bệnh khác của mao mạch
+I79*,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I79.0*,Phình động mạch chủ trong bệnh phân loại nơi khác
+I79.1*,Viêm động mạch chủ trong bệnh phân loại nơi khác
+I79.2*,Bệnh lý mạch máu ngoại biên trong bệnh phân loại nơi khác
+I98.2*,Giãn tĩnh mạch thực quản không chảy máu trong bệnh phân loại nơi khác
+I98.8*,Rối loạn hệ tuần hoàn xác định khác trong bệnh phân loại nơi khác
+I99,Rối loạn hệ tuần hoàn khác và không xác định của hệ tuần hoàn
+I79.8*,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I80,Viêm tĩnh mạch và tắc tĩnh mạch
+I80.0,Viêm tĩnh mạch và viêm tắc tĩnh mạch nông ở chi dưới
+I80.2,Viêm tĩnh mạch và viêm tắc tĩnh mạch của các tĩnh mạch sâu khác ở chi dưới
+I80.3,"Viêm tĩnh mạch và viêm tắc tĩnh mạch ở chi dưới, không đặc hiệu"
+I80.8,Viêm tĩnh mạch và viêm tắc tĩnh mạch ở vị trí khác
+I80.9,"Viêm tĩnh mạch và viêm tắc tĩnh mạch, vị trí không xác định"
+I82,Các thuyên tắc và huyết khối tĩnh mạch khác
+I82.0,Hội chứng Budd-Chiari
+I82.1,Viêm tắc tĩnh mạch tái phát (migrans)
+I82.2,Thuyên tắc và huyết khối tĩnh mạch chủ
+I82.8,Thuyên tắc và huyết khối tĩnh mạch khác
+I82.9,"Thuyên tắc và huyết khối, không xác định tĩnh mạch"
+I83,Dãn tĩnh mạch chi dưới
+I83.0,Dãn tĩnh mạch chi dưới có loét
+I83.2,Dãn tĩnh mạch chi dưới có loét và viêm
+I83.9,Dãn tĩnh mạch chi dưới không loét không viêm
+I83.90,"Dãn tĩnh mạch không triệu chứng của chi dưới không xác định, Dãn tĩnh mạch NOS"
+I83.91,Dãn tĩnh mạch không triệu chứng của chi dưới bên phải
+I83.93,Dãn tĩnh mạch không triệu chứng của chi dưới hai bên
+I85,Dãn tĩnh mạch thực quản
+I85.0,Dãn tĩnh mạch thực quản có chảy máu
+I85.9,Dãn tĩnh mạch thực quản không chảy máu
+I86,Dãn tĩnh mạch vị trí khác
+I86.1,Túi dãn tĩnh mạch bìu
+I86.2,Dãn tĩnh mạch chậu
+I86.3,Dãn tĩnh mạch âm hộ
+I86.8,Dãn tĩnh mạch ở vị trí xác định khác
+I87,Rối loạn khác của tĩnh mạch
+I87.0,Hội chứng sau huyết khối
+I87.2,Suy tĩnh mạch (mạn) (ngoại biên)
+I87.8,Rối loạn khác tĩnh mạch xác định khác
+I88,Viêm hạch bạch huyết không đặc hiệu
+I88.0,Viêm hạch bạch huyết mạc treo không đặc hiệu
+I88.1,"Viêm hạch bạch huyết mạn, ngoại trừ mạc treo"
+I88.8,Viêm hạch bạch huyết không đặc hiệu khác
+I88.9,"Viêm hạch bạch huyết không đặc hiệu, không đặc hiệu"
+I89.0,"Phù bạch huyết, không phân loại nơi khác"
+I89.1,Viêm mạch bạch huyết
+I89.8,Rối loạn mạch bạch huyết và hạch bạch huyết xác định khác không do nhiễm trùng
+I89.9,"Rối loạn mạch bạch huyết và hạch bạch huyết không do nhiễm trùng, không đặc hiệu"
+I95,Huyết áp thấp (hạ huyết áp)
+I95.0,Hạ huyết áp không rõ nguyên nhân
+I95.1,Hạ huyết áp thế đứng
+I95.8,Hạ huyết áp khác
+I95.9,"Hạ huyết áp, không đặc hiệu"
+I97,"Rối loạn hệ tuần hoàn sau phẫu thuật, chưa phân loại nơi khác"
+I97.1,Rối loạn chức năng khác sau phẫu thuật tim
+I97.2,Hội chứng phù hạch bạch huyết sau cắt bỏ tuyến vú
+I97.9,"Rối loạn hệ tuần hoàn sau phẫu thuật, không đặc hiệu"
+I98*,Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác
+I73,Bệnh mạch máu ngoại biên
+I73.9,"Bệnh mạch máu ngoại biên, không đặc hiệu"
+I74.3,Thuyên tắc và huyết khối động mạch chi dưới
+I77.1,Co hẹp động mạch
+I77.4,Hội chứng chèn ép động mạch tạng
+I78,Bệnh của mao mạch
+I08.2,Bệnh cả van động mạch chủ và van ba lá
+I09.1,"Bệnh nội tâm mạc do thấp, có tổn thương van không đặc hiệu"
+I11.9,"Bệnh tim do tăng huyết áp, không suy tim (sung huyết)"
+I15.9,Tăng huyết áp thứ phát không đặc hiệu
+I20.9,"Cơn đau thắt ngực, không đặc hiệu"
+I21.4,Nhồi máu cơ tim dưới nội tâm mạc cấp
+I22.8,Nhồi máu cơ tim tiến triển ở vị trí khác
+I23.3,Biến chứng nứt thành tim không có tràn máu màng ngoài tim sau nhồi máu cơ tim cấp
+I24.9,"Bệnh tim do thiếu máu cục bộ cấp, không đặc hiệu"
+I25.4,Phình động mạch vành
+I78.9,"Bệnh khác của mao mạch, không đặc hiệu"
+I78.1,"Tổn thương mạch máu trên da (Naevus), không tân sinh"
+I77.0,Dò động - tĩnh mạch mắc phải
+I60.9,"Xuất huyết dưới màng nhện, không đặc hiệu"
+I61.3,Xuất huyết nội sọ tại thân não
+I21.9,"Nhồi máu cơ tim cấp, không đặc hiệu"
+I61.9,"Xuất huyết nội sọ, không đặc hiệu"
+I63,Nhồi máu não
+I41.2*,Viêm cơ tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I42.6,Bệnh cơ tim do rượu
+I44,Blốc nhĩ thất và nhánh trái
+I44.3,Blốc nhĩ thất khác và không xác định
+I45,Rối loạn dẫn truyền khác
+I45.3,Blốc ba nhánh
+I45.8,"Rối loạn dẫn truyền, xác định khác"
+I46.9,Ngưng tim không đặc hiệu
+I47.2,Nhịp nhanh thất
+I49,Loạn nhịp tim khác
+I49.1,Ngoại tâm thu nhĩ
+I49.4,Khử cực sớm khác và không xác định
+I50.0,Suy tim sung huyết
+I51.2,"Đứt cơ nhú, không có trong phân loại nơi khác"
+I51.8,Bệnh lý khác được xác định là bệnh lý của tim
+I80.1,Viêm tĩnh mạch và viêm tắc tĩnh mạch đùi
+I81,Huyết khối tĩnh mạch cửa
+I82.3,Thuyên tắc và huyết khối tĩnh mạch thận
+I83.1,Dãn tĩnh mạch chi dưới có viêm
+I83.92,Dãn tĩnh mạch không triệu chứng của chi dưới bên trái
+I86.0,Dãn tĩnh mạch dưới lưỡi
+I86.4,Dãn tĩnh mạch dạ dày
+I87.1,Ép tĩnh mạch
+I87.9,"Rối loạn khác tĩnh mạch, không đặc hiệu khác"
+I89,Rối loạn mạch bạch huyết và hạch bạch huyết không nhiễm trùng khác
+I95.2,Hạ huyết áp do thuốc
+I97.0,Hội chứng sau mổ tim
+I97.8,"Rối loạn hệ tuần hoàn khác sau phẫu thuật, không phân loại nơi khác"
+I69.1,Di chứng xuất huyết nội sọ
+I69.8,Di chứng bệnh mạch máu não khác và không xác định
+I70.9,"Xơ vữa động mạch, toàn thể và không xác định"
+I71.4,"Phình động mạch chủ bụng, không vỡ"
+I72,Phình và tách động mạch khác
+I72.3,Phình và tách động mạch chậu
+I67.0,"Tách thành động mạch não, không vỡ"
+I67.5,Bệnh Moyamoya
+I67.8,Bệnh mạch máu não xác định khác
+I98.1*,Rối loạn tim mạch trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I51.1,"Đứt dây chằng van tim, không có trong phân loại nơi khác"
+I72.4,Phình và tách động mạch chi dưới
+I63.6,"Nhồi máu não do huyết khối tĩnh mạch não, không sinh mủ"
+I48.3,Rung nhĩ điển hình
+I51.0,"Thông vách ngăn tim, mắc phải"
+I84.0,Trĩ nội gây huyết khối
+I84.3,Trĩ ngoại huyết khối
+I84.6,Dãn da do trĩ sót lại
+I84.9,"Trĩ không xác định, không biến chứng"
+I65.1,Nghẽn tắc và hẹp động mạch nền
+I01.9,"Bệnh tim do thấp cấp, không đặc hiệu"
+I05.0,Hẹp van hai lá
+I05.9,"Bệnh van hai lá, không đặc hiệu"
+I06.2,Hẹp Hở van động mạch chủ do thấp
+I07.1,Hở van ba lá
+I07.9,Bệnh lý van ba lá khác không đặc hiệu
+I25.9,"Bệnh tim thiếu máu cục bộ mạn, không đặc hiệu"
+I27.1,Bệnh tim do gù vẹo cột sống
+I28.0,Dò động - tĩnh mạch phổi
+I30.0,"Viêm màng ngoài tim cấp, không rõ nguyên nhân, không đặc hiệu"
+I36.2,Hẹp kèm hở van ba lá không do thấp
+I37.1,Hở van động mạch phổi
+I38,"Viêm nội tâm mạc, không xác định"
+I25.5,Bệnh cơ tim do thiếu máu cục bộ
+I13.2,"Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết) và suy thận"
+I21.0,Nhồi máu cơ tim trước vách cấp xuyên thành của thành trước
+I27.2,Tăng huyết áp động mạch phổi thứ phát
+I33.0,Viêm nội tâm mạc nhiễm trùng cấp và bán cấp
+I48.0,Rung nhĩ kịch phát
+I48.1,Rung nhĩ dai dẳng
+I48.2,Rung nhĩ mãn tính
+I48.4,Cuồng nhĩ không điển hình
+I48.9,"Rung nhĩ và cuồng nhĩ, không đặc hiệu"
+I66.8,Nghẽn tắc và hẹp động mạch não khác
+I84,Trĩ
+I84.1,Trĩ nội có biến chứng khác
+I84.2,Trĩ nội không biến chứng
+I84.4,Trĩ ngoại với biến chứng khác
+I84.5,Trĩ ngoại không biến chứng
+I84.7,Trĩ gây huyết khối không chẩn đoán
+I84.8,"Trĩ không xác định, có biến chứng khác"
+I98.3*,Dãn tĩnh mạch thực quản chảy máu trong bệnh phân loại nơi khác
+I66,"Nghẽn tắc và hẹp động mạch não, không dẫn đến nhồi máu não"
+I52.1*,Bệnh tim khác trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I98.0*,Giang mai tim mạch
+I63.8,Nhồi máu não khác
+I63.9,"Nhồi máu não, không đặc hiệu"
+I64,"Đột quị, không xác định do xuất huyết hay nhồi máu (Tai biến mạch máu não)"
+I65,"Nghẽn tắc và hẹp động mạch trước não, không dẫn đến nhồi máu não"
+I65.0,Nghẽn tắc và hẹp động mạch đốt sống
+I65.1,Nghẽn tắc và hẹp động mạch nền
+I65.2,Nghẽn tắc và hẹp động mạch cảnh
+I65.3,Nghẽn tắc và hẹp nhiều động mạch và động mạch trước não hai bên
+I65.8,Nghẽn tắc và hẹp của động mạch trước não khác
+I65.9,Nghẽn tắc và hẹp của động mạch trước não không xác định
+I66,"Nghẽn tắc và hẹp động mạch não, không dẫn đến nhồi máu não"
+I66.0,Nghẽn tắc và hẹp động mạch não giữa
+I66.1,Nghẽn tắc và hẹp động mạch não trước
+I66.2,Nghẽn tắc và hẹp động mạch não sau
+I66.3,Nghẽn tắc và hẹp động mạch tiểu não
+I66.4,Nghẽn tắc và hẹp nhiều động mạch não hai bên
+I66.8,Nghẽn tắc và hẹp động mạch não khác
+I66.9,"Nghẽn tắc và hẹp động mạch não, không xác định"
+I67,Bệnh mạch máu não khác
+I67.0,"Tách thành động mạch não, không vỡ"
+I67.1,"Phình động mạch não, không vỡ"
+I67.2,Xơ vữa động mạch não
+I67.3,Bệnh lý chất trắng não do nguyên nhân mạch máu
+I67.4,Bệnh lý não do tăng huyết áp
+I67.5,Bệnh Moyamoya
+I67.6,Huyết khối không sinh mủ của hệ tĩnh mạch nội sọ
+I67.7,"Viêm động mạch não, không phân loại nơi khác"
+I67.8,Bệnh mạch máu não xác định khác
+I67.9,Bệnh mạch máu não không đặc hiệu
+I68,Bệnh mạch máu não trong bệnh phân loại nơi khác
+I68*,Bệnh mạch máu não trong bệnh phân loại nơi khác
+I68.0*,Bệnh mạch máu não do thoái hóa dạng bột E85.-
+I68.1*,Viêm động mạch não trong bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác
+I68.2*,Viêm động mạch não trong bệnh khác phân loại nơi khác
+I68.8*,Ngập máu tăng ure máu trong bệnh thận mãn tính
+I69,Di chứng bệnh mạch máu não
+I69.0,Di chứng xuất huyết dưới màng nhện
+I69.1,Di chứng xuất huyết nội sọ
+I69.2,Di chứng xuất huyết nội sọ không do chấn thương khác
+I69.3,Di chứng nhồi máu não
+I69.4,"Di chứng đột quỵ, không xác định là xuất huyết hay nhồi máu"
+I69.8,Di chứng bệnh mạch máu não khác và không xác định
+I70,Xơ vữa động mạch
+I70.0,Xơ vữa động mạch chủ
+I70.1,Xơ vữa động mạch thận
+I70.2,Xơ vữa động mạch ngoại biên
+I70.8,Xơ vữa động mạch khác
+I70.9,"Xơ vữa động mạch, toàn thể và không xác định"
+I71,Phình và tách thành động mạch chủ
+I71.0,Tách thành động mạch chủ (bất kỳ đoạn nào)
+I71.1,"Phình động mạch chủ ngực, vỡ"
+I71.2,"Phình động mạch chủ ngực, không vỡ"
+I71.3,"Phình động mạch chủ bụng, vỡ"
+I71.4,"Phình động mạch chủ bụng, không vỡ"
+I71.5,"Phình động mạch chủ ngực-bụng, vỡ"
+I71.6,"Phình động mạch chủ ngực-bụng, không vỡ"
+I71.8,"Phình động mạch chủ, vị trí không xác định, vỡ"
+I00,Thấp không có tổn thương tim
+I01,Thấp ảnh hưởng đến tim
+I01.0,Viêm màng ngoài tim do thấp cấp
+I01.1,Viêm nội tâm mạc cấp do thấp
+I01.2,Viêm cơ tim do thấp cấp
+I01.8,Bệnh tim cấp khác do thấp
+I01.9,"Bệnh tim do thấp cấp, không đặc hiệu"
+I02,Múa giật do thấp
+I02.0,Múa giật do thấp có ảnh hưởng đến tim
+I02.9,Múa giật do thấp không ảnh hưởng đến tim
+I05,Bệnh lý van hai lá do thấp
+I05.0,Hẹp van hai lá
+I05.1,Hở van hai lá do thấp
+I05.2,Hẹp hở van hai lá
+I05.8,Bệnh van hai lá khác
+I05.9,"Bệnh van hai lá, không đặc hiệu"
+I06,Bệnh van động mạch chủ do thấp
+I06.0,Hẹp van động mạch chủ do thấp
+I06.1,Hở van động mạch chủ do thấp
+I06.2,Hẹp Hở van động mạch chủ do thấp
+I06.8,Bệnh van động mạch chủ do thấp khác
+I06.9,Bệnh van động mạch chủ do thấp không đặc hiệu
+I07,Bệnh lý van ba lá do thấp
+I07.0,Hẹp van ba lá
+I07.1,Hở van ba lá
+I07.2,Hẹp hở van ba lá
+I07.8,Bệnh lý khác của van ba lá
+I07.9,Bệnh lý van ba lá khác không đặc hiệu
+I08,Bệnh lý của nhiều van tim
+I08.0,Bệnh Lý cả hai lá và van động mạch chủ
+I08.1,Bệnh cả van hai lá và van ba lá
+I08.2,Bệnh cả van động mạch chủ và van ba lá
+I08.3,"Bệnh lý phối hợp van hai lá, van động mạch chủ và van ba lá"
+I08.8,Bệnh lý nhiều van khác
+I08.9,"Bệnh lý nhiều van khác, không đặc hiệu"
+I09,Các bệnh tim khác do thấp
+I09.0,Viêm cơ tim do thấp
+I09.1,"Bệnh nội tâm mạc do thấp, có tổn thương van không đặc hiệu"
+I09.2,Viêm màng ngoài tim do thấp mãn tính
+I09.8,Các bệnh tim do thấp khác
+I09.9,"Bệnh tim do thấp, không đặc hiệu"
+I10,Bệnh lý tăng huyết áp
+I11,Bệnh tim do tăng huyết áp
+I11.0,"Bệnh tim do tăng huyết áp, có suy tim (sung huyết)"
+I11.9,"Bệnh tim do tăng huyết áp, không suy tim (sung huyết)"
+I12,Bệnh thận do tăng huyết áp
+I12.0,"Bệnh thận do tăng huyết áp, có suy thận"
+I12.9,"Bệnh thận do tăng huyết áp, không suy thận"
+I13,Bệnh tim và thận do tăng huyết áp
+I13.0,"Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết)"
+I13.1,"Bệnh tim và thận do tăng huyết áp, có suy thận"
+I13.2,"Bệnh tim và thận do tăng huyết áp, có suy tim (sung huyết) và suy thận"
+I13.9,"Bệnh tim và thận do tăng huyết áp, không đặc hiệu"
+I787,đsadsấ
+I99,Rối loạn hệ tuần hoàn khác và không xác định của hệ tuần hoàn
+I71.9,"Phình động mạch chủ, vị trí không xác định, không vỡ"
+I72,Phình và tách động mạch khác
+I72.0,Phình và tách động mạch cảnh
+I72.1,Phình và tách động mạch chi trên
+I72.2,Phình và tách động mạch thận
+I72.3,Phình và tách động mạch chậu
+I72.4,Phình và tách động mạch chi dưới
+I72.5,Phình và tách động mạch nền (thân)
+I72.6,Phình và tách động mạch đốt sống
+I72.8,Phình và tách động mạch xác định khác
+I72.9,"Phình và tách động mạch, vị trí không xác định"
+I73,Bệnh mạch máu ngoại biên
+I73.0,Hội chứng Raynaud
+I73.1,Viêm tắc mạch huyết khối [Buerger]
+I73.8,Bệnh mạch máu ngoại biên xác định khác
+I73.9,"Bệnh mạch máu ngoại biên, không đặc hiệu"
+I74,Thuyên tắc và huyết khối động mạch
+I74.0,Thuyên tắc và huyết khối động mạch chủ bụng
+I74.1,"Thuyên tắc và huyết khối, đoạn động mạch chủ khác và không xác định"
+I74.2,Thuyên tắc và huyết khối động mạch chi trên
+I74.3,Thuyên tắc và huyết khối động mạch chi dưới
+I74.4,Thuyên tắc và huyết khối động mạch chi không đặc hiệu
+I74.5,Thuyên tắc và huyết khối động mạch chậu
+I74.8,Thuyên tắc và huyết khối động mạch khác
+I74.9,"Thuyên tắc và huyết khối động mạch, không xác định"
+I77,Các bệnh khác của hệ động mạch và tiểu động mạch
+I77.0,Dò động - tĩnh mạch mắc phải
+I77.1,Co hẹp động mạch
+I77.2,Vỡ động mạch
+I77.3,Loạn sản chun xơ cơ của động mạch
+I77.4,Hội chứng chèn ép động mạch tạng
+I77.5,Hoại tử động mạch
+I77.6,"Viêm động mạch, không đặc hiệu"
+I77.8,Bệnh xác định khác của động mạch và tiểu động mạch
+I77.9,"Bệnh động mạch và tiểu động mạch, không đặc hiệu"
+I78,Bệnh của mao mạch
+I78.0,Dãn mạch di truyền xuất huyết
+I78.1,"Tổn thương mạch máu trên da (Naevus), không tân sinh"
+I78.8,Bệnh khác của mao mạch
+I78.9,"Bệnh khác của mao mạch, không đặc hiệu"
+I79,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I79*,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I79.0*,Phình động mạch chủ trong bệnh phân loại nơi khác
+I79.1*,Viêm động mạch chủ trong bệnh phân loại nơi khác
+I79.8*,"Bệnh động mạch, tiểu động mạch và mao mạch trong bệnh phân loại nơi khác"
+I79.2*,Bệnh lý mạch máu ngoại biên trong bệnh phân loại nơi khác
+I80,Viêm tĩnh mạch và tắc tĩnh mạch
+I80.0,Viêm tĩnh mạch và viêm tắc tĩnh mạch nông ở chi dưới
+I80.1,Viêm tĩnh mạch và viêm tắc tĩnh mạch đùi
+I80.2,Viêm tĩnh mạch và viêm tắc tĩnh mạch của các tĩnh mạch sâu khác ở chi dưới
+I80.3,"Viêm tĩnh mạch và viêm tắc tĩnh mạch ở chi dưới, không đặc hiệu"
+I80.8,Viêm tĩnh mạch và viêm tắc tĩnh mạch ở vị trí khác
+I80.9,"Viêm tĩnh mạch và viêm tắc tĩnh mạch, vị trí không xác định"
+I81,Huyết khối tĩnh mạch cửa
+I82,Các thuyên tắc và huyết khối tĩnh mạch khác
+I65565,gdfgdfg
+I15,Tăng huyết áp thứ phát
+I15.0,Tăng huyết áp do nguyên nhân mạch thận
+I15.1,Tăng huyết áp thứ phát do bệnh thận khác
+I15.2,Tăng huyết áp thứ phát do rối loạn nội tiết
+I15.8,Tăng huyết áp thứ phát khác
+I15.9,Tăng huyết áp thứ phát không đặc hiệu
+I20,Cơn đau thắt ngực
+I20.0,Cơn đau thắt ngực không ổn định
+I20.1,Cơn đau thắt ngực do co thắt mạch
+I20.8,Dạng khác của cơn đau thắt ngực
+I20.9,"Cơn đau thắt ngực, không đặc hiệu"
+I21,Nhồi máu cơ tim cấp
+I21.0,Nhồi máu cơ tim trước vách cấp xuyên thành của thành trước
+I21.1,Nhồi máu cơ tim xuyên thành cấp của thành dưới
+I21.2,Nhồi máu xuyên thành cấp ở vị trí khác
+I21.3,Nhồi máu cơ tim xuyên thành cấp không rõ vị trí
+I21.4,Nhồi máu cơ tim dưới nội tâm mạc cấp
+I21.9,"Nhồi máu cơ tim cấp, không đặc hiệu"
+I22,Nhồi máu cơ tim tiến triển
+I22.0,Nhồi máu cơ tim tiến triển của thành trước
+I22.1,Nhồi máu cơ tim tiến triển của thành dưới
+I22.8,Nhồi máu cơ tim tiến triển ở vị trí khác
+I22.9,Nhồi máu cơ tim tiến triển ở vị trí không xác định
+I23,Một số biến chứng thường gặp sau nhồi máu cơ tim cấp
+I23.0,Biến chứng tràn máu màng ngoài tim sau nhồi máu cơ tim cấp
+I23.1,Biến chứng thủng vách liên nhĩ xảy ra sau nhồi máu cơ tim cấp
+I23.2,Biến chứng thủng vách liên thất sau nhồi máu cơ tim cấp
+I23.3,Biến chứng nứt thành tim không có tràn máu màng ngoài tim sau nhồi máu cơ tim cấp
+I23.4,Biến chứng đứt dây chằng van hai lá sau nhồi máu cơ tim cấp
+I23.5,Biến chứng đứt cơ nhú sau nhồi máu cơ tim cấp
+I23.6,"Biến chứng huyết khối trong buồng tim tâm nhĩ, tiểu nhĩ và tâm thất sau nhồi máu cơ tim cấp"
+I23.8,Biến chứng khác xảy ra sau nhồi máu cơ tim cấp
+I24,Bệnh tim do thiếu máu cục bộ cấp khác
+I24.0,Huyết khối mạch vành không gây nhồi máu cơ tim
+I24.1,Hội chứng Dressler
+I24.8,Dạng khác của bệnh tim thiếu máu cục bộ cấp
+I24.9,"Bệnh tim do thiếu máu cục bộ cấp, không đặc hiệu"
+I25,Bệnh tim thiếu máu cục bộ mạn
+I25.0,Bệnh tim mạch do xơ vữa động mạch vành
+I25.1,Bệnh tim mạch do xơ vữa động mạch
+I25.2,Nhồi máu cơ tim cũ
+I25.3,Phình thành tim
+I25.4,Phình động mạch vành
+I25.5,Bệnh cơ tim do thiếu máu cục bộ
+I25.6,Thiếu máu cơ tim thầm lặng
+I25.8,Dạng khác của bệnh tim thiếu máu cục bộ mạn
+I25.9,"Bệnh tim thiếu máu cục bộ mạn, không đặc hiệu"
+I26,Tắc mạch phổi
+I26.0,Thuyên tắc phổi có tâm phế cấp
+I26.9,Thuyên tắc phổi không có tâm phế cấp
+I27,Các bệnh tim do phổi khác
+I27.0,Tăng áp động mạch phổi nguyên phát
+I27.1,Bệnh tim do gù vẹo cột sống
+I82.0,Hội chứng Budd-Chiari
+I82.1,Viêm tắc tĩnh mạch tái phát (migrans)
+I82.2,Thuyên tắc và huyết khối tĩnh mạch chủ
+I82.3,Thuyên tắc và huyết khối tĩnh mạch thận
+I82.8,Thuyên tắc và huyết khối tĩnh mạch khác
+I82.9,"Thuyên tắc và huyết khối, không xác định tĩnh mạch"
+I83,Dãn tĩnh mạch chi dưới
+I83.0,Dãn tĩnh mạch chi dưới có loét
+I83.1,Dãn tĩnh mạch chi dưới có viêm
+I83.2,Dãn tĩnh mạch chi dưới có loét và viêm
+I83.9,Dãn tĩnh mạch chi dưới không loét không viêm
+I85,Dãn tĩnh mạch thực quản
+I85.0,Dãn tĩnh mạch thực quản có chảy máu
+I85.9,Dãn tĩnh mạch thực quản không chảy máu
+I86,Dãn tĩnh mạch vị trí khác
+I86.0,Dãn tĩnh mạch dưới lưỡi
+I86.1,Túi dãn tĩnh mạch bìu
+I86.2,Dãn tĩnh mạch chậu
+I86.3,Dãn tĩnh mạch âm hộ
+I86.4,Dãn tĩnh mạch dạ dày
+I86.8,Dãn tĩnh mạch ở vị trí xác định khác
+I87,Rối loạn khác của tĩnh mạch
+I87.0,Hội chứng sau huyết khối
+I87.1,Ép tĩnh mạch
+I87.2,Suy tĩnh mạch (mạn) (ngoại biên)
+I87.8,Rối loạn khác tĩnh mạch xác định khác
+I27.2,Tăng huyết áp động mạch phổi thứ phát
+I27.8,Bệnh tim do phổi đã xác định khác
+I27.9,"Bệnh tim do phổi, không đặc hiệu"
+I28,Bệnh mạch máu phổi khác
+I87.9,"Rối loạn khác tĩnh mạch, không đặc hiệu khác"
+I88,Viêm hạch bạch huyết không đặc hiệu
+I88.0,Viêm hạch bạch huyết mạc treo không đặc hiệu
+I88.1,"Viêm hạch bạch huyết mạn, ngoại trừ mạc treo"
+I88.8,Viêm hạch bạch huyết không đặc hiệu khác
+I88.9,"Viêm hạch bạch huyết không đặc hiệu, không đặc hiệu"
+I89,Rối loạn mạch bạch huyết và hạch bạch huyết không nhiễm trùng khác
+I89.0,"Phù bạch huyết, không phân loại nơi khác"
+I89.1,Viêm mạch bạch huyết
+I89.8,Rối loạn mạch bạch huyết và hạch bạch huyết xác định khác không do nhiễm trùng
+I89.9,"Rối loạn mạch bạch huyết và hạch bạch huyết không do nhiễm trùng, không đặc hiệu"
+I95,Huyết áp thấp (hạ huyết áp)
+I95.0,Hạ huyết áp không rõ nguyên nhân
+I95.1,Hạ huyết áp thế đứng
+I95.2,Hạ huyết áp do thuốc
+I95.8,Hạ huyết áp khác
+I95.9,"Hạ huyết áp, không đặc hiệu"
+I97,"Rối loạn hệ tuần hoàn sau phẫu thuật, chưa phân loại nơi khác"
+I97.0,Hội chứng sau mổ tim
+I97.1,Rối loạn chức năng khác sau phẫu thuật tim
+I97.2,Hội chứng phù hạch bạch huyết sau cắt bỏ tuyến vú
+I97.8,"Rối loạn hệ tuần hoàn khác sau phẫu thuật, không phân loại nơi khác"
+I97.9,"Rối loạn hệ tuần hoàn sau phẫu thuật, không đặc hiệu"
+I98,Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác
+I98*,Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác
+I98.0*,Giang mai tim mạch
+I98.1*,Rối loạn tim mạch trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I98.2*,Giãn tĩnh mạch thực quản không chảy máu trong bệnh phân loại nơi khác
+I98.3*,Dãn tĩnh mạch thực quản chảy máu trong bệnh phân loại nơi khác
+I98.8*,Rối loạn hệ tuần hoàn xác định khác trong bệnh phân loại nơi khác
+I28.0,Dò động - tĩnh mạch phổi
+I28.1,Phình động mạch phổi
+I28.8,Bệnh mạch máu phổi xác định khác
+I28.9,Bệnh mạch máu phổi không đặc hiệu
+I30,Viêm màng ngoài tim cấp
+I30.0,"Viêm màng ngoài tim cấp, không rõ nguyên nhân, không đặc hiệu"
+I30.1,Viêm màng ngoài tim nhiễm trùng
+I30.8,Các thể khác của viêm màng ngoài tim cấp
+I30.9,"Viêm màng ngoài tim cấp, không đặc hiệu"
+I31,Các bệnh màng ngoài tim khác
+I31.0,Viêm dày dính màng ngoài tim mạn
+I31.1,Viêm màng ngoài tim co thắt mạn
+I31.2,"Tràn máu ngoại tâm mạc, không phân loại nơi khác"
+I31.3,Tràn dịch màng ngoài tim (không do viêm)
+I31.8,Bệnh màng ngoài tim khác
+I31.9,"Bệnh ngoại tâm mạc, không đặc hiệu"
+I32,Viêm màng ngoài tim trong bệnh phân loại nơi khác
+I32*,Viêm màng ngoài tim trong bệnh phân loại nơi khác
+I32.0*,Viêm màng ngoài tim trong bệnh nhiễm khuẩn phân loại nơi khác
+I32.1*,Viêm màng ngoài tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I32.8*,Viêm màng ngoài tim trong bệnh khác phân loại nơi khác
+I33,Viêm nội tâm mạc cấp và bán cấp
+I33.0,Viêm nội tâm mạc nhiễm trùng cấp và bán cấp
+I33.9,"Viêm nội tâm mạc cấp, không đặc hiệu"
+I34,Bệnh van hai lá không do thấp
+I34.0,Hở (van) hai lá
+I34.1,Sa (van) hai lá
+I34.2,Hẹp (van) hai lá không do thấp
+I34.8,Hẹp van hai lá không do thấp khác
+I34.9,Hẹp van hai lá không do thấp
+I35,Bệnh van động mạch chủ không do thấp
+I35.0,Hẹp (van) động mạch chủ
+I35.1,Hở (van) động mạch chủ
+I35.2,Hẹp hở (van) động mạch chủ
+I35.8,Bệnh van động mạch chủ khác
+I35.9,"Bệnh van động mạch chủ, không đặc hiệu"
+I36,Bệnh van ba lá không do thấp
+I36.0,Hẹp (van) ba lá không do thấp
+I36.1,Hở (van) ba lá không do thấp
+I36.2,Hẹp kèm hở van ba lá không do thấp
+I36.8,Bệnh van ba lá không do thấp khác
+I36.9,"Bệnh van ba lá không do thấp khác, không đặc hiệu"
+I37,Bệnh van động mạch phổi
+I37.0,Hẹp van động mạch phổi
+I37.1,Hở van động mạch phổi
+I37.2,Hẹp hở van động mạch phổi
+I37.8,Bệnh van động mạch phổi khác
+I37.9,"Bệnh van động mạch phổi, không xác định"
+I38,"Viêm nội tâm mạc, không xác định"
+I39,Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác
+I39*,Viêm nội tâm mạc và bệnh van tim trong bệnh phân loại nơi khác
+I39.0*,Bệnh van hai lá trong bệnh phân loại nơi khác
+I39.1*,Bệnh van động mạch chủ trong bệnh phân loại nơi khác
+I39.2*,Bệnh van ba lá trong bệnh phân loại nơi khác
+I39.3*,Bệnh van động mạch phổi trong bệnh phân loại nơi khác
+I39.4*,Bệnh của nhiều van trong bệnh phân loại nơi khác
+I39.8*,"Viêm nội tâm mạc, không xác định van, trong bệnh phân loại nơi khác"
+I40,Viêm cơ tim cấp
+I40.0,Viêm cơ tim nhiễm trùng
+I49.5,Hội chứng suy nút xoang
+I49.8,Loạn nhịp tim xác định khác
+I49.9,"Rối loạn nhịp tim, không đặc hiệu"
+I50,Suy tim
+I50.0,Suy tim sung huyết
+I50.1,Suy thất trái
+I50.9,"Suy tim, không đặc hiệu"
+I51,Biến chứng và bệnh lý được xác định là do bệnh tim mạch
+I51.0,"Thông vách ngăn tim, mắc phải"
+I51.1,"Đứt dây chằng van tim, không có trong phân loại nơi khác"
+I51.2,"Đứt cơ nhú, không có trong phân loại nơi khác"
+I51.3,"Huyết khối trong tim, không phân loại nơi khác"
+I51.4,"Viêm cơ tim, không đặc hiệu"
+I51.5,thoái hóa cơ tim
+I51.6,"Bệnh tim mạch, không đặc hiệu"
+I51.7,Tim to
+I51.8,Bệnh lý khác được xác định là bệnh lý của tim
+I51.9,"Bệnh tim, không đặc hiệu"
+I52,Các bệnh lý khác trong các bệnh đã phân loại nơi khác
+I52*,Các bệnh lý khác trong các bệnh đã phân loại nơi khác
+I52.0*,Bệnh tim khác trong bệnh nhiễm trùng phân loại nơi khác
+I52.1*,Bệnh tim khác trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I52.8*,"Bệnh tim khác trong bệnh khác, phân loại nơi khác"
+I60,Xuất huyết dưới màng nhện
+I60.0,Xuất huyết dưới màng nhện từ hành cảnh và chỗ chia nhánh động mạch cảnh
+I60.1,Xuất huyết dưới nhện từ động mạch não giữa
+I60.2,Xuất huyết dưới nhện từ động mạch thông trước
+I60.3,Xuất huyết dưới màng nhện từ động mạch thông sau
+I60.4,Xuất huyết dưới nhện từ động mạch sống nền
+I60.5,Xuất huyết dưới nhện từ động mạch đốt sống
+I60.6,Xuất huyết dưới nhện từ động mạch nội sọ khác
+I60.7,"Xuất huyết dưới màng nhện từ động mạch nội sọ, không đặc hiệu"
+I60.8,Xuất huyết dưới màng nhện khác
+I60.9,"Xuất huyết dưới màng nhện, không đặc hiệu"
+I61,Xuất huyết nội sọ
+I61.0,"Xuất huyết nội sọ tại bán cầu, vùng dưới vỏ"
+I61.1,"Xuất huyết nội sọ tại bán cầu, vùng vỏ"
+I61.2,"Xuất huyết nội sọ tại bán cầu, không đặc hiệu"
+I61.3,Xuất huyết nội sọ tại thân não
+I61.4,Xuất huyết nội sọ tại tiểu não
+I61.5,"Xuất huyết nội sọ, tại não thất"
+I61.6,"Xuất huyết nội sọ, tại nhiều nơi"
+I61.8,Xuất huyết nội sọ khác
+I61.9,"Xuất huyết nội sọ, không đặc hiệu"
+I62,Xuất huyết nội sọ không do chấn thương khác
+I62.0,Xuất huyết dưới màng cứng (cấp) (không do chấn thương)
+I62.1,"Xuất huyết ngoài màng cứng, không do chấn thương"
+I62.9,"Xuất huyết nội sọ không do chấn thương, không đặc hiệu"
+I63,Nhồi máu não
+I63.0,Nhồi máu não do huyết khối động mạch trước não
+I63.1,Nhồi máu não do thuyên tắc động mạch trước não
+I63.2,Nhồi máu não không đặc hiệu do tắc hay hẹp ở động mạch trước não
+I63.3,Nhồi máu não do huyết khối động mạch não
+I63.4,Nhồi máu não do thuyên tắc động mạch não
+I63.5,Nhồi máu não không xác định do tắc hay hẹp ở động mạch não
+I63.6,"Nhồi máu não do huyết khối tĩnh mạch não, không sinh mủ"
+I40.1,Viêm cơ tim đơn thuần
+I40.8,Viêm cơ tim cấp khác
+I40.9,"Viêm cơ tim cấp, không đặc hiệu"
+I41,Viêm cơ tim trong bệnh phân loại nơi khác
+I41*,Viêm cơ tim trong bệnh phân loại nơi khác
+I41.0*,Viêm cơ tim trong bệnh nhiễm trùng phân loại nơi khác
+I41.1*,Viêm cơ tim trong bệnh do virus phân loại nơi khác
+I41.2*,Viêm cơ tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác
+I41.8*,Viêm cơ tim trong bệnh khác phân loại nơi khác
+I42,Bệnh cơ tim
+I42.0,Bệnh cơ tim giãn
+I42.1,Bệnh cơ tim phì đại có tắc nghẽn
+I42.2,Bệnh cơ tim phì đại khác
+I42.3,Bệnh cơ-nội tâm mạc (nhiễm bạch cầu ái toan)
+I42.4,Xơ chun nội tâm mạc
+I42.5,Bệnh lý cơ tim hạn chế
+I42.6,Bệnh cơ tim do rượu
+I42.7,Bệnh cơ tim do thuốc và tác nhân bên ngoài
+I42.8,Bệnh cơ tim khác
+I42.9,Bệnh cơ tim không đặc hiệu
+I43,Bệnh cơ tim trong bệnh phân loại nơi khác
+I43*,Bệnh cơ tim trong bệnh phân loại nơi khác
+I43.0*,Bệnh cơ tim trong bệnh nhiễm trùng và ký sinh trùng
+I43.1*,Bệnh cơ tim trong bệnh chuyển hóa
+I43.2*,Bệnh cơ tim trong các bệnh về dinh dưỡng
+I43.8*,Bệnh cơ tim trong bệnh khác phân loại nơi khác
+I44,Blốc nhĩ thất và nhánh trái
+I44.0,Blốc nhĩ thất độ I
+I44.1,Blốc nhĩ thất độ II
+I44.2,"Blốc nhĩ thất, hoàn toàn"
+I44.3,Blốc nhĩ thất khác và không xác định
+I44.4,Blốc nhánh trước trái
+I44.5,Blốc nhánh sau trái
+I44.6,Blốc nhánh khác và không xác định
+I44.7,Blốc nhánh trái không đặc hiệu
+I45,Rối loạn dẫn truyền khác
+I45.0,Blốc nhánh phải
+I45.1,Blốc nhánh phải khác và không xác định
+I45.2,Blốc hai nhánh
+I45.3,Blốc ba nhánh
+I45.4,Blốc trong thất không đặc hiệu
+I45.5,Blốc tim xác định khác
+I45.6,Hội chứng kích thích sớm (hội chứng tiền kích thích)
+I45.8,"Rối loạn dẫn truyền, xác định khác"
+I45.9,Rối loạn dẫn truyền không đặc hiệu
+I46,Ngưng tim
+I46.0,Ngưng tim với hồi sức thành công
+I46.1,Đột tử do tim (được mô tả)
+I46.9,Ngưng tim không đặc hiệu
+I47,Nhịp nhanh kịch phát
+I47.0,Loạn nhịp thất do cơ chế vòng vào lại
+I47.1,Nhịp nhanh trên thất
+I47.2,Nhịp nhanh thất
+I47.9,"Nhịp nhanh kịch phát, không đặc hiệu"
+I48,Rung nhĩ và cuồng nhĩ
+I48.0,Rung nhĩ kịch phát
+I48.1,Rung nhĩ dai dẳng
+I48.2,Rung nhĩ mãn tính
+I48.3,Rung nhĩ điển hình
+I48.4,Cuồng nhĩ không điển hình
+I48.9,"Rung nhĩ và cuồng nhĩ, không đặc hiệu"
+I49,Loạn nhịp tim khác
+I49.0,Rung thất và cuồng thất
+I49.1,Ngoại tâm thu nhĩ
+I49.2,Khử cực sớm vùng bộ nối
+I49.3,Ngoại tâm thu thất
+I49.4,Khử cực sớm khác và không xác định

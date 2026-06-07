@@ -1,0 +1,1015 @@
+﻿Ma_ICD10,Trieu_Chung,Trong_So
+K80,Đau hạ sườn phải,0.9
+K80,Vàng da,0.85
+K80,Buồn nôn,0.6
+K80.0,Đau hạ sườn phải,0.95
+K80.0,Sốt cao,0.85
+K80.0,Buồn nôn,0.7
+K80.1,Đau hạ sườn phải,0.85
+K80.1,Sốt nhẹ,0.6
+K80.1,Buồn nôn,0.55
+K80.2,Đau hạ sườn phải,0.85
+K80.2,Buồn nôn,0.6
+K80.2,Đầy bụng,0.5
+K80.3,Vàng da,0.95
+K80.3,Sốt cao,0.9
+K80.3,Đau hạ sườn phải,0.9
+K80.4,Đau hạ sườn phải,0.9
+K80.4,Sốt cao,0.8
+K80.4,Vàng da,0.75
+K80.5,Vàng da,0.85
+K80.5,Đau hạ sườn phải,0.8
+K80.5,Khó tiêu,0.55
+K80.50,Đau hạ sườn phải,0.8
+K80.50,Buồn nôn,0.6
+K80.50,Đầy bụng,0.5
+K80.51,Đau hạ sườn phải,0.8
+K80.51,Đầy bụng,0.5
+K80.51,Khó tiêu,0.5
+K80.8,Đau hạ sườn phải,0.8
+K80.8,Đầy bụng,0.5
+K80.8,Khó tiêu,0.5
+K81,Đau hạ sườn phải,0.9
+K81,Sốt cao,0.8
+K81,Buồn nôn,0.65
+K81.0,Đau hạ sườn phải,0.95
+K81.0,Sốt cao,0.85
+K81.0,Buồn nôn,0.7
+K81.1,Đau hạ sườn phải,0.8
+K81.1,Khó tiêu,0.6
+K81.1,Đầy bụng,0.55
+K81.8,Đau hạ sườn phải,0.8
+K81.8,Buồn nôn,0.6
+K81.8,Sốt nhẹ,0.55
+K81.9,Đau hạ sườn phải,0.85
+K81.9,Buồn nôn,0.6
+K81.9,Đầy bụng,0.5
+K82,Đau hạ sườn phải,0.75
+K82,Khó tiêu,0.55
+K82,Đầy bụng,0.5
+K82.0,Đau hạ sườn phải,0.9
+K82.0,Vàng da,0.85
+K82.0,Buồn nôn,0.7
+K82.1,Đau hạ sườn phải,0.8
+K82.1,Khối phồng vùng bụng,0.85
+K82.1,Khó tiêu,0.65
+K82.2,Đau bụng dữ dội,0.95
+K82.2,Bụng cứng như gỗ,0.95
+K82.2,Sốt cao,0.85
+K82.3,Đau hạ sườn phải,0.8
+K82.3,Sốt nhẹ,0.7
+K82.3,Dịch chảy ra thành bụng,0.9
+K82.4,Đau hạ sườn phải,0.7
+K82.4,Khó tiêu,0.6
+K82.4,Buồn nôn,0.55
+K82.8,Đau hạ sườn phải,0.75
+K82.8,Buồn nôn,0.6
+K82.8,Khó tiêu,0.55
+K82.9,Đau hạ sườn phải,0.75
+K82.9,Khó tiêu,0.55
+K82.9,Đầy bụng,0.5
+K83,Vàng da,0.85
+K83,Đau hạ sườn phải,0.8
+K83,Sốt nhẹ,0.6
+K83.0,Vàng da,0.95
+K83.0,Sốt cao,0.9
+K83.0,Đau hạ sườn phải,0.85
+K83.1,Vàng da,0.95
+K83.1,Đau hạ sườn phải,0.85
+K83.1,Ngứa da,0.75
+K83.2,Đau bụng dữ dội,0.95
+K83.2,Bụng cứng như gỗ,0.95
+K83.2,Sốt cao,0.85
+K83.3,Đau bụng,0.8
+K83.3,Sốt nhẹ,0.7
+K83.3,Dịch chảy ra thành bụng,0.9
+K83.4,Đau hạ sườn phải,0.9
+K83.4,Buồn nôn,0.7
+K83.4,Khó tiêu,0.6
+K83.5,Khối phồng vùng bụng,0.85
+K83.5,Đau hạ sườn phải,0.8
+K83.5,Vàng da,0.7
+K83.8,Đau hạ sườn phải,0.75
+K83.8,Khó tiêu,0.6
+K83.8,Vàng da,0.55
+K83.9,Đau hạ sườn phải,0.7
+K83.9,Vàng da,0.6
+K83.9,Khó tiêu,0.55
+K85,Đau bụng dữ dội,0.95
+K85,Buồn nôn,0.85
+K85,Sốt cao,0.8
+K85.0,Đau bụng dữ dội,0.95
+K85.0,Buồn nôn,0.85
+K85.0,Sốt cao,0.8
+K85.1,Đau bụng dữ dội,0.95
+K85.1,Vàng da,0.85
+K85.1,Buồn nôn,0.8
+K85.2,Đau bụng dữ dội,0.95
+K85.2,Buồn nôn,0.85
+K85.2,Sốt cao,0.8
+K85.3,Đau bụng dữ dội,0.9
+K85.3,Buồn nôn,0.8
+K85.3,Sốt cao,0.75
+K85.8,Đau bụng dữ dội,0.9
+K85.8,Buồn nôn,0.8
+K85.8,Sốt cao,0.75
+K85.9,Đau bụng dữ dội,0.9
+K85.9,Buồn nôn,0.8
+K85.9,Sốt cao,0.75
+K86,Đau bụng,0.8
+K86,Tiêu chảy phân mỡ,0.85
+K86,Sụt cân,0.75
+K86.0,Đau bụng,0.85
+K86.0,Tiêu chảy phân mỡ,0.9
+K86.0,Sụt cân,0.8
+K86.1,Đau bụng,0.8
+K86.1,Tiêu chảy phân mỡ,0.85
+K86.1,Sụt cân,0.75
+K86.2,Khối phồng vùng bụng,0.85
+K86.2,Đau bụng,0.75
+K86.2,Buồn nôn,0.6
+K86.3,Khối phồng vùng bụng,0.9
+K86.3,Đau bụng,0.8
+K86.3,Buồn nôn,0.65
+K86.8,Đau bụng,0.75
+K86.8,Khó tiêu,0.6
+K86.8,Tiêu chảy phân mỡ,0.55
+K86.9,Đau bụng,0.7
+K86.9,Khó tiêu,0.55
+K86.9,Sụt cân,0.5
+K87,Đau bụng,0.75
+K87,Vàng da,0.7
+K87,Khó tiêu,0.6
+K87*,Đau bụng,0.75
+K87*,Vàng da,0.7
+K87*,Khó tiêu,0.6
+K87.0*,Đau hạ sườn phải,0.85
+K87.0*,Vàng da,0.8
+K87.0*,Sốt nhẹ,0.65
+K87.1*,Đau bụng,0.85
+K87.1*,Tiêu chảy phân mỡ,0.8
+K87.1*,Sụt cân,0.7
+K90,Tiêu chảy,0.85
+K90,Sụt cân,0.8
+K90,Đầy bụng,0.7
+K90.0,Tiêu chảy,0.9
+K90.0,Sụt cân,0.85
+K90.0,Phát ban da,0.6
+K90.1,Tiêu chảy,0.9
+K90.1,Sụt cân,0.85
+K90.1,Sốt nhẹ,0.65
+K90.2,Tiêu chảy,0.85
+K90.2,Sụt cân,0.8
+K90.2,Đau bụng,0.7
+K90.3,Tiêu chảy phân mỡ,0.95
+K90.3,Sụt cân,0.85
+K90.3,Đau bụng,0.7
+K90.4,Tiêu chảy,0.85
+K90.4,Khó tiêu,0.8
+K90.4,Đầy bụng,0.75
+K90.8,Tiêu chảy,0.8
+K90.8,Sụt cân,0.75
+K90.8,Khó tiêu,0.65
+K90.9,Tiêu chảy,0.8
+K90.9,Sụt cân,0.75
+K90.9,Khó tiêu,0.6
+K91,Đau bụng,0.8
+K91,Khó tiêu,0.75
+K91,Buồn nôn,0.7
+K91.0,Buồn nôn,0.95
+K91.0,Nôn mửa,0.95
+K91.0,Đau bụng,0.7
+K91.1,Đau bụng,0.85
+K91.1,Tiêu chảy,0.8
+K91.1,Chóng mặt,0.7
+K91.2,Tiêu chảy,0.85
+K91.2,Sụt cân,0.8
+K91.2,Đầy bụng,0.7
+K91.3,Bí trung đại tiện,0.95
+K91.3,Đau bụng quặn,0.9
+K91.3,Nôn mửa,0.85
+K91.4,Tiêu chảy,0.85
+K91.4,Đau bụng,0.8
+K91.4,Sụt cân,0.7
+K91.5,Đau hạ sườn phải,0.9
+K91.5,Khó tiêu,0.85
+K91.5,Tiêu chảy,0.75
+K91.8,Đau bụng,0.8
+K91.8,Khó tiêu,0.75
+K91.8,Buồn nôn,0.7
+K91.9,Đau bụng,0.75
+K91.9,Khó tiêu,0.7
+K91.9,Buồn nôn,0.65
+K92,Đau bụng,0.75
+K92,Tiêu phân đen,0.7
+K92,Nôn ra máu,0.7
+K92.0,Nôn ra máu,0.95
+K92.0,Đau thượng vị,0.8
+K92.0,Da xanh xao,0.75
+K92.1,Tiêu phân đen,0.95
+K92.1,Đau bụng,0.8
+K92.1,Da xanh xao,0.75
+K92.2,Nôn ra máu,0.85
+K92.2,Tiêu phân đen,0.85
+K92.2,Da xanh xao,0.75
+K92.8,Đau bụng,0.75
+K92.8,Khó tiêu,0.7
+K92.8,Sụt cân,0.65
+K92.9,Đau bụng,0.7
+K92.9,Khó tiêu,0.65
+K92.9,Mệt mỏi,0.6
+K93,Đau bụng,0.8
+K93,Khó tiêu,0.7
+K93,Sụt cân,0.65
+K93*,Đau bụng,0.8
+K93*,Khó tiêu,0.7
+K93*,Sụt cân,0.65
+K93.0*,Đau bụng,0.85
+K93.0*,Tiêu chảy,0.8
+K93.0*,Sốt về chiều,0.75
+K93.1*,Táo bón,0.9
+K93.1*,Khối phồng vùng bụng,0.85
+K93.1*,Đau bụng,0.75
+K93.8*,Đau bụng,0.75
+K93.8*,Khó tiêu,0.7
+K93.8*,Sụt cân,0.6
+K56,Đau bụng quặn,0.95
+K56,Bí trung đại tiện,0.9
+K56,Nôn mửa,0.85
+K56.0,Bí trung đại tiện,0.95
+K56.0,Chướng bụng,0.9
+K56.0,Đau bụng,0.8
+K56.1,Đau bụng quặn,0.95
+K56.1,Tiêu phân có máu,0.9
+K56.1,Nôn mửa,0.85
+K56.2,Đau bụng quặn,0.95
+K56.2,Bí trung đại tiện,0.95
+K56.2,Chướng bụng,0.9
+K56.3,Bí trung đại tiện,0.9
+K56.3,Đau bụng quặn,0.85
+K56.3,Nôn mửa,0.8
+K56.4,Đau bụng quặn,0.95
+K56.4,Bí trung đại tiện,0.9
+K56.4,Nôn mửa,0.85
+K56.5,Đau bụng quặn,0.9
+K56.5,Bí trung đại tiện,0.85
+K56.5,Nôn mửa,0.8
+K56.6,Đau bụng quặn,0.9
+K56.6,Bí trung đại tiện,0.85
+K56.6,Nôn mửa,0.8
+K56.7,Đau bụng quặn,0.85
+K56.7,Bí trung đại tiện,0.85
+K56.7,Chướng bụng,0.8
+K57,Đau hố chậu trái,0.85
+K57,Sốt nhẹ,0.75
+K57,Táo bón,0.7
+K57.0,Đau bụng dữ dội,0.95
+K57.0,Sốt cao,0.9
+K57.0,Bụng cứng như gỗ,0.85
+K57.1,Đau bụng,0.85
+K57.1,Khó tiêu,0.7
+K57.1,Buồn nôn,0.65
+K57.2,Đau bụng dữ dội,0.95
+K57.2,Sốt cao,0.9
+K57.2,Bụng cứng như gỗ,0.85
+K57.3,Đau hố chậu trái,0.9
+K57.3,Sốt nhẹ,0.75
+K57.3,Táo bón,0.7
+K57.4,Đau bụng dữ dội,0.95
+K57.4,Sốt cao,0.9
+K57.4,Bụng cứng như gỗ,0.85
+K57.5,Đau bụng,0.85
+K57.5,Táo bón,0.7
+K57.5,Sốt nhẹ,0.65
+K57.8,Đau bụng dữ dội,0.9
+K57.8,Sốt cao,0.85
+K57.8,Bụng cứng như gỗ,0.8
+K57.9,Đau bụng,0.8
+K57.9,Khó tiêu,0.7
+K57.9,Táo bón,0.65
+K28.5,Đau bụng dữ dội,0.95
+K28.5,Bụng cứng như gỗ,0.95
+K28.5,Đau thượng vị,0.85
+K28.6,Nôn ra máu,0.95
+K28.6,Đau bụng dữ dội,0.95
+K28.6,Tiêu phân đen,0.9
+K28.7,Đau thượng vị,0.9
+K28.7,Khó tiêu,0.75
+K28.7,Ợ hơi,0.7
+K28.9,Đau thượng vị,0.85
+K28.9,Khó tiêu,0.75
+K28.9,Buồn nôn,0.65
+K29,Đau thượng vị,0.9
+K29,Khó tiêu,0.8
+K29,Buồn nôn,0.75
+K29.0,Nôn ra máu,0.95
+K29.0,Đau thượng vị,0.9
+K29.0,Buồn nôn,0.85
+K29.1,Đau thượng vị,0.9
+K29.1,Buồn nôn,0.85
+K29.1,Khó tiêu,0.75
+K29.2,Đau thượng vị,0.9
+K29.2,Buồn nôn,0.85
+K29.2,Nôn mửa,0.8
+K29.3,Đau thượng vị,0.85
+K29.3,Khó tiêu,0.8
+K29.3,Đầy bụng,0.75
+K43.3,Khối phồng vùng bụng,0.95
+K43.3,Đau tức vùng thoát vị,0.9
+K43.3,Buồn nôn,0.8
+K43.4,Đau bụng dữ dội,0.95
+K43.4,Sốt cao,0.9
+K43.4,Khối phồng vùng bụng,0.85
+K43.5,Khối phồng vùng bụng,0.95
+K43.5,Đau tức vùng thoát vị,0.85
+K43.5,Khó tiêu,0.6
+K43.6,Khối phồng vùng bụng,0.9
+K43.6,Đau tức vùng thoát vị,0.85
+K43.6,Buồn nôn,0.75
+K29.4,Đau thượng vị,0.8
+K29.4,Khó tiêu,0.8
+K29.4,Chán ăn,0.75
+K29.5,Đau thượng vị,0.85
+K29.5,Khó tiêu,0.8
+K29.5,Đầy bụng,0.75
+K29.6,Đau thượng vị,0.8
+K29.6,Khó tiêu,0.75
+K29.6,Buồn nôn,0.7
+K29.7,Đau thượng vị,0.8
+K29.7,Khó tiêu,0.75
+K29.7,Buồn nôn,0.65
+K29.8,Đau thượng vị,0.9
+K29.8,Đầy bụng,0.8
+K29.8,Khó tiêu,0.75
+K29.9,Đau thượng vị,0.85
+K29.9,Khó tiêu,0.75
+K29.9,Đầy bụng,0.7
+K30,Khó tiêu,0.95
+K30,Đầy bụng,0.9
+K30,Ợ hơi,0.85
+K31,Đau thượng vị,0.8
+K31,Khó tiêu,0.75
+K31,Buồn nôn,0.7
+K31.0,Đau thượng vị,0.9
+K31.0,Buồn nôn,0.85
+K31.0,Chướng bụng,0.8
+K31.1,Nôn mửa,0.95
+K31.1,Khó tiêu,0.85
+K31.1,Đầy bụng,0.8
+K31.2,Nôn mửa,0.9
+K31.2,Khó tiêu,0.85
+K31.2,Sụt cân,0.75
+K31.3,Nôn mửa,0.9
+K31.3,Đau thượng vị,0.85
+K31.3,Khó tiêu,0.8
+K31.4,Đau thượng vị,0.8
+K31.4,Khó tiêu,0.75
+K31.4,Buồn nôn,0.7
+K31.5,Nôn mửa,0.95
+K31.5,Đau thượng vị,0.9
+K31.5,Bí trung đại tiện,0.8
+K31.6,Đau bụng,0.85
+K31.6,Tiêu chảy,0.8
+K31.6,Sụt cân,0.75
+K31.7,Đau thượng vị,0.75
+K31.7,Nôn ra máu,0.65
+K31.7,Khó tiêu,0.6
+K31.8,Đau thượng vị,0.75
+K31.8,Khó tiêu,0.7
+K31.8,Buồn nôn,0.65
+K31.9,Đau thượng vị,0.75
+K31.9,Khó tiêu,0.7
+K31.9,Đầy bụng,0.65
+K35,Đau hố chậu phải,0.95
+K35,Sốt nhẹ,0.85
+K35,Buồn nôn,0.8
+K35.0,Đau bụng dữ dội,0.95
+K35.0,Bụng cứng như gỗ,0.95
+K35.0,Sốt cao,0.9
+K35.1,Đau hố chậu phải,0.95
+K35.1,Sốt cao,0.9
+K35.1,Khối phồng vùng bụng,0.85
+K35.2,Đau bụng dữ dội,0.95
+K35.2,Bụng cứng như gỗ,0.95
+K35.2,Sốt cao,0.9
+K35.3,Đau hố chậu phải,0.95
+K35.3,Sốt cao,0.9
+K35.3,Buồn nôn,0.85
+K35.8,Đau hố chậu phải,0.9
+K35.8,Sốt nhẹ,0.8
+K35.8,Buồn nôn,0.75
+K35.9,Đau hố chậu phải,0.9
+K35.9,Sốt nhẹ,0.8
+K35.9,Buồn nôn,0.75
+K36,Đau hố chậu phải,0.85
+K36,Khó tiêu,0.7
+K36,Buồn nôn,0.65
+K37,Đau hố chậu phải,0.85
+K37,Khó tiêu,0.7
+K37,Sốt nhẹ,0.65
+K38,Đau hố chậu phải,0.8
+K38,Khó tiêu,0.65
+K38,Buồn nôn,0.6
+K38.0,Đau hố chậu phải,0.75
+K38.0,Khó tiêu,0.6
+K38.0,Buồn nôn,0.55
+K38.1,Đau hố chậu phải,0.85
+K38.1,Sốt nhẹ,0.75
+K38.1,Buồn nôn,0.7
+K38.2,Đau hố chậu phải,0.8
+K38.2,Khó tiêu,0.65
+K38.2,Buồn nôn,0.6
+K38.3,Đau hố chậu phải,0.85
+K38.3,Dịch chảy ra thành bụng,0.8
+K38.3,Sốt nhẹ,0.75
+K38.8,Đau hố chậu phải,0.75
+K38.8,Khó tiêu,0.6
+K38.8,Sốt nhẹ,0.55
+K43.7,Đau bụng dữ dội,0.95
+K43.7,Sốt cao,0.9
+K43.7,Khối phồng vùng bụng,0.85
+K43.9,Khối phồng vùng bụng,0.9
+K43.9,Đau tức vùng thoát vị,0.85
+K43.9,Khó tiêu,0.6
+K44,Khó tiêu,0.8
+K44,Ợ hơi,0.75
+K44,Khối phồng vùng bụng,0.7
+K44.0,Khó nuốt,0.9
+K44.0,Đau thượng vị,0.85
+K44.0,Buồn nôn,0.8
+K44.1,Đau ngực,0.95
+K44.1,Khó thở,0.9
+K44.1,Sốt cao,0.85
+K44.9,Ợ chua,0.85
+K44.9,Khó tiêu,0.8
+K44.9,Đau thượng vị,0.75
+K45,Khối phồng vùng bụng,0.9
+K45,Đau tức vùng thoát vị,0.85
+K45,Khó tiêu,0.65
+K45.0,Khối phồng vùng bụng,0.95
+K45.0,Đau tức vùng thoát vị,0.9
+K45.0,Buồn nôn,0.8
+K45.1,Đau bụng dữ dội,0.95
+K45.1,Sốt cao,0.9
+K45.1,Khối phồng vùng bụng,0.85
+K45.8,Khối phồng vùng bụng,0.9
+K45.8,Đau tức vùng thoát vị,0.8
+K45.8,Khó tiêu,0.6
+K46,Khối phồng vùng bụng,0.9
+K46,Đau tức vùng thoát vị,0.8
+K46,Khó tiêu,0.6
+K46.0,Khối phồng vùng bụng,0.95
+K46.0,Đau tức vùng thoát vị,0.9
+K46.0,Buồn nôn,0.8
+K46.1,Đau bụng dữ dội,0.95
+K46.1,Sốt cao,0.9
+K46.1,Khối phồng vùng bụng,0.85
+K46.9,Khối phồng vùng bụng,0.9
+K46.9,Đau tức vùng thoát vị,0.8
+K46.9,Khó tiêu,0.6
+K50,Đau bụng,0.9
+K50,Tiêu chảy,0.85
+K50,Sụt cân,0.8
+K50.0,Đau bụng,0.9
+K50.0,Tiêu chảy,0.85
+K50.0,Sụt cân,0.8
+K50.1,Đau bụng,0.9
+K50.1,Tiêu phân có máu,0.85
+K50.1,Tiêu chảy,0.8
+K50.8,Đau bụng,0.85
+K50.8,Tiêu chảy,0.8
+K50.8,Sụt cân,0.75
+K50.9,Đau bụng,0.85
+K50.9,Tiêu chảy,0.8
+K50.9,Sụt cân,0.75
+K51,Tiêu phân có máu,0.95
+K51,Đau bụng,0.9
+K51,Tiêu chảy,0.85
+K51.0,Tiêu phân có máu,0.95
+K51.0,Đau bụng,0.9
+K51.0,Sụt cân,0.85
+K51.1,Tiêu phân có máu,0.95
+K51.1,Đau bụng,0.9
+K51.1,Sụt cân,0.8
+K51.2,Tiêu phân có máu,0.95
+K51.2,Đau hậu môn,0.85
+K51.2,Mót rặn,0.8
+K51.3,Tiêu phân có máu,0.95
+K51.3,Đau hố chậu trái,0.85
+K51.3,Mót rặn,0.8
+K51.4,Đau bụng,0.8
+K51.4,Tiêu phân có máu,0.75
+K51.4,Tiêu chảy,0.7
+K51.5,Tiêu phân có máu,0.95
+K51.5,Đau hố chậu trái,0.9
+K51.5,Tiêu chảy,0.85
+K51.8,Tiêu phân có máu,0.9
+K51.8,Đau bụng,0.85
+K51.8,Tiêu chảy,0.8
+K51.9,Tiêu phân có máu,0.9
+K51.9,Đau bụng,0.85
+K51.9,Tiêu chảy,0.8
+K52,Tiêu chảy,0.9
+K52,Đau bụng,0.85
+K52,Buồn nôn,0.75
+K52.0,Tiêu chảy,0.9
+K52.0,Đau bụng,0.85
+K52.0,Tiêu phân có máu,0.7
+K52.1,Tiêu chảy,0.9
+K52.1,Buồn nôn,0.85
+K52.1,Đau bụng,0.8
+K52.2,Tiêu chảy,0.9
+K52.2,Đau bụng,0.85
+K52.2,Phát ban da,0.75
+K52.3,Tiêu chảy,0.85
+K52.3,Đau bụng,0.8
+K52.3,Buồn nôn,0.7
+K58,Đau bụng,0.95
+K58,Thay đổi thói quen đại tiện,0.9
+K58,Đầy bụng,0.85
+K58.0,Đau bụng,0.95
+K58.0,Tiêu chảy,0.9
+K58.0,Đầy bụng,0.8
+K38.9,Đau hố chậu phải,0.8
+K38.9,Khó tiêu,0.6
+K38.9,Sốt nhẹ,0.55
+K40,Khối phồng vùng bẹn,0.95
+K40,Đau tức vùng bẹn,0.85
+K40,Khó tiêu,0.6
+K40.0,Khối phồng vùng bẹn,0.95
+K40.0,Đau tức vùng bẹn,0.9
+K40.0,Buồn nôn,0.8
+K40.1,Đau bụng dữ dội,0.95
+K40.1,Sốt cao,0.9
+K40.1,Khối phồng vùng bẹn,0.85
+K40.2,Khối phồng vùng bẹn,0.95
+K40.2,Đau tức vùng bẹn,0.85
+K40.2,Khó tiêu,0.6
+K40.3,Khối phồng vùng bẹn,0.95
+K40.3,Đau tức vùng bẹn,0.9
+K40.3,Buồn nôn,0.8
+K40.4,Đau bụng dữ dội,0.95
+K40.4,Sốt cao,0.9
+K40.4,Khối phồng vùng bẹn,0.85
+K40.9,Khối phồng vùng bẹn,0.95
+K40.9,Đau tức vùng bẹn,0.85
+K40.9,Khó tiêu,0.6
+K41,Khối phồng vùng đùi,0.95
+K41,Đau tức vùng đùi,0.85
+K41,Khó tiêu,0.6
+K41.0,Khối phồng vùng đùi,0.95
+K41.0,Đau tức vùng đùi,0.9
+K41.0,Buồn nôn,0.8
+K58.9,Đau bụng,0.95
+K58.9,Táo bón,0.9
+K58.9,Đầy bụng,0.8
+K59,Thay đổi thói quen đại tiện,0.9
+K59,Đau bụng,0.8
+K59,Đầy bụng,0.75
+K59.0,Táo bón,0.95
+K59.0,Đau bụng,0.8
+K59.0,Đầy bụng,0.75
+K59.1,Tiêu chảy,0.95
+K59.1,Đau bụng,0.8
+K59.1,Đầy bụng,0.7
+K59.2,Thay đổi thói quen đại tiện,0.85
+K59.2,Đau bụng,0.75
+K59.2,Táo bón,0.7
+K59.3,Táo bón kéo dài,0.9
+K59.3,Chướng bụng,0.85
+K59.3,Đau bụng,0.75
+K59.4,Đau hậu môn,0.9
+K59.4,Táo bón,0.8
+K59.4,Khó tiêu,0.6
+K59.8,Thay đổi thói quen đại tiện,0.8
+K59.8,Đau bụng,0.7
+K59.8,Đầy bụng,0.65
+K59.9,Thay đổi thói quen đại tiện,0.8
+K59.9,Đau bụng,0.7
+K59.9,Đầy bụng,0.65
+K60,Đau hậu môn,0.95
+K60,Đi ngoài ra máu đỏ tươi,0.9
+K60,Ngứa hậu môn,0.75
+K60.0,Đau hậu môn dữ dội khi đại tiện,0.95
+K60.0,Đi ngoài ra máu đỏ tươi,0.9
+K60.0,Táo bón,0.8
+K60.1,Đau hậu môn,0.9
+K60.1,Đi ngoài ra máu đỏ tươi,0.85
+K60.1,Ngứa hậu môn,0.8
+K60.2,Đau hậu môn,0.9
+K60.2,Đi ngoài ra máu đỏ tươi,0.85
+K60.2,Ngứa hậu môn,0.75
+K60.3,Chảy mủ hậu môn,0.95
+K60.3,Đau hậu môn,0.85
+K60.3,Sưng vùng hậu môn,0.8
+K60.4,Chảy mủ hậu môn,0.9
+K60.4,Đau hậu môn,0.8
+K60.4,Đi ngoài ra máu đỏ tươi,0.75
+K60.5,Chảy mủ hậu môn,0.95
+K60.5,Đau hậu môn,0.85
+K60.5,Sưng vùng hậu môn,0.8
+K61,Sưng vùng hậu môn,0.95
+K61,Đau hậu môn,0.9
+K61,Sốt cao,0.85
+K61.0,Sưng vùng hậu môn,0.95
+K61.0,Đau hậu môn,0.9
+K61.0,Sốt cao,0.85
+K61.1,Đau vùng trực tràng,0.95
+K61.1,Sốt cao,0.85
+K61.1,Chảy mủ hậu môn,0.8
+K61.2,Sưng vùng hậu môn,0.9
+K61.2,Đau hậu môn,0.9
+K61.2,Sốt cao,0.85
+K61.3,Đau hậu môn dữ dội,0.95
+K61.3,Sưng vùng hậu môn,0.9
+K61.3,Sốt cao,0.85
+K61.4,Đau hậu môn,0.9
+K61.4,Sưng vùng hậu môn,0.85
+K61.4,Sốt cao,0.8
+K62,Đau hậu môn,0.8
+K62,Đi ngoài ra máu đỏ tươi,0.85
+K62,Ngứa hậu môn,0.7
+K62.0,Đi ngoài ra máu đỏ tươi,0.9
+K62.0,Khối phồng vùng hậu môn,0.8
+K62.0,Đau hậu môn,0.6
+K62.1,Đi ngoài ra máu đỏ tươi,0.9
+K62.1,Thay đổi thói quen đại tiện,0.8
+K62.1,Đau vùng trực tràng,0.65
+K62.2,Khối phồng vùng hậu môn,0.95
+K62.2,Đau hậu môn,0.8
+K62.2,Đi ngoài ra máu đỏ tươi,0.75
+K52.8,Tiêu chảy,0.85
+K52.8,Đau bụng,0.8
+K52.8,Buồn nôn,0.7
+K52.9,Tiêu chảy,0.85
+K52.9,Đau bụng,0.8
+K52.9,Buồn nôn,0.7
+K55,Đau bụng dữ dội,0.95
+K55,Tiêu phân có máu,0.85
+K55,Buồn nôn,0.8
+K55.0,Đau bụng dữ dội,0.95
+K55.0,Tiêu phân có máu,0.9
+K55.0,Buồn nôn,0.85
+K55.1,Đau bụng sau ăn,0.95
+K55.1,Sụt cân,0.85
+K55.1,Sợ ăn,0.8
+K55.2,Tiêu phân có máu,0.95
+K55.2,Da xanh xao,0.85
+K55.2,Đau bụng,0.7
+K55.8,Đau bụng,0.85
+K55.8,Tiêu phân có máu,0.8
+K55.8,Khó tiêu,0.7
+K55.9,Đau bụng,0.8
+K55.9,Tiêu phân có máu,0.75
+K55.9,Khó tiêu,0.65
+K41.1,Đau bụng dữ dội,0.95
+K41.1,Sốt cao,0.9
+K41.1,Khối phồng vùng đùi,0.85
+K41.2,Khối phồng vùng đùi,0.95
+K41.2,Đau tức vùng đùi,0.85
+K41.2,Khó tiêu,0.6
+K41.3,Khối phồng vùng đùi,0.95
+K41.3,Đau tức vùng đùi,0.9
+K41.3,Buồn nôn,0.8
+K41.4,Đau bụng dữ dội,0.95
+K41.4,Sốt cao,0.9
+K41.4,Khối phồng vùng đùi,0.85
+K41.9,Khối phồng vùng đùi,0.95
+K41.9,Đau tức vùng đùi,0.85
+K41.9,Khó tiêu,0.6
+K42,Khối phồng vùng rốn,0.95
+K42,Đau tức vùng rốn,0.85
+K42,Khó tiêu,0.6
+K42.0,Khối phồng vùng rốn,0.95
+K42.0,Đau tức vùng rốn,0.9
+K42.0,Buồn nôn,0.8
+K42.1,Đau bụng dữ dội,0.95
+K42.1,Sốt cao,0.9
+K42.1,Khối phồng vùng rốn,0.85
+K42.9,Khối phồng vùng rốn,0.95
+K42.9,Đau tức vùng rốn,0.85
+K42.9,Khó tiêu,0.6
+K43,Khối phồng vùng bụng,0.95
+K43,Đau tức vùng thoát vị,0.85
+K43,Khó tiêu,0.6
+K43.0,Khối phồng vùng bụng,0.95
+K43.0,Đau tức vùng thoát vị,0.9
+K43.0,Buồn nôn,0.8
+K43.1,Đau bụng dữ dội,0.95
+K43.1,Sốt cao,0.9
+K43.1,Khối phồng vùng bụng,0.85
+K43.2,Khối phồng vùng bụng,0.95
+K43.2,Đau tức vùng thoát vị,0.85
+K43.2,Khó tiêu,0.6
+K62.3,Khối phồng vùng hậu môn,0.95
+K62.3,Đau vùng trực tràng,0.85
+K62.3,Đi ngoài ra máu đỏ tươi,0.75
+K62.4,Khó đại tiện,0.95
+K62.4,Đau hậu môn,0.85
+K62.4,Đi ngoài ra máu đỏ tươi,0.75
+K62.5,Đi ngoài ra máu đỏ tươi,0.95
+K62.5,Đau hậu môn,0.7
+K62.5,Da xanh xao,0.65
+K62.6,Đau hậu môn,0.9
+K62.6,Đi ngoài ra máu đỏ tươi,0.85
+K62.6,Ngứa hậu môn,0.75
+K62.7,Đau vùng trực tràng,0.9
+K62.7,Tiêu chảy,0.85
+K62.7,Đi ngoài ra máu đỏ tươi,0.8
+K62.8,Đau hậu môn,0.8
+K62.8,Đi ngoài ra máu đỏ tươi,0.75
+K62.8,Ngứa hậu môn,0.65
+K62.9,Đau hậu môn,0.75
+K62.9,Đi ngoài ra máu đỏ tươi,0.7
+K62.9,Khó đại tiện,0.6
+K63,Đau bụng,0.8
+K63,Tiêu chảy,0.75
+K63,Đầy bụng,0.6
+K63.0,Đau bụng dữ dội,0.95
+K63.0,Sốt cao,0.9
+K63.0,Buồn nôn,0.8
+K63.1,Đau bụng dữ dội,0.95
+K63.1,Bụng cứng như gỗ,0.95
+K63.1,Sốt cao,0.85
+K63.2,Chảy mủ thành bụng,0.95
+K63.2,Đau bụng,0.8
+K63.2,Sốt nhẹ,0.75
+K63.3,Đau bụng,0.85
+K63.3,Tiêu phân có máu,0.8
+K63.3,Tiêu chảy,0.75
+K63.4,Đau vùng trực tràng,0.9
+K63.4,Khối phồng vùng hậu môn,0.85
+K63.4,Khó đại tiện,0.75
+K63.5,Đi ngoài ra máu đỏ tươi,0.9
+K63.5,Thay đổi thói quen đại tiện,0.8
+K63.5,Đau bụng,0.65
+K63.8,Đau bụng,0.75
+K63.8,Tiêu chảy,0.7
+K63.8,Đầy bụng,0.6
+K63.9,Đau bụng,0.7
+K63.9,Tiêu chảy,0.65
+K63.9,Đầy bụng,0.55
+K64,Đi ngoài ra máu đỏ tươi,0.95
+K64,Khối phồng vùng hậu môn,0.9
+K64,Đau hậu môn,0.8
+K64.0,Đi ngoài ra máu đỏ tươi,0.95
+K64.0,Ngứa hậu môn,0.8
+K64.0,Đau hậu môn,0.6
+K64.1,Đi ngoài ra máu đỏ tươi,0.9
+K64.1,Khối phồng vùng hậu môn,0.85
+K64.1,Ngứa hậu môn,0.75
+K64.2,Khối phồng vùng hậu môn,0.95
+K64.2,Đi ngoài ra máu đỏ tươi,0.9
+K64.2,Đau hậu môn,0.8
+K64.3,Khối phồng vùng hậu môn,0.95
+K64.3,Đau hậu môn,0.9
+K64.3,Đi ngoài ra máu đỏ tươi,0.85
+K64.4,Ngứa hậu môn,0.85
+K64.4,Khối phồng vùng hậu môn,0.8
+K64.4,Đau hậu môn,0.6
+K64.5,Đau hậu môn dữ dội,0.95
+K64.5,Khối phồng vùng hậu môn,0.9
+K64.5,Sưng vùng hậu môn,0.85
+K64.8,Đi ngoài ra máu đỏ tươi,0.85
+K64.8,Khối phồng vùng hậu môn,0.8
+K64.8,Đau hậu môn,0.75
+K64.9,Đi ngoài ra máu đỏ tươi,0.8
+K64.9,Khối phồng vùng hậu môn,0.75
+K64.9,Đau hậu môn,0.7
+K65,Đau bụng dữ dội,0.95
+K65,Bụng cứng như gỗ,0.95
+K65,Sốt cao,0.9
+K65.0,Đau bụng dữ dội,0.95
+K65.0,Bụng cứng như gỗ,0.95
+K65.0,Sốt cao,0.9
+K65.8,Đau bụng,0.85
+K65.8,Sốt nhẹ,0.8
+K65.8,Đầy bụng,0.7
+K65.9,Đau bụng dữ dội,0.9
+K65.9,Bụng cứng như gỗ,0.85
+K65.9,Sốt cao,0.8
+K66,Đau bụng,0.8
+K66,Đầy bụng,0.75
+K66,Khó tiêu,0.65
+K66.0,Đau bụng quặn,0.9
+K66.0,Bí trung đại tiện,0.85
+K66.0,Nôn mửa,0.8
+K66.1,Bụng to,0.95
+K66.1,Da xanh xao,0.85
+K66.1,Đau bụng,0.8
+K66.8,Đau bụng,0.75
+K66.8,Đầy bụng,0.7
+K66.8,Khó tiêu,0.6
+K66.9,Đau bụng,0.7
+K66.9,Đầy bụng,0.65
+K66.9,Khó tiêu,0.55
+K67,Đau bụng,0.85
+K67,Sốt nhẹ,0.8
+K67,Đầy bụng,0.7
+K67*,Đau bụng,0.85
+K67*,Sốt nhẹ,0.8
+K67*,Đầy bụng,0.7
+K67.0*,Đau bụng,0.85
+K67.0*,Sốt nhẹ,0.8
+K67.0*,Đầy bụng,0.7
+K67.1*,Đau bụng dữ dội,0.9
+K67.1*,Sốt cao,0.85
+K67.1*,Buồn nôn,0.75
+K67.2*,Đau bụng,0.8
+K67.2*,Sốt nhẹ,0.75
+K67.2*,Đầy bụng,0.65
+K67.3*,Đau bụng,0.85
+K67.3*,Sốt về chiều,0.85
+K67.3*,Bụng to,0.8
+K67.8*,Đau bụng,0.8
+K67.8*,Sốt nhẹ,0.75
+K67.8*,Đầy bụng,0.65
+K70,Vàng da,0.9
+K70,Mệt mỏi,0.85
+K70,Đau hạ sườn phải,0.8
+K70.0,Đau hạ sườn phải,0.85
+K70.0,Mệt mỏi,0.8
+K70.0,Khó tiêu,0.7
+K70.1,Vàng da,0.95
+K70.1,Đau hạ sườn phải,0.9
+K70.1,Sốt nhẹ,0.8
+K70.2,Vàng da,0.9
+K70.2,Bụng to,0.85
+K70.2,Mệt mỏi,0.8
+K70.3,Vàng da,0.95
+K70.3,Bụng to,0.95
+K70.3,Nôn ra máu,0.85
+K70.4,Vàng da,0.95
+K70.4,Rối loạn ý thức,0.95
+K70.4,Bụng to,0.9
+K70.9,Vàng da,0.85
+K70.9,Mệt mỏi,0.8
+K70.9,Đau hạ sườn phải,0.75
+K71,Vàng da,0.9
+K71,Mệt mỏi,0.85
+K71,Buồn nôn,0.8
+K71.0,Vàng da,0.95
+K71.0,Ngứa da,0.85
+K71.0,Mệt mỏi,0.8
+K71.1,Vàng da,0.95
+K71.1,Đau hạ sườn phải,0.9
+K71.1,Rối loạn ý thức,0.85
+K71.2,Vàng da,0.95
+K71.2,Mệt mỏi,0.9
+K71.2,Buồn nôn,0.85
+K71.3,Vàng da,0.85
+K71.3,Mệt mỏi,0.85
+K71.3,Đau hạ sườn phải,0.75
+K71.4,Vàng da,0.85
+K71.4,Mệt mỏi,0.8
+K71.4,Đau hạ sườn phải,0.75
+K71.5,Vàng da,0.9
+K71.5,Mệt mỏi,0.85
+K71.5,Đau hạ sườn phải,0.8
+K71.6,Vàng da,0.9
+K71.6,Mệt mỏi,0.85
+K71.6,Buồn nôn,0.8
+K71.7,Vàng da,0.95
+K71.7,Bụng to,0.9
+K71.7,Mệt mỏi,0.85
+K71.8,Vàng da,0.85
+K71.8,Mệt mỏi,0.8
+K71.8,Đau hạ sườn phải,0.75
+K71.9,Vàng da,0.8
+K71.9,Mệt mỏi,0.75
+K71.9,Buồn nôn,0.7
+K72,Vàng da,0.95
+K72,Rối loạn ý thức,0.95
+K72,Mệt mỏi,0.9
+K72.0,Vàng da,0.95
+K72.0,Rối loạn ý thức,0.95
+K72.0,Mệt mỏi,0.9
+K72.00,Vàng da,0.95
+K72.00,Mệt mỏi,0.9
+K72.00,Buồn nôn,0.85
+K72.01,Rối loạn ý thức,0.95
+K72.01,Vàng da,0.95
+K72.01,Mệt mỏi,0.9
+K72.1,Vàng da,0.95
+K72.1,Rối loạn ý thức,0.9
+K72.1,Bụng to,0.85
+K72.10,Vàng da,0.95
+K72.10,Bụng to,0.9
+K72.10,Mệt mỏi,0.85
+K72.11,Rối loạn ý thức,0.95
+K72.11,Vàng da,0.95
+K72.11,Bụng to,0.9
+K72.9,Vàng da,0.9
+K72.9,Rối loạn ý thức,0.9
+K72.9,Mệt mỏi,0.85
+K73,Mệt mỏi,0.85
+K73,Đau hạ sườn phải,0.8
+K73,Vàng da,0.75
+K73.0,Mệt mỏi,0.85
+K73.0,Đau hạ sườn phải,0.8
+K73.0,Vàng da,0.75
+K73.1,Mệt mỏi,0.85
+K73.1,Đau hạ sườn phải,0.8
+K73.1,Khó tiêu,0.7
+K73.2,Mệt mỏi,0.9
+K73.2,Vàng da,0.85
+K73.2,Đau hạ sườn phải,0.8
+K73.8,Mệt mỏi,0.8
+K73.8,Đau hạ sườn phải,0.75
+K73.8,Vàng da,0.7
+K73.9,Mệt mỏi,0.8
+K73.9,Đau hạ sườn phải,0.75
+K73.9,Vàng da,0.7
+K74,Bụng to,0.95
+K74,Vàng da,0.9
+K74,Mệt mỏi,0.85
+K74.0,Mệt mỏi,0.85
+K74.0,Đau hạ sườn phải,0.8
+K74.0,Khó tiêu,0.7
+K74.1,Mệt mỏi,0.85
+K74.1,Đau hạ sườn phải,0.8
+K74.1,Khó tiêu,0.7
+K74.2,Bụng to,0.9
+K74.2,Vàng da,0.85
+K74.2,Mệt mỏi,0.8
+K74.3,Ngứa da,0.95
+K74.3,Vàng da,0.9
+K74.3,Mệt mỏi,0.85
+K74.4,Vàng da,0.95
+K74.4,Ngứa da,0.9
+K74.4,Bụng to,0.85
+K74.5,Vàng da,0.9
+K74.5,Ngứa da,0.85
+K74.5,Bụng to,0.8
+K74.6,Bụng to,0.95
+K74.6,Vàng da,0.9
+K74.6,Mệt mỏi,0.85
+K75,Đau hạ sườn phải,0.85
+K75,Vàng da,0.8
+K75,Sốt cao,0.75
+K75.0,Sốt cao,0.95
+K75.0,Đau hạ sườn phải,0.9
+K75.0,Vàng da,0.85
+K75.1,Đau bụng,0.9
+K75.1,Sốt cao,0.85
+K75.1,Bụng to,0.8
+K75.2,Vàng da,0.9
+K75.2,Mệt mỏi,0.85
+K75.2,Đau hạ sườn phải,0.8
+K75.3,Đau hạ sườn phải,0.8
+K75.3,Sốt nhẹ,0.75
+K75.3,Mệt mỏi,0.7
+K75.4,Vàng da,0.9
+K75.4,Mệt mỏi,0.85
+K75.4,Đau hạ sườn phải,0.8
+K75.8,Đau hạ sườn phải,0.8
+K75.8,Vàng da,0.75
+K75.8,Sốt nhẹ,0.7
+K75.9,Đau hạ sườn phải,0.75
+K75.9,Vàng da,0.7
+K75.9,Mệt mỏi,0.65
+K76,Đau hạ sườn phải,0.8
+K76,Mệt mỏi,0.75
+K76,Vàng da,0.7
+K76.0,Đau hạ sườn phải,0.85
+K76.0,Mệt mỏi,0.8
+K76.0,Khó tiêu,0.7
+K76.1,Đau hạ sườn phải,0.85
+K76.1,Mệt mỏi,0.8
+K76.1,Khó thở,0.75
+K76.2,Vàng da,0.95
+K76.2,Đau hạ sườn phải,0.9
+K76.2,Rối loạn ý thức,0.85
+K76.3,Đau hạ sườn phải,0.95
+K76.3,Sốt cao,0.85
+K76.3,Buồn nôn,0.8
+K76.4,Đau hạ sườn phải,0.85
+K76.4,Bụng to,0.8
+K76.4,Mệt mỏi,0.75
+K76.5,Đau hạ sườn phải,0.9
+K76.5,Bụng to,0.9
+K76.5,Vàng da,0.8
+K76.6,Bụng to,0.95
+K76.6,Nôn ra máu,0.9
+K76.6,Tiêu phân đen,0.85
+K76.7,Tiểu ít,0.95
+K76.7,Bụng to,0.9
+K76.7,Vàng da,0.85
+K76.8,Đau hạ sườn phải,0.75
+K76.8,Mệt mỏi,0.7
+K76.8,Vàng da,0.65
+K76.9,Đau hạ sườn phải,0.7
+K76.9,Mệt mỏi,0.65
+K76.9,Vàng da,0.6
+K77,Vàng da,0.85
+K77,Đau hạ sườn phải,0.8
+K77,Mệt mỏi,0.75
+K77*,Vàng da,0.85
+K77*,Đau hạ sườn phải,0.8
+K77*,Mệt mỏi,0.75
+K77.0*,Vàng da,0.9
+K77.0*,Sốt cao,0.85
+K77.0*,Đau hạ sườn phải,0.8
+K77.8*,Vàng da,0.8
+K77.8*,Đau hạ sườn phải,0.75
+K77.8*,Mệt mỏi,0.7

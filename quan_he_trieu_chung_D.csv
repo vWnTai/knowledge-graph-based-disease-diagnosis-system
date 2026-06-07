@@ -1,0 +1,2273 @@
+Ma_ICD10,Trieu_Chung,Trong_So
+D69.2,Chấm nốt xuất huyết dưới da,0.95
+D69.2,Chảy máu chân răng mũi,0.85
+D69.2,Xuất huyết tiêu hóa,0.75
+D69.2,Thời gian chảy máu kéo dài,0.80
+D69.3,Chấm nốt xuất huyết dưới da,0.95
+D69.3,Chảy máu chân răng mũi,0.85
+D69.3,Xuất huyết tiêu hóa,0.75
+D69.3,Thời gian chảy máu kéo dài,0.80
+D69.4,Chấm nốt xuất huyết dưới da,0.95
+D69.4,Chảy máu chân răng mũi,0.85
+D69.4,Xuất huyết tiêu hóa,0.75
+D69.4,Thời gian chảy máu kéo dài,0.80
+D69.5,Chấm nốt xuất huyết dưới da,0.95
+D69.5,Chảy máu chân răng mũi,0.85
+D69.5,Xuất huyết tiêu hóa,0.75
+D69.5,Thời gian chảy máu kéo dài,0.80
+D69.8,Chấm nốt xuất huyết dưới da,0.95
+D69.8,Chảy máu chân răng mũi,0.85
+D69.8,Xuất huyết tiêu hóa,0.75
+D69.8,Thời gian chảy máu kéo dài,0.80
+D69.9,Chấm nốt xuất huyết dưới da,0.95
+D69.9,Chảy máu chân răng mũi,0.85
+D69.9,Xuất huyết tiêu hóa,0.75
+D69.9,Thời gian chảy máu kéo dài,0.80
+D70,Nhiễm trùng tái phát liên tục,0.90
+D70,Sốt cao dai dẳng,0.80
+D70,Loét niêm mạc miệng,0.75
+D70,Hạch ngoại vi sưng to,0.70
+D72,Nhiễm trùng tái phát liên tục,0.90
+D72,Sốt cao dai dẳng,0.80
+D72,Loét niêm mạc miệng,0.75
+D72,Hạch ngoại vi sưng to,0.70
+D72.0,Nhiễm trùng tái phát liên tục,0.90
+D72.0,Sốt cao dai dẳng,0.80
+D72.0,Loét niêm mạc miệng,0.75
+D72.0,Hạch ngoại vi sưng to,0.70
+D72.1,Nhiễm trùng tái phát liên tục,0.90
+D72.1,Sốt cao dai dẳng,0.80
+D72.1,Loét niêm mạc miệng,0.75
+D72.1,Hạch ngoại vi sưng to,0.70
+D17.4,Khối u dưới da mềm mại,0.95
+D17.4,Khối u di động dễ dàng,0.90
+D17.4,Không đau đớn khi ấn,0.85
+D17.4,Khối u phát triển chậm,0.75
+D72.8,Nhiễm trùng tái phát liên tục,0.90
+D72.8,Sốt cao dai dẳng,0.80
+D72.8,Loét niêm mạc miệng,0.75
+D72.8,Hạch ngoại vi sưng to,0.70
+D73,Đau tức hạ sườn trái,0.90
+D73,Lách to,0.95
+D73,Cảm giác nhanh no khi ăn,0.80
+D73,Mệt mỏi hoa mắt chóng mặt,0.70
+D73.0,Đau tức hạ sườn trái,0.90
+D73.0,Lách to,0.95
+D73.0,Cảm giác nhanh no khi ăn,0.80
+D73.0,Mệt mỏi hoa mắt chóng mặt,0.70
+D73.1,Đau tức hạ sườn trái,0.90
+D73.1,Lách to,0.95
+D73.1,Cảm giác nhanh no khi ăn,0.80
+D73.1,Mệt mỏi hoa mắt chóng mặt,0.70
+D73.2,Đau tức hạ sườn trái,0.90
+D73.2,Lách to,0.95
+D73.2,Cảm giác nhanh no khi ăn,0.80
+D73.2,Mệt mỏi hoa mắt chóng mặt,0.70
+D73.4,Đau tức hạ sườn trái,0.90
+D73.4,Lách to,0.95
+D73.4,Cảm giác nhanh no khi ăn,0.80
+D73.4,Mệt mỏi hoa mắt chóng mặt,0.70
+D73.5,Đau tức hạ sườn trái,0.90
+D73.5,Lách to,0.95
+D73.5,Cảm giác nhanh no khi ăn,0.80
+D73.5,Mệt mỏi hoa mắt chóng mặt,0.70
+D73.9,Đau tức hạ sườn trái,0.90
+D73.9,Lách to,0.95
+D73.9,Cảm giác nhanh no khi ăn,0.80
+D73.9,Mệt mỏi hoa mắt chóng mặt,0.70
+D17.5,Khối u dưới da mềm mại,0.95
+D17.5,Khối u di động dễ dàng,0.90
+D17.5,Không đau đớn khi ấn,0.85
+D17.5,Khối u phát triển chậm,0.75
+D17.6,Khối u dưới da mềm mại,0.95
+D17.6,Khối u di động dễ dàng,0.90
+D17.6,Không đau đớn khi ấn,0.85
+D17.6,Khối u phát triển chậm,0.75
+D17.9,Khối u dưới da mềm mại,0.95
+D17.9,Khối u di động dễ dàng,0.90
+D17.9,Không đau đớn khi ấn,0.85
+D17.9,Khối u phát triển chậm,0.75
+D18,Khối u màu đỏ tím hoặc xanh,0.90
+D18,Khối u xẹp lại khi ấn vào,0.85
+D18,Khối u phát triển chậm,0.75
+D18,Dễ chảy máu khi va chạm,0.70
+D18.0,Khối u màu đỏ tím hoặc xanh,0.90
+D18.0,Khối u xẹp lại khi ấn vào,0.85
+D18.0,Khối u phát triển chậm,0.75
+D18.0,Dễ chảy máu khi va chạm,0.70
+D18.1,Khối u màu đỏ tím hoặc xanh,0.90
+D18.1,Khối u xẹp lại khi ấn vào,0.85
+D18.1,Khối u phát triển chậm,0.75
+D18.1,Dễ chảy máu khi va chạm,0.70
+D19.0,Khối u khu trú tại chỗ,0.90
+D19.0,Đau tức vùng tổn thương,0.80
+D19.0,Mệt mỏi suy nhược,0.70
+D19.0,Sụt cân không rõ nguyên nhân,0.65
+D19.1,Khối u khu trú tại chỗ,0.90
+D19.1,Đau tức vùng tổn thương,0.80
+D19.1,Mệt mỏi suy nhược,0.70
+D19.1,Sụt cân không rõ nguyên nhân,0.65
+D19.7,Khối u khu trú tại chỗ,0.90
+D19.7,Đau tức vùng tổn thương,0.80
+D19.7,Mệt mỏi suy nhược,0.70
+D19.7,Sụt cân không rõ nguyên nhân,0.65
+D20,Khối u khu trú tại chỗ,0.90
+D20,Đau tức vùng tổn thương,0.80
+D20,Mệt mỏi suy nhược,0.70
+D20,Sụt cân không rõ nguyên nhân,0.65
+D20.0,Khối u khu trú tại chỗ,0.90
+D20.0,Đau tức vùng tổn thương,0.80
+D20.0,Mệt mỏi suy nhược,0.70
+D20.0,Sụt cân không rõ nguyên nhân,0.65
+D20.1,Khối u khu trú tại chỗ,0.90
+D20.1,Đau tức vùng tổn thương,0.80
+D20.1,Mệt mỏi suy nhược,0.70
+D20.1,Sụt cân không rõ nguyên nhân,0.65
+D21,Khối u khu trú tại chỗ,0.90
+D21,Đau tức vùng tổn thương,0.80
+D21,Mệt mỏi suy nhược,0.70
+D21,Sụt cân không rõ nguyên nhân,0.65
+D21.0,Khối u khu trú tại chỗ,0.90
+D21.0,Đau tức vùng tổn thương,0.80
+D21.0,Mệt mỏi suy nhược,0.70
+D21.0,Sụt cân không rõ nguyên nhân,0.65
+D21.1,Khối u khu trú tại chỗ,0.90
+D21.1,Đau tức vùng tổn thương,0.80
+D21.1,Mệt mỏi suy nhược,0.70
+D21.1,Sụt cân không rõ nguyên nhân,0.65
+D21.2,Khối u khu trú tại chỗ,0.90
+D21.2,Đau tức vùng tổn thương,0.80
+D21.2,Mệt mỏi suy nhược,0.70
+D21.2,Sụt cân không rõ nguyên nhân,0.65
+D21.3,Khối u khu trú tại chỗ,0.90
+D21.3,Đau tức vùng tổn thương,0.80
+D21.3,Mệt mỏi suy nhược,0.70
+D21.3,Sụt cân không rõ nguyên nhân,0.65
+D21.4,Khối u khu trú tại chỗ,0.90
+D21.4,Đau tức vùng tổn thương,0.80
+D21.4,Mệt mỏi suy nhược,0.70
+D21.4,Sụt cân không rõ nguyên nhân,0.65
+D21.5,Khối u khu trú tại chỗ,0.90
+D21.5,Đau tức vùng tổn thương,0.80
+D21.5,Mệt mỏi suy nhược,0.70
+D21.5,Sụt cân không rõ nguyên nhân,0.65
+D21.6,Khối u khu trú tại chỗ,0.90
+D21.6,Đau tức vùng tổn thương,0.80
+D21.6,Mệt mỏi suy nhược,0.70
+D21.6,Sụt cân không rõ nguyên nhân,0.65
+D21.9,Khối u khu trú tại chỗ,0.90
+D21.9,Đau tức vùng tổn thương,0.80
+D21.9,Mệt mỏi suy nhược,0.70
+D21.9,Sụt cân không rõ nguyên nhân,0.65
+D22,Tổn thương da đổi màu sắc,0.90
+D22,Nốt ruồi tăng kích thước nhanh,0.85
+D22,Ngứa rát vùng tổn thương,0.70
+D22,Bề mặt tổn thương sần sùi,0.75
+D22.0,Tổn thương da đổi màu sắc,0.90
+D22.0,Nốt ruồi tăng kích thước nhanh,0.85
+D22.0,Ngứa rát vùng tổn thương,0.70
+D22.0,Bề mặt tổn thương sần sùi,0.75
+D22.1,Tổn thương da đổi màu sắc,0.90
+D22.1,Nốt ruồi tăng kích thước nhanh,0.85
+D22.1,Ngứa rát vùng tổn thương,0.70
+D22.1,Bề mặt tổn thương sần sùi,0.75
+D22.2,Tổn thương da đổi màu sắc,0.90
+D22.2,Nốt ruồi tăng kích thước nhanh,0.85
+D22.2,Ngứa rát vùng tổn thương,0.70
+D22.2,Bề mặt tổn thương sần sùi,0.75
+D22.3,Tổn thương da đổi màu sắc,0.90
+D22.3,Nốt ruồi tăng kích thước nhanh,0.85
+D22.3,Ngứa rát vùng tổn thương,0.70
+D22.3,Bề mặt tổn thương sần sùi,0.75
+D22.4,Tổn thương da đổi màu sắc,0.90
+D22.4,Nốt ruồi tăng kích thước nhanh,0.85
+D22.4,Ngứa rát vùng tổn thương,0.70
+D22.4,Bề mặt tổn thương sần sùi,0.75
+D22.5,Tổn thương da đổi màu sắc,0.90
+D22.5,Nốt ruồi tăng kích thước nhanh,0.85
+D22.5,Ngứa rát vùng tổn thương,0.70
+D22.5,Bề mặt tổn thương sần sùi,0.75
+D22.6,Tổn thương da đổi màu sắc,0.90
+D22.6,Nốt ruồi tăng kích thước nhanh,0.85
+D22.6,Ngứa rát vùng tổn thương,0.70
+D22.6,Bề mặt tổn thương sần sùi,0.75
+D22.7,Tổn thương da đổi màu sắc,0.90
+D22.7,Nốt ruồi tăng kích thước nhanh,0.85
+D22.7,Ngứa rát vùng tổn thương,0.70
+D22.7,Bề mặt tổn thương sần sùi,0.75
+D22.9,Tổn thương da đổi màu sắc,0.90
+D22.9,Nốt ruồi tăng kích thước nhanh,0.85
+D22.9,Ngứa rát vùng tổn thương,0.70
+D22.9,Bề mặt tổn thương sần sùi,0.75
+D23,Tổn thương da đổi màu sắc,0.90
+D23,Nốt ruồi tăng kích thước nhanh,0.85
+D23,Ngứa rát vùng tổn thương,0.70
+D23,Bề mặt tổn thương sần sùi,0.75
+D23.0,Tổn thương da đổi màu sắc,0.90
+D23.0,Nốt ruồi tăng kích thước nhanh,0.85
+D23.0,Ngứa rát vùng tổn thương,0.70
+D23.0,Bề mặt tổn thương sần sùi,0.75
+D23.1,Tổn thương da đổi màu sắc,0.90
+D23.1,Nốt ruồi tăng kích thước nhanh,0.85
+D23.1,Ngứa rát vùng tổn thương,0.70
+D23.1,Bề mặt tổn thương sần sùi,0.75
+D23.2,Tổn thương da đổi màu sắc,0.90
+D23.2,Nốt ruồi tăng kích thước nhanh,0.85
+D23.2,Ngứa rát vùng tổn thương,0.70
+D23.2,Bề mặt tổn thương sần sùi,0.75
+D23.3,Tổn thương da đổi màu sắc,0.90
+D23.3,Nốt ruồi tăng kích thước nhanh,0.85
+D23.3,Ngứa rát vùng tổn thương,0.70
+D23.3,Bề mặt tổn thương sần sùi,0.75
+D23.4,Tổn thương da đổi màu sắc,0.90
+D23.4,Nốt ruồi tăng kích thước nhanh,0.85
+D23.4,Ngứa rát vùng tổn thương,0.70
+D23.4,Bề mặt tổn thương sần sùi,0.75
+D23.5,Tổn thương da đổi màu sắc,0.90
+D23.5,Nốt ruồi tăng kích thước nhanh,0.85
+D23.5,Ngứa rát vùng tổn thương,0.70
+D23.5,Bề mặt tổn thương sần sùi,0.75
+D23.6,Tổn thương da đổi màu sắc,0.90
+D23.6,Nốt ruồi tăng kích thước nhanh,0.85
+D23.6,Ngứa rát vùng tổn thương,0.70
+D23.6,Bề mặt tổn thương sần sùi,0.75
+D23.7,Tổn thương da đổi màu sắc,0.90
+D23.7,Nốt ruồi tăng kích thước nhanh,0.85
+D23.7,Ngứa rát vùng tổn thương,0.70
+D23.7,Bề mặt tổn thương sần sùi,0.75
+D23.9,Tổn thương da đổi màu sắc,0.90
+D23.9,Nốt ruồi tăng kích thước nhanh,0.85
+D23.9,Ngứa rát vùng tổn thương,0.70
+D23.9,Bề mặt tổn thương sần sùi,0.75
+D24,Khối u khu trú tại chỗ,0.90
+D24,Đau tức vùng tổn thương,0.80
+D24,Mệt mỏi suy nhược,0.70
+D24,Sụt cân không rõ nguyên nhân,0.65
+D25,Rong kinh rong huyết,0.90
+D25,Đau tức vùng hạ vị,0.85
+D25,Bụng to lên bất thường,0.80
+D25,Tiểu nhiều lần do chèn ép,0.75
+D25.0,Rong kinh rong huyết,0.90
+D25.0,Đau tức vùng hạ vị,0.85
+D25.0,Bụng to lên bất thường,0.80
+D25.0,Tiểu nhiều lần do chèn ép,0.75
+D25.1,Rong kinh rong huyết,0.90
+D25.1,Đau tức vùng hạ vị,0.85
+D25.1,Bụng to lên bất thường,0.80
+D25.1,Tiểu nhiều lần do chèn ép,0.75
+D25.2,Rong kinh rong huyết,0.90
+D25.2,Đau tức vùng hạ vị,0.85
+D25.2,Bụng to lên bất thường,0.80
+D25.2,Tiểu nhiều lần do chèn ép,0.75
+D25.9,Rong kinh rong huyết,0.90
+D25.9,Đau tức vùng hạ vị,0.85
+D25.9,Bụng to lên bất thường,0.80
+D25.9,Tiểu nhiều lần do chèn ép,0.75
+D26,Khối u khu trú tại chỗ,0.90
+D26,Đau tức vùng tổn thương,0.80
+D26,Mệt mỏi suy nhược,0.70
+D26,Sụt cân không rõ nguyên nhân,0.65
+D26.0,Rong kinh rong huyết,0.90
+D26.0,Đau tức vùng hạ vị,0.85
+D26.0,Bụng to lên bất thường,0.80
+D26.0,Tiểu nhiều lần do chèn ép,0.75
+D26.1,Rong kinh rong huyết,0.90
+D26.1,Đau tức vùng hạ vị,0.85
+D26.1,Bụng to lên bất thường,0.80
+D26.1,Tiểu nhiều lần do chèn ép,0.75
+D26.7,Rong kinh rong huyết,0.90
+D26.7,Đau tức vùng hạ vị,0.85
+D26.7,Bụng to lên bất thường,0.80
+D26.7,Tiểu nhiều lần do chèn ép,0.75
+D26.9,Rong kinh rong huyết,0.90
+D26.9,Đau tức vùng hạ vị,0.85
+D26.9,Bụng to lên bất WILL,0.80
+D26.9,Tiểu nhiều lần do chèn ép,0.75
+D27,Đau tức vùng hạ vị,0.85
+D27,Rối loạn kinh nguyệt,0.80
+D27,Khối u vùng hố chậu,0.85
+D27,Ra khí hư bất thường,0.70
+D28,Đau tức vùng hạ vị,0.85
+D28,Rối loạn kinh nguyệt,0.80
+D28,Khối u vùng hố chậu,0.85
+D28,Ra khí hư bất thường,0.70
+D28.0,Đau tức vùng hạ vị,0.85
+D28.0,Rối loạn kinh nguyệt,0.80
+D28.0,Khối u vùng hố chậu,0.85
+D28.0,Ra khí hư bất thường,0.70
+D28.1,Đau tức vùng hạ vị,0.85
+D28.1,Rối loạn kinh nguyệt,0.80
+D28.1,Khối u vùng hố chậu,0.85
+D28.1,Ra khí hư bất thường,0.70
+D28.2,Đau tức vùng hạ vị,0.85
+D28.2,Rối loạn kinh nguyệt,0.80
+D28.2,Khối u vùng hố chậu,0.85
+D28.2,Ra khí hư bất thường,0.70
+D28.7,Đau tức vùng hạ vị,0.85
+D28.7,Rối loạn kinh nguyệt,0.80
+D28.7,Khối u vùng hố chậu,0.85
+D28.7,Ra khí hư bất thường,0.70
+D28.9,Đau tức vùng hạ vị,0.85
+D28.9,Rối loạn kinh nguyệt,0.80
+D28.9,Khối u vùng hố chậu,0.85
+D28.9,Ra khí hư bất thường,0.70
+D29,Khó tiểu tiểu rắt,0.85
+D29,Khối sưng đau tinh hoàn,0.80
+D29,Tiểu đêm nhiều lần,0.75
+D29,Giảm ham muốn sinh dục,0.70
+D29.0,Khó tiểu tiểu rắt,0.85
+D29.0,Khối sưng đau tinh hoàn,0.80
+D29.0,Tiểu đêm nhiều lần,0.75
+D29.0,Giảm ham muốn sinh dục,0.70
+D29.1,Khó tiểu tiểu rắt,0.85
+D29.1,Khối sưng đau tinh hoàn,0.80
+D29.1,Tiểu đêm nhiều lần,0.75
+D29.1,Giảm ham muốn sinh dục,0.70
+D29.2,Khó tiểu tiểu rắt,0.85
+D29.2,Khối sưng đau tinh hoàn,0.80
+D29.2,Tiểu đêm nhiều lần,0.75
+D29.2,Giảm ham muốn sinh dục,0.70
+D29.3,Khó tiểu tiểu rắt,0.85
+D29.3,Khối sưng đau tinh hoàn,0.80
+D29.3,Tiểu đêm nhiều lần,0.75
+D29.3,Giảm ham muốn sinh dục,0.70
+D29.4,Khó tiểu tiểu rắt,0.85
+D29.4,Khối sưng đau tinh hoàn,0.80
+D29.4,Tiểu đêm nhiều lần,0.75
+D29.4,Giảm ham muốn sinh dục,0.70
+D29.7,Khó tiểu tiểu rắt,0.85
+D29.7,Khối sưng đau tinh hoàn,0.80
+D29.7,Tiểu đêm nhiều lần,0.75
+D29.7,Giảm ham muốn sinh dục,0.70
+D29.9,Khó tiểu tiểu rắt,0.85
+D29.9,Khối sưng đau tinh hoàn,0.80
+D29.9,Tiểu đêm nhiều lần,0.75
+D29.9,Giảm ham muốn sinh dục,0.70
+D30,Đái máu đại thể,0.90
+D30,Đau tức vùng thắt lưng,0.85
+D30,Đái buốt đái rắt,0.75
+D30,Khối u hố chậu thắt lưng,0.70
+D30.0,Đái máu đại thể,0.90
+D30.0,Đau tức vùng thắt lưng,0.85
+D30.0,Đái buốt đái rắt,0.75
+D30.0,Khối u hố chậu thắt lưng,0.70
+D30.1,Đái máu đại thể,0.90
+D30.1,Đau tức vùng thắt lưng,0.85
+D30.1,Đái buốt đái rắt,0.75
+D30.1,Khối u hố chậu thắt lưng,0.70
+D30.2,Đái máu đại thể,0.90
+D30.2,Đau tức vùng thắt lưng,0.85
+D30.2,Đái buốt đái rắt,0.75
+D30.2,Khối u hố chậu thắt lưng,0.70
+D30.3,Đái máu đại thể,0.90
+D30.3,Đau tức vùng thắt lưng,0.85
+D30.3,Đái buốt đái rắt,0.75
+D30.3,Khối u hố chậu thắt lưng,0.70
+D30.4,Đái máu đại thể,0.90
+D30.4,Đau tức vùng thắt lưng,0.85
+D30.4,Đái buốt đái rắt,0.75
+D30.4,Khối u hố chậu thắt lưng,0.70
+D30.7,Đái máu đại thể,0.90
+D30.7,Đau tức vùng thắt lưng,0.85
+D30.7,Đái buốt đái rắt,0.75
+D30.7,Khối u hố chậu thắt lưng,0.70
+D30.9,Đái máu đại thể,0.90
+D30.9,Đau tức vùng thắt lưng,0.85
+D30.9,Đái buốt đái rắt,0.75
+D30.9,Khối u hố chậu thắt lưng,0.70
+D31,Giảm thị lực tiến triển,0.90
+D31,Nhìn mờ nhìn đôi,0.85
+D31,Đau nhức trong mắt,0.75
+D31,Lồi mắt,0.70
+D31.0,Giảm thị lực tiến triển,0.90
+D31.0,Nhìn mờ nhìn đôi,0.85
+D31.0,Đau nhức trong mắt,0.75
+D31.0,Lồi mắt,0.70
+D31.1,Giảm thị lực tiến triển,0.90
+D31.1,Nhìn mờ nhìn đôi,0.85
+D31.1,Đau nhức trong mắt,0.75
+D31.1,Lồi mắt,0.70
+D31.2,Giảm thị lực tiến triển,0.90
+D31.2,Nhìn mờ nhìn đôi,0.85
+D31.2,Đau nhức trong mắt,0.75
+D31.2,Lồi mắt,0.70
+D31.3,Giảm thị lực tiến triển,0.90
+D31.3,Nhìn mờ nhìn đôi,0.85
+D31.3,Đau nhức trong mắt,0.75
+D31.3,Lồi mắt,0.70
+D31.4,Giảm thị lực tiến triển,0.90
+D31.4,Nhìn mờ nhìn đôi,0.85
+D31.4,Đau nhức trong mắt,0.75
+D31.4,Lồi mắt,0.70
+D31.5,Giảm thị lực tiến triển,0.90
+D31.5,Nhìn mờ nhìn đôi,0.85
+D31.5,Đau nhức trong mắt,0.75
+D31.5,Lồi mắt,0.70
+D31.6,Giảm thị lực tiến triển,0.90
+D31.6,Nhìn mờ nhìn đôi,0.85
+D31.6,Đau nhức trong mắt,0.75
+D31.6,Lồi mắt,0.70
+D31.9,Giảm thị lực tiến triển,0.90
+D31.9,Nhìn mờ nhìn đôi,0.85
+D31.9,Đau nhức trong mắt,0.75
+D31.9,Lồi mắt,0.70
+D32,Đau đầu tăng dần,0.90
+D32,Buồn nôn và nôn,0.80
+D32,Co giật,0.85
+D32,Yếu liệt vận động,0.75
+D32.0,Đau đầu tăng dần,0.90
+D32.0,Buồn nôn và nôn,0.80
+D32.0,Co giật,0.85
+D32.0,Yếu liệt vận động,0.75
+D32.1,Đau đầu tăng dần,0.90
+D32.1,Buồn nôn và nôn,0.80
+D32.1,Co giật,0.85
+D32.1,Yếu liệt vận động,0.75
+D32.9,Đau đầu tăng dần,0.90
+D32.9,Buồn nôn và nôn,0.80
+D32.9,Co giật,0.85
+D32.9,Yếu liệt vận động,0.75
+D33,Đau đầu tăng dần,0.90
+D33,Buồn nôn và nôn,0.80
+D33,Co giật,0.85
+D33,Yếu liệt vận động,0.75
+D33.0,Đau đầu tăng dần,0.90
+D33.0,Buồn nôn và nôn,0.80
+D33.0,Co giật,0.85
+D33.0,Yếu liệt vận động,0.75
+D33.1,Đau đầu tăng dần,0.90
+D33.1,Buồn nôn và nôn,0.80
+D33.1,Co giật,0.85
+D33.1,Yếu liệt vận động,0.75
+D33.2,Đau đầu tăng dần,0.90
+D33.2,Buồn nôn và nôn,0.80
+D33.2,Co giật,0.85
+D33.2,Yếu liệt vận động,0.75
+D33.3,Đau đầu tăng dần,0.90
+D33.3,Buồn nôn và nôn,0.80
+D33.3,Co giật,0.85
+D33.3,Yếu liệt vận động,0.75
+D33.4,Đau đầu tăng dần,0.90
+D33.4,Buồn nôn và nôn,0.80
+D33.4,Co giật,0.85
+D33.4,Yếu liệt vận động,0.75
+D33.7,Đau đầu tăng dần,0.90
+D33.7,Buồn nôn và nôn,0.80
+D33.7,Co giật,0.85
+D33.7,Yếu liệt vận động,0.75
+D33.9,Đau đầu tăng dần,0.90
+D33.9,Buồn nôn và nôn,0.80
+D33.9,Co giật,0.85
+D33.9,Yếu liệt vận động,0.75
+D34,Rối loạn nhịp tim,0.80
+D34,Thay đổi huyết áp đột ngột,0.85
+D34,Tăng hoặc sụt cân nhanh,0.75
+D34,Mệt mỏi suy nhược,0.70
+D35,Rối loạn nhịp tim,0.80
+D35,Thay đổi huyết áp đột ngột,0.85
+D35,Tăng hoặc sụt cân nhanh,0.75
+D35,Mệt mỏi suy nhược,0.70
+D35.0,Rối loạn nhịp tim,0.80
+D35.0,Thay đổi huyết áp đột ngột,0.85
+D35.0,Tăng hoặc sụt cân nhanh,0.75
+D35.0,Mệt mỏi suy nhược,0.70
+D35.1,Rối loạn nhịp tim,0.80
+D35.1,Thay đổi huyết áp đột ngột,0.85
+D35.1,Tăng hoặc sụt cân nhanh,0.75
+D35.1,Mệt mỏi suy nhược,0.70
+D35.2,Rối loạn nhịp tim,0.80
+D35.2,Thay đổi huyết áp đột ngột,0.85
+D35.2,Tăng hoặc sụt cân nhanh,0.75
+D35.2,Mệt mỏi suy nhược,0.70
+D35.3,Rối loạn nhịp tim,0.80
+D35.3,Thay đổi huyết áp đột ngột,0.85
+D35.3,Tăng hoặc sụt cân nhanh,0.75
+D35.3,Mệt mỏi suy nhược,0.70
+D35.4,Rối loạn nhịp tim,0.80
+D35.4,Thay đổi huyết áp đột ngột,0.85
+D35.4,Tăng hoặc sụt cân nhanh,0.75
+D35.4,Mệt mỏi suy nhược,0.70
+D35.5,Rối loạn nhịp tim,0.80
+D35.5,Thay đổi huyết áp đột ngột,0.85
+D35.5,Tăng hoặc sụt cân nhanh,0.75
+D35.5,Mệt mỏi suy nhược,0.70
+D35.6,Rối loạn nhịp tim,0.80
+D35.6,Thay đổi huyết áp đột ngột,0.85
+D35.6,Tăng hoặc sụt cân nhanh,0.75
+D35.6,Mệt mỏi suy nhược,0.70
+D35.7,Rối loạn nhịp tim,0.80
+D35.7,Thay đổi huyết áp đột ngột,0.85
+D35.7,Tăng hoặc sụt cân nhanh,0.75
+D35.7,Mệt mỏi suy nhược,0.70
+D35.8,Rối loạn nhịp tim,0.80
+D35.8,Thay đổi huyết áp đột ngột,0.85
+D35.8,Tăng hoặc sụt cân nhanh,0.75
+D35.8,Mệt mỏi suy nhược,0.70
+D35.9,Rối loạn nhịp tim,0.80
+D35.9,Thay đổi huyết áp đột ngột,0.85
+D35.9,Tăng hoặc sụt cân nhanh,0.75
+D35.9,Mệt mỏi suy nhược,0.70
+D36,Khối u khu trú tại chỗ,0.90
+D36,Đau tức vùng tổn thương,0.80
+D36,Mệt mỏi suy nhược,0.70
+D36,Sụt cân không rõ nguyên nhân,0.65
+D36.0,Khối u khu trú tại chỗ,0.90
+D36.0,Đau tức vùng tổn thương,0.80
+D36.0,Mệt mỏi suy nhược,0.70
+D36.0,Sụt cân không rõ nguyên nhân,0.65
+D36.1,Đau đầu tăng dần,0.90
+D36.1,Buồn nôn và nôn,0.80
+D36.1,Co giật,0.85
+D36.1,Yếu liệt vận động,0.75
+D36.7,Khối u khu trú tại chỗ,0.90
+D36.7,Đau tức vùng tổn thương,0.80
+D36.7,Mệt mỏi suy nhược,0.70
+D36.7,Sụt cân không rõ nguyên nhân,0.65
+D36.9,Khối u khu trú tại chỗ,0.90
+D36.9,Đau tức vùng tổn thương,0.80
+D36.9,Mệt mỏi suy nhược,0.70
+D36.9,Sụt cân không rõ nguyên nhân,0.65
+D37,Đau bụng âm ỉ kéo dài,0.85
+D37,Đầy bụng khó tiêu,0.80
+D37,Rối loạn đại tiện,0.75
+D37,Khối u vùng bụng,0.70
+D37.0,Đau bụng âm ỉ kéo dài,0.85
+D37.0,Đầy bụng khó tiêu,0.80
+D37.0,Rối loạn đại tiện,0.75
+D37.0,Khối u vùng bụng,0.70
+D37.1,Đau bụng âm ỉ kéo dài,0.85
+D37.1,Đầy bụng khó tiêu,0.80
+D37.1,Rối loạn đại tiện,0.75
+D37.1,Khối u vùng bụng,0.70
+D37.2,Đau bụng âm ỉ kéo dài,0.85
+D37.2,Đầy bụng khó tiêu,0.80
+D37.2,Rối loạn đại tiện,0.75
+D37.2,Khối u vùng bụng,0.70
+D37.3,Đau bụng âm ỉ kéo dài,0.85
+D37.3,Đầy bụng khó tiêu,0.80
+D37.3,Rối loạn đại tiện,0.75
+D37.3,Khối u vùng bụng,0.70
+D37.4,Đau bụng âm ỉ kéo dài,0.85
+D37.4,Đầy bụng khó tiêu,0.80
+D37.4,Rối loạn đại tiện,0.75
+D37.4,Khối u vùng bụng,0.70
+D37.5,Đau bụng âm ỉ kéo dài,0.85
+D37.5,Đầy bụng khó tiêu,0.80
+D37.5,Rối loạn đại tiện,0.75
+D37.5,Khối u vùng bụng,0.70
+D37.6,Đau bụng âm ỉ kéo dài,0.85
+D37.6,Đầy bụng khó tiêu,0.80
+D37.6,Rối loạn đại tiện,0.75
+D37.6,Khối u vùng bụng,0.70
+D37.7,Đau bụng âm ỉ kéo dài,0.85
+D37.7,Đầy bụng khó tiêu,0.80
+D37.7,Rối loạn đại tiện,0.75
+D37.7,Khối u vùng bụng,0.70
+D37.9,Đau bụng âm ỉ kéo dài,0.85
+D37.9,Đầy bụng khó tiêu,0.80
+D37.9,Rối loạn đại tiện,0.75
+D37.9,Khối u vùng bụng,0.70
+D38,Ho khạc kéo dài,0.80
+D38,Khó nuốt vướng họng,0.85
+D38,Khàn tiếng,0.75
+D38,Khó thở khi chèn ép,0.70
+D38.0,Ho khạc kéo dài,0.80
+D38.0,Khó nuốt vướng họng,0.85
+D38.0,Khàn tiếng,0.75
+D38.0,Khó thở khi chèn ép,0.70
+D38.1,Ho khạc kéo dài,0.80
+D38.1,Khó nuốt vướng họng,0.85
+D38.1,Khàn tiếng,0.75
+D38.1,Khó thở khi chèn ép,0.70
+D38.2,Ho khạc kéo dài,0.80
+D38.2,Khó nuốt vướng họng,0.85
+D38.2,Khàn tiếng,0.75
+D38.2,Khó thở khi chèn ép,0.70
+D38.3,Ho khạc kéo dài,0.80
+D38.3,Khó nuốt vướng họng,0.85
+D38.3,Khàn tiếng,0.75
+D38.3,Khó thở khi chèn ép,0.70
+D38.4,Ho khạc kéo dài,0.80
+D38.4,Khó nuốt vướng họng,0.85
+D38.4,Khàn tiếng,0.75
+D38.4,Khó thở khi chèn ép,0.70
+D38.5,Ho khạc kéo dài,0.80
+D38.5,Khó nuốt vướng họng,0.85
+D38.5,Khàn tiếng,0.75
+D38.5,Khó thở khi chèn ép,0.70
+D38.6,Ho khạc kéo dài,0.80
+D38.6,Khó nuốt vướng họng,0.85
+D38.6,Khàn tiếng,0.75
+D38.6,Khó thở khi chèn ép,0.70
+D39,Đau tức vùng hạ vị,0.85
+D39,Rối loạn kinh nguyệt,0.80
+D39,Khối u vùng hố chậu,0.85
+D39,Ra khí hư bất thường,0.70
+D39.0,Đau tức vùng hạ vị,0.85
+D39.0,Rối loạn kinh nguyệt,0.80
+D39.0,Khối u vùng hố chậu,0.85
+D39.0,Ra khí hư bất thường,0.70
+D39.1,Đau tức vùng hạ vị,0.85
+D39.1,Rối loạn kinh nguyệt,0.80
+D39.1,Khối u vùng hố chậu,0.85
+D39.1,Ra khí hư bất thường,0.70
+D39.2,Đau tức vùng hạ vị,0.85
+D39.2,Rối loạn kinh nguyệt,0.80
+D39.2,Khối u vùng hố chậu,0.85
+D39.2,Ra khí hư bất thường,0.70
+D39.7,Đau tức vùng hạ vị,0.85
+D39.7,Rối loạn kinh nguyệt,0.80
+D39.7,Khối u vùng hố chậu,0.85
+D39.7,Ra khí hư bất thường,0.70
+D39.9,Đau tức vùng hạ vị,0.85
+D39.9,Rối loạn kinh nguyệt,0.80
+D39.9,Khối u vùng hố chậu,0.85
+D39.9,Ra khí hư bất thường,0.70
+D40,Khó tiểu tiểu rắt,0.85
+D40,Khối sưng đau tinh hoàn,0.80
+D40,Tiểu đêm nhiều lần,0.75
+D40,Giảm ham muốn sinh dục,0.70
+D40.0,Khó tiểu tiểu rắt,0.85
+D40.0,Khối sưng đau tinh hoàn,0.80
+D40.0,Tiểu đêm nhiều lần,0.75
+D40.0,Giảm ham muốn sinh dục,0.70
+D40.1,Khó tiểu tiểu rắt,0.85
+D40.1,Khối sưng đau tinh hoàn,0.80
+D40.1,Tiểu đêm nhiều lần,0.75
+D40.1,Giảm ham muốn sinh dục,0.70
+D40.7,Khó tiểu tiểu rắt,0.85
+D40.7,Khối sưng đau tinh hoàn,0.80
+D40.7,Tiểu đêm nhiều lần,0.75
+D40.7,Giảm ham muốn sinh dục,0.70
+D40.9,Khó tiểu tiểu rắt,0.85
+D40.9,Khối sưng đau tinh hoàn,0.80
+D40.9,Tiểu đêm nhiều lần,0.75
+D40.9,Giảm ham muốn sinh dục,0.70
+D41,Đái máu đại thể,0.90
+D41,Đau tức vùng thắt lưng,0.85
+D41,Đái buốt đái rắt,0.75
+D41,Khối u hố chậu thắt lưng,0.70
+D41.0,Đái máu đại thể,0.90
+D41.0,Đau tức vùng thắt lưng,0.85
+D41.0,Đái buốt đái rắt,0.75
+D41.0,Khối u hố chậu thắt lưng,0.70
+D41.1,Đái máu đại thể,0.90
+D41.1,Đau tức vùng thắt lưng,0.85
+D41.1,Đái buốt đái rắt,0.75
+D41.1,Khối u hố chậu thắt lưng,0.70
+D41.2,Đái máu đại thể,0.90
+D41.2,Đau tức vùng thắt lưng,0.85
+D41.2,Đái buốt đái rắt,0.75
+D41.2,Khối u hố chậu thắt lưng,0.70
+D41.3,Đái máu đại thể,0.90
+D41.3,Đau tức vùng thắt lưng,0.85
+D41.3,Đái buốt đái rắt,0.75
+D41.3,Khối u hố chậu thắt lưng,0.70
+D41.4,Đái máu đại thể,0.90
+D41.4,Đau tức vùng thắt lưng,0.85
+D41.4,Đái buốt đái rắt,0.75
+D41.4,Khối u hố chậu thắt lưng,0.70
+D41.7,Đái máu đại thể,0.90
+D41.7,Đau tức vùng thắt lưng,0.85
+D41.7,Đái buốt đái rắt,0.75
+D41.7,Khối u hố chậu thắt lưng,0.70
+D41.9,Đái máu đại thể,0.90
+D41.9,Đau tức vùng thắt lưng,0.85
+D41.9,Đái buốt đái rắt,0.75
+D41.9,Khối u hố chậu thắt lưng,0.70
+D42,Đau đầu tăng dần,0.90
+D42,Buồn nôn và nôn,0.80
+D42,Co giật,0.85
+D42,Yếu liệt vận động,0.75
+D42.0,Đau đầu tăng dần,0.90
+D42.0,Buồn nôn và nôn,0.80
+D42.0,Co giật,0.85
+D42.0,Yếu liệt vận động,0.75
+D42.1,Đau đầu tăng dần,0.90
+D42.1,Buồn nôn và nôn,0.80
+D42.1,Co giật,0.85
+D42.1,Yếu liệt vận động,0.75
+D42.9,Đau đầu tăng dần,0.90
+D42.9,Buồn nôn và nôn,0.80
+D42.9,Co giật,0.85
+D42.9,Yếu liệt vận động,0.75
+D43,Đau đầu tăng dần,0.90
+D43,Buồn nôn và nôn,0.80
+D43,Co giật,0.85
+D43,Yếu liệt vận động,0.75
+D43.0,Đau đầu tăng dần,0.90
+D43.0,Buồn nôn và nôn,0.80
+D43.0,Co giật,0.85
+D43.0,Yếu liệt vận động,0.75
+D43.1,Đau đầu tăng dần,0.90
+D43.1,Buồn nôn và nôn,0.80
+D43.1,Co giật,0.85
+D43.1,Yếu liệt vận động,0.75
+D43.2,Đau đầu tăng dần,0.90
+D43.2,Buồn nôn và nôn,0.80
+D43.2,Co giật,0.85
+D43.2,Yếu liệt vận động,0.75
+D43.3,Đau đầu tăng dần,0.90
+D43.3,Buồn nôn và nôn,0.80
+D43.3,Co giật,0.85
+D43.3,Yếu liệt vận động,0.75
+D43.4,Đau đầu tăng dần,0.90
+D43.4,Buồn nôn và nôn,0.80
+D43.4,Co giật,0.85
+D43.4,Yếu liệt vận động,0.75
+D43.7,Đau đầu tăng dần,0.90
+D43.7,Buồn nôn và nôn,0.80
+D43.7,Co giật,0.85
+D43.7,Yếu liệt vận động,0.75
+D43.9,Đau đầu tăng dần,0.90
+D43.9,Buồn nôn và nôn,0.80
+D43.9,Co giật,0.85
+D43.9,Yếu liệt vận động,0.75
+D44,Rối loạn nhịp tim,0.80
+D44,Thay đổi huyết áp đột ngột,0.85
+D44,Tăng hoặc sụt cân nhanh,0.75
+D44,Mệt mỏi suy nhược,0.70
+D44.0,Rối loạn nhịp tim,0.80
+D44.0,Thay đổi huyết áp đột ngột,0.85
+D44.0,Tăng hoặc sụt cân nhanh,0.75
+D44.0,Mệt mỏi suy nhược,0.70
+D44.1,Rối loạn nhịp tim,0.80
+D44.1,Thay đổi huyết áp đột ngột,0.85
+D44.1,Tăng hoặc sụt cân nhanh,0.75
+D44.1,Mệt mỏi suy nhược,0.70
+D44.2,Rối loạn nhịp tim,0.80
+D44.2,Thay đổi huyết áp đột ngột,0.85
+D44.2,Tăng hoặc sụt cân nhanh,0.75
+D44.2,Mệt mỏi suy nhược,0.70
+D44.3,Rối loạn nhịp tim,0.80
+D44.3,Thay đổi huyết áp đột ngột,0.85
+D44.3,Tăng hoặc sụt cân nhanh,0.75
+D44.3,Mệt mỏi suy nhược,0.70
+D44.4,Rối loạn nhịp tim,0.80
+D44.4,Thay đổi huyết áp đột ngột,0.85
+D44.4,Tăng hoặc sụt cân nhanh,0.75
+D44.4,Mệt mỏi suy nhược,0.70
+D44.5,Rối loạn nhịp tim,0.80
+D44.5,Thay đổi huyết áp đột ngột,0.85
+D44.5,Tăng hoặc sụt cân nhanh,0.75
+D44.5,Mệt mỏi suy nhược,0.70
+D44.6,Rối loạn nhịp tim,0.80
+D44.6,Thay đổi huyết áp đột ngột,0.85
+D44.6,Tăng hoặc sụt cân nhanh,0.75
+D44.6,Mệt mỏi suy nhược,0.70
+D44.7,Rối loạn nhịp tim,0.80
+D44.7,Thay đổi huyết áp đột ngột,0.85
+D44.7,Tăng hoặc sụt cân nhanh,0.75
+D44.7,Mệt mỏi suy nhược,0.70
+D44.8,Rối loạn nhịp tim,0.80
+D44.8,Thay đổi huyết áp đột ngột,0.85
+D44.8,Tăng hoặc sụt cân nhanh,0.75
+D44.8,Mệt mỏi suy nhược,0.70
+D44.9,Rối loạn nhịp tim,0.80
+D44.9,Thay đổi huyết áp đột ngột,0.85
+D44.9,Tăng hoặc sụt cân nhanh,0.75
+D44.9,Mệt mỏi suy nhược,0.70
+D45,Khối u khu trú tại chỗ,0.90
+D45,Đau tức vùng tổn thương,0.80
+D45,Mệt mỏi suy nhược,0.70
+D45,Sụt cân không rõ nguyên nhân,0.65
+D46,Khối u khu trú tại chỗ,0.90
+D46,Đau tức vùng tổn thương,0.80
+D46,Mệt mỏi suy nhược,0.70
+D46,Sụt cân không rõ nguyên nhân,0.65
+D46.0,Khối u khu trú tại chỗ,0.90
+D46.0,Đau tức vùng tổn thương,0.80
+D46.0,Mệt mỏi suy nhược,0.70
+D46.0,Sụt cân không rõ nguyên nhân,0.65
+D46.1,Khối u khu trú tại chỗ,0.90
+D46.1,Đau tức vùng tổn thương,0.80
+D46.1,Mệt mỏi suy nhược,0.70
+D46.1,Sụt cân không rõ nguyên nhân,0.65
+D46.2,Khối u khu trú tại chỗ,0.90
+D46.2,Đau tức vùng tổn thương,0.80
+D46.2,Mệt mỏi suy nhược,0.70
+D46.2,Sụt cân không rõ nguyên nhân,0.65
+D46.3,Khối u khu trú tại chỗ,0.90
+D46.3,Đau tức vùng tổn thương,0.80
+D46.3,Mệt mỏi suy nhược,0.70
+D46.3,Sụt cân không rõ nguyên nhân,0.65
+D46.4,Khối u khu trú tại chỗ,0.90
+D46.4,Đau tức vùng tổn thương,0.80
+D46.4,Mệt mỏi suy nhược,0.70
+D46.4,Sụt cân không rõ nguyên nhân,0.65
+D46.7,Khối u khu trú tại chỗ,0.90
+D46.7,Đau tức vùng tổn thương,0.80
+D46.7,Mệt mỏi suy nhược,0.70
+D46.7,Sụt cân không rõ nguyên nhân,0.65
+D46.9,Khối u khu trú tại chỗ,0.90
+D46.9,Đau tức vùng tổn thương,0.80
+D46.9,Mệt mỏi suy nhược,0.70
+D46.9,Sụt cân không rõ nguyên nhân,0.65
+D47,Khối u khu trú tại chỗ,0.90
+D47,Đau tức vùng tổn thương,0.80
+D47,Mệt mỏi suy nhược,0.70
+D47,Sụt cân không rõ nguyên nhân,0.65
+D47.0,Khối u khu trú tại chỗ,0.90
+D47.0,Đau tức vùng tổn thương,0.80
+D47.0,Mệt mỏi suy nhược,0.70
+D47.0,Sụt cân không rõ nguyên nhân,0.65
+D47.1,Khối u khu trú tại chỗ,0.90
+D47.1,Đau tức vùng tổn thương,0.80
+D47.1,Mệt mỏi suy nhược,0.70
+D47.1,Sụt cân không rõ nguyên nhân,0.65
+D47.2,Khối u khu trú tại chỗ,0.90
+D47.2,Đau tức vùng tổn thương,0.80
+D47.2,Mệt mỏi suy nhược,0.70
+D47.2,Sụt cân không rõ nguyên nhân,0.65
+D47.3,Chấm nốt xuất huyết dưới da,0.95
+D47.3,Chảy máu chân răng mũi,0.85
+D47.3,Xuất huyết tiêu hóa,0.75
+D47.3,Thời gian chảy máu kéo dài,0.80
+D47.7,Khối u khu trú tại chỗ,0.90
+D47.7,Đau tức vùng tổn thương,0.80
+D47.7,Mệt mỏi suy nhược,0.70
+D47.7,Sụt cân không rõ nguyên nhân,0.65
+D47.9,Khối u khu trú tại chỗ,0.90
+D47.9,Đau tức vùng tổn thương,0.80
+D47.9,Mệt mỏi suy nhược,0.70
+D47.9,Sụt cân không rõ nguyên nhân,0.65
+D48,Khối u khu trú tại chỗ,0.90
+D48,Đau tức vùng tổn thương,0.80
+D48,Mệt mỏi suy nhược,0.70
+D48,Sụt cân không rõ nguyên nhân,0.65
+D48.0,Đau xương khớp khu trú,0.90
+D48.0,Sưng phồng vùng xương tổn thương,0.85
+D48.0,Hạn chế vận động khớp,0.75
+D48.0,Gãy xương tự phát,0.70
+D48.1,Khối u khu trú tại chỗ,0.90
+D48.1,Đau tức vùng tổn thương,0.80
+D48.1,Mệt mỏi suy nhược,0.70
+D48.1,Sụt cân không rõ nguyên nhân,0.65
+D48.2,Khối u khu trú tại chỗ,0.90
+D48.2,Đau tức vùng tổn thương,0.80
+D48.2,Mệt mỏi suy nhược,0.70
+D48.2,Sụt cân không rõ nguyên nhân,0.65
+D48.3,Khối u khu trú tại chỗ,0.90
+D48.3,Đau tức vùng tổn thương,0.80
+D48.3,Mệt mỏi suy nhược,0.70
+D48.3,Sụt cân không rõ nguyên nhân,0.65
+D48.4,Khối u khu trú tại chỗ,0.90
+D48.4,Đau tức vùng tổn thương,0.80
+D48.4,Mệt mỏi suy nhược,0.70
+D48.4,Sụt cân không rõ nguyên nhân,0.65
+D48.5,Tổn thương da đổi màu sắc,0.90
+D48.5,Nốt ruồi tăng kích thước nhanh,0.85
+D48.5,Ngứa rát vùng tổn thương,0.70
+D48.5,Bề mặt tổn thương sần sùi,0.75
+D48.6,Khối u khu trú tại chỗ,0.90
+D48.6,Đau tức vùng tổn thương,0.80
+D48.6,Mệt mỏi suy nhược,0.70
+D48.6,Sụt cân không rõ nguyên nhân,0.65
+D48.7,Khối u khu trú tại chỗ,0.90
+D48.7,Đau tức vùng tổn thương,0.80
+D48.7,Mệt mỏi suy nhược,0.70
+D48.7,Sụt cân không rõ nguyên nhân,0.65
+D48.9,Khối u khu trú tại chỗ,0.90
+D48.9,Đau tức vùng tổn thương,0.80
+D48.9,Mệt mỏi suy nhược,0.70
+D48.9,Sụt cân không rõ nguyên nhân,0.65
+D50,Da xanh xao niêm mạc nhợt,0.90
+D50,Mệt mỏi hoa mắt chóng mặt,0.85
+D50,Móng tay khô dễ gãy,0.75
+D50,Nhịp tim nhanh khi gắng sức,0.70
+D50.0,Da xanh xao niêm mạc nhợt,0.90
+D50.0,Mệt mỏi hoa mắt chóng mặt,0.85
+D50.0,Móng tay khô dễ gãy,0.75
+D50.0,Nhịp tim nhanh khi gắng sức,0.70
+D50.1,Da xanh xao niêm mạc nhợt,0.90
+D50.1,Mệt mỏi hoa mắt chóng mặt,0.85
+D50.1,Móng tay khô dễ gãy,0.75
+D50.1,Nhịp tim nhanh khi gắng sức,0.70
+D50.8,Da xanh xao niêm mạc nhợt,0.90
+D50.8,Mệt mỏi hoa mắt chóng mặt,0.85
+D50.8,Móng tay khô dễ gãy,0.75
+D50.8,Nhịp tim nhanh khi gắng sức,0.70
+D50.9,Da xanh xao niêm mạc nhợt,0.90
+D50.9,Mệt mỏi hoa mắt chóng mặt,0.85
+D50.9,Móng tay khô dễ gãy,0.75
+D50.9,Nhịp tim nhanh khi gắng sức,0.70
+D51,Da xanh xao niêm mạc nhợt,0.90
+D51,Mệt mỏi hoa mắt chóng mặt,0.85
+D51,Móng tay khô dễ gãy,0.75
+D51,Nhịp tim nhanh khi gắng sức,0.70
+D51.0,Da xanh xao niêm mạc nhợt,0.90
+D51.0,Mệt mỏi hoa mắt chóng mặt,0.85
+D51.0,Móng tay khô dễ gãy,0.75
+D51.0,Nhịp tim nhanh khi gắng sức,0.70
+D51.1,Da xanh xao niêm mạc nhợt,0.90
+D51.1,Mệt mỏi hoa mắt chóng mặt,0.85
+D51.1,Móng tay khô dễ gãy,0.75
+D51.1,Nhịp tim nhanh khi gắng sức,0.70
+D51.2,Da xanh xao niêm mạc nhợt,0.90
+D51.2,Mệt mỏi hoa mắt chóng mặt,0.85
+D51.2,Móng tay khô dễ gãy,0.75
+D51.2,Nhịp tim nhanh khi gắng sức,0.70
+D51.3,Da xanh xao niêm mạc nhợt,0.90
+D51.3,Mệt mỏi hoa mắt chóng mặt,0.85
+D51.3,Móng tay khô dễ gãy,0.75
+D51.3,Nhịp tim nhanh khi gắng sức,0.70
+D51.8,Da xanh xao niêm mạc nhợt,0.90
+D51.8,Mệt mỏi hoa mắt chóng mặt,0.85
+D51.8,Móng tay khô dễ gãy,0.75
+D51.8,Nhịp tim nhanh khi gắng sức,0.70
+D51.9,Da xanh xao niêm mạc nhợt,0.90
+D51.9,Mệt mỏi hoa mắt chóng mặt,0.85
+D51.9,Móng tay khô dễ gãy,0.75
+D51.9,Nhịp tim nhanh khi gắng sức,0.70
+D52,Da xanh xao niêm mạc nhợt,0.90
+D52,Mệt mỏi hoa mắt chóng mặt,0.85
+D52,Móng tay khô dễ gãy,0.75
+D52,Nhịp tim nhanh khi gắng sức,0.70
+D52.0,Da xanh xao niêm mạc nhợt,0.90
+D52.0,Mệt mỏi hoa mắt chóng mặt,0.85
+D52.0,Móng tay khô dễ gãy,0.75
+D52.0,Nhịp tim nhanh khi gắng sức,0.70
+D52.1,Da xanh xao niêm mạc nhợt,0.90
+D52.1,Mệt mỏi hoa mắt chóng mặt,0.85
+D52.1,Móng tay khô dễ gãy,0.75
+D52.1,Nhịp tim nhanh khi gắng sức,0.70
+D52.8,Da xanh xao niêm mạc nhợt,0.90
+D52.8,Mệt mỏi hoa mắt chóng mặt,0.85
+D52.8,Móng tay khô dễ gãy,0.75
+D52.8,Nhịp tim nhanh khi gắng sức,0.70
+D52.9,Da xanh xao niêm mạc nhợt,0.90
+D52.9,Mệt mỏi hoa mắt chóng mặt,0.85
+D52.9,Móng tay khô dễ gãy,0.75
+D52.9,Nhịp tim nhanh khi gắng sức,0.70
+D53,Da xanh xao niêm mạc nhợt,0.90
+D53,Mệt mỏi hoa mắt chóng mặt,0.85
+D53,Móng tay khô dễ gãy,0.75
+D53,Nhịp tim nhanh khi gắng sức,0.70
+D53.0,Da xanh xao niêm mạc nhợt,0.90
+D53.0,Mệt mỏi hoa mắt chóng mặt,0.85
+D53.0,Móng tay khô dễ gãy,0.75
+D53.0,Nhịp tim nhanh khi gắng sức,0.70
+D53.1,Da xanh xao niêm mạc nhợt,0.90
+D53.1,Mệt mỏi hoa mắt chóng mặt,0.85
+D53.1,Móng tay khô dễ gãy,0.75
+D53.1,Nhịp tim nhanh khi gắng sức,0.70
+D53.2,Da xanh xao niêm mạc nhợt,0.90
+D53.2,Mệt mỏi hoa mắt chóng mặt,0.85
+D53.2,Móng tay khô dễ gãy,0.75
+D53.2,Nhịp tim nhanh khi gắng sức,0.70
+D53.8,Da xanh xao niêm mạc nhợt,0.90
+D53.8,Mệt mỏi hoa mắt chóng mặt,0.85
+D53.8,Móng tay khô dễ gãy,0.75
+D53.8,Nhịp tim nhanh khi gắng sức,0.70
+D53.9,Da xanh xao niêm mạc nhợt,0.90
+D53.9,Mệt mỏi hoa mắt chóng mặt,0.85
+D53.9,Móng tay khô dễ gãy,0.75
+D53.9,Nhịp tim nhanh khi gắng sức,0.70
+D55,Da xanh xao niêm mạc nhợt,0.90
+D55,Vàng da vàng mắt,0.85
+D55,Nước tiểu sẫm màu,0.80
+D55,Lách to,0.75
+D55.0,Da xanh xao niêm mạc nhợt,0.90
+D55.0,Vàng da vàng mắt,0.85
+D55.0,Nước tiểu sẫm màu,0.80
+D55.0,Lách to,0.75
+D55.1,Da xanh xao niêm mạc nhợt,0.90
+D55.1,Vàng da vàng mắt,0.85
+D55.1,Nước tiểu sẫm màu,0.80
+D55.1,Lách to,0.75
+D55.2,Da xanh xao niêm mạc nhợt,0.90
+D55.2,Vàng da vàng mắt,0.85
+D55.2,Nước tiểu sẫm màu,0.80
+D55.2,Lách to,0.75
+D55.3,Da xanh xao niêm mạc nhợt,0.90
+D55.3,Vàng da vàng mắt,0.85
+D55.3,Nước tiểu sẫm màu,0.80
+D55.3,Lách to,0.75
+D55.8,Da xanh xao niêm mạc nhợt,0.90
+D55.8,Vàng da vàng mắt,0.85
+D55.8,Nước tiểu sẫm màu,0.80
+D55.8,Lách to,0.75
+D55.9,Da xanh xao niêm mạc nhợt,0.90
+D55.9,Vàng da vàng mắt,0.85
+D55.9,Nước tiểu sẫm màu,0.80
+D55.9,Lách to,0.75
+D56,Da xanh xao niêm mạc nhợt,0.90
+D56,Vàng da vàng mắt,0.85
+D56,Nước tiểu sẫm màu,0.80
+D56,Lách to,0.75
+D56.0,Da xanh xao niêm mạc nhợt,0.90
+D56.0,Vàng da vàng mắt,0.85
+D56.0,Nước tiểu sẫm màu,0.80
+D56.0,Lách to,0.75
+D56.1,Da xanh xao niêm mạc nhợt,0.90
+D56.1,Vàng da vàng mắt,0.85
+D56.1,Nước tiểu sẫm màu,0.80
+D56.1,Lách to,0.75
+D56.2,Da xanh xao niêm mạc nhợt,0.90
+D56.2,Vàng da vàng mắt,0.85
+D56.2,Nước tiểu sẫm màu,0.80
+D56.2,Lách to,0.75
+D56.3,Da xanh xao niêm mạc nhợt,0.90
+D56.3,Vàng da vàng mắt,0.85
+D56.3,Nước tiểu sẫm màu,0.80
+D56.3,Lách to,0.75
+D56.4,Da xanh xao niêm mạc nhợt,0.90
+D56.4,Vàng da vàng mắt,0.85
+D56.4,Nước tiểu sẫm màu,0.80
+D56.4,Lách to,0.75
+D56.8,Da xanh xao niêm mạc nhợt,0.90
+D56.8,Vàng da vàng mắt,0.85
+D56.8,Nước tiểu sẫm màu,0.80
+D56.8,Lách to,0.75
+D56.9,Da xanh xao niêm mạc nhợt,0.90
+D56.9,Vàng da vàng mắt,0.85
+D56.9,Nước tiểu sẫm màu,0.80
+D56.9,Lách to,0.75
+D57,Da xanh xao niêm mạc nhợt,0.90
+D57,Vàng da vàng mắt,0.85
+D57,Nước tiểu sẫm màu,0.80
+D57,Lách to,0.75
+D57.0,Da xanh xao niêm mạc nhợt,0.90
+D57.0,Vàng da vàng mắt,0.85
+D57.0,Nước tiểu sẫm màu,0.80
+D57.0,Lách to,0.75
+D57.1,Da xanh xao niêm mạc nhợt,0.90
+D57.1,Vàng da vàng mắt,0.85
+D57.1,Nước tiểu sẫm màu,0.80
+D57.1,Lách to,0.75
+D57.2,Da xanh xao niêm mạc nhợt,0.90
+D57.2,Vàng da vàng mắt,0.85
+D57.2,Nước tiểu sẫm màu,0.80
+D57.2,Lách to,0.75
+D57.3,Da xanh xao niêm mạc nhợt,0.90
+D57.3,Vàng da vàng mắt,0.85
+D57.3,Nước tiểu sẫm màu,0.80
+D57.3,Lách to,0.75
+D57.8,Da xanh xao niêm mạc nhợt,0.90
+D57.8,Vàng da vàng mắt,0.85
+D57.8,Nước tiểu sẫm màu,0.80
+D57.8,Lách to,0.75
+D58,Da xanh xao niêm mạc nhợt,0.90
+D58,Vàng da vàng mắt,0.85
+D58,Nước tiểu sẫm màu,0.80
+D58,Lách to,0.75
+D58.0,Da xanh xao niêm mạc nhợt,0.90
+D58.0,Vàng da vàng mắt,0.85
+D58.0,Nước tiểu sẫm màu,0.80
+D58.0,Lách to,0.75
+D58.1,Da xanh xao niêm mạc nhợt,0.90
+D58.1,Vàng da vàng mắt,0.85
+D58.1,Nước tiểu sẫm màu,0.80
+D58.1,Lách to,0.75
+D58.2,Da xanh xao niêm mạc nhợt,0.90
+D58.2,Vàng da vàng mắt,0.85
+D58.2,Nước tiểu sẫm màu,0.80
+D58.2,Lách to,0.75
+D58.8,Da xanh xao niêm mạc nhợt,0.90
+D58.8,Vàng da vàng mắt,0.85
+D58.8,Nước tiểu sẫm màu,0.80
+D58.8,Lách to,0.75
+D58.9,Da xanh xao niêm mạc nhợt,0.90
+D58.9,Vàng da vàng mắt,0.85
+D58.9,Nước tiểu sẫm màu,0.80
+D58.9,Lách to,0.75
+D59,Da xanh xao niêm mạc nhợt,0.90
+D59,Vàng da vàng mắt,0.85
+D59,Nước tiểu sẫm màu,0.80
+D59,Lách to,0.75
+D59.0,Da xanh xao niêm mạc nhợt,0.90
+D59.0,Vàng da vàng mắt,0.85
+D59.0,Nước tiểu sẫm màu,0.80
+D59.0,Lách to,0.75
+D59.1,Da xanh xao niêm mạc nhợt,0.90
+D59.1,Vàng da vàng mắt,0.85
+D59.1,Nước tiểu sẫm màu,0.80
+D59.1,Lách to,0.75
+D59.2,Da xanh xao niêm mạc nhợt,0.90
+D59.2,Vàng da vàng mắt,0.85
+D59.2,Nước tiểu sẫm màu,0.80
+D59.2,Lách to,0.75
+D59.3,Da xanh xao niêm mạc nhợt,0.90
+D59.3,Vàng da vàng mắt,0.85
+D59.3,Nước tiểu sẫm màu,0.80
+D59.3,Lách to,0.75
+D59.4,Da xanh xao niêm mạc nhợt,0.90
+D59.4,Vàng da vàng mắt,0.85
+D59.4,Nước tiểu sẫm màu,0.80
+D59.4,Lách to,0.75
+D59.5,Da xanh xao niêm mạc nhợt,0.90
+D59.5,Vàng da vàng mắt,0.85
+D59.5,Nước tiểu sẫm màu,0.80
+D59.5,Lách to,0.75
+D59.6,Da xanh xao niêm mạc nhợt,0.90
+D59.6,Vàng da vàng mắt,0.85
+D59.6,Nước tiểu sẫm màu,0.80
+D59.6,Lách to,0.75
+D59.8,Da xanh xao niêm mạc nhợt,0.90
+D59.8,Vàng da vàng mắt,0.85
+D59.8,Nước tiểu sẫm màu,0.80
+D59.8,Lách to,0.75
+D59.9,Da xanh xao niêm mạc nhợt,0.90
+D59.9,Vàng da vàng mắt,0.85
+D59.9,Nước tiểu sẫm màu,0.80
+D59.9,Lách to,0.75
+D60,Da xanh xao niêm mạc nhợt,0.90
+D60,Vàng da vàng mắt,0.85
+D60,Nước tiểu sẫm màu,0.80
+D60,Lách to,0.75
+D60.0,Da xanh xao niêm mạc nhợt,0.90
+D60.0,Vàng da vàng mắt,0.85
+D60.0,Nước tiểu sẫm màu,0.80
+D60.0,Lách to,0.75
+D60.1,Da xanh xao niêm mạc nhợt,0.90
+D60.1,Vàng da vàng mắt,0.85
+D60.1,Nước tiểu sẫm màu,0.80
+D60.1,Lách to,0.75
+D60.8,Da xanh xao niêm mạc nhợt,0.90
+D60.8,Vàng da vàng mắt,0.85
+D60.8,Nước tiểu sẫm màu,0.80
+D60.8,Lách to,0.75
+D60.9,Da xanh xao niêm mạc nhợt,0.90
+D60.9,Vàng da vàng mắt,0.85
+D60.9,Nước tiểu sẫm màu,0.80
+D60.9,Lách to,0.75
+D61,Da xanh xao niêm mạc nhợt,0.90
+D61,Vàng da vàng mắt,0.85
+D61,Nước tiểu sẫm màu,0.80
+D61,Lách to,0.75
+D61.0,Da xanh xao niêm mạc nhợt,0.90
+D61.0,Vàng da vàng mắt,0.85
+D61.0,Nước tiểu sẫm màu,0.80
+D61.0,Lách to,0.75
+D61.1,Da xanh xao niêm mạc nhợt,0.90
+D61.1,Vàng da vàng mắt,0.85
+D61.1,Nước tiểu sẫm màu,0.80
+D61.1,Lách to,0.75
+D61.2,Da xanh xao niêm mạc nhợt,0.90
+D61.2,Vàng da vàng mắt,0.85
+D61.2,Nước tiểu sẫm màu,0.80
+D61.2,Lách to,0.75
+D61.3,Da xanh xao niêm mạc nhợt,0.90
+D61.3,Vàng da vàng mắt,0.85
+D61.3,Nước tiểu sẫm màu,0.80
+D61.3,Lách to,0.75
+D61.8,Da xanh xao niêm mạc nhợt,0.90
+D61.8,Vàng da vàng mắt,0.85
+D61.8,Nước tiểu sẫm màu,0.80
+D61.8,Lách to,0.75
+D61.9,Da xanh xao niêm mạc nhợt,0.90
+D61.9,Vàng da vàng mắt,0.85
+D61.9,Nước tiểu sẫm màu,0.80
+D61.9,Lách to,0.75
+D62,Khối u khu trú tại chỗ,0.90
+D62,Đau tức vùng tổn thương,0.80
+D62,Mệt mỏi suy nhược,0.70
+D62,Sụt cân không rõ nguyên nhân,0.65
+D63,Khối u khu trú tại chỗ,0.90
+D63,Đau tức vùng tổn thương,0.80
+D63,Mệt mỏi suy nhược,0.70
+D63,Sụt cân không rõ nguyên nhân,0.65
+D63.0*,Da xanh xao niêm mạc nhợt,0.90
+D63.0*,Mệt mỏi hoa mắt chóng mặt,0.85
+D63.0*,Móng tay khô dễ gãy,0.75
+D63.0*,Nhịp tim nhanh khi gắng sức,0.70
+D63.8*,Da xanh xao niêm mạc nhợt,0.90
+D63.8*,Mệt mỏi hoa mắt chóng mặt,0.85
+D63.8*,Móng tay khô dễ gãy,0.75
+D63.8*,Nhịp tim nhanh khi gắng sức,0.70
+D64,Da xanh xao niêm mạc nhợt,0.90
+D64,Mệt mỏi hoa mắt chóng mặt,0.85
+D64,Móng tay khô dễ gãy,0.75
+D64,Nhịp tim nhanh khi gắng sức,0.70
+D64.0,Da xanh xao niêm mạc nhợt,0.90
+D64.0,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.0,Móng tay khô dễ gãy,0.75
+D64.0,Nhịp tim nhanh khi gắng sức,0.70
+D64.1,Da xanh xao niêm mạc nhợt,0.90
+D64.1,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.1,Móng tay khô dễ gãy,0.75
+D64.1,Nhịp tim nhanh khi gắng sức,0.70
+D64.2,Da xanh xao niêm mạc nhợt,0.90
+D64.2,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.2,Móng tay khô dễ gãy,0.75
+D64.2,Nhịp tim nhanh khi gắng sức,0.70
+D64.3,Da xanh xao niêm mạc nhợt,0.90
+D64.3,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.3,Móng tay khô dễ gãy,0.75
+D64.3,Nhịp tim nhanh khi gắng sức,0.70
+D64.4,Da xanh xao niêm mạc nhợt,0.90
+D64.4,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.4,Móng tay khô dễ gãy,0.75
+D64.4,Nhịp tim nhanh khi gắng sức,0.70
+D64.8,Da xanh xao niêm mạc nhợt,0.90
+D64.8,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.8,Móng tay khô dễ gãy,0.75
+D64.8,Nhịp tim nhanh khi gắng sức,0.70
+D64.9,Da xanh xao niêm mạc nhợt,0.90
+D64.9,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.9,Móng tay khô dễ gãy,0.75
+D64.9,Nhịp tim nhanh khi gắng sức,0.70
+D65,Chấm nốt xuất huyết dưới da,0.95
+D65,Chảy máu chân răng mũi,0.85
+D65,Xuất huyết tiêu hóa,0.75
+D65,Thời gian chảy máu kéo dài,0.80
+D66,Chấm nốt xuất huyết dưới da,0.95
+D66,Chảy máu chân răng mũi,0.85
+D66,Xuất huyết tiêu hóa,0.75
+D66,Thời gian chảy máu kéo dài,0.80
+D67,Chấm nốt xuất huyết dưới da,0.95
+D67,Chảy máu chân răng mũi,0.85
+D67,Xuất huyết tiêu hóa,0.75
+D67,Thời gian chảy máu kéo dài,0.80
+D68,Chấm nốt xuất huyết dưới da,0.95
+D68,Chảy máu chân răng mũi,0.85
+D68,Xuất huyết tiêu hóa,0.75
+D68,Thời gian chảy máu kéo dài,0.80
+D68.0,Chấm nốt xuất huyết dưới da,0.95
+D68.0,Chảy máu chân răng mũi,0.85
+D68.0,Xuất huyết tiêu hóa,0.75
+D68.0,Thời gian chảy máu kéo dài,0.80
+D68.1,Chấm nốt xuất huyết dưới da,0.95
+D68.1,Chảy máu chân răng mũi,0.85
+D68.1,Xuất huyết tiêu hóa,0.75
+D68.1,Thời gian chảy máu kéo dài,0.80
+D68.2,Chấm nốt xuất huyết dưới da,0.95
+D68.2,Chảy máu chân răng mũi,0.85
+D68.2,Xuất huyết tiêu hóa,0.75
+D68.2,Thời gian chảy máu kéo dài,0.80
+D68.3,Chấm nốt xuất huyết dưới da,0.95
+D68.3,Chảy máu chân răng mũi,0.85
+D68.3,Xuất huyết tiêu hóa,0.75
+D68.3,Thời gian chảy máu kéo dài,0.80
+D68.4,Chấm nốt xuất huyết dưới da,0.95
+D68.4,Chảy máu chân răng mũi,0.85
+D68.4,Xuất huyết tiêu hóa,0.75
+D68.4,Thời gian chảy máu kéo dài,0.80
+D68.8,Chấm nốt xuất huyết dưới da,0.95
+D68.8,Chảy máu chân răng mũi,0.85
+D68.8,Xuất huyết tiêu hóa,0.75
+D68.8,Thời gian chảy máu kéo dài,0.80
+D68.9,Chấm nốt xuất huyết dưới da,0.95
+D68.9,Chảy máu chân răng mũi,0.85
+D68.9,Xuất huyết tiêu hóa,0.75
+D68.9,Thời gian chảy máu kéo dài,0.80
+D71,Nhiễm trùng tái phát liên tục,0.90
+D71,Sốt cao dai dẳng,0.80
+D71,Loét niêm mạc miệng,0.75
+D71,Hạch ngoại vi sưng to,0.70
+D74,Khối u khu trú tại chỗ,0.90
+D74,Đau tức vùng tổn thương,0.80
+D74,Mệt mỏi suy nhược,0.70
+D74,Sụt cân không rõ nguyên nhân,0.65
+D74.0,Khối u khu trú tại chỗ,0.90
+D74.0,Đau tức vùng tổn thương,0.80
+D74.0,Mệt mỏi suy nhược,0.70
+D74.0,Sụt cân không rõ nguyên nhân,0.65
+D74.8,Khối u khu trú tại chỗ,0.90
+D74.8,Đau tức vùng tổn thương,0.80
+D74.8,Mệt mỏi suy nhược,0.70
+D74.8,Sụt cân không rõ nguyên nhân,0.65
+D74.9,Khối u khu trú tại chỗ,0.90
+D74.9,Đau tức vùng tổn thương,0.80
+D74.9,Mệt mỏi suy nhược,0.70
+D74.9,Sụt cân không rõ nguyên nhân,0.65
+D75,Khối u khu trú tại chỗ,0.90
+D75,Đau tức vùng tổn thương,0.80
+D75,Mệt mỏi suy nhược,0.70
+D75,Sụt cân không rõ nguyên nhân,0.65
+D75.0,Khối u khu trú tại chỗ,0.90
+D75.0,Đau tức vùng tổn thương,0.80
+D75.0,Mệt mỏi suy nhược,0.70
+D75.0,Sụt cân không rõ nguyên nhân,0.65
+D75.1,Khối u khu trú tại chỗ,0.90
+D75.1,Đau tức vùng tổn thương,0.80
+D75.1,Mệt mỏi suy nhược,0.70
+D75.1,Sụt cân không rõ nguyên nhân,0.65
+D75.2,Chấm nốt xuất huyết dưới da,0.95
+D75.2,Chảy máu chân răng mũi,0.85
+D75.2,Xuất huyết tiêu hóa,0.75
+D75.2,Thời gian chảy máu kéo dài,0.80
+D75.8,Khối u khu trú tại chỗ,0.90
+D75.8,Đau tức vùng tổn thương,0.80
+D75.8,Mệt mỏi suy nhược,0.70
+D75.8,Sụt cân không rõ nguyên nhân,0.65
+D75.9,Khối u khu trú tại chỗ,0.90
+D75.9,Đau tức vùng tổn thương,0.80
+D75.9,Mệt mỏi suy nhược,0.70
+D75.9,Sụt cân không rõ nguyên nhân,0.65
+D76,Khối u khu trú tại chỗ,0.90
+D76,Đau tức vùng tổn thương,0.80
+D76,Mệt mỏi suy nhược,0.70
+D76,Sụt cân không rõ nguyên nhân,0.65
+D76.1,Khối u khu trú tại chỗ,0.90
+D76.1,Đau tức vùng tổn thương,0.80
+D76.1,Mệt mỏi suy nhược,0.70
+D76.1,Sụt cân không rõ nguyên nhân,0.65
+D76.2,Khối u khu trú tại chỗ,0.90
+D76.2,Đau tức vùng tổn thương,0.80
+D76.2,Mệt mỏi suy nhược,0.70
+D76.2,Sụt cân không rõ nguyên nhân,0.65
+D76.3,Khối u khu trú tại chỗ,0.90
+D76.3,Đau tức vùng tổn thương,0.80
+D76.3,Mệt mỏi suy nhược,0.70
+D76.3,Sụt cân không rõ nguyên nhân,0.65
+D77,Khối u khu trú tại chỗ,0.90
+D77,Đau tức vùng tổn thương,0.80
+D77,Mệt mỏi suy nhược,0.70
+D77,Sụt cân không rõ nguyên nhân,0.65
+D77*,Khối u khu trú tại chỗ,0.90
+D77*,Đau tức vùng tổn thương,0.80
+D77*,Mệt mỏi suy nhược,0.70
+D77*,Sụt cân không rõ nguyên nhân,0.65
+D80,Nhiễm trùng tái phát liên tục,0.90
+D80,Sốt cao dai dẳng,0.80
+D80,Loét niêm mạc miệng,0.75
+D80,Hạch ngoại vi sưng to,0.70
+D80.0,Nhiễm trùng tái phát liên tục,0.90
+D80.0,Sốt cao dai dẳng,0.80
+D80.0,Loét niêm mạc miệng,0.75
+D80.0,Hạch ngoại vi sưng to,0.70
+D80.1,Nhiễm trùng tái phát liên tục,0.90
+D80.1,Sốt cao dai dẳng,0.80
+D80.1,Loét niêm mạc miệng,0.75
+D80.1,Hạch ngoại vi sưng to,0.70
+D80.2,Nhiễm trùng tái phát liên tục,0.90
+D80.2,Sốt cao dai dẳng,0.80
+D80.2,Loét niêm mạc miệng,0.75
+D80.2,Hạch ngoại vi sưng to,0.70
+D80.3,Nhiễm trùng tái phát liên tục,0.90
+D80.3,Sốt cao dai dẳng,0.80
+D80.3,Loét niêm mạc miệng,0.75
+D80.3,Hạch ngoại vi sưng to,0.70
+D80.4,Nhiễm trùng tái phát liên tục,0.90
+D80.4,Sốt cao dai dẳng,0.80
+D80.4,Loét niêm mạc miệng,0.75
+D80.4,Hạch ngoại vi sưng to,0.70
+D80.5,Nhiễm trùng tái phát liên tục,0.90
+D80.5,Sốt cao dai dẳng,0.80
+D80.5,Loét niêm mạc miệng,0.75
+D80.5,Hạch ngoại vi sưng to,0.70
+D80.6,Nhiễm trùng tái phát liên tục,0.90
+D80.6,Sốt cao dai dẳng,0.80
+D80.6,Loét niêm mạc miệng,0.75
+D80.6,Hạch ngoại vi sưng to,0.70
+D80.7,Nhiễm trùng tái phát liên tục,0.90
+D80.7,Sốt cao dai dẳng,0.80
+D80.7,Loét niêm mạc miệng,0.75
+D80.7,Hạch ngoại vi sưng to,0.70
+D80.8,Nhiễm trùng tái phát liên tục,0.90
+D80.8,Sốt cao dai dẳng,0.80
+D80.8,Loét niêm mạc miệng,0.75
+D80.8,Hạch ngoại vi sưng to,0.70
+D80.9,Nhiễm trùng tái phát liên tục,0.90
+D80.9,Sốt cao dai dẳng,0.80
+D80.9,Loét niêm mạc miệng,0.75
+D80.9,Hạch ngoại vi sưng to,0.70
+D81,Nhiễm trùng tái phát liên tục,0.90
+D81,Sốt cao dai dẳng,0.80
+D81,Loét niêm mạc miệng,0.75
+D81,Hạch ngoại vi sưng to,0.70
+D81.0,Nhiễm trùng tái phát liên tục,0.90
+D81.0,Sốt cao dai dẳng,0.80
+D81.0,Loét niêm mạc miệng,0.75
+D81.0,Hạch ngoại vi sưng to,0.70
+D81.1,Nhiễm trùng tái phát liên tục,0.90
+D81.1,Sốt cao dai dẳng,0.80
+D81.1,Loét niêm mạc miệng,0.75
+D81.1,Hạch ngoại vi sưng to,0.70
+D81.2,Nhiễm trùng tái phát liên tục,0.90
+D81.2,Sốt cao dai dẳng,0.80
+D81.2,Loét niêm mạc miệng,0.75
+D81.2,Hạch ngoại vi sưng to,0.70
+D81.3,Nhiễm trùng tái phát liên tục,0.90
+D81.3,Sốt cao dai dẳng,0.80
+D81.3,Loét niêm mạc miệng,0.75
+D81.3,Hạch ngoại vi sưng to,0.70
+D81.4,Nhiễm trùng tái phát liên tục,0.90
+D81.4,Sốt cao dai dẳng,0.80
+D81.4,Loét niêm mạc miệng,0.75
+D81.4,Hạch ngoại vi sưng to,0.70
+D81.5,Nhiễm trùng tái phát liên tục,0.90
+D81.5,Sốt cao dai dẳng,0.80
+D81.5,Loét niêm mạc miệng,0.75
+D81.5,Hạch ngoại vi sưng to,0.70
+D81.6,Nhiễm trùng tái phát liên tục,0.90
+D81.6,Sốt cao dai dẳng,0.80
+D81.6,Loét niêm mạc miệng,0.75
+D81.6,Hạch ngoại vi sưng to,0.70
+D81.7,Nhiễm trùng tái phát liên tục,0.90
+D81.7,Sốt cao dai dẳng,0.80
+D81.7,Loét niêm mạc miệng,0.75
+D81.7,Hạch ngoại vi sưng to,0.70
+D81.8,Nhiễm trùng tái phát liên tục,0.90
+D81.8,Sốt cao dai dẳng,0.80
+D81.8,Loét niêm mạc miệng,0.75
+D81.8,Hạch ngoại vi sưng to,0.70
+D81.9,Nhiễm trùng tái phát liên tục,0.90
+D81.9,Sốt cao dai dẳng,0.80
+D81.9,Loét niêm mạc miệng,0.75
+D81.9,Hạch ngoại vi sưng to,0.70
+D82,Nhiễm trùng tái phát liên tục,0.90
+D82,Sốt cao dai dẳng,0.80
+D82,Loét niêm mạc miệng,0.75
+D82,Hạch ngoại vi sưng to,0.70
+D82.0,Nhiễm trùng tái phát liên tục,0.90
+D82.0,Sốt cao dai dẳng,0.80
+D82.0,Loét niêm mạc miệng,0.75
+D82.0,Hạch ngoại vi sưng to,0.70
+D82.1,Nhiễm trùng tái phát liên tục,0.90
+D82.1,Sốt cao dai dẳng,0.80
+D82.1,Loét niêm mạc miệng,0.75
+D82.1,Hạch ngoại vi sưng to,0.70
+D82.2,Nhiễm trùng tái phát liên tục,0.90
+D82.2,Sốt cao dai dẳng,0.80
+D82.2,Loét niêm mạc miệng,0.75
+D82.2,Hạch ngoại vi sưng to,0.70
+D82.3,Nhiễm trùng tái phát liên tục,0.90
+D82.3,Sốt cao dai dẳng,0.80
+D82.3,Loét niêm mạc miệng,0.75
+D82.3,Hạch ngoại vi sưng to,0.70
+D82.4,Nhiễm trùng tái phát liên tục,0.90
+D82.4,Sốt cao dai dẳng,0.80
+D82.4,Loét niêm mạc miệng,0.75
+D82.4,Hạch ngoại vi sưng to,0.70
+D82.8,Nhiễm trùng tái phát liên tục,0.90
+D82.8,Sốt cao dai dẳng,0.80
+D82.8,Loét niêm mạc miệng,0.75
+D82.8,Hạch ngoại vi sưng to,0.70
+D82.9,Nhiễm trùng tái phát liên tục,0.90
+D82.9,Sốt cao dai dẳng,0.80
+D82.9,Loét niêm mạc miệng,0.75
+D82.9,Hạch ngoại vi sưng to,0.70
+D83,Nhiễm trùng tái phát liên tục,0.90
+D83,Sốt cao dai dẳng,0.80
+D83,Loét niêm mạc miệng,0.75
+D83,Hạch ngoại vi sưng to,0.70
+D83.0,Nhiễm trùng tái phát liên tục,0.90
+D83.0,Sốt cao dai dẳng,0.80
+D83.0,Loét niêm mạc miệng,0.75
+D83.0,Hạch ngoại vi sưng to,0.70
+D83.1,Nhiễm trùng tái phát liên tục,0.90
+D83.1,Sốt cao dai dẳng,0.80
+D83.1,Loét niêm mạc miệng,0.75
+D83.1,Hạch ngoại vi sưng to,0.70
+D83.2,Nhiễm trùng tái phát liên tục,0.90
+D83.2,Sốt cao dai dẳng,0.80
+D83.2,Loét niêm mạc miệng,0.75
+D83.2,Hạch ngoại vi sưng to,0.70
+D83.8,Nhiễm trùng tái phát liên tục,0.90
+D83.8,Sốt cao dai dẳng,0.80
+D83.8,Loét niêm mạc miệng,0.75
+D83.8,Hạch ngoại vi sưng to,0.70
+D83.9,Nhiễm trùng tái phát liên tục,0.90
+D83.9,Sốt cao dai dẳng,0.80
+D83.9,Loét niêm mạc miệng,0.75
+D83.9,Hạch ngoại vi sưng to,0.70
+D84,Nhiễm trùng tái phát liên tục,0.90
+D84,Sốt cao dai dẳng,0.80
+D84,Loét niêm mạc miệng,0.75
+D84,Hạch ngoại vi sưng to,0.70
+D84.0,Nhiễm trùng tái phát liên tục,0.90
+D84.0,Sốt cao dai dẳng,0.80
+D84.0,Loét niêm mạc miệng,0.75
+D84.0,Hạch ngoại vi sưng to,0.70
+D84.1,Nhiễm trùng tái phát liên tục,0.90
+D84.1,Sốt cao dai dẳng,0.80
+D84.1,Loét niêm mạc miệng,0.75
+D84.1,Hạch ngoại vi sưng to,0.70
+D84.8,Nhiễm trùng tái phát liên tục,0.90
+D84.8,Sốt cao dai dẳng,0.80
+D84.8,Loét niêm mạc miệng,0.75
+D84.8,Hạch ngoại vi sưng to,0.70
+D84.9,Nhiễm trùng tái phát liên tục,0.90
+D84.9,Sốt cao dai dẳng,0.80
+D84.9,Loét niêm mạc miệng,0.75
+D84.9,Hạch ngoại vi sưng to,0.70
+D86,Nhiễm trùng tái phát liên tục,0.90
+D86,Sốt cao dai dẳng,0.80
+D86,Loét niêm mạc miệng,0.75
+D86,Hạch ngoại vi sưng to,0.70
+D86.0,Nhiễm trùng tái phát liên tục,0.90
+D86.0,Sốt cao dai dẳng,0.80
+D86.0,Loét niêm mạc miệng,0.75
+D86.0,Hạch ngoại vi sưng to,0.70
+D86.1,Nhiễm trùng tái phát liên tục,0.90
+D86.1,Sốt cao dai dẳng,0.80
+D86.1,Loét niêm mạc miệng,0.75
+D86.1,Hạch ngoại vi sưng to,0.70
+D86.2,Nhiễm trùng tái phát liên tục,0.90
+D86.2,Sốt cao dai dẳng,0.80
+D86.2,Loét niêm mạc miệng,0.75
+D86.2,Hạch ngoại vi sưng to,0.70
+D86.3,Tổn thương da đổi màu sắc,0.90
+D86.3,Nốt ruồi tăng kích thước nhanh,0.85
+D86.3,Ngứa rát vùng tổn thương,0.70
+D86.3,Bề mặt tổn thương sần sùi,0.75
+D86.8,Nhiễm trùng tái phát liên tục,0.90
+D86.8,Sốt cao dai dẳng,0.80
+D86.8,Loét niêm mạc miệng,0.75
+D86.8,Hạch ngoại vi sưng to,0.70
+D86.9,Nhiễm trùng tái phát liên tục,0.90
+D86.9,Sốt cao dai dẳng,0.80
+D86.9,Loét niêm mạc miệng,0.75
+D86.9,Hạch ngoại vi sưng to,0.70
+D89,Nhiễm trùng tái phát liên tục,0.90
+D89,Sốt cao dai dẳng,0.80
+D89,Loét niêm mạc miệng,0.75
+D89,Hạch ngoại vi sưng to,0.70
+D89.0,Nhiễm trùng tái phát liên tục,0.90
+D89.0,Sốt cao dai dẳng,0.80
+D89.0,Loét niêm mạc miệng,0.75
+D89.0,Hạch ngoại vi sưng to,0.70
+D89.1,Nhiễm trùng tái phát liên tục,0.90
+D89.1,Sốt cao dai dẳng,0.80
+D89.1,Loét niêm mạc miệng,0.75
+D89.1,Hạch ngoại vi sưng to,0.70
+D89.2,Nhiễm trùng tái phát liên tục,0.90
+D89.2,Sốt cao dai dẳng,0.80
+D89.2,Loét niêm mạc miệng,0.75
+D89.2,Hạch ngoại vi sưng to,0.70
+D89.3,Nhiễm trùng tái phát liên tục,0.90
+D89.3,Sốt cao dai dẳng,0.80
+D89.3,Loét niêm mạc miệng,0.75
+D89.3,Hạch ngoại vi sưng to,0.70
+D89.8,Nhiễm trùng tái phát liên tục,0.90
+D89.8,Sốt cao dai dẳng,0.80
+D89.8,Loét niêm mạc miệng,0.75
+D89.8,Hạch ngoại vi sưng to,0.70
+D89.9,Nhiễm trùng tái phát liên tục,0.90
+D89.9,Sốt cao dai dẳng,0.80
+D89.9,Loét niêm mạc miệng,0.75
+D89.9,Hạch ngoại vi sưng to,0.70
+D00,Khối u khu trú tại chỗ,0.90
+D00,Sụt cân không rõ nguyên nhân,0.70
+D00,Mệt mỏi suy nhược,0.65
+D00,Đau tức vùng tổn thương,0.75
+D00.0,Khối u khu trú tại chỗ,0.90
+D00.0,Sụt cân không rõ nguyên nhân,0.70
+D00.0,Mệt mỏi suy nhược,0.65
+D00.0,Đau tức vùng tổn thương,0.75
+D00.1,Khối u khu trú tại chỗ,0.90
+D00.1,Sụt cân không rõ nguyên nhân,0.70
+D00.1,Mệt mỏi suy nhược,0.65
+D00.1,Đau tức vùng tổn thương,0.75
+D00.2,Khối u khu trú tại chỗ,0.90
+D00.2,Sụt cân không rõ nguyên nhân,0.70
+D00.2,Mệt mỏi suy nhược,0.65
+D00.2,Đau tức vùng tổn thương,0.75
+D01,Rối loạn đại tiện,0.85
+D01,Đau bụng âm ỉ kéo dài,0.80
+D01,Sụt cân không rõ nguyên nhân,0.75
+D01,Đi ngoài ra máu,0.80
+D01.0,Rối loạn đại tiện,0.85
+D01.0,Đau bụng âm ỉ kéo dài,0.80
+D01.0,Sụt cân không rõ nguyên nhân,0.75
+D01.0,Đi ngoài ra máu,0.80
+D01.1,Rối loạn đại tiện,0.85
+D01.1,Đau bụng âm ỉ kéo dài,0.80
+D01.1,Sụt cân không rõ nguyên nhân,0.75
+D01.1,Đi ngoài ra máu,0.80
+D01.2,Rối loạn đại tiện,0.85
+D01.2,Đau bụng âm ỉ kéo dài,0.80
+D01.2,Sụt cân không rõ nguyên nhân,0.75
+D01.2,Đi ngoài ra máu,0.80
+D01.3,Rối loạn đại tiện,0.85
+D01.3,Đau bụng âm ỉ kéo dài,0.80
+D01.3,Sụt cân không rõ nguyên nhân,0.75
+D01.3,Đi ngoài ra máu,0.80
+D01.4,Rối loạn đại tiện,0.85
+D01.4,Đau bụng âm ỉ kéo dài,0.80
+D01.4,Sụt cân không rõ nguyên nhân,0.75
+D01.4,Đi ngoài ra máu,0.80
+D01.5,Rối loạn đại tiện,0.85
+D01.5,Đau bụng âm ỉ kéo dài,0.80
+D01.5,Sụt cân không rõ nguyên nhân,0.75
+D01.5,Đi ngoài ra máu,0.80
+D01.7,Rối loạn đại tiện,0.85
+D01.7,Đau bụng âm ỉ kéo dài,0.80
+D01.7,Sụt cân không rõ nguyên nhân,0.75
+D01.7,Đi ngoài ra máu,0.80
+D01.9,Rối loạn đại tiện,0.85
+D01.9,Đau bụng âm ỉ kéo dài,0.80
+D01.9,Sụt cân không rõ nguyên nhân,0.75
+D01.9,Đi ngoài ra máu,0.80
+D02,Khối u khu trú tại chỗ,0.90
+D02,Sụt cân không rõ nguyên nhân,0.70
+D02,Mệt mỏi suy nhược,0.65
+D02,Đau tức vùng tổn thương,0.75
+D02.0,Ho khạc kéo dài,0.80
+D02.0,Khó nuốt vướng họng,0.85
+D02.0,Khàn tiếng,0.75
+D02.0,Khó thở khi chèn EXP,0.70
+D02.1,Ho khạc kéo dài,0.80
+D02.1,Khó nuốt vướng họng,0.85
+D02.1,Khàn tiếng,0.75
+D02.1,Khó thở khi chèn EXP,0.70
+D02.2,Ho khạc kéo dài,0.80
+D02.2,Khó nuốt vướng họng,0.85
+D02.2,Khàn tiếng,0.75
+D02.2,Khó thở khi chèn EXP,0.70
+D02.3,Khối u khu trú tại chỗ,0.90
+D02.3,Sụt cân không rõ nguyên nhân,0.70
+D02.3,Mệt mỏi suy nhược,0.65
+D02.3,Đau tức vùng tổn thương,0.75
+D02.4,Khối u khu trú tại chỗ,0.90
+D02.4,Sụt cân không rõ nguyên nhân,0.70
+D02.4,Mệt mỏi suy nhược,0.65
+D02.4,Đau tức vùng tổn thương,0.75
+D03,Tổn thương da đổi màu sắc,0.90
+D03,Nốt ruồi tăng kích thước nhanh,0.85
+D03,Ngứa rát vùng tổn thương,0.70
+D03,Bề mặt tổn thương sần sùi,0.75
+D03.0,Tổn thương da đổi màu sắc,0.90
+D03.0,Nốt ruồi tăng kích thước nhanh,0.85
+D03.0,Ngứa rát vùng tổn thương,0.70
+D03.0,Bề mặt tổn thương sần sùi,0.75
+D03.1,Tổn thương da đổi màu sắc,0.90
+D03.1,Nốt ruồi tăng kích thước nhanh,0.85
+D03.1,Ngứa rát vùng tổn thương,0.70
+D03.1,Bề mặt tổn thương sần sùi,0.75
+D03.2,Tổn thương da đổi màu sắc,0.90
+D03.2,Nốt ruồi tăng kích thước nhanh,0.85
+D03.2,Ngứa rát vùng tổn thương,0.70
+D03.2,Bề mặt tổn thương sần sùi,0.75
+D03.3,Tổn thương da đổi màu sắc,0.90
+D03.3,Nốt ruồi tăng kích thước nhanh,0.85
+D03.3,Ngứa rát vùng tổn thương,0.70
+D03.3,Bề mặt tổn thương sần sùi,0.75
+D03.4,Tổn thương da đổi màu sắc,0.90
+D03.4,Nốt ruồi tăng kích thước nhanh,0.85
+D03.4,Ngứa rát vùng tổn thương,0.70
+D03.4,Bề mặt tổn thương sần sùi,0.75
+D03.5,Tổn thương da đổi màu sắc,0.90
+D03.5,Nốt ruồi tăng kích thước nhanh,0.85
+D03.5,Ngứa rát vùng tổn thương,0.70
+D03.5,Bề mặt tổn thương sần sùi,0.75
+D03.6,Tổn thương da đổi màu sắc,0.90
+D03.6,Nốt ruồi tăng kích thước nhanh,0.85
+D03.6,Ngứa rát vùng tổn thương,0.70
+D03.6,Bề mặt tổn thương sần sùi,0.75
+D03.7,Tổn thương da đổi màu sắc,0.90
+D03.7,Nốt ruồi tăng kích thước nhanh,0.85
+D03.7,Ngứa rát vùng tổn thương,0.70
+D03.7,Bề mặt tổn thương sần sùi,0.75
+D03.8,Tổn thương da đổi màu sắc,0.90
+D03.8,Nốt ruồi tăng kích thước nhanh,0.85
+D03.8,Ngứa rát vùng tổn thương,0.70
+D03.8,Bề mặt tổn thương sần sùi,0.75
+D03.9,Tổn thương da đổi màu sắc,0.90
+D03.9,Nốt ruồi tăng kích thước nhanh,0.85
+D03.9,Ngứa rát vùng tổn thương,0.70
+D03.9,Bề mặt tổn thương sần sùi,0.75
+D04,Tổn thương da đổi màu sắc,0.90
+D04,Nốt ruồi tăng kích thước nhanh,0.85
+D04,Ngứa rát vùng tổn thương,0.70
+D04,Bề mặt tổn thương sần sùi,0.75
+D04.0,Tổn thương da đổi màu sắc,0.90
+D04.0,Nốt ruồi tăng kích thước nhanh,0.85
+D04.0,Ngứa rát vùng tổn thương,0.70
+D04.0,Bề mặt tổn thương sần sùi,0.75
+D04.1,Tổn thương da đổi màu sắc,0.90
+D04.1,Nốt ruồi tăng kích thước nhanh,0.85
+D04.1,Ngứa rát vùng tổn thương,0.70
+D04.1,Bề mặt tổn thương sần sùi,0.75
+D04.2,Tổn thương da đổi màu sắc,0.90
+D04.2,Nốt ruồi tăng kích thước nhanh,0.85
+D04.2,Ngứa rát vùng tổn thương,0.70
+D04.2,Bề mặt tổn thương sần sùi,0.75
+D04.3,Tổn thương da đổi màu sắc,0.90
+D04.3,Nốt ruồi tăng kích thước nhanh,0.85
+D04.3,Ngứa rát vùng tổn thương,0.70
+D04.3,Bề mặt tổn thương sần sùi,0.75
+D04.4,Tổn thương da đổi màu sắc,0.90
+D04.4,Nốt ruồi tăng kích thước nhanh,0.85
+D04.4,Ngứa rát vùng tổn thương,0.70
+D04.4,Bề mặt tổn thương sần sùi,0.75
+D04.5,Tổn thương da đổi màu sắc,0.90
+D04.5,Nốt ruồi tăng kích thước nhanh,0.85
+D04.5,Ngứa rát vùng tổn thương,0.70
+D04.5,Bề mặt tổn thương sần sùi,0.75
+D04.6,Tổn thương da đổi màu sắc,0.90
+D04.6,Nốt ruồi tăng kích thước nhanh,0.85
+D04.6,Ngứa rát vùng tổn thương,0.70
+D04.6,Bề mặt tổn thương sần sùi,0.75
+D04.7,Tổn thương da đổi màu sắc,0.90
+D04.7,Nốt ruồi tăng kích thước nhanh,0.85
+D04.7,Ngứa rát vùng tổn thương,0.70
+D04.7,Bề mặt tổn thương sần sùi,0.75
+D04.8,Tổn thương da đổi màu sắc,0.90
+D04.8,Nốt ruồi tăng kích thước nhanh,0.85
+D04.8,Ngứa rát vùng tổn thương,0.70
+D04.8,Bề mặt tổn thương sần sùi,0.75
+D04.9,Tổn thương da đổi màu sắc,0.90
+D04.9,Nốt ruồi tăng kích thước nhanh,0.85
+D04.9,Ngứa rát vùng tổn thương,0.70
+D04.9,Bề mặt tổn thương sần sùi,0.75
+D05,Khối u khu trú tại chỗ,0.90
+D05,Sụt cân không rõ nguyên nhân,0.70
+D05,Mệt mỏi suy nhược,0.65
+D05,Đau tức vùng tổn thương,0.75
+D05.0,Khối u khu trú tại chỗ,0.90
+D05.0,Sụt cân không rõ nguyên nhân,0.70
+D05.0,Mệt mỏi suy nhược,0.65
+D05.0,Đau tức vùng tổn thương,0.75
+D05.1,Khối u khu trú tại chỗ,0.90
+D05.1,Sụt cân không rõ nguyên nhân,0.70
+D05.1,Mệt mỏi suy nhược,0.65
+D05.1,Đau tức vùng tổn thương,0.75
+D05.7,Khối u khu trú tại chỗ,0.90
+D05.7,Sụt cân không rõ nguyên nhân,0.70
+D05.7,Mệt mỏi suy nhược,0.65
+D05.7,Đau tức vùng tổn thương,0.75
+D05.9,Khối u khu trú tại chỗ,0.90
+D05.9,Sụt cân không rõ nguyên nhân,0.70
+D05.9,Mệt mỏi suy nhược,0.65
+D05.9,Đau tức vùng tổn thương,0.75
+D06,Ra khí hư bất thường,0.85
+D06,Chảy máu âm đạo bất thường,0.90
+D06,Đau vùng hạ vị,0.75
+D06,Kinh nguyệt không đều,0.70
+D06.0,Ra khí hư bất thường,0.85
+D06.0,Chảy máu âm đạo bất thường,0.90
+D06.0,Đau vùng hạ vị,0.75
+D06.0,Kinh nguyệt không đều,0.70
+D06.1,Ra khí hư bất thường,0.85
+D06.1,Chảy máu âm đạo bất thường,0.90
+D06.1,Đau vùng hạ vị,0.75
+D06.1,Kinh nguyệt không đều,0.70
+D06.7,Ra khí hư bất thường,0.85
+D06.7,Chảy máu âm đạo bất thường,0.90
+D06.7,Đau vùng hạ vị,0.75
+D06.7,Kinh nguyệt không đều,0.70
+D06.9,Ra khí hư bất thường,0.85
+D06.9,Chảy máu âm đạo bất thường,0.90
+D06.9,Đau vùng hạ vị,0.75
+D06.9,Kinh nguyệt không đều,0.70
+D07,Ra khí hư bất thường,0.85
+D07,Chảy máu âm đạo bất thường,0.90
+D07,Đau vùng hạ vị,0.75
+D07,Kinh nguyệt không đều,0.70
+D07.0,Ra khí hư bất thường,0.85
+D07.0,Chảy máu âm đạo bất thường,0.90
+D07.0,Đau vùng hạ vị,0.75
+D07.0,Kinh nguyệt không đều,0.70
+D07.1,Ra khí hư bất thường,0.85
+D07.1,Chảy máu âm đạo bất thường,0.90
+D07.1,Đau vùng hạ vị,0.75
+D07.1,Kinh nguyệt không đều,0.70
+D07.2,Ra khí hư bất thường,0.85
+D07.2,Chảy máu âm đạo bất thường,0.90
+D07.2,Đau vùng hạ vị,0.75
+D07.2,Kinh nguyệt không đều,0.70
+D07.3,Ra khí hư bất thường,0.85
+D07.3,Chảy máu âm đạo bất thường,0.90
+D07.3,Đau vùng hạ vị,0.75
+D07.3,Kinh nguyệt không đều,0.70
+D07.4,Khó tiểu tiểu rắt,0.85
+D07.4,Khối sưng đau tinh hoàn,0.80
+D07.4,Tiểu đêm nhiều lần,0.75
+D07.4,Giảm ham muốn sinh dục,0.70
+D07.5,Khó tiểu tiểu rắt,0.85
+D07.5,Khối sưng đau tinh hoàn,0.80
+D07.5,Tiểu đêm nhiều lần,0.75
+D07.5,Giảm ham muốn sinh dục,0.70
+D07.6,Khó tiểu tiểu rắt,0.85
+D07.6,Khối sưng đau tinh hoàn,0.80
+D07.6,Tiểu đêm nhiều lần,0.75
+D07.6,Giảm ham muốn sinh dục,0.70
+D09,Khối u khu trú tại chỗ,0.90
+D09,Sụt cân không rõ nguyên nhân,0.70
+D09,Mệt mỏi suy nhược,0.65
+D09,Đau tức vùng tổn thương,0.75
+D09.0,Đái máu đại thể,0.90
+D09.0,Đau tức vùng thắt lưng,0.85
+D09.0,Đái buốt đái rắt,0.75
+D09.0,Khối u hố chậu thắt lưng,0.70
+D09.1,Đái máu đại thể,0.90
+D09.1,Đau tức vùng thắt lưng,0.85
+D09.1,Đái buốt đái rắt,0.75
+D09.1,Khối u hố chậu thắt lưng,0.70
+D09.2,Giảm thị lực tiến triển,0.90
+D09.2,Nhìn mờ nhìn đôi,0.85
+D09.2,Đau nhức trong mắt,0.75
+D09.2,Lồi mắt,0.70
+D09.3,Rối loạn nhịp tim,0.80
+D09.3,Thay đổi huyết áp đột ngột,0.85
+D09.3,Tăng hoặc sụt cân nhanh,0.75
+D09.3,Mệt mỏi suy nhược,0.70
+D09.7,Khối u khu trú tại chỗ,0.90
+D09.7,Sụt cân không rõ nguyên nhân,0.70
+D09.7,Mệt mỏi suy nhược,0.65
+D09.7,Đau tức vùng tổn thương,0.75
+D09.9,Khối u khu trú tại chỗ,0.90
+D09.9,Sụt cân không rõ nguyên nhân,0.70
+D09.9,Mệt mỏi suy nhược,0.65
+D09.9,Đau tức vùng tổn thương,0.75
+D10,Ho khạc kéo dài,0.80
+D10,Khó nuốt vướng họng,0.85
+D10,Khàn tiếng,0.75
+D10,Khó thở khi chèn ép,0.70
+D10.0,Ho khạc kéo dài,0.80
+D10.0,Khó nuốt vướng họng,0.85
+D10.0,Khàn tiếng,0.75
+D10.0,Khó thở khi chèn ép,0.70
+D10.1,Ho khạc kéo dài,0.80
+D10.1,Khó nuốt vướng họng,0.85
+D10.1,Khàn tiếng,0.75
+D10.1,Khó thở khi chèn ép,0.70
+D10.2,Ho khạc kéo dài,0.80
+D10.2,Khó nuốt vướng họng,0.85
+D10.2,Khàn tiếng,0.75
+D10.2,Khó thở khi chèn ép,0.70
+D10.3,Ho khạc kéo dài,0.80
+D10.3,Khó nuốt vướng họng,0.85
+D10.3,Khàn tiếng,0.75
+D10.3,Khó thở khi chèn ép,0.70
+D10.4,Ho khạc kéo dài,0.80
+D10.4,Khó nuốt vướng họng,0.85
+D10.4,Khàn tiếng,0.75
+D10.4,Khó thở khi chèn ép,0.70
+D10.5,Ho khạc kéo dài,0.80
+D10.5,Khó nuốt vướng họng,0.85
+D10.5,Khàn tiếng,0.75
+D10.5,Khó thở khi chèn ép,0.70
+D10.6,Ho khạc kéo dài,0.80
+D10.6,Khó nuốt vướng họng,0.85
+D10.6,Khàn tiếng,0.75
+D10.6,Khó thở khi chèn ép,0.70
+D10.7,Ho khạc kéo dài,0.80
+D10.7,Khó nuốt vướng họng,0.85
+D10.7,Khàn tiếng,0.75
+D10.7,Khó thở khi chèn ép,0.70
+D10.9,Ho khạc kéo dài,0.80
+D10.9,Khó nuốt vướng họng,0.85
+D10.9,Khàn tiếng,0.75
+D10.9,Khó thở khi chèn ép,0.70
+D11,Ho khạc kéo dài,0.80
+D11,Khó nuốt vướng họng,0.85
+D11,Khàn tiếng,0.75
+D11,Khó thở khi chèn ép,0.70
+D11.0,Ho khạc kéo dài,0.80
+D11.0,Khó nuốt vướng họng,0.85
+D11.0,Khàn tiếng,0.75
+D11.0,Khó thở khi chèn ép,0.70
+D11.7,Ho khạc kéo dài,0.80
+D11.7,Khó nuốt vướng họng,0.85
+D11.7,Khàn tiếng,0.75
+D11.7,Khó thở khi chèn ép,0.70
+D11.9,Ho khạc kéo dài,0.80
+D11.9,Khó nuốt vướng họng,0.85
+D11.9,Khàn tiếng,0.75
+D11.9,Khó thở khi chèn ép,0.70
+D12,Đau bụng âm ỉ kéo dài,0.85
+D12,Đầy bụng khó tiêu,0.80
+D12,Rối loạn đại tiện,0.75
+D12,Khối u vùng bụng,0.70
+D12.0,Đau bụng âm ỉ kéo dài,0.85
+D12.0,Đầy bụng khó tiêu,0.80
+D12.0,Rối loạn đại tiện,0.75
+D12.0,Khối u vùng bụng,0.70
+D12.1,Đau bụng âm ỉ kéo dài,0.85
+D12.1,Đầy bụng khó tiêu,0.80
+D12.1,Rối loạn đại tiện,0.75
+D12.1,Khối u vùng bụng,0.70
+D12.2,Đau bụng âm ỉ kéo dài,0.85
+D12.2,Đầy bụng khó tiêu,0.80
+D12.2,Rối loạn đại tiện,0.75
+D12.2,Khối u vùng bụng,0.70
+D12.3,Đau bụng âm ỉ kéo dài,0.85
+D12.3,Đầy bụng khó tiêu,0.80
+D12.3,Rối loạn đại tiện,0.75
+D12.3,Khối u vùng bụng,0.70
+D12.4,Đau bụng âm ỉ kéo dài,0.85
+D12.4,Đầy bụng khó tiêu,0.80
+D12.4,Rối loạn đại tiện,0.75
+D12.4,Khối u vùng bụng,0.70
+D12.5,Đau bụng âm ỉ kéo dài,0.85
+D12.5,Đầy bụng khó tiêu,0.80
+D12.5,Rối loạn đại tiện,0.75
+D12.5,Khối u vùng bụng,0.70
+D12.6,Đau bụng âm ỉ kéo dài,0.85
+D12.6,Đầy bụng khó tiêu,0.80
+D12.6,Rối loạn đại tiện,0.75
+D12.6,Khối u vùng bụng,0.70
+D12.7,Đau bụng âm ỉ kéo dài,0.85
+D12.7,Đầy bụng khó tiêu,0.80
+D12.7,Rối loạn đại tiện,0.75
+D12.7,Khối u vùng bụng,0.70
+D12.8,Đau bụng âm ỉ kéo dài,0.85
+D12.8,Đầy bụng khó tiêu,0.80
+D12.8,Rối loạn đại tiện,0.75
+D12.8,Khối u vùng bụng,0.70
+D12.9,Đau bụng âm ỉ kéo dài,0.85
+D12.9,Đầy bụng khó tiêu,0.80
+D12.9,Rối loạn đại tiện,0.75
+D12.9,Khối u vùng bụng,0.70
+D13,Đau bụng âm ỉ kéo dài,0.85
+D13,Đầy bụng khó tiêu,0.80
+D13,Rối loạn đại tiện,0.75
+D13,Khối u vùng bụng,0.70
+D13.0,Đau bụng âm ỉ kéo dài,0.85
+D13.0,Đầy bụng khó tiêu,0.80
+D13.0,Rối loạn đại tiện,0.75
+D13.0,Khối u vùng bụng,0.70
+D13.1,Đau bụng âm ỉ kéo dài,0.85
+D13.1,Đầy bụng khó tiêu,0.80
+D13.1,Rối loạn đại tiện,0.75
+D13.1,Khối u vùng bụng,0.70
+D13.2,Đau bụng âm ỉ kéo dài,0.85
+D13.2,Đầy bụng khó tiêu,0.80
+D13.2,Rối loạn đại tiện,0.75
+D13.2,Khối u vùng bụng,0.70
+D13.3,Đau bụng âm ỉ kéo dài,0.85
+D13.3,Đầy bụng khó tiêu,0.80
+D13.3,Rối loạn đại tiện,0.75
+D13.3,Khối u vùng bụng,0.70
+D13.4,Đau bụng âm ỉ kéo dài,0.85
+D13.4,Đầy bụng khó tiêu,0.80
+D13.4,Rối loạn đại tiện,0.75
+D13.4,Khối u vùng bụng,0.70
+D13.5,Đau bụng âm ỉ kéo dài,0.85
+D13.5,Đầy bụng khó tiêu,0.80
+D13.5,Rối loạn đại tiện,0.75
+D13.5,Khối u vùng bụng,0.70
+D13.6,Đau bụng âm ỉ kéo dài,0.85
+D13.6,Đầy bụng khó tiêu,0.80
+D13.6,Rối loạn đại tiện,0.75
+D13.6,Khối u vùng bụng,0.70
+D13.7,Đau bụng âm ỉ kéo dài,0.85
+D13.7,Đầy bụng khó tiêu,0.80
+D13.7,Rối loạn đại tiện,0.75
+D13.7,Khối u vùng bụng,0.70
+D13.9,Đau bụng âm ỉ kéo dài,0.85
+D13.9,Đầy bụng khó tiêu,0.80
+D13.9,Rối loạn đại tiện,0.75
+D13.9,Khối u vùng bụng,0.70
+D14,Ho khạc kéo dài,0.80
+D14,Khó nuốt vướng họng,0.85
+D14,Khàn tiếng,0.75
+D14,Khó thở khi chèn ép,0.70
+D14.0,Ho khạc kéo dài,0.80
+D14.0,Khó nuốt vướng họng,0.85
+D14.0,Khàn tiếng,0.75
+D14.0,Khó thở khi chèn ép,0.70
+D14.1,Ho khạc kéo dài,0.80
+D14.1,Khó nuốt vướng họng,0.85
+D14.1,Khàn tiếng,0.75
+D14.1,Khó thở khi chèn ép,0.70
+D14.2,Ho khạc kéo dài,0.80
+D14.2,Khó nuốt vướng họng,0.85
+D14.2,Khàn tiếng,0.75
+D14.2,Khó thở khi chèn ép,0.70
+D14.3,Ho khạc kéo dài,0.80
+D14.3,Khó nuốt vướng họng,0.85
+D14.3,Khàn tiếng,0.75
+D14.3,Khó thở khi chèn ép,0.70
+D14.4,Ho khạc kéo dài,0.80
+D14.4,Khó nuốt vướng họng,0.85
+D14.4,Khàn tiếng,0.75
+D14.4,Khó thở khi chèn ép,0.70
+D15,Khối u khu trú tại chỗ,0.90
+D15,Đau tức vùng tổn thương,0.80
+D15,Mệt mỏi suy nhược,0.70
+D15,Sụt cân không rõ nguyên nhân,0.65
+D15.0,Khối u khu trú tại chỗ,0.90
+D15.0,Đau tức vùng tổn thương,0.80
+D15.0,Mệt mỏi suy nhược,0.70
+D15.0,Sụt cân không rõ nguyên nhân,0.65
+D15.1,Khối u khu trú tại chỗ,0.90
+D15.1,Đau tức vùng tổn thương,0.80
+D15.1,Mệt mỏi suy nhược,0.70
+D15.1,Sụt cân không rõ nguyên nhân,0.65
+D15.2,Khối u khu trú tại chỗ,0.90
+D15.2,Đau tức vùng tổn thương,0.80
+D15.2,Mệt mỏi suy nhược,0.70
+D15.2,Sụt cân không rõ nguyên nhân,0.65
+D15.7,Khối u khu trú tại chỗ,0.90
+D15.7,Đau tức vùng tổn thương,0.80
+D15.7,Mệt mỏi suy nhược,0.70
+D15.7,Sụt cân không rõ nguyên nhân,0.65
+D15.9,Khối u khu trú tại chỗ,0.90
+D15.9,Đau tức vùng tổn thương,0.80
+D15.9,Mệt mỏi suy nhược,0.70
+D15.9,Sụt cân không rõ nguyên nhân,0.65
+D16,Đau xương khớp khu trú,0.90
+D16,Sưng phồng vùng xương tổn thương,0.85
+D16,Hạn chế vận động khớp,0.75
+D16,Gãy xương tự phát,0.70
+D16.0,Đau xương khớp khu trú,0.90
+D16.0,Sưng phồng vùng xương tổn thương,0.85
+D16.0,Hạn chế vận động khớp,0.75
+D16.0,Gãy xương tự phát,0.70
+D16.1,Đau xương khớp khu trú,0.90
+D16.1,Sưng phồng vùng xương tổn thương,0.85
+D16.1,Hạn chế vận động khớp,0.75
+D16.1,Gãy xương tự phát,0.70
+D16.2,Đau xương khớp khu trú,0.90
+D16.2,Sưng phồng vùng xương tổn thương,0.85
+D16.2,Hạn chế vận động khớp,0.75
+D16.2,Gãy xương tự phát,0.70
+D16.3,Đau xương khớp khu trú,0.90
+D16.3,Sưng phồng vùng xương tổn thương,0.85
+D16.3,Hạn chế vận động khớp,0.75
+D16.3,Gãy xương tự phát,0.70
+D16.4,Đau xương khớp khu trú,0.90
+D16.4,Sưng phồng vùng xương tổn thương,0.85
+D16.4,Hạn chế vận động khớp,0.75
+D16.4,Gãy xương tự phát,0.70
+D16.5,Đau xương khớp khu trú,0.90
+D16.5,Sưng phồng vùng xương tổn thương,0.85
+D16.5,Hạn chế vận động khớp,0.75
+D16.5,Gãy xương tự phát,0.70
+D16.6,Đau xương khớp khu trú,0.90
+D16.6,Sưng phồng vùng xương tổn thương,0.85
+D16.6,Hạn chế vận động khớp,0.75
+D16.6,Gãy xương tự phát,0.70
+D16.7,Đau xương khớp khu trú,0.90
+D16.7,Sưng phồng vùng xương tổn thương,0.85
+D16.7,Hạn chế vận động khớp,0.75
+D16.7,Gãy xương tự phát,0.70
+D16.8,Đau xương khớp khu trú,0.90
+D16.8,Sưng phồng vùng xương tổn thương,0.85
+D16.8,Hạn chế vận động khớp,0.75
+D16.8,Gãy xương tự phát,0.70
+D16.9,Đau xương khớp khu trú,0.90
+D16.9,Sưng phồng vùng xương tổn thương,0.85
+D16.9,Hạn chế vận động khớp,0.75
+D16.9,Gãy xương tự phát,0.70
+D17,Khối u dưới da mềm mại,0.95
+D17,Khối u di động dễ dàng,0.90
+D17,Không đau đớn khi ấn,0.85
+D17,Khối u phát triển chậm,0.75
+D17.0,Khối u dưới da mềm mại,0.95
+D17.0,Khối u di động dễ dàng,0.90
+D17.0,Không đau đớn khi ấn,0.85
+D17.0,Khối u phát triển chậm,0.75
+D17.1,Khối u dưới da mềm mại,0.95
+D17.1,Khối u di động dễ dàng,0.90
+D17.1,Không đau đớn khi ấn,0.85
+D17.1,Khối u phát triển chậm,0.75
+D17.2,Khối u dưới da mềm mại,0.95
+D17.2,Khối u di động dễ dàng,0.90
+D17.2,Không đau đớn khi ấn,0.85
+D17.2,Khối u phát triển chậm,0.75
+D17.3,Khối u dưới da mềm mại,0.95
+D17.3,Khối u di động dễ dàng,0.90
+D17.3,Không đau đớn khi ấn,0.85
+D17.3,Khối u phát triển chậm,0.75
+D17.7,Khối u dưới da mềm mại,0.95
+D17.7,Khối u di động dễ dàng,0.90
+D17.7,Không đau đớn khi ấn,0.85
+D17.7,Khối u phát triển chậm,0.75
+D19,Khối u khu trú tại chỗ,0.90
+D19,Đau tức vùng tổn thương,0.80
+D19,Mệt mỏi suy nhược,0.70
+D19,Sụt cân không rõ nguyên nhân,0.65
+D69,Chấm nốt xuất huyết dưới da,0.95
+D69,Chảy máu chân răng mũi,0.85
+D69,Xuất huyết tiêu hóa,0.75
+D69,Thời gian chảy máu kéo dài,0.80
+D69.0,Chấm nốt xuất huyết dưới da,0.95
+D69.0,Chảy máu chân răng mũi,0.85
+D69.0,Xuất huyết tiêu hóa,0.75
+D69.0,Thời gian chảy máu kéo dài,0.80
+D69.1,Chấm nốt xuất huyết dưới da,0.95
+D69.1,Chảy máu chân răng mũi,0.85
+D69.1,Xuất huyết tiêu hóa,0.75
+D69.1,Thời gian chảy máu kéo dài,0.80
+D75.3,Chấm nốt xuất huyết dưới da,0.95
+D75.3,Chảy máu chân răng mũi,0.85
+D75.3,Xuất huyết tiêu hóa,0.75
+D75.3,Thời gian chảy máu kéo dài,0.80
+D19.9,Khối u khu trú tại chỗ,0.90
+D19.9,Đau tức vùng tổn thương,0.80
+D19.9,Mệt mỏi suy nhược,0.70
+D19.9,Sụt cân không rõ nguyên nhân,0.65
+D22.8,Tổn thương da đổi màu sắc,0.90
+D22.8,Nốt ruồi tăng kích thước nhanh,0.85
+D22.8,Ngứa rát vùng tổn thương,0.70
+D22.8,Bề mặt tổn thương sần sùi,0.75
+D23.8,Tổn thương da đổi màu sắc,0.90
+D23.8,Nốt ruồi tăng kích thước nhanh,0.85
+D23.8,Ngứa rát vùng tổn thương,0.70
+D23.8,Bề mặt tổn thương sần sùi,0.75
+D24.0,Khối u khu trú tại chỗ,0.90
+D24.0,Đau tức vùng tổn thương,0.80
+D24.0,Mệt mỏi suy nhược,0.70
+D24.0,Sụt cân không rõ nguyên nhân,0.65
+D30.8,Đái máu đại thể,0.90
+D30.8,Đau tức vùng thắt lưng,0.85
+D30.8,Đái buốt đái rắt,0.75
+D30.8,Khối u hố chậu thắt lưng,0.70
+D31.7,Giảm thị lực tiến triển,0.90
+D31.7,Nhìn mờ nhìn đôi,0.85
+D31.7,Đau nhức trong mắt,0.75
+D31.7,Lồi mắt,0.70
+D31.8,Giảm thị lực tiến triển,0.90
+D31.8,Nhìn mờ nhìn đôi,0.85
+D31.8,Đau nhức trong mắt,0.75
+D31.8,Lồi mắt,0.70
+D32.8,Đau đầu tăng dần,0.90
+D32.8,Buồn nôn và nôn,0.80
+D32.8,Co giật,0.85
+D32.8,Yếu liệt vận động,0.75
+D33.8,Đau đầu tăng dần,0.90
+D33.8,Buồn nôn và nôn,0.80
+D33.8,Co giật,0.85
+D33.8,Yếu liệt vận động,0.75
+D35.7*,Rối loạn nhịp tim,0.80
+D35.7*,Thay đổi huyết áp đột ngột,0.85
+D35.7*,Tăng hoặc sụt cân nhanh,0.75
+D35.7*,Mệt mỏi suy nhược,0.70
+D36.8,Khối u khu trú tại chỗ,0.90
+D36.8,Đau tức vùng tổn thương,0.80
+D36.8,Mệt mỏi suy nhược,0.70
+D36.8,Sụt cân không rõ nguyên nhân,0.65
+D37.8,Đau bụng âm ỉ kéo dài,0.85
+D37.8,Đầy bụng khó tiêu,0.80
+D37.8,Rối loạn đại tiện,0.75
+D37.8,Khối u vùng bụng,0.70
+D38.7,Ho khạc kéo dài,0.80
+D38.7,Khó nuốt vướng họng,0.85
+D38.7,Khàn tiếng,0.75
+D38.7,Khó thở khi chèn ép,0.70
+D38.8,Ho khạc kéo dài,0.80
+D38.8,Khó nuốt vướng họng,0.85
+D38.8,Khàn tiếng,0.75
+D38.8,Khó thở khi chèn ép,0.70
+D38.9,Ho khạc kéo dài,0.80
+D38.9,Khó nuốt vướng họng,0.85
+D38.9,Khàn tiếng,0.75
+D38.9,Khó thở khi chèn ép,0.70
+D39.7*,Đau tức vùng hạ vị,0.85
+D39.7*,Rối loạn kinh nguyệt,0.80
+D39.7*,Khối u vùng hố chậu,0.85
+D39.7*,Ra khí hư bất thường,0.70
+D39.8,Đau tức vùng hạ vị,0.85
+D39.8,Rối loạn kinh nguyệt,0.80
+D39.8,Khối u vùng hố chậu,0.85
+D39.8,Ra khí hư bất thường,0.70
+D40.7*,Khó tiểu tiểu rắt,0.85
+D40.7*,Khối sưng đau tinh hoàn,0.80
+D40.7*,Tiểu đêm nhiều lần,0.75
+D40.7*,Giảm ham muốn sinh dục,0.70
+D41.7*,Đái máu đại thể,0.90
+D41.7*,Đau tức vùng thắt lưng,0.85
+D41.7*,Đái buốt đái rắt,0.75
+D41.7*,Khối u hố chậu thắt lưng,0.70
+D41.8,Đái máu đại thể,0.90
+D41.8,Đau tức vùng thắt lưng,0.85
+D41.8,Đái buốt đái rắt,0.75
+D41.8,Khối u hố chậu thắt lưng,0.70
+D42.7,Đau đầu tăng dần,0.90
+D42.7,Buồn nôn và nôn,0.80
+D42.7,Co giật,0.85
+D42.7,Yếu liệt vận động,0.75
+D43.7*,Đau đầu tăng dần,0.90
+D43.7*,Buồn nôn và nôn,0.80
+D43.7*,Co giật,0.85
+D43.7*,Yếu liệt vận động,0.75
+D43.8,Đau đầu tăng dần,0.90
+D43.8,Buồn nôn và nôn,0.80
+D43.8,Co giật,0.85
+D43.8,Yếu liệt vận động,0.75
+D44.7*,Rối loạn nhịp tim,0.80
+D44.7*,Thay đổi huyết áp đột ngột,0.85
+D44.7*,Tăng hoặc sụt cân nhanh,0.75
+D44.7*,Mệt mỏi suy nhược,0.70
+D44.8*,Rối loạn nhịp tim,0.80
+D44.8*,Thay đổi huyết áp đột ngột,0.85
+D44.8*,Tăng hoặc sụt cân nhanh,0.75
+D44.8*,Mệt mỏi suy nhược,0.70
+D48.7*,Khối u khu trú tại chỗ,0.90
+D48.7*,Đau tức vùng tổn thương,0.80
+D48.7*,Mệt mỏi suy nhược,0.70
+D48.7*,Sụt cân không rõ nguyên nhân,0.65
+D48.8,Khối u khu trú tại chỗ,0.90
+D48.8,Đau tức vùng tổn thương,0.80
+D48.8,Mệt mỏi suy nhược,0.70
+D48.8,Sụt cân không rõ nguyên nhân,0.65
+D53.7,Da xanh xao niêm mạc nhợt,0.90
+D53.7,Mệt mỏi hoa mắt chóng mặt,0.85
+D53.7,Móng tay khô dễ gãy,0.75
+D53.7,Nhịp tim nhanh khi gắng sức,0.70
+D55.8*,Da xanh xao niêm mạc nhợt,0.90
+D55.8*,Vàng da vàng mắt,0.85
+D55.8*,Nước tiểu sẫm màu,0.80
+D55.8*,Lách to,0.75
+D56.8*,Da xanh xao niêm mạc nhợt,0.90
+D56.8*,Vàng da vàng mắt,0.85
+D56.8*,Nước tiểu sẫm màu,0.80
+D56.8*,Lách to,0.75
+D57.8*,Da xanh xao niêm mạc nhợt,0.90
+D57.8*,Vàng da vàng mắt,0.85
+D57.8*,Nước tiểu sẫm màu,0.80
+D57.8*,Lách to,0.75
+D58.8*,Da xanh xao niêm mạc nhợt,0.90
+D58.8*,Vàng da vàng mắt,0.85
+D58.8*,Nước tiểu sẫm màu,0.80
+D58.8*,Lách to,0.75
+D59.1*,Da xanh xao niêm mạc nhợt,0.90
+D59.1*,Vàng da vàng mắt,0.85
+D59.1*,Nước tiểu sẫm màu,0.80
+D59.1*,Lách to,0.75
+D61.8*,Da xanh xao niêm mạc nhợt,0.90
+D61.8*,Vàng da vàng mắt,0.85
+D61.8*,Nước tiểu sẫm màu,0.80
+D61.8*,Lách to,0.75
+D63.8,Khối u khu trú tại chỗ,0.90
+D63.8,Đau tức vùng tổn thương,0.80
+D63.8,Mệt mỏi suy nhược,0.70
+D63.8,Sụt cân không rõ nguyên nhân,0.65
+D64.8*,Da xanh xao niêm mạc nhợt,0.90
+D64.8*,Mệt mỏi hoa mắt chóng mặt,0.85
+D64.8*,Móng tay khô dễ gãy,0.75
+D64.8*,Nhịp tim nhanh khi gắng sức,0.70
+D68.8*,Chấm nốt xuất huyết dưới da,0.95
+D68.8*,Chảy máu chân răng mũi,0.85
+D68.8*,Xuất huyết tiêu hóa,0.75
+D68.8*,Thời gian chảy máu kéo dài,0.80
+D69.8*,Chấm nốt xuất huyết dưới da,0.95
+D69.8*,Chảy máu chân răng mũi,0.85
+D69.8*,Xuất huyết tiêu hóa,0.75
+D69.8*,Thời gian chảy máu kéo dài,0.80
+D72.8*,Nhiễm trùng tái phát liên tục,0.90
+D72.8*,Sốt cao dai dẳng,0.80
+D72.8*,Loét niêm mạc miệng,0.75
+D72.8*,Hạch ngoại vi sưng to,0.70
+D73.8,Đau tức hạ sườn trái,0.90
+D73.8,Lách to,0.95
+D73.8,Cảm giác nhanh no khi ăn,0.80
+D73.8,Mệt mỏi hoa mắt chóng mặt,0.70
+D75.8*,Khối u khu trú tại chỗ,0.90
+D75.8*,Đau tức vùng tổn thương,0.80
+D75.8*,Mệt mỏi suy nhược,0.70
+D75.8*,Sụt cân không rõ nguyên nhân,0.65
+D80.8*,Nhiễm trùng tái phát liên tục,0.90
+D80.8*,Sốt cao dai dẳng,0.80
+D80.8*,Loét niêm mạc miệng,0.75
+D80.8*,Hạch ngoại vi sưng to,0.70
+D81.8*,Nhiễm trùng tái phát liên tục,0.90
+D81.8*,Sốt cao dai dẳng,0.80
+D81.8*,Loét niêm mạc miệng,0.75
+D81.8*,Hạch ngoại vi sưng to,0.70
+D82.8*,Nhiễm trùng tái phát liên tục,0.90
+D82.8*,Sốt cao dai dẳng,0.80
+D82.8*,Loét niêm mạc miệng,0.75
+D82.8*,Hạch ngoại vi sưng to,0.70
+D83.8*,Nhiễm trùng tái phát liên tục,0.90
+D83.8*,Sốt cao dai dẳng,0.80
+D83.8*,Loét niêm mạc miệng,0.75
+D83.8*,Hạch ngoại vi sưng to,0.70
+D84.8*,Nhiễm trùng tái phát liên tục,0.90
+D84.8*,Sốt cao dai dẳng,0.80
+D84.8*,Loét niêm mạc miệng,0.75
+D84.8*,Hạch ngoại vi sưng to,0.70
+D86.8*,Nhiễm trùng tái phát liên tục,0.90
+D86.8*,Sốt cao dai dẳng,0.80
+D86.8*,Loét niêm mạc miệng,0.75
+D86.8*,Hạch ngoại vi sưng to,0.70
+D89.8*,Nhiễm trùng tái phát liên tục,0.90
+D89.8*,Sốt cao dai dẳng,0.80
+D89.8*,Loét niêm mạc miệng,0.75
+D89.8*,Hạch ngoại vi sưng to,0.70
