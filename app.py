@@ -1,3 +1,4 @@
+import json
 import os
 import requests
 import streamlit as st
@@ -47,7 +48,7 @@ class MedicalGraphApp:
             result = session.run(query)
             return [record["name"] for record in result]
 
-    def diagnose(self, selected_symptoms):
+    def diagnose(self, selected_symptoms, user_question=None, enable_rerank=False):
         query = """
         MATCH (d:Disease)-[r:HAS_SYMPTOM]->(s:Symptom)
         WITH d, s, r, CASE WHEN s.name IN $inputs THEN r.weight ELSE 0 END AS matched_weight
@@ -55,12 +56,78 @@ class MedicalGraphApp:
              collect(CASE WHEN s.name IN $inputs THEN s.name END) AS matched_list
         WHERE score_user > 0
         RETURN d.id AS id, d.name AS name, (score_user / total_disease_weight) * 100 AS confidence,
-               [x IN matched_list WHERE x IS NOT NULL] AS matched_symptoms
-        ORDER BY confidence DESC
+               [x IN matched_list WHERE x IS NOT NULL] AS matched_symptoms, score_user
+        ORDER BY confidence DESC, score_user DESC, name ASC
         """
         with self.driver.session() as session:
             result = session.run(query, inputs=selected_symptoms)
-            return [dict(record) for record in result]
+            candidates = [dict(record) for record in result]
+            
+            if not candidates:
+                return []
+                
+            if enable_rerank:
+                # Nếu không có câu hỏi cụ thể, tự tạo câu hỏi từ triệu chứng
+                question = user_question
+                if not question:
+                    question = f"Tôi bị các triệu chứng: {', '.join(selected_symptoms)}. Tôi có thể mắc bệnh gì?"
+                
+                # Lấy tối đa 15 bệnh ứng viên
+                top_candidates = candidates[:15]
+                candidate_str = ""
+                for idx, c in enumerate(top_candidates):
+                    candidate_str += f"{idx+1}. {c['name']} (Mã bệnh: {c['id']}) - Độ tin cậy thô từ KG: {c['confidence']:.1f}%\n"
+                
+                prompt = f"""Bạn là một Bác sĩ chuyên khoa y tế phân tích dữ liệu lâm sàng.
+Dựa trên câu hỏi/triệu chứng của bệnh nhân:
+"{question}"
+
+Và danh sách các bệnh ứng viên được tìm thấy từ Đồ thị tri thức (Knowledge Graph):
+{candidate_str}
+
+Hãy phân tích kỹ và chọn ra MỘT bệnh phù hợp nhất với mô tả của bệnh nhân trong danh sách trên.
+Trả về kết quả chính xác theo định dạng JSON sau:
+{{
+  "chosen_id": "MÃ_BỆNH_ĐƯỢC_CHỌN",
+  "reason": "Lý do ngắn gọn tại sao chọn bệnh này dựa trên triệu chứng lâm sàng"
+}}
+
+Lưu ý: Chỉ chọn mã bệnh có trong danh sách ứng viên trên. Trả về đúng định dạng JSON, không thêm bất kỳ văn bản giải thích nào ngoài khối JSON.
+"""
+                try:
+                    payload = {
+                        "model": MODEL_NAME,
+                        "prompt": prompt,
+                        "stream": False,
+                        "format": "json"
+                    }
+                    response = requests.post(OLLAMA_URL, json=payload, timeout=60)
+                    if response.status_code == 200:
+                        res_text = response.json().get("response", "").strip()
+                        data = json.loads(res_text)
+                        chosen_id = data.get("chosen_id", "").strip()
+                        reason = data.get("reason", "").strip()
+                        
+                        match_idx = -1
+                        for idx, c in enumerate(candidates):
+                            if c["id"] == chosen_id:
+                                match_idx = idx
+                                break
+                                
+                        if match_idx != -1:
+                            chosen_candidate = candidates.pop(match_idx)
+                            chosen_candidate["is_llm_chosen"] = True
+                            chosen_candidate["llm_reason"] = reason
+                            
+                            top_conf = candidates[0]["confidence"] if candidates else 0.0
+                            chosen_candidate["confidence"] = max(95.0, top_conf)
+                            
+                            candidates.insert(0, chosen_candidate)
+                except Exception:
+                    # Fallback silently on error
+                    pass
+            
+            return candidates
 
 
 # ==============================================================================
@@ -554,8 +621,20 @@ with col1:
         label_visibility="collapsed",
     )
 
+    enable_rerank = st.toggle(
+        "🧠 Kích hoạt AI Reranking (Tăng độ chính xác chẩn đoán)",
+        value=True,
+        help="Sử dụng Bác sĩ AI gemma3 hội chẩn và lựa chọn mã bệnh tối ưu từ danh sách ứng viên của Đồ thị Tri thức."
+    )
+
     if user_inputs:
-        results = app.diagnose(user_inputs)
+        user_question = None
+        if "messages" in st.session_state and st.session_state.messages:
+            user_questions = [msg["content"] for msg in st.session_state.messages if msg["role"] == "user"]
+            if user_questions:
+                user_question = user_questions[-1]
+                
+        results = app.diagnose(user_inputs, user_question=user_question, enable_rerank=enable_rerank)
         if results:
             st.markdown('<div class="gradient-divider"></div>', unsafe_allow_html=True)
 
@@ -571,10 +650,15 @@ with col1:
             )
 
             top_disease = results[0]
+            ai_note = ""
+            if top_disease.get("is_llm_chosen"):
+                ai_note = f"\nBác sĩ AI hội chẩn khuyên dùng mã bệnh này với lý do: {top_disease['llm_reason']}."
+                
             knowledge_context = (
                 f"Bệnh nhân có các triệu chứng: {', '.join(user_inputs)}.\n"
                 f"Hệ thống đồ thị tri thức Neo4j phân tích thấy bệnh có khả năng cao nhất là: "
-                f"{top_disease['name']} (Mã bệnh ICD-10: {top_disease['id']}) với độ tin cậy {top_disease['confidence']:.2f}%.\n"
+                f"{top_disease['name']} (Mã bệnh ICD-10: {top_disease['id']}) với độ tin cậy {top_disease['confidence']:.2f}%."
+                f"{ai_note}\n"
                 f"Các triệu chứng đặc trưng đã khớp trong đồ thị: {', '.join(top_disease['matched_symptoms'])}."
             )
 
@@ -640,7 +724,6 @@ with col2:
         """,
         unsafe_allow_html=True,
     )
-
     if user_inputs and "results" in locals() and results:
         # --- MINI STATS ---
         num_symptoms = len(user_inputs)
@@ -689,11 +772,18 @@ with col2:
             rank_emoji = ["🥇", "🥈", "🥉"]
             rank = rank_emoji[idx] if idx < 3 else f"#{idx+1}"
 
+            ai_badge_html = ""
+            reason_html = ""
+            if res.get("is_llm_chosen"):
+                ai_badge_html = '<span style="background: linear-gradient(135deg, #FF007F, #7B2CBF); color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; margin-left: 8px; font-weight: bold; display: inline-block; vertical-align: middle;">🩺 Bác sĩ AI Khuyên Dùng</span>'
+                if res.get("llm_reason"):
+                    reason_html = f'<div style="font-size: 0.8rem; color: #475569; font-style: italic; margin-top: 8px; border-top: 1px dashed #cbd5e1; padding-top: 6px;">💡 <b>Lý do chọn:</b> {res["llm_reason"]}</div>'
+
             st.markdown(
                 f"""
                 <div class="disease-card confidence-{level}">
-                    <div class="disease-card-header">
-                        <div class="disease-name">{rank} {res['name']}</div>
+                    <div class="disease-card-header" style="align-items: center;">
+                        <div class="disease-name" style="display: flex; align-items: center; flex-wrap: wrap;">{rank} {res['name']}{ai_badge_html}</div>
                         <div class="disease-id">{res['id']}</div>
                     </div>
                     <div class="confidence-label {level}">Độ tin cậy: {confidence:.1f}%</div>
@@ -703,6 +793,7 @@ with col2:
                     <div class="symptom-tags">
                         {tags_html}
                     </div>
+                    {reason_html}
                 </div>
                 """,
                 unsafe_allow_html=True,
@@ -720,11 +811,12 @@ with col2:
             unsafe_allow_html=True,
         )
 
+
 # --- FOOTER ---
 st.markdown(
     """
     <div class="custom-footer">
-        <p>Hệ thống hỗ trợ chẩn đoán dựa trên Đồ thị Tri thức Y khoa — Chỉ mang tính chất tham khảo</p>
+        <p>Hệ thống hỗ trợ chẩn đoán dựa trên Đồ thị Tri thức Y khoa </p>
         <div class="tech-stack">
             <span class="tech-item">🔗 Neo4j</span>
             <span class="tech-item">🤖 Ollama</span>

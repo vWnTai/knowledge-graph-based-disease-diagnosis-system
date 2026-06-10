@@ -1,0 +1,340 @@
+{
+  "timestamp": "2026-06-10T10:01:52.477966",
+  "model": "gemma3",
+  "total_test_cases": 25,
+  "manual_metrics": {
+    "kg_accuracy": 64.0,
+    "kg_matches": 16,
+    "total_tests": 25,
+    "avg_response_time": 4.322866516113281,
+    "min_response_time": 2.3442487716674805,
+    "max_response_time": 6.510677814483643,
+    "avg_kg_confidence": 99.0,
+    "ai_response_rate": 100.0,
+    "category_breakdown": {
+      "J": {
+        "total": 4,
+        "correct": 3
+      },
+      "I": {
+        "total": 5,
+        "correct": 3
+      },
+      "K": {
+        "total": 6,
+        "correct": 5
+      },
+      "D": {
+        "total": 7,
+        "correct": 4
+      },
+      "X": {
+        "total": 3,
+        "correct": 1
+      }
+    }
+  },
+  "ragas_metrics": "{'faithfulness': 0.5243, 'answer_relevancy': nan, 'llm_context_precision_without_reference': 0.9565, 'context_recall': 0.8636}",
+  "details": [
+    {
+      "test_id": "TC01",
+      "category": "J",
+      "question": "Tôi bị sốt cao đột ngột, đau mỏi cơ khớp, đau đầu, hắt hơi sổ mũi và ho khan. Tôi có thể bị bệnh gì?",
+      "expected_disease": "J09",
+      "kg_top_disease": "J09",
+      "kg_confidence": 95.0,
+      "kg_match": true,
+      "ai_response_time": 4.835106134414673,
+      "ai_answer_preview": "Chào bạn, với các triệu chứng bạn mô tả như sốt cao đột ngột, đau mỏi cơ khớp, đau đầu, ho khan và hắt hơi sổ mũi, đồ thị tri thức y khoa cho thấy khả năng cao nhất bạn bị Cúm do virus (ICD-10: J09) v",
+      "ground_truth_preview": "Dựa trên các triệu chứng sốt cao đột ngột, đau mỏi cơ khớp, đau đầu, hắt hơi sổ mũi và ho khan, bệnh nhân có khả năng cao bị Cúm (mã ICD-10: J09). Đây là bệnh nhiễm trùng đường hô hấp do virus cúm gây"
+    },
+    {
+      "test_id": "TC02",
+      "category": "J",
+      "question": "Bệnh nhân ho kèm đờm đục, sốt cao run rẩy, đau ngực khi hít thở sâu và khó thở. Chẩn đoán có thể là gì?",
+      "expected_disease": "J18.0",
+      "kg_top_disease": "J18.0",
+      "kg_confidence": 95.0,
+      "kg_match": true,
+      "ai_response_time": 5.385487794876099,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn mô tả (ho kèm đờm đục, sốt cao run rẩy, đau ngực khi hít thở sâu, khó thở), khả năng cao nhất là **Viêm phế quản phổi (ICD-10: J18.0) với độ tin cậy 95.00%**.\n\nT",
+      "ground_truth_preview": "Với triệu chứng ho kèm đờm đục, sốt cao run rẩy, đau ngực khi hít thở sâu và khó thở, bệnh nhân có khả năng cao bị Viêm phế quản phổi (mã ICD-10: J18.0). Đây là nhiễm trùng cấp tính tại nhu mô phổi cầ"
+    },
+    {
+      "test_id": "TC03",
+      "category": "J",
+      "question": "Tôi bị khó thở tiến triển, ho khan kéo dài, giảm khả năng gắng sức và đau tức ngực. Bệnh này là gì?",
+      "expected_disease": "J61",
+      "kg_top_disease": "J61",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 4.705475807189941,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn mô tả và phân tích của hệ thống, khả năng cao nhất là bạn đang bị **Bệnh bụi phổi amian và các sợi khóang (J61)**. Các triệu chứng này cũng có thể liên quan đến ",
+      "ground_truth_preview": "Các triệu chứng khó thở tiến triển, ho khan kéo dài, giảm khả năng gắng sức và đau tức ngực gợi ý Bệnh bụi phổi amian và các sợi khoáng khác (mã ICD-10: J61). Đây là bệnh phổi nghề nghiệp mãn tính do "
+    },
+    {
+      "test_id": "TC04",
+      "category": "I",
+      "question": "Bệnh nhân đau đầu dữ dội đột ngột, nôn vọt, cứng gáy và rối loạn ý thức. Đây có phải xuất huyết não không?",
+      "expected_disease": "I60",
+      "kg_top_disease": "I60",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 4.72795033454895,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn mô tả như đau đầu dữ dội đột ngột, nôn vọt, cứng gáy và rối loạn ý thức, kết quả phân tích đồ thị tri thức cho thấy khả năng cao nhất là xuất huyết dưới màng nhệ",
+      "ground_truth_preview": "Các triệu chứng đau đầu dữ dội đột ngột, nôn vọt, cứng gáy và rối loạn ý thức là dấu hiệu điển hình của Xuất huyết dưới màng nhện (mã ICD-10: I60). Đây là tình trạng cấp cứu y khoa nguy hiểm."
+    },
+    {
+      "test_id": "TC05",
+      "category": "I",
+      "question": "Bệnh nhân bị liệt nửa người, méo miệng, nói khó và rối loạn ý thức đột ngột. Chẩn đoán gì?",
+      "expected_disease": "I64",
+      "kg_top_disease": "I64",
+      "kg_confidence": 95.0,
+      "kg_match": true,
+      "ai_response_time": 3.8298001289367676,
+      "ai_answer_preview": "Dựa trên thông tin hiện có, khả năng cao nhất là đột quỵ do xuất huyết hoặc nhồi máu não (Tai biến mạch máu não - ICD-10: I64) với độ tin cậy 95.00%. Các triệu chứng liệt nửa người và méo miệng phù hợ",
+      "ground_truth_preview": "Triệu chứng liệt nửa người, méo miệng, nói khó và rối loạn ý thức đột ngột là biểu hiện kinh điển của Đột quỵ / Tai biến mạch máu não (mã ICD-10: I64). Bệnh nhân cần được đưa đi cấp cứu ngay lập tức."
+    },
+    {
+      "test_id": "TC06",
+      "category": "I",
+      "question": "Tôi bị nhức đầu vùng chẩm, hoa mắt chóng mặt, mặt đỏ bừng và ù tai. Có phải tăng huyết áp không?",
+      "expected_disease": "I10",
+      "kg_top_disease": "I10",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 4.650358200073242,
+      "ai_answer_preview": "Chào bạn, các triệu chứng bạn đang gặp phải (nhức đầu vùng chẩm, hoa mắt chóng mặt, mặt đỏ bừng, ù tai) rất phù hợp với bệnh tăng huyết áp. Theo phân tích dữ liệu, khả năng cao nhất bạn đang bị tăng h",
+      "ground_truth_preview": "Các triệu chứng nhức đầu vùng chẩm, hoa mắt chóng mặt, mặt đỏ bừng và ù tai gợi ý Bệnh lý tăng huyết áp (mã ICD-10: I10). Bệnh nhân cần đo huyết áp thường xuyên và theo dõi điều trị."
+    },
+    {
+      "test_id": "TC07",
+      "category": "K",
+      "question": "Bệnh nhân đau hố chậu phải dữ dội, sốt nhẹ và buồn nôn. Có phải viêm ruột thừa không?",
+      "expected_disease": "K35",
+      "kg_top_disease": "K35",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 3.641618013381958,
+      "ai_answer_preview": "Chào bạn, triệu chứng đau hố chậu phải dữ dội kèm sốt nhẹ và buồn nôn của bạn rất phù hợp với tình trạng viêm ruột thừa cấp. Dựa trên phân tích hiện tại, bệnh viêm ruột thừa cấp (mã ICD-10 K35) là khả",
+      "ground_truth_preview": "Triệu chứng đau hố chậu phải dữ dội, sốt nhẹ và buồn nôn là biểu hiện điển hình của Viêm ruột thừa cấp (mã ICD-10: K35). Đây là cấp cứu ngoại khoa."
+    },
+    {
+      "test_id": "TC08",
+      "category": "K",
+      "question": "Tôi bị đau hạ sườn phải, vàng da và buồn nôn. Bệnh gì vậy?",
+      "expected_disease": "K82.0",
+      "kg_top_disease": "K82.0",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 3.918273448944092,
+      "ai_answer_preview": "Chào bạn, với các triệu chứng đau hạ sườn phải, vàng da và buồn nôn của bạn, hệ thống phân tích cho thấy khả năng cao nhất là tắc túi mật. Tuy nhiên, cũng cần xem xét các khả năng như sỏi mật hoặc sỏi",
+      "ground_truth_preview": "Với triệu chứng đau hạ sườn phải, vàng da và buồn nôn, bệnh nhân có khả năng bị bệnh lý tắc túi mật (mã ICD-10: K82.0), thường xuất phát từ biến chứng đường mật hoặc sỏi đường mật gây tắc nghẽn."
+    },
+    {
+      "test_id": "TC09",
+      "category": "K",
+      "question": "Bệnh nhân đau thượng vị, khó tiêu và buồn nôn. Chẩn đoán là gì?",
+      "expected_disease": "K29.1",
+      "kg_top_disease": "K29.1",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 2.7635931968688965,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng đau thượng vị, khó tiêu và buồn nôn của bạn, kết quả phân tích đồ thị tri thức y khoa cho thấy khả năng cao nhất là **Viêm dạ dày cấp (ICD-10: K29.1)** với độ tin cậ",
+      "ground_truth_preview": "Các triệu chứng đau thượng vị, khó tiêu và buồn nôn gợi ý tình trạng Viêm dạ dày cấp khác (mã ICD-10: K29.1). Bệnh nhân cần điều chỉnh chế độ ăn và dùng thuốc theo chỉ định."
+    },
+    {
+      "test_id": "TC10",
+      "category": "K",
+      "question": "Tôi bị tiêu phân có máu, đau bụng và tiêu chảy kéo dài. Bệnh gì?",
+      "expected_disease": "K51",
+      "kg_top_disease": "K51",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 3.8668875694274902,
+      "ai_answer_preview": "Chào bạn, với các triệu chứng bạn đang gặp phải như tiêu phân có máu, đau bụng và tiêu chảy kéo dài, hệ thống phân tích cho thấy bạn có khả năng cao bị **Viêm loét đại tràng chảy máu** (ICD-10: K51). ",
+      "ground_truth_preview": "Triệu chứng tiêu phân có máu, đau bụng và tiêu chảy kéo dài gợi ý Viêm loét đại tràng chảy máu (mã ICD-10: K51). Đây là bệnh viêm ruột mãn tính tự miễn."
+    },
+    {
+      "test_id": "TC11",
+      "category": "K",
+      "question": "Bệnh nhân đau hạ sườn phải, sốt cao và buồn nôn. Có phải viêm túi mật?",
+      "expected_disease": "K80.0",
+      "kg_top_disease": "K80.0",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 4.874361276626587,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng đau hạ sườn phải, sốt cao và buồn nôn của bạn, kết quả phân tích đồ thị tri thức y khoa cho thấy khả năng cao nhất là bạn bị sỏi túi mật có viêm túi mật cấp (mã bệnh",
+      "ground_truth_preview": "Với triệu chứng đau hạ sườn phải, sốt cao và buồn nôn, bệnh nhân có khả năng bị Sỏi túi mật có viêm túi mật cấp (mã ICD-10: K80.0). Đây là bệnh cảnh cấp cứu cần nhập viện dùng kháng sinh hoặc phẫu thu"
+    },
+    {
+      "test_id": "TC12",
+      "category": "D",
+      "question": "Tôi bị da xanh xao, mệt mỏi hoa mắt chóng mặt, móng tay khô dễ gãy và nhịp tim nhanh khi gắng sức. Thiếu máu phải không?",
+      "expected_disease": "D50.1",
+      "kg_top_disease": "D50.1",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 4.551231622695923,
+      "ai_answer_preview": "Chào bạn, các triệu chứng bạn mô tả như da xanh xao, mệt mỏi hoa mắt chóng mặt, móng tay khô dễ gãy và nhịp tim nhanh khi gắng sức gợi ý khả năng thiếu máu rất cao. Dựa trên phân tích đồ thị tri thức,",
+      "ground_truth_preview": "Các triệu chứng da xanh xao, mệt mỏi kèm biến đổi móng tay gợi ý hội chứng liên quan đến thiếu sắt dai dẳng, tương ứng mã Chứng khó nuốt do thiếu sắt (mã ICD-10: D50.1) trong hệ thống."
+    },
+    {
+      "test_id": "TC13",
+      "category": "D",
+      "question": "Bệnh nhân da xanh xao, vàng da vàng mắt, nước tiểu sẫm màu và lách to. Đây là bệnh gì?",
+      "expected_disease": "D56",
+      "kg_top_disease": "D56.0",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 3.577575206756592,
+      "ai_answer_preview": "Chào bạn, với các triệu chứng bạn mô tả như da xanh xao, vàng da vàng mắt, nước tiểu sẫm màu và lách to, kết quả phân tích đồ thị tri thức y khoa cho thấy khả năng cao nhất là **bệnh Thalassemia (Alph",
+      "ground_truth_preview": "Các triệu chứng da xanh xao, vàng da vàng mắt, nước tiểu sẫm màu và lách to gợi ý bệnh Thalassaemia (mã ICD-10: D56). Đây là bệnh thiếu máu tan máu di truyền."
+    },
+    {
+      "test_id": "TC14",
+      "category": "D",
+      "question": "Tôi bị chấm nốt xuất huyết dưới da, chảy máu chân răng mũi, xuất huyết tiêu hóa và thời gian chảy máu kéo dài. Bệnh gì?",
+      "expected_disease": "D69",
+      "kg_top_disease": "D69",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 5.234863519668579,
+      "ai_answer_preview": "Chào bạn, với các triệu chứng bạn mô tả như chấm nốt xuất huyết dưới da, chảy máu chân răng mũi, xuất huyết tiêu hóa và thời gian chảy máu kéo dài, hệ thống phân tích cho thấy khả năng cao nhất là bạn",
+      "ground_truth_preview": "Triệu chứng chấm nốt xuất huyết dưới da, chảy máu chân răng mũi, xuất huyết tiêu hóa gợi ý Ban xuất huyết (mã ICD-10: D69)."
+    },
+    {
+      "test_id": "TC15",
+      "category": "D",
+      "question": "Bệnh nhân bị nhiễm trùng tái phát liên tục, sốt cao dai dẳng, loét niêm mạc miệng và hạch ngoại vi sưng to. Chẩn đoán gì?",
+      "expected_disease": "D84",
+      "kg_top_disease": "D86",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 2.6117751598358154,
+      "ai_answer_preview": "Dựa trên các triệu chứng của bệnh nhân, chẩn đoán có khả năng cao nhất là **Bệnh sarcoid (Mã bệnh ICD-10: D86)**. Đồ thị tri thức y khoa cho thấy khả năng này đạt 100%.",
+      "ground_truth_preview": "Triệu chứng nhiễm trùng tái phát liên tục, sốt cao dai dẳng, loét niêm mạc miệng và hạch ngoại vi sưng to gợi ý Suy giảm miễn dịch (mã ICD-10: D84)."
+    },
+    {
+      "test_id": "TC16",
+      "category": "D",
+      "question": "Bệnh nhân nữ bị ra khí hư bất bất thường, chảy máu âm đạo bất thường, đau vùng hạ vị và kinh nguyệt không đều. Có phải ung thư cổ tử cung?",
+      "expected_disease": "D06",
+      "kg_top_disease": "D06",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 4.574699878692627,
+      "ai_answer_preview": "Chào bạn, với các triệu chứng bạn đang gặp phải như ra khí hư bất thường, chảy máu âm đạo bất thường, đau vùng hạ vị và kinh nguyệt không đều, hệ thống phân tích đồ thị tri thức y khoa cho thấy khả nă",
+      "ground_truth_preview": "Triệu chứng ra khí hư bất thường, chảy máu âm đạo bất thường gợi ý Ung thư biểu mô tại chỗ cổ tử cung (mã ICD-10: D06)."
+    },
+    {
+      "test_id": "TC17",
+      "category": "X",
+      "question": "Bệnh nhân bị buồn nôn, nôn mửa, chóng mặt, đau bụng và co giật sau khi bị nhện cắn. Bệnh gì?",
+      "expected_disease": "X21",
+      "kg_top_disease": "X41",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 4.977052450180054,
+      "ai_answer_preview": "Chào bạn,\n\nDựa trên các triệu chứng bạn mô tả (buồn nôn, nôn mửa, chóng mặt, đau bụng, co giật) và tiền sử bạn kể là bị nhện cắn, khả năng cao nhất là bạn đã bị ngộ độc do phơi nhiễm thuốc chống động ",
+      "ground_truth_preview": "Triệu chứng buồn nôn, nôn mửa, chóng mặt, đau bụng và co giật sau khi bị nhện cắn phù hợp với Ngộ độc do tiếp xúc nhện độc (mã ICD-10: X21)."
+    },
+    {
+      "test_id": "TC18",
+      "category": "X",
+      "question": "Bệnh nhân buồn nôn, nôn mửa, chóng mặt, đau bụng và co giật sau khi uống rượu quá nhiều. Đây là gì?",
+      "expected_disease": "X45",
+      "kg_top_disease": "X45",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 5.103322267532349,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn mô tả (buồn nôn, nôn mửa, chóng mặt, đau bụng, co giật) và tiền sử uống rượu quá nhiều, khả năng cao nhất là bạn đang bị **tai nạn ngộ độc và phơi nhiễm rượu** (",
+      "ground_truth_preview": "Triệu chứng buồn nôn, nôn mửa, chóng mặt, đau bụng và co giật sau khi uống rượu nhiều phù hợp với Ngộ độc rượu (mã ICD-10: X45)."
+    },
+    {
+      "test_id": "TC19",
+      "category": "I",
+      "question": "Bệnh nhân đau di chuyển các khớp lớn, có tiếng thổi ở tim, hồi hộp đánh trống ngực và khó thở nhẹ khi gắng sức. Bệnh gì?",
+      "expected_disease": "I08.9",
+      "kg_top_disease": "I23.6",
+      "kg_confidence": 95.0,
+      "kg_match": false,
+      "ai_response_time": 3.8610334396362305,
+      "ai_answer_preview": "Chào bệnh nhân, dựa trên các triệu chứng của bác, kết quả phân tích đồ thị tri thức y khoa cho thấy khả năng cao nhất là bệnh nhân đang bị **biến chứng huyết khối trong buồng tim, tiểu nhĩ và tâm thất",
+      "ground_truth_preview": "Triệu chứng đau di chuyển các khớp lớn, tiếng thổi ở tim gợi ý Bệnh lý nhiều van tim (mã ICD-10: I08.9), thường là hậu quả của thấp tim."
+    },
+    {
+      "test_id": "TC20",
+      "category": "J",
+      "question": "Trẻ em bị sốt nhẹ, chảy mũi, đau họng và ho. Có phải viêm đường hô hấp trên?",
+      "expected_disease": "J06.9",
+      "kg_top_disease": "K35",
+      "kg_confidence": 95.0,
+      "kg_match": false,
+      "ai_response_time": 5.099666595458984,
+      "ai_answer_preview": "Chào bạn,\n\nDựa trên các triệu chứng bạn đang gặp phải (sốt nhẹ, chảy mũi, đau họng, ho), hệ thống phân tích hiện tại cho thấy viêm ruột thừa cấp có khả năng cao nhất (95.00%) và phù hợp với các triệu ",
+      "ground_truth_preview": "Triệu chứng sốt nhẹ, chảy mũi, đau họng và ho ở trẻ em gợi ý Nhiễm khuẩn hô hấp trên cấp tính (mã ICD-10: J06.9)."
+    },
+    {
+      "test_id": "TC21",
+      "category": "D",
+      "question": "Bệnh nhân có tổn thương da đổi màu sắc, nốt ruồi tăng kích thước nhanh, ngứa rát vùng tổn thương và bề mặt sần sùi. Bệnh gì?",
+      "expected_disease": "D04",
+      "kg_top_disease": "D86.3",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 2.3442487716674805,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn mô tả và phân tích của hệ thống, bệnh có khả năng cao nhất là **bệnh sarcoid da** (ICD-10: D86.3).",
+      "ground_truth_preview": "Các triệu chứng tổn thương da đổi màu sắc, nốt ruồi tăng kích thước nhanh gợi ý Ung thư biểu mô tại chỗ của da (mã ICD-10: D04)."
+    },
+    {
+      "test_id": "TC22",
+      "category": "I",
+      "question": "Người bệnh bị mệt mỏi, hồi hộp đánh trống ngực, khó thở nhẹ khi gắng sức. Bệnh gì?",
+      "expected_disease": "I50",
+      "kg_top_disease": "I23.6",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 5.01354718208313,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn trình bày (mệt mỏi, hồi hộp đánh trống ngực, khó thở nhẹ khi gắng sức), kết quả phân tích đồ thị tri thức y khoa cho thấy bệnh có khả năng cao nhất là **biến chứ",
+      "ground_truth_preview": "Triệu chứng mệt mỏi, hồi hộp đánh trống ngực và khó thở khi gắng sức gợi ý Suy tim (mã ICD-10: I50)."
+    },
+    {
+      "test_id": "TC23",
+      "category": "K",
+      "question": "Tôi ăn xong thường bị ợ nóng, đau rát sau xương ức, và có cảm giác trào ngược. Bệnh gì?",
+      "expected_disease": "K21",
+      "kg_top_disease": "K29.1",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 3.987377405166626,
+      "ai_answer_preview": "Chào bạn, các triệu chứng bạn mô tả như ợ nóng, đau rát sau xương ức, và cảm giác trào ngược rất phù hợp với tình trạng viêm dạ dày cấp. Dựa trên thông tin hiện tại, khả năng cao nhất là bạn bị viêm d",
+      "ground_truth_preview": "Triệu chứng ợ nóng, đau rát sau xương ức và trào ngược sau ăn gợi ý Bệnh trào ngược dạ dày thực quản (mã ICD-10: K21)."
+    },
+    {
+      "test_id": "TC24",
+      "category": "D",
+      "question": "Bệnh nhân da xanh xao, vàng da vàng mắt, nước tiểu sẫm màu và lách to. Có phải suy tủy xương?",
+      "expected_disease": "D56.0",
+      "kg_top_disease": "D56.0",
+      "kg_confidence": 100.0,
+      "kg_match": true,
+      "ai_response_time": 6.510677814483643,
+      "ai_answer_preview": "Chào bạn, dựa trên những triệu chứng bạn mô tả (da xanh xao, vàng da vàng mắt, nước tiểu sẫm màu, lách to) và phân tích đồ thị tri thức, khả năng cao nhất là bạn bị Thalassemia (mã ICD-10 D56.0, D56.1",
+      "ground_truth_preview": "Các triệu chứng da xanh xao, vàng da vàng mắt, nước tiểu sẫm màu và lách to chỉ rõ bệnh lý tan máu bẩm sinh di truyền Alpha thalassaemia (mã ICD-10: D56.0)."
+    },
+    {
+      "test_id": "TC25",
+      "category": "X",
+      "question": "Sau khi hít phải khí lạ, bệnh nhân buồn nôn, nôn mửa, chóng mặt, đau bụng và co giật. Chẩn đoán gì?",
+      "expected_disease": "X47",
+      "kg_top_disease": "X48",
+      "kg_confidence": 100.0,
+      "kg_match": false,
+      "ai_response_time": 3.4256796836853027,
+      "ai_answer_preview": "Chào bạn, dựa trên các triệu chứng bạn mô tả và phân tích của hệ thống đồ thị tri thức, khả năng cao nhất là bạn đã bị ngộ độc do phơi nhiễm chất diệt cỏ độc hại (ICD-10: X48). Chúng tôi sẽ tiến hành ",
+      "ground_truth_preview": "Triệu chứng buồn nôn, nôn mửa, chóng mặt, đau bụng và co giật sau khi hít phải khí lạ phù hợp với Ngộ độc khí (mã ICD-10: X47)."
+    }
+  ]
+}
