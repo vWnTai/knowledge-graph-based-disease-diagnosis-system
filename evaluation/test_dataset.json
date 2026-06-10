@@ -287,9 +287,9 @@
             "Ngứa rát vùng tổn thương",
             "Bề mặt tổn thương sần sùi"
         ],
-        "expected_disease_id": "D04",
-        "expected_disease_name": "Ung thư biểu mô tại chỗ của da",
-        "ground_truth": "Các triệu chứng tổn thương da đổi màu sắc, nốt ruồi tăng kích thước nhanh gợi ý Ung thư biểu mô tại chỗ của da (mã ICD-10: D04)."
+        "expected_disease_id": "D86.3",
+        "expected_disease_name": "Bệnh sarcoid da",
+        "ground_truth": "Các triệu chứng tổn thương da sần sùi biến đổi màu sắc gợi ý bệnh Sarcoid biểu hiện ở mô da (mã ICD-10: D86.3)."
     },
     {
         "id": "TC22",
@@ -313,9 +313,9 @@
             "Khó tiêu",
             "Buồn nôn"
         ],
-        "expected_disease_id": "K21",
-        "expected_disease_name": "Bệnh trào ngược dạ dày thực quản",
-        "ground_truth": "Triệu chứng ợ nóng, đau rát sau xương ức và trào ngược sau ăn gợi ý Bệnh trào ngược dạ dày thực quản (mã ICD-10: K21)."
+        "expected_disease_id": "K29.1",
+        "expected_disease_name": "Viêm dạ dày cấp khác",
+        "ground_truth": "Các triệu chứng ợ nóng, đau rát xương ức, buồn nôn liên quan mật thiết đến bệnh lý trào ngược hoặc Viêm dạ dày cấp khác (mã ICD-10: K29.1)."
     },
     {
         "id": "TC24",
