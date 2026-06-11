@@ -587,7 +587,6 @@ st.markdown(
             <span class="header-badge">🔗 Neo4j Knowledge Graph</span>
             <span class="header-badge">🤖 Ollama AI (gemma3)</span>
             <span class="header-badge">📊 ICD-10 Standard</span>
-            <span class="header-badge">🇻🇳 Tiếng Việt</span>
         </div>
     </div>
     """,
@@ -622,7 +621,7 @@ with col1:
     )
 
     enable_rerank = st.toggle(
-        "🧠 Kích hoạt AI Reranking (Tăng độ chính xác chẩn đoán)",
+        "🧠Reranking (Tăng độ chính xác chẩn đoán)",
         value=True,
         help="Sử dụng Bác sĩ AI gemma3 hội chẩn và lựa chọn mã bệnh tối ưu từ danh sách ứng viên của Đồ thị Tri thức."
     )
