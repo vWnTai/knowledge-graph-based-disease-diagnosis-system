@@ -146,10 +146,9 @@ Trong đó:
 │              │    APPLICATION LAYER       │                      │
 │  ┌───────────▼────────────────────────────▼─────────────────┐   │
 │  │  MedicalGraphApp (Python Class)                           │   │
-│  │  ┌──────────────────┐  ┌──────────────────────────────┐  │   │
-│  │  │ get_all_symptoms │  │ diagnose(selected_symptoms)  │  │   │
-│  │  │ (Cypher Query)   │  │ (Weighted Matching)          │  │   │
-│  │  └────────┬─────────┘  └──────────────┬───────────────┘  │   │
+│  │  │ get_all_symptoms │  │ diagnose(symptoms, question, │  │   │
+│  │  │ (Cypher Query)   │  │   enable_rerank=True)        │  │   │
+│  │  └────────┬─────────┘  └──────────────┬───────────────┘  │  │   │
 │  │           │                           │                   │   │
 │  │  ┌────────▼───────────────────────────▼───────────────┐  │   │
 │  │  │  ask_local_ai(prompt_context) — RAG Function       │  │   │
@@ -204,6 +203,10 @@ project/
 ├── quan_he_trieu_chung_J.csv   # 1.033 quan hệ nhóm J
 ├── quan_he_trieu_chung_K.csv   # 1.014 quan hệ nhóm K
 ├── quan_he_trieu_chung_X.csv   # 401 quan hệ nhóm X
+├── evaluation/                 # Thư mục đánh giá hệ thống bằng RAGAS
+│   ├── test_dataset.json       # Tập dữ liệu kiểm thử y khoa (25 test cases)
+│   ├── evaluate_ragas.py       # Script chạy đánh giá RAGAS & Reranking (100% local)
+│   └── results/                # Nơi lưu báo cáo đánh giá tự sinh (.json và .md)
 ├── .env                        # Biến môi trường (NEO4J_PASSWORD)
 └── .gitignore                  # Bỏ qua .env
 ```
@@ -486,6 +489,21 @@ timeout = 180            # 3 phút timeout cho mỗi request
 stream = False           # Chờ response hoàn chỉnh
 ```
 
+### 8.6 Thuật Toán AI Reranking (Hội Chẩn Lai Ghép)
+
+Để tối ưu hóa bước lựa chọn chẩn đoán cuối cùng khi có nhiều bệnh lý trùng bộ triệu chứng lâm sàng, hệ thống tích hợp thêm cơ chế AI Reranking.
+
+**Quy trình 2 bước chẩn đoán lai ghép:**
+1. **Lọc thô (Cypher Query)**: Hệ thống query Neo4j để lấy danh sách Top 15 ứng viên có điểm số tiệm cận nhau nhất.
+2. **Sắp xếp tinh (LLM Rerank)**: Trích xuất nội dung triệu chứng của 15 ứng viên này, tạo prompt yêu cầu Bác sĩ AI `gemma3` đọc câu hỏi tự nhiên của người bệnh, lập luận chẩn đoán phân biệt và phản hồi kết quả dưới định dạng JSON:
+   ```json
+   {
+     "chosen_id": "MÃ_ICD10_TỐT_NHẤT",
+     "reason": "Lý do chẩn đoán lâm sàng chi tiết"
+   }
+   ```
+Phương pháp này giúp nâng cao độ chính xác chẩn đoán thực tế (Exact Match) lên **76%** và bổ sung khả năng giải thích y khoa (Explainable AI) cho người dùng cuối.
+
 ---
 
 ## 9. GIAO DIỆN NGƯỜI DÙNG
@@ -497,8 +515,8 @@ Giao diện được xây dựng trên **Streamlit** với thiết kế premium:
 | Thành phần | Mô tả |
 |-----------|-------|
 | **Header** | Gradient animated (xanh → tím) với badges công nghệ |
-| **Cột trái** | Chọn triệu chứng (multiselect) + Chat AI |
-| **Cột phải** | Kết quả chẩn đoán (disease cards) + Mini Stats |
+| **Cột trái** | Chọn triệu chứng (multiselect) + Toggle AI Reranking + Chat AI |
+| **Cột phải** | Kết quả chẩn đoán (disease cards + AI Badge) + Mini Stats |
 | **Footer** | Tech stack badges |
 
 ### 9.2 Design System
@@ -519,10 +537,11 @@ Giao diện được xây dựng trên **Streamlit** với thiết kế premium:
 │  🩺 Header Gradient + Shimmer Animation          │
 │  [Neo4j] [Ollama AI] [ICD-10] [Tiếng Việt]      │
 ├──────────────────────┬──────────────────────────┤
-│                      │  Stats: [3] [15] [82%]   │
+│                      │  Stats: [3] [15] [95%]   │
 │  📋 Triệu Chứng     │──────────────────────────│
-│  [Multiselect...]    │  🥇 Bệnh A ▓▓▓▓▓░ 82%  │
-│                      │     Tags: symptom...      │
+│  [Multiselect...]    │  🥇 Bệnh A [Bác sĩ AI] 95%│
+│  [Toggle Rerank]     │     Tags: symptom...      │
+│                      │     💡 Lý do chọn: ...    │
 │  💬 Chat AI          │                          │
 │  ┌────────────────┐  │  🥈 Bệnh B ▓▓▓░░░ 45%  │
 │  │ User bubble  ► │  │     Tags: symptom...      │
